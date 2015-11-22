@@ -1,0 +1,28 @@
+# Default for ALL environments is to read from the ENV
+# Please set DATABASE_URL in your .env file and use dotenv or dotenv-rails
+# More info: https://github.com/WeConnect/wiki/wiki/Database-Configuration-for-ActiveRecord-based-Apps
+
+shared: &shared
+  adapter: postgresql
+  encoding: unicode
+
+development:
+  <<: *shared
+  url: <%= ENV["DATABASE_URL"] || "postgres:///karlandkeke-dev" %>
+
+test:
+  <<: *shared
+  url: <%= ENV["DATABASE_URL"] || "postgres:///karlandkeke-test" %>
+
+# Set connection pooling params as per: https://devcenter.heroku.com/articles/concurrency-and-database-connections#threaded-servers
+# Also see: https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server#on-worker-boot
+heroku: &heroku
+  <<: *shared
+  url: <%= ENV["DATABASE_URL"] %>
+  pool: <%= ENV["DB_POOL"] || ENV['MAX_THREADS'] || 5 %>
+
+staging:
+  <<: *heroku
+
+production:
+  <<: *heroku
