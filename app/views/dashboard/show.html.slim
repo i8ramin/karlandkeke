@@ -5,7 +5,6 @@
         h1#logo
           img[class="avatar" src=@user[:info][:image]]
         h2
-          | Welcome
-          = @user[:info][:name]
+          | Welcome #{@user[:info][:name]}
         pre
           = JSON.pretty_generate(@user[:info])
