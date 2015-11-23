@@ -34,14 +34,9 @@ source 'https://rubygems.org' do
   gem 'omniauth', '~> 1.2'
   gem 'omniauth-auth0', '~> 1.1'
 
-  # Use ActiveModel has_secure_password
-  # gem 'bcrypt', '~> 3.1.7'
-
-  # Use Unicorn as the app server
-  # gem 'unicorn'
-
-  # Use Capistrano for deployment
-  # gem 'capistrano-rails', group: :development
+  # https://devcenter.heroku.com/articles/memcachier#rails-3-and-4
+  gem 'dalli'
+  gem 'memcachier'
 
   group :production, :staging do
     gem 'rails_12factor'
