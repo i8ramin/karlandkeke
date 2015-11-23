@@ -8,5 +8,5 @@ html
   body
     = yield
 
-    = yield :cdn_code
+    = javascript_include_tag '//cdn.auth0.com/js/lock-7.0.min.js'
     = javascript_include_tag 'application'
