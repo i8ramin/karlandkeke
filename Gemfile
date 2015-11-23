@@ -1,12 +1,16 @@
 ruby '2.1.6'
 
 source 'https://rubygems.org' do
+  gem 'bundler', '>= 1.8.4'
 
   # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
   gem 'rails', '4.2.5'
 
   gem 'pg'
   gem 'puma'
+
+  # https://github.com/slim-template/slim-rails
+  gem 'slim-rails'
 
   # Use SCSS for stylesheets
   gem 'sass-rails', '~> 5.0'
@@ -23,6 +27,8 @@ source 'https://rubygems.org' do
   # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
   # gem 'jbuilder', '~> 2.0'
 
+  # https://github.com/intridea/hashie
+  gem 'hashie'
 
   # https://auth0.com/docs/server-platforms/rails
   gem 'omniauth', '~> 1.2'
@@ -60,5 +66,10 @@ source 'https://rubygems.org' do
     # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
     gem 'spring'
   end
+end
 
+
+source 'https://rails-assets.org' do
+  # https://rails-assets.org/
+  gem 'rails-assets-foundation-sites'
 end

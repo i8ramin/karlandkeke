@@ -1,0 +1,11 @@
+.home
+  .container
+    .login-page.clearfix
+      .logged-in-box.auth0-box.logged-in
+        h1#logo
+          img[class="avatar" src=@user[:info][:image]]
+        h2
+          | Welcome
+          = @user[:info][:name]
+        pre
+          = JSON.pretty_generate(@user[:info])

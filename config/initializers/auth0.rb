@@ -1,9 +1,9 @@
 Rails.application.config.middleware.use OmniAuth::Builder do
   provider(
     :auth0,
-    ENV['YOUR_CLIENT_ID'],
-    ENV['YOUR_CLIENT_SECRET'],
-    ENV['YOUR_NAMESPACE'],
+    ENV['AUTH0_CLIENT_ID'],
+    ENV['AUTH0_CLIENT_SECRET'],
+    ENV['AUTH0_DOMAIN'],
     callback_path: "/auth/auth0/callback"
   )
 end
