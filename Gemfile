@@ -9,6 +9,8 @@ source 'https://rubygems.org' do
   gem 'pg'
   gem 'puma'
 
+  gem 'mongoid', '~> 5.0.0'
+
   # https://github.com/slim-template/slim-rails
   gem 'slim-rails'
 
