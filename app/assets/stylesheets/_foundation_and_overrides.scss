@@ -1,4 +1,11 @@
 @charset 'utf-8';
+
+$primary-color: #644098;
+$secondary-color: #7a5eaa;
+
+$topbar-background: $primary-color;
+$topbar-link-color: white;
+
 @import 'foundation-sites/foundation';
 
 @include foundation-global-styles;
@@ -9,15 +16,15 @@
 // @include foundation-visibility-classes;
 // @include foundation-float-classes;
 // @include foundation-accordion;
-// @include foundation-accordion-menu;
+@include foundation-accordion-menu;
 // @include foundation-badge;
 // @include foundation-breadcrumbs;
 // @include foundation-button-group;
 // @include foundation-callout;
 // @include foundation-close-button;
-// @include foundation-drilldown-menu;
-// @include foundation-dropdown;
-// @include foundation-dropdown-menu;
+@include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
 // @include foundation-flex-video;
 @include foundation-label;
 @include foundation-media-object;

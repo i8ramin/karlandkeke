@@ -6,7 +6,33 @@ html
     = stylesheet_link_tag 'application', media: 'all'
     = csrf_meta_tags
   body
+    .top-bar
+      .top-bar-left
+        ul.dropdown.menu[data-dropdown-menu]
+          li.menu-text Site Title
+          li.has-submenu
+            a href="#"  One
+            ul.submenu.menu.vertical[data-submenu]
+              li
+                a href="#"  One
+              li
+                a href="#"  Two
+              li
+                a href="#"  Three
+          li
+            a href="#"  Two
+          li
+            a href="#"  Three
+      .top-bar-right
+        ul.menu
+          li
+            input placeholder="Search" type="search" /
+          li
+            button.button type="button"  Search
+
+
+
     = yield
 
-    = javascript_include_tag '//cdn.auth0.com/js/lock-7.0.min.js'
+    /= javascript_include_tag '//cdn.auth0.com/js/lock-7.0.min.js'
     = javascript_include_tag 'application'
