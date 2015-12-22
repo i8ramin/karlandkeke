@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "AHI EZER PRESCHOOL ",
+  "permitHolder": "AHI EZER YESHIVA",
+  "address": "2433 OCEAN PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11235",
+  "phone": "718-648-6100",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "72",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

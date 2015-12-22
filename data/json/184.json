@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "ASPIRA OF NEW YORK @  IS 131 ",
+  "permitHolder": "ASPIRA OF NEW YORK @  IS 131",
+  "address": "885 BOLTON AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10473",
+  "phone": "718-991-7490",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 12/09/2014",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

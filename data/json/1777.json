@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LITTLE MEADOWS EARLY CHILDHOOD CENTER ",
+  "permitHolder": "LITTLE MEADOWS EARLY CHILDHOOD CENTER",
+  "address": "67-25 188 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11365",
+  "phone": "718-454-6460",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7200",
+  "permitExpirationDate": " 01/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "105",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "29        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NUESTROS NINOS CDS @WILLIAMSBURG DAY CARE ",
+  "permitHolder": "NUESTROS NINOS DAY CARE CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t243 SOUTH 2ND STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-218-8275",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7562",
+  "permitExpirationDate": " 12/15/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "10        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 6,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to provide necessary medical care for ill/injured child Child care service failed to notify parents of an incidence of illness/injury requiring medical attention involving their child",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4729 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service failed to produce written safety plan with emergency procedures Safety plan not maintained or incomplete",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4729 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service fails to provide and/or maintain child illness/injury record",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4729 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

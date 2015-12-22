@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "KANE STREET KIDS ",
+  "permitHolder": "CONGREGATION BAITH ISRAEL ANSHEI EMES",
+  "address": "236 KANE STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11231",
+  "phone": "718-875-1550",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7598",
+  "permitExpirationDate": " 02/03/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "9         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

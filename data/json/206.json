@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "AVE MARIA CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ROMAN CATHOLIC ARCHDIOCESE",
+  "address": "158-20 101 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11414",
+  "phone": "718-848-7440",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

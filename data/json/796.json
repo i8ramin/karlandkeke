@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CHILDREN'S KINGDOM INC. -  I/T ",
+  "permitHolder": "CHILDREN'S KINGDOM INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t3317 AVENUE I      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11210",
+  "phone": "718-677-1315",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7629",
+  "permitExpirationDate": " 06/09/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "9         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/24/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "HOLY CHILD JESUS CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "111-02 86 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11418",
+  "phone": "718-849-3988",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "type": "Camp",
+  "centerName": "MING YUAN SUMMER PROGRAM ",
+  "permitHolder": "ROMAN CATHOLIC CHAPEL OF OUR LADY OF CHINA",
+  "address": "544-548 60 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11220",
+  "phone": "718-439-3656",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "33957",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "150",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "13109d2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits from areas with 15 or more persons or not readily visible are not identified by lighted signs and directional signs as required",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815a15",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Building and other structures observed unsafe inadequate in size and unclean do not have watertight roof and sides",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815d1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care activity results in exposure to lime ashes or other nuisance materials",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "15303",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MARCKTELL MANAGEMENT CORP ",
+  "permitHolder": "MARCKTELL MANAGEMENT CORP",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\tBLDG #350 JFK AIRPORT      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11430",
+  "phone": "718-553-5437",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7175",
+  "permitExpirationDate": " 10/17/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "80",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

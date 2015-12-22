@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "INNER FORCE TOTS  INFANT/TODDLER ",
+  "permitHolder": "INNER FORCE TOTS, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1181  EAST NEW YORK AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11212",
+  "phone": "718-221-1246",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8140",
+  "permitExpirationDate": " 03/22/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "69",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 f",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

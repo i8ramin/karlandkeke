@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "F.V.M. BETHEL DAY CARE (P.S.) ",
+  "permitHolder": "FERNANDE VALME MINISTRIES, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1120 FLATBUSH AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11226",
+  "phone": "718-284-1809",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "7221",
+  "permitExpirationDate": " 10/03/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "19",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4743 e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide soap and/or paper towels or sanitary dryers accessible to children at hand wash sinks",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4743 g",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HCHC INC A.C.E. PRESCHOOL ",
+  "permitHolder": "HCHC INC.",
+  "address": "1441 BROADWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-443-3423",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7894",
+  "permitExpirationDate": " 07/12/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "78",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

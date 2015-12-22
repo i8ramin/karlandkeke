@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "HARLEM PEACEMAKERS @ P.S. 149 ",
+  "permitHolder": "HARLEM CHILDREN'S ZONE, INC.",
+  "address": "41 WEST 117 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10026",
+  "phone": "646-672-9020",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "33837",
+  "permitExpirationDate": " 09/15/2013",
+  "ageRange": "",
+  "maximumCapacity": "140",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/07/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

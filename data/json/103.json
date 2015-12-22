@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ALEPH BET  TODDLER CARE INC ",
+  "permitHolder": "ALEPH BET CORP",
+  "address": "84-75 DANIELS STREET",
+  "borough": "QUEENS",
+  "zipCode": "11435",
+  "phone": "917-209-5595",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "96457",
+  "permitExpirationDate": " 09/04/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

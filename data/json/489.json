@@ -1,0 +1,67 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT HORIZONS CHILDREN'S CENTERS, LLC ",
+  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTERS, LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t435 EAST 70 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10021",
+  "phone": "212-746-6543",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7267",
+  "permitExpirationDate": " 10/08/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 7,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4741 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Designated outdoor play area was observed without fencing of appropriate height at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4747 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Outdoor play area was observed not maintained nor free of hazards or nuisances at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4747 e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8119 ab",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

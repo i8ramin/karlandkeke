@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NEW LIFE DAY CARE CENTER, INC. ",
+  "permitHolder": "NEW LIFE DAY CARE CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t406-408 GROVE STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11237",
+  "phone": "718-417-4214",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5349",
+  "permitExpirationDate": " 04/25/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "108",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/31/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4743 e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

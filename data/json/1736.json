@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LIL INVENTOR'S CHILD CARE ",
+  "permitHolder": "2260 LITTLE SHEPHERDS LLC",
+  "address": "75 WEST 190  STREET",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-975-7225",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "96397",
+  "permitExpirationDate": " 09/04/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "52",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

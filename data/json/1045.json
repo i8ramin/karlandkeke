@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ELADIA'S KIDS ",
+  "permitHolder": "ELADIA'S KIDS PARENT LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t175 VANDERBILT AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11205",
+  "phone": "718-522-6361",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "43777",
+  "permitExpirationDate": " 06/14/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "35",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 d",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

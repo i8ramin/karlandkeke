@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CONGREGATION BETH ELOHIM  ECC ",
+  "permitHolder": "CONGREGATION BETH ELOHIM",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t274 GARFIELD PLACE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-499-6208",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4892",
+  "permitExpirationDate": " 09/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "200",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "15 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

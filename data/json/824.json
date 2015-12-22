@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHUNG PAK DAY CARE CENTER ",
+  "permitHolder": "CHINESE-AMERICAN PLANNING COUNCIL INC.",
+  "address": "125 WALKER STREET, 3RD FLOOR",
+  "borough": "MANHATTAN",
+  "zipCode": "10013",
+  "phone": "212-343-9630",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5910",
+  "permitExpirationDate": " 08/09/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "75",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4741 i",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service observed utilizing chairs and other equipment not of suitable size for children in attendance on day of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4755 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

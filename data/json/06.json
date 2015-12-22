@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "196 ALBANY AVENUE DAY CARE CENTER, INC. ",
+  "permitHolder": "196 ALBANY AVENUE DAY CARE CENTER, INC.",
+  "address": "196 ALBANY AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-773-0071",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4003",
+  "permitExpirationDate": " 06/19/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "170",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/11/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4713 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 d",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MACHZIK BRACHA LEARNING CENTER ",
+  "permitHolder": "MACHZIK BRACHA",
+  "address": "1177 48 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-972-7310",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5723",
+  "permitExpirationDate": " 05/25/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "100",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - No inspection conducted\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

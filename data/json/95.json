@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "AL-ISHAN PRESCHOOL ",
+  "permitHolder": "AL-IHSAN ACADEMY",
+  "address": "130-20 ROCKAWAY BLVD.",
+  "borough": "QUEENS",
+  "zipCode": "11420",
+  "phone": "917-744-7467",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

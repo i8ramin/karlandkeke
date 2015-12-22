@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "PHIPPS COMMUNITY DEVELOPMENT CORPORATION ",
+  "permitHolder": "PHIPPS COMMUNITY DEVELOPMENT CORPORATION",
+  "address": "4011 MONTICELLO AVE.",
+  "borough": "BRONX",
+  "zipCode": "10466",
+  "phone": "917-806-9096",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/22/2017",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

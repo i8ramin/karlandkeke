@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "CAMP CHAVIVOS ",
+  "permitHolder": "CAMP CHAVIVOS",
+  "address": "215 AVENUE F",
+  "borough": "BROOKLYN",
+  "zipCode": "11218",
+  "phone": "718-435-1015",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "42345",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "28",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Food storage preparation and service not conducted in accordance with Article 81 of the Health Code",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4815f2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "309",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109f",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

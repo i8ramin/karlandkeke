@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GARDEN SCHOOL ",
+  "permitHolder": "GARDEN SCHOOL",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t33-16 79 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-335-6363",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4625",
+  "permitExpirationDate": " 02/04/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "95",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MEI  WAH  PRE-SCHOOL ",
+  "permitHolder": "CHINESE METHODIST CENTER CORP.",
+  "address": "69 MADISON STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-349-2703",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4583",
+  "permitExpirationDate": " 09/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "36",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

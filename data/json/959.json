@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "DAYTON TOWERS WEST PLAYGROUP ",
+  "permitHolder": "DAYTON TOWERS WEST PLAYGROUP",
+  "address": "105-00 SHORE FRONT PARKWAY",
+  "borough": "QUEENS",
+  "zipCode": "11694",
+  "phone": "718-474-8274",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5302",
+  "permitExpirationDate": " 09/08/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "28        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

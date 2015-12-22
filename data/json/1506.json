@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "IP KIDS MONTESSORI ",
+  "permitHolder": "BLUE SKY DAY CARE, INC.",
+  "address": "850 50TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11220",
+  "phone": "718-633-1178",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8113",
+  "permitExpirationDate": " 12/29/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "49",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/16/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

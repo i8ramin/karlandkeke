@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ADEF INTERNATIONAL INC. ",
+  "permitHolder": "ADEF INTERNATIONAL INC.",
+  "address": "9303 AVENUE L",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-484-3623",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "94497",
+  "permitExpirationDate": " 08/06/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "27",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

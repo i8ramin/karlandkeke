@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ARCHDIOCESE-VILLA MARIA ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-VILLA MARIA ACADEMY",
+  "address": "3335 COUNTRY CLUB ROAD",
+  "borough": "BRONX",
+  "zipCode": "10465",
+  "phone": "718-824-3260",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

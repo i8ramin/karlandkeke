@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GARDEN SCHOOL ",
+  "permitHolder": "GARDEN SCHOOL",
+  "address": "78-02 NORTHERN BLVD.",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-335-6363",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "73140",
+  "permitExpirationDate": " 09/09/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "138",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

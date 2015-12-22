@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LITTLE ONES LLC ",
+  "permitHolder": "LITTLE ONES LLC",
+  "address": "4-74 48 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11109",
+  "phone": "718-392-1254",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7424",
+  "permitExpirationDate": " 09/15/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "45",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "10        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NICHOLAS CARDELL DAY CARE CENTER ",
+  "permitHolder": "NICHOLAS CARDELL DAY CARE CENTER, INC.",
+  "address": "84 VERMILYEA AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10034",
+  "phone": "212-942-6757",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "3081",
+  "permitExpirationDate": " 03/10/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      01/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4735 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8121 a",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

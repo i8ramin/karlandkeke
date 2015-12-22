@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT HORIZONS CHILDREN'S CENTERS LLC ",
+  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTERS LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t129 HUDSON STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10013",
+  "phone": "212-226-7465",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "92657",
+  "permitExpirationDate": " 07/10/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

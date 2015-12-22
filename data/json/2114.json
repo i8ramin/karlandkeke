@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NY KIDS CLUB ",
+  "permitHolder": "PNW ENTERPRISES, LLC",
+  "address": "125 5TH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11217",
+  "phone": "718-857-0700",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "92258",
+  "permitExpirationDate": " 07/07/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "78",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

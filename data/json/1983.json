@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MOSHOLU MONTEFIORE COMMUNITY CENTER -VAN CORTLANDT CHILD DEVELOPMENT CENTER ",
+  "permitHolder": "MOSHOLU MONTEFIORE COMMUNITY CENTER INC",
+  "address": "3880 SEDGWICK AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-543-0231",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "51457",
+  "permitExpirationDate": " 09/03/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "129",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "NEW ADVENTURES DAY CAMP ",
+  "permitHolder": "WORKING PARENTS ALLIANCE, INC.",
+  "address": "3301 QUENTIN ROAD",
+  "borough": "BROOKLYN",
+  "zipCode": "11234",
+  "phone": "718-965-4757",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34254",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+        "Category ": "                                                                                      ",
+        "Code Sub-Section": " ",
+        " Status": ""
+      },
+      {
+        "Violation Summary ": "Swimming activities not supervised by Aquatics Director Aquatics Director not present during all swimming and water activity",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4813a2i",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Buddy system or other accountability system has not been established System does not contains camper identity ability record of coming and goings buddy assignments  15 minute checks",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4813a3iv",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

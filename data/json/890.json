@@ -1,0 +1,55 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "CONGREGATION MACHNA SHALVA ",
+  "permitHolder": "CONGREGATION MACHNA SHALVA",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1363 50TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-436-2122",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4313",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to submit Notice of Filing",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4305",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4317 a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "513",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4311 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

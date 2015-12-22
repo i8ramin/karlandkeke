@@ -1,0 +1,97 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "HANSON PLACE SDA DAY CARE ",
+  "permitHolder": "HANSON PLACE SEVENTH DAY ADVENTIST ELEMENTARY SCHOOL",
+  "address": "38 LAFAYETTE AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11217",
+  "phone": "718-625-3030",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/20/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 12,
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "13105a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4313",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Food service observed in operation without required permit",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "8105 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4317 a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "513",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "8115 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4311 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received periodic medical examination",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4317 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8109 i",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling observed constructed of inappropriate materials Walls and ceilings not maintained at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8121 f",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

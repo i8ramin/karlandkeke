@@ -1,0 +1,31 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BMCC EARLY CHILDHOOD CENTER,INC. ",
+  "permitHolder": "BMCC EARLY CHILDHOOD CENTER,INC",
+  "address": "199 CHAMBERS STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10013",
+  "phone": "212-220-8251",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7168",
+  "permitExpirationDate": " 09/01/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "92",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

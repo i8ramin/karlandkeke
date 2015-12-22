@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ADELPHI ACADEMY ",
+  "permitHolder": "ADELPHI ACADEMY,INC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t8515 RIDGE BLVD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11209",
+  "phone": "718-238-3308",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "4666",
+  "permitExpirationDate": " 06/11/2010",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "15",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

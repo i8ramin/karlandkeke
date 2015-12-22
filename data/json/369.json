@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "BKLYN CHINESE AMERICAN ASSOC. PS 160 ",
+  "permitHolder": "BKLYN CHINESE AMERICAN ASSOC. PS 160",
+  "address": "5105 FT. HAMILTON PKWY",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-438-0008",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 06/12/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/20/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

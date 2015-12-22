@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HUDSON'S HOUSE ",
+  "permitHolder": "THE OLIVE TREEHOUSE GROUP, LLC",
+  "address": "413 SMITH   STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11231",
+  "phone": "718-522-2301",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7985",
+  "permitExpirationDate": " 01/09/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "15",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

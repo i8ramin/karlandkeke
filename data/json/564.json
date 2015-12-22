@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BROOKLYN BRIDGE CHILD DEVELOPMENT CENTER MANAGED BY BRIGHT HORIZONS ",
+  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTERS LLC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t101 WILLOUGHBY STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "718-855-9725",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "35398",
+  "permitExpirationDate": " 03/13/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "48",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+        "Category ": "                                                                                      ",
+        "Code Sub-Section": " ",
+        " Status": ""
+      },
+      {
+        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4743 e",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

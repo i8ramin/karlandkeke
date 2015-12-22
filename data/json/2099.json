@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "NORTHSIDE CENTER FOR CHILD DEVELOPMENT-BRONX EARLY HEADSTART ",
+  "permitHolder": "NORTHSIDE CENTER FOR CHILD DEVELOPMENT, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t609 EAST 156TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10455",
+  "phone": "347-926-5400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "39857",
+  "permitExpirationDate": " 05/14/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737 b1",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

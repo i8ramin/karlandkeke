@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "F.L.E.C. VACATION BIBLE CAMP ",
+  "permitHolder": "F.L.E.C. VACATION BIBLE CAMP",
+  "address": "3154 FISH AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10469",
+  "phone": "718-653-1593",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "33846",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "315",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

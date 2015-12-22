@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MINIVENTURES OF NY, INC. ",
+  "permitHolder": "MINIVENTURES OF NY,INC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t67-52 79TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11379",
+  "phone": "718-326-4500",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8335",
+  "permitExpirationDate": " 10/06/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "37",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/11/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Vehicles used to transport children observed not in compliance with NYS Dept of Transportation requirements",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4765 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

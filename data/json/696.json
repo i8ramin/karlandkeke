@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "CATH. CHARITIES COMM. SERVS. OF NY / ALIANZA DIVISION ",
+  "permitHolder": "CATH. CHARITIES COMM. SERVS. OF NY / ALIANZA DIVISION",
+  "address": "515 W. 182ND ST",
+  "borough": "MANHATTAN",
+  "zipCode": "10033",
+  "phone": "212-795-1490",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 05/25/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/01/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

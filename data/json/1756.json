@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LITTLE DREAMERS ",
+  "permitHolder": "N&B FRIENDSHIP INC.",
+  "address": "4317 AVENUE D",
+  "borough": "BROOKLYN",
+  "zipCode": "11203",
+  "phone": "718-451-2566",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7028",
+  "permitExpirationDate": " 06/04/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4723 e",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

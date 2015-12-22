@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "C.P.C. JACOB RIIS CHILD CARE CENTER ",
+  "permitHolder": "CHINESE-AMERICAN PLANNING COUNCIL, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t108 AVENUE D      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10009",
+  "phone": "212-533-9138",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "6418",
+  "permitExpirationDate": " 07/01/2015",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service fails to provide and/or maintain child illness/injury record",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4729 d",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "PARK EAST PRESCHOOL ",
+  "permitHolder": "SAM AND ESTHER MINSKOFF CULTURAL CENTER PARK EAST DAY SCHOOL INC.",
+  "address": "164 EAST 68 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10065",
+  "phone": "212-737-6900",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "124",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "13105a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Food service observed in operation without required permit",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "8105 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "13109d2",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "309",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8109 i",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "KESSAR MALKA ",
+  "permitHolder": "KESSAR MALKA",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1019 46 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-854-7778",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

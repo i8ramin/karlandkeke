@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NORTHSIDE THERAPEUTIC  E C C ",
+  "permitHolder": "NORTHSIDE THERAPEUTIC PRESCHOOL",
+  "address": "1301 5 AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-426-3400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7876",
+  "permitExpirationDate": " 04/11/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "68",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "7 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Education Director or equivalent was not present at the time of inspection to supervise children/staff in an infant/toddler program",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4723 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

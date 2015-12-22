@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "FUTURE MINDS ",
+  "permitHolder": "FUTURE MINDS MENTORING INC",
+  "address": "74-30 COMMONWEALTH BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11426",
+  "phone": "",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

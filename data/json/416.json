@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "BOYS & GIRLS HARBOR TEEN PROGRAM ",
+  "permitHolder": "BOYS AND GIRLS HARBOR, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1 EAST 104 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-427-2244",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34231",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/16/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Health Director not qualified MD Nurse Health Director not on site at time of operation",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4825b1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4817b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

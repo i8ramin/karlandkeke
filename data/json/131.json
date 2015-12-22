@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ALL SEASONS A & C DAY CARE, LLC ",
+  "permitHolder": "ALL SEASONS A & C DAY CARE, LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t700 ROSEWOOD STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-231-7200",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "24119",
+  "permitExpirationDate": " 10/05/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "24",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

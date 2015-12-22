@@ -1,0 +1,67 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "NURSERY NORTH TOO ",
+  "permitHolder": "NURSERY NORTH TOO INFANT DAYCARE CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t249 WEST 144TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10030",
+  "phone": "212-926-9700",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8146",
+  "permitExpirationDate": " 04/27/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "46",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 7,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Permittee/applicant failed to submit a written safety plan written safety plan is not approved staff not traineddrilled in plan training drills not evaluated plan not maintained and updated",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4711 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Appropriate child activity not provided by child care service unacceptable forms of discipline utilized by staff of child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4767 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737 b1",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

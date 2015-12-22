@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BLAKE-MILFORD DAY CARE CENTER-I/T ",
+  "permitHolder": "CHRISTINA DAY CARE INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t334 MILFORD STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11208",
+  "phone": "718-277-2003",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7709",
+  "permitExpirationDate": " 01/22/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "14",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "8         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BUCKLE MY SHOE NURSERY SCHOOL ",
+  "permitHolder": "TRIBECA NURSERY CENTER INC",
+  "address": "230 WEST 13 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10011",
+  "phone": "212-807-0518",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4842",
+  "permitExpirationDate": " 01/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "26        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

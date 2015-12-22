@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GOODARD RIVERSIDE COMMUNITY CENTER ",
+  "permitHolder": "GODDARD-RIVERSIDE COMMUNITY CENTER",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t128 WEST 83RD STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10024",
+  "phone": "212-877-7780",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8272",
+  "permitExpirationDate": " 03/03/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "55",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

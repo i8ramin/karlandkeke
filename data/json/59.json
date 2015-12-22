@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ACADEMY OF EXCELLENCE BELL PARK ",
+  "permitHolder": "BELL PARK CHILD CARE CENTER, INC.",
+  "address": "178-36 WEXFORD  TERRACE",
+  "borough": "QUEENS",
+  "zipCode": "11432",
+  "phone": "718-523-4400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "39657",
+  "permitExpirationDate": " 05/09/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "103",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

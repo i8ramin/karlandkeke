@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MORNINGSIDE DAY CARE ",
+  "permitHolder": "EPISCOPAL SOCIAL SERVICES",
+  "address": "2967 FREDERICK DOUGLAS BLVD",
+  "borough": "MANHATTAN",
+  "zipCode": "10039",
+  "phone": "212-281-4142",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6678",
+  "permitExpirationDate": " 04/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "55",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4741 f",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "MOTHER LOVE INC. ",
+  "permitHolder": "MOTHER LOVE INC.",
+  "address": "1681 49 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-853-1408",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7014",
+  "permitExpirationDate": " 03/14/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "66",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4741 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Restriction on milk service not complied with at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4761 b3",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

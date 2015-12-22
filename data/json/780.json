@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "CHILDREN'S BIG APPLE ",
+  "permitHolder": "CHILDREN'S BIG APPLE",
+  "address": "37-03 94 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-565-5311",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4952",
+  "permitExpirationDate": " 05/02/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "100",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

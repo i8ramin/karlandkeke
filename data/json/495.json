@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT STAR STRATFORD INC. ",
+  "permitHolder": "BRIGHT STAR STRATFORD INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1217 STRATFORD  AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10472",
+  "phone": "718-842-9361",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "58657",
+  "permitExpirationDate": " 03/13/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "46",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

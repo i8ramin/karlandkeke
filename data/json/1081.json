@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "EWING SUMMER ARTS ",
+  "permitHolder": "EAGLE'S WING YOUTH INTERVENTION INC",
+  "address": "160 BEACH 29 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11691",
+  "phone": "718-600-2018",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "92858",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "20",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

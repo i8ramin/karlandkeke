@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "82ND STREET ACADEMICS ",
+  "permitHolder": "82ND STREET  ACADEMICS INC",
+  "address": "81-10 35 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-457-0429",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7006",
+  "permitExpirationDate": " 08/11/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "157",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

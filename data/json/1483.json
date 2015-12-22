@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "IMMANUEL GENIUS SUMMER CAMP ",
+  "permitHolder": "IMMANUEL NY MISSION, INC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t253-01 NORTHERN BLVD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11362",
+  "phone": "718-877-3001",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "89397",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "35",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

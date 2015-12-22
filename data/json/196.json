@@ -1,0 +1,55 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ASTOR SERVICES FOR CHILDREN AND FAMILIES / LAWRENCE F. HICKEY CENTER ",
+  "permitHolder": "ASTOR SERVICES FOR CHILDREN AND FAMILIES",
+  "address": "4010 DYRE AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10466",
+  "phone": "718-515-3000",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5927",
+  "permitExpirationDate": " 07/18/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4719 i",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737 b1",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

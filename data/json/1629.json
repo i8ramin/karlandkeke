@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "KIDS CIRCLE DAY CARE ",
+  "permitHolder": "KIDS CIRCLE DAY CARE INC",
+  "address": "164-04 GOETHALS AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11432",
+  "phone": "718-380-1280",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6955",
+  "permitExpirationDate": " 12/28/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "14        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/26/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

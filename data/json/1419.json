@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HOLY MOUNTAIN CHILD WORLD INC ",
+  "permitHolder": "HOLY MOUNTAIN CHILD WORLD INC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t29-49 137 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11354",
+  "phone": "718-762-2700",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6468",
+  "permitExpirationDate": " 09/09/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "46",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "19        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

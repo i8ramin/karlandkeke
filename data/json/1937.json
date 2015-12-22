@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MILLER DAY CARE CENTER,  INC. ",
+  "permitHolder": "MILLER DAY CARE CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t225 WEST 99 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10025",
+  "phone": "212-222-6602",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6420",
+  "permitExpirationDate": " 06/18/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "18",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "19        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8121 a",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

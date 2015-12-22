@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CLEVELAND EDUCATIONAL SERVICES ",
+  "permitHolder": "CLEVELAND EDUCATIONAL SERVICES",
+  "address": "2-08 ASTORIA BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "917-832-6506",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "73098",
+  "permitExpirationDate": " 09/08/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "59",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

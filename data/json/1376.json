@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HEBREW ACADEMY FOR SPECIAL CHILDREN ",
+  "permitHolder": "HEBREW ACADEMY FOR SPECIAL CHILDREN",
+  "address": "1311 55 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-851-6100",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5584",
+  "permitExpirationDate": " 02/16/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "66",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/16/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

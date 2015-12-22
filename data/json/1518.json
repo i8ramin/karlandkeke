@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "IVY DAY SCHOOL ",
+  "permitHolder": "IVY ASSOCIATES USA, INC.",
+  "address": "65-01 KISSENA BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11367",
+  "phone": "718-460-6366",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7217",
+  "permitExpirationDate": " 02/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "114",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "8115 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

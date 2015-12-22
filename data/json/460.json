@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRIGHT HORIZONS AT BARCLAYS CAPITAL ",
+  "permitHolder": "CHILDREN FIRST, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t745 SEVENTH AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10019",
+  "phone": "212-526-1500",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "7206",
+  "permitExpirationDate": " 02/21/2015",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "12",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "FORT GREENE CHILDREN'S & FAMILY SERVICES HEAD START ",
+  "permitHolder": "NORTHSIDE CENTER FOR CHILD DEVELOPMENT, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t44-60 ROCKWELL PLACE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11217",
+  "phone": "347-505-5501",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "28497",
+  "permitExpirationDate": " 12/04/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "120",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

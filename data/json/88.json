@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "AHABA VE AHAVE SCHOOL BASED CHILD CARE ",
+  "permitHolder": "AHABA VE AHAVA YESHIVA",
+  "address": "2001 EAST 7 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-376-3140",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

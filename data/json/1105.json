@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "FED KIDS CHILD CARE CENTER, MANAGED BY BRIGHT HORIZONS ",
+  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTER, LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t26 FEDERAL PLAZA      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10007",
+  "phone": "212-264-4277",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8332",
+  "permitExpirationDate": " 11/01/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "58",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

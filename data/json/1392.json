@@ -1,0 +1,55 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HENRY STREET SETTLEMENT ",
+  "permitHolder": "HENRY STREET SETTLEMENT INC.",
+  "address": "110 BARUCH DRIVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-614-0537",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5636",
+  "permitExpirationDate": " 08/16/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "23",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "26        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+        "Category ": "                                                                                      ",
+        "Code Sub-Section": " ",
+        " Status": ""
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8119 ab",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Appropriate methods to maintain food prep area free of pests was not provided or maintained at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8123 c",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

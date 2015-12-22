@@ -1,0 +1,67 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "METROPOLITAN MONTESSORI PRESCHOOL ",
+  "permitHolder": "METROPOLITAN MONTESSORI SCHOOL",
+  "address": "325 WEST 85 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10024",
+  "phone": "212-579-5525",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "6918",
+  "permitExpirationDate": " 07/19/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "78",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 7,
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "13105a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "13105a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "13109d2",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "309",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4323",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109f",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

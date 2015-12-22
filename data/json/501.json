@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRIGHTSIDE ACADEMY ",
+  "permitHolder": "BRIGHTSIDE ACADEMY, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t50-56 BELMONT AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11212",
+  "phone": "718-346-1064",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "25617",
+  "permitExpirationDate": " 10/18/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "42",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 f",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

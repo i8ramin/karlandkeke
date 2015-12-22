@@ -1,0 +1,24 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BAIS YAKOV OF ADAS YEREIM ",
+  "permitHolder": "BAIS YAKOV OF ADAS YEREIM",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t563 BEDFORD AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-302-7500",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "GRACE LUTHERAN DAY SCHOOL PRESCHOOL ",
+  "permitHolder": "GRACE LUTHERAN DAY SCHOOL",
+  "address": "100-05 SPRINGFIELD BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11429",
+  "phone": "718-465-1010",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

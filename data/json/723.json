@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CENTER OF EXCELLENCE SPRINGFIELD GARDENS, INC. INFANT-TODDLER ",
+  "permitHolder": "CENTER OF EXCELLENCE SPRINGFIELD GARDENS, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t127-08 MERRICK BLVD.      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-276-8200",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8345",
+  "permitExpirationDate": " 06/02/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

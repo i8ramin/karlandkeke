@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "EAST 54TH STREET RECREATION CENTER ",
+  "permitHolder": "NYC DEPARTMENT OF PARKS AND RECREATION",
+  "address": "348 EAST 54TH ST.",
+  "borough": "MANHATTAN",
+  "zipCode": "10022",
+  "phone": "212-754-5411",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "33913",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "60",
+  "siteType": "Municipal Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Camp drinking water facilities not in compliance with Article 141 of Health Code Common drinking utensils observed Drinking fountains not in compliance with NYS Fire Prevention and Building Code",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4819e",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp Director fails to conduct inspection of fire protection facilities and equipment",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4815a1",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

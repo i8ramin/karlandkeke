@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "BANANA KELLY SUMMER CAMP ",
+  "permitHolder": "BANANA KELLY COMMUNTIY IMPROVEMENT ASSOCIATION INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t830 FOX STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10459",
+  "phone": "718-328-1064",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "47438",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "22",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Clearances for Director of Camp not submitted to DOHMH or on File with DOHMH",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4809b3",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or  motor vehicle insurance",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4821a",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

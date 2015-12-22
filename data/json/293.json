@@ -1,0 +1,61 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BEDFORD HARRISON DAY CARE CENTER ",
+  "permitHolder": "UNITED TALMUDICAL ACADEMY",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t60 HARRISON AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-963-9260",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/11/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 6,
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4313",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Food service observed in operation without required permit",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "8105 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4307",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program fails to provide complete written safety plan at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4321 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4317 d",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Attendance records not provided or maintained by school-based child care program at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4319 a",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

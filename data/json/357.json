@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "BILDERSEE BEACON @ I.S. 68 ",
+  "permitHolder": "SESAME FLYERS INTERNATIONAL, INC.",
+  "address": "956 EAST 82 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-241-3847",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "33783",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "COMMITTEE FOR EARLY CHILDHOOD DEVELOPMENT DAY CARE CENTER, INCORPORATED ",
+  "permitHolder": "COMMITTEE FOR EARLY CHILDHOOD DEVELOPMENT DAY CARE CENTER, INCORPORATED",
+  "address": "193-04 JAMAICA AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11423",
+  "phone": "718-464-2422",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4984",
+  "permitExpirationDate": " 03/30/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "146",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously closed program re-opened\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

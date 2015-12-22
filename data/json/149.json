@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "AMALGAMATED NURSERY SCHOOL ",
+  "permitHolder": "AMALGAMATED NURSERY SCHOOL",
+  "address": "130 GALE PLACE",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-543-8688",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "98357",
+  "permitExpirationDate": " 10/09/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "22",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

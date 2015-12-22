@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF TRUST CATHOLOIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "1696 CANARSIE ROAD",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-241-6633",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

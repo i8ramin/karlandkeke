@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LIFELINE CENTER FOR CHILD DEVELOPMENT ",
+  "permitHolder": "LIFELINE CENTER FOR CHILD DEVELOPMENT",
+  "address": "80-09 WINCHESTER BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11427",
+  "phone": "718-740-4300",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5518",
+  "permitExpirationDate": " 04/25/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "71",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/03/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

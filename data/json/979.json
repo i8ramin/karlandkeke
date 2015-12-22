@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "DREAM CHARTER SCHOOL ",
+  "permitHolder": "DREAM CHARTER SCHOOL",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t433 EAST 100 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-722-0232",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

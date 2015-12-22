@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT HORIZONS  CHILDREN'S CENTERS LLC ",
+  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t235 EAST 42 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10017",
+  "phone": "212-733-5040",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "7574",
+  "permitExpirationDate": " 10/03/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "12",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

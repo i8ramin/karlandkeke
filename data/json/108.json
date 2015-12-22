@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "ALL CHILDREN'S CHILDCARE (INFANT/TODDLER) ",
+  "permitHolder": "ALL CHILDREN CHILDCARE CENTER OF QUEENS, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t35-01 24 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11106",
+  "phone": "718-707-0501",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6856",
+  "permitExpirationDate": " 05/27/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "19",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Proper ventilation not provided or maintained at time of inspection Indoor air quality nuisance allowed to exist at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4745 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

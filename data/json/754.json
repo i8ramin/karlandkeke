@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHELSEA DAY SCHOOL ",
+  "permitHolder": "CHELSEA DAY SCHOOL",
+  "address": "319 5TH AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10016",
+  "phone": "212-675-8541",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7814",
+  "permitExpirationDate": " 10/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "120",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "8         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

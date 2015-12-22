@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "ELADIA'S KIDS ",
+  "permitHolder": "ELADIA'S KIDS PARENT LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t147 5TH AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11217",
+  "phone": "718-622-3316",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7767",
+  "permitExpirationDate": " 06/11/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "18",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "8         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection diaper changing counter not properly constructed Diaper changing area observed not to be adjacent to a hand wash sink with adequate hot and cold running water",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4743 h1",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

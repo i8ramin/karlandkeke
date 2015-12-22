@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NEW YORK CENTER FOR INFANTS AND TODDLERS ",
+  "permitHolder": "NEW YORK CENTER FOR INFANTS AND TODDLERS, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t2336 ANDREWS AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-561-5300",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8243",
+  "permitExpirationDate": " 12/06/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4745 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ALL MY CHILDREN DAY CARE AND NURSERY SCHOOL ",
+  "permitHolder": "ALL MY CHILDREN DAY CARE AND NURSERY SCHOOL",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t36 FORD STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "929-234-2306",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "24658",
+  "permitExpirationDate": " 10/12/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "154",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4733 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service fails to provide required information on child care service policies and procedures and DOHMH flyer on obtaining information to parents at time of child enrollment",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4767d2",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

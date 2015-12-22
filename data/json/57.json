@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ABYSSINIAN HEAD START - ADAM CLAYTON POWELL JR. CENTER ",
+  "permitHolder": "ABYSSINIAN DEVELOPMENT CORP.",
+  "address": "25 WEST 132ND STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10037",
+  "phone": "212-234-9252",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7949",
+  "permitExpirationDate": " 10/15/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "39",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/31/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "AVENUES THE WORLD SCHOOL ",
+  "permitHolder": "AVENUES NEW YORK LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t259 10 AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10001",
+  "phone": "212-935-5000",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 6,
+    "infractions": [
+      {
+        "Violation Summary ": "Food service observed in operation without required permit",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "8105 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Water system not designed and/or installed to provide adequate water supply to all fixtures",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "14102b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "309",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sufficient utility sinks not provided not of adequate size insufficent water provided in comercial buildings",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109d3",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109e",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

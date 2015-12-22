@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HANDPRINTS DAY CARE ",
+  "permitHolder": "GNK NY INC.",
+  "address": "1334 EAST GUNHILL ROAD",
+  "borough": "BRONX",
+  "zipCode": "10469",
+  "phone": "718-405-2888",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7950",
+  "permitExpirationDate": " 10/31/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "15",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

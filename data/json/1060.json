@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EMMANUEL DAY CARE CENTER KINDERGARTEN ",
+  "permitHolder": "EMMANUEL BAPTIST CHURCH",
+  "address": "279 LAFAYETTE AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11238",
+  "phone": "718-622-1233",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "1760",
+  "permitExpirationDate": " 09/28/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737b2",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

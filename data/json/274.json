@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "BCA A S P @ PS 105 ",
+  "permitHolder": "BCA A S P @ PS 105",
+  "address": "1031 59TH ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-438-0008",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "33798",
+  "permitExpirationDate": " 06/26/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

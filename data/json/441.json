@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT HORIZON'S AT NEW YORK PRESBYTERIAN ",
+  "permitHolder": "BRIGHT HORIZON'S CHILDRENS CENTER,INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t61 HAVEN AVE.      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10032",
+  "phone": "212-927-2723",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7681",
+  "permitExpirationDate": " 11/29/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "9         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

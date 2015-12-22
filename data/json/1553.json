@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JEROME HARDEMAN EARLY CHILDHOOD EDUCATION CENTER ",
+  "permitHolder": "SCO FAMILY OF SERVICES, INC.",
+  "address": "29-49 GILLMORE STREET",
+  "borough": "QUEENS",
+  "zipCode": "11369",
+  "phone": "718-779-1660",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "24177",
+  "permitExpirationDate": " 10/05/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "83",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

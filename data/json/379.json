@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BLESSED SACRAMENT SCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-CHURCH OF THE BLESSED SACRAMENT",
+  "address": "1160 BEACH AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10472",
+  "phone": "718-892-0433",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "64",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

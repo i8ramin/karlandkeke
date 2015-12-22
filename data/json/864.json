@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "COMMITTEE FOR EARLY CHILDHOOD DEVELOPMENT ",
+  "permitHolder": "COMMITTEE FOR EARLY CHILDHOOD DEVELOPMENT DAY CARE CENTER, INC.",
+  "address": "193-25 JAMAICA AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11423",
+  "phone": "718-264-6572",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "52558",
+  "permitExpirationDate": " 09/27/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "106",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

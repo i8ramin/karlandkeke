@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "LENOX HILL NEIGHBORHOOD HOUSE ",
+  "permitHolder": "LENOX HILL NEIGHBORHOOD HOUSE",
+  "address": "331 E. 70TH  ST",
+  "borough": "MANHATTAN",
+  "zipCode": "10021",
+  "phone": "212-744-5022",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/15/2015",
+  "ageRange": "",
+  "maximumCapacity": "175",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

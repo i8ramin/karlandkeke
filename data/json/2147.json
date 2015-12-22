@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "ODYSSEY HOUSE, INC. ",
+  "permitHolder": "ODYSSEY  HOUSE, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t219 EAST 121 ST      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "212-987-5120",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7352",
+  "permitExpirationDate": " 07/16/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "Head Start (Direct Fed. Funding)",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "18        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JACKSON HEIGHTS ELC ANNEX, INC. ",
+  "permitHolder": "JACKSON HEIGHTS EARLY LEARNING CENTER ANNEX,INC",
+  "address": "79-10 34TH AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-779-5437",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7827",
+  "permitExpirationDate": " 01/11/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

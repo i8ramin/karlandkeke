@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JAMAICA N.A.A.C.P. ",
+  "permitHolder": "B'ABOVE WORLDWIDE INSTITUTE, INC.",
+  "address": "189-26 LINDEN BLVD.",
+  "borough": "QUEENS",
+  "zipCode": "11412",
+  "phone": "718-978-0400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "25558",
+  "permitExpirationDate": " 10/18/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "98",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

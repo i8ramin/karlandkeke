@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MSM SCHOOLS LLC ",
+  "permitHolder": "WEGWEISER & WEGWEISER, INC.",
+  "address": "2 GOLD ST.",
+  "borough": "MANHATTAN",
+  "zipCode": "10038",
+  "phone": "212-334-0400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7796",
+  "permitExpirationDate": " 08/30/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "133",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "8         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

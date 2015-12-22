@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "KAYKAR ALL ABOUT THE CHILDREN CENTER ",
+  "permitHolder": "KAYKAR CENTER CORPORATION",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t755 EASTERN PARKWAY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "347-817-9314",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "40197",
+  "permitExpirationDate": " 05/15/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "23",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737 b1",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

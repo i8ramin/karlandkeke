@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "92ND STREET YM-YWHA ",
+  "permitHolder": "THE YOUNG MEN'S & YOUNG WOMEN'S HEBREW ASSOCIATION",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1395 LEXINGTON AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10128",
+  "phone": "212-415-5532",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "1940",
+  "permitExpirationDate": " 06/13/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "170",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

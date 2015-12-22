@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JEFF, KARL AND AMY, INC. ",
+  "permitHolder": "JEFF, KARL AND AMY, INC.",
+  "address": "33 AVENUE A",
+  "borough": "MANHATTAN",
+  "zipCode": "10009",
+  "phone": "212-253-2430",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7494",
+  "permitExpirationDate": " 08/29/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/20/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4735 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8119 ab",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

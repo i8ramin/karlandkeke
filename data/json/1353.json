@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "HARLEM CHILDREN'S ZONE INC. PS 149 ",
+  "permitHolder": "HARLEM CHILDREN'S ZONE INC. PS 149",
+  "address": "41 WEST 117TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10026",
+  "phone": "212-534-0700",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 11/15/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

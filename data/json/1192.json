@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "FUTURE LEADERS CENTER INC ",
+  "permitHolder": "FUTURE LEADERS CENTER INC",
+  "address": "133-13 ROCKAWAY BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11420",
+  "phone": "718-529-8127",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6672",
+  "permitExpirationDate": " 05/13/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "23",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "17        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

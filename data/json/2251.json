@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "PARSON BEACON @JHS 168 ",
+  "permitHolder": "PARSON BEACON @JHS 168",
+  "address": "158-40 76TH ROAD",
+  "borough": "QUEENS",
+  "zipCode": "11366",
+  "phone": "718-820-0760",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 08/04/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

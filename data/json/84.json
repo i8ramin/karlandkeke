@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "AFRO-AMERICAN PARENTS EDUCATIONAL CENTER # 4 ",
+  "permitHolder": "AFRO-AMERICAN PARENTS EDUCATIONAL CENTER # 4",
+  "address": "108-17  159TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11433",
+  "phone": "718-526-3068",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8352",
+  "permitExpirationDate": " 07/01/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

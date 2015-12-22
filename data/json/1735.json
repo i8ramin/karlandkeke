@@ -1,0 +1,24 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "LIL  INVENTORS ",
+  "permitHolder": "2260 LITTLE SHEPHERDS LLC",
+  "address": "2260 ANDREWS AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-295-2740",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "94477",
+  "permitExpirationDate": " 08/06/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "18",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

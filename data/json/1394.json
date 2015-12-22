@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HERBERT G. BIRCH EARLY CHILDHOOD CENTER ",
+  "permitHolder": "BIRCH FAMILY SERVICES",
+  "address": "475 WEST 250 STREET",
+  "borough": "BRONX",
+  "zipCode": "10471",
+  "phone": "718-549-4753",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5194",
+  "permitExpirationDate": " 10/17/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "75",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "29        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GRAND ST. SETTLEMENT DUAL I ",
+  "permitHolder": "GRAND STREET SETTLEMENT, INC.",
+  "address": "60 ESSEX STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-677-6990",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "27418",
+  "permitExpirationDate": " 11/16/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "76",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 8,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4741 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4751 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4745 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take appropriate action to keep facility free of pests or conditions conducive to pests Child care service fails to maintain extermination service log",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4751 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

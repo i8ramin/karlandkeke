@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "COUNTEE CULLEN COMMUNITY CENTER DAY CAMP ",
+  "permitHolder": "HARLEM CHILDREN'S ZONE, INC.",
+  "address": "242 WEST 144 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10030",
+  "phone": "212-234-4500",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "34400",
+  "permitExpirationDate": " 09/15/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/17/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

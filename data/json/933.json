@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "CRESTON AVENUE BAPTIST SUMMER DAY CAMP ",
+  "permitHolder": "CRESTON AVENUE BAPTIST CHURCH",
+  "address": "114 EAST 188TH STREET",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-367-2864",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "91540",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HELP 1 DAY CARE ",
+  "permitHolder": "H.E.L.P. DAY-CARE CORPORATION",
+  "address": "515 BLAKE AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11207",
+  "phone": "718-498-4002",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6369",
+  "permitExpirationDate": " 07/14/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "89",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

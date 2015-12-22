@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "JAMAICA KIDS INFANT/TODDLER ",
+  "permitHolder": "IMAGINE EARLY LEARNING CENTERS,LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1 JAMAICA CENTER PLAZA      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11432",
+  "phone": "718-557-5520",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6809",
+  "permitExpirationDate": " 10/03/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

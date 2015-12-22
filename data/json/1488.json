@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "INFINITY EDUCATIONAL PROGRAMS INC. ",
+  "permitHolder": "INFINITY EDUCATIONAL PROGRAMS INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1972 EAST 34TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11234",
+  "phone": "718-336-1981",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8396",
+  "permitExpirationDate": " 09/16/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "85",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/11/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

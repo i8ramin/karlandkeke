@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JONATHAN WILLIAMS DAY CARE CENTER ",
+  "permitHolder": "LABOR AND INDUSTRY FOR EDUCATION, INC.",
+  "address": "321 ROEBLING STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-387-5011",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "24338",
+  "permitExpirationDate": " 10/09/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "100",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NEW YORK INTERNATIONAL SCHOOL ",
+  "permitHolder": "NEW YORK INTERNATIONAL SCHOOL",
+  "address": "4 EAST 90TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10128",
+  "phone": "212-641-0260",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "95657",
+  "permitExpirationDate": " 08/27/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "54",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

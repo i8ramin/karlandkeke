@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "PARK PLACE DAYCARE ",
+  "permitHolder": "PARK PLACE DC, INC.",
+  "address": "822-828 PARK PLACE",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "347-627-3955",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "21497",
+  "permitExpirationDate": " 08/27/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 d",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

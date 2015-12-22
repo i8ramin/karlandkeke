@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EARLY SOLUTIONS SERVICES, LLC ",
+  "permitHolder": "EARLY SOLUTIONS SERVICES, LLC",
+  "address": "506 MCDONOUGH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11233",
+  "phone": "718-872-6599",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "96857",
+  "permitExpirationDate": " 09/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "32",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

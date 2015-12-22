@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EAST SIDE HOUSE SETTLEMENT HEAD START/DAY CARE ",
+  "permitHolder": "EAST SIDE HOUSE SETTLEMENT",
+  "address": "201 ST. ANN'S AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10454",
+  "phone": "718-993-4854",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4636",
+  "permitExpirationDate": " 07/17/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "27",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "35        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/17/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Proper ventilation not provided or maintained at time of inspection Indoor air quality nuisance allowed to exist at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4745 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

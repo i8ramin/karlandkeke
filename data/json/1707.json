@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "LEAKE AND WATTS SERVICES, INC. ",
+  "permitHolder": "LEAKE AND WATTS SERVICES, INC.",
+  "address": "450 CASTLE HILL AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10473",
+  "phone": "718-430-7938",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5963",
+  "permitExpirationDate": " 09/19/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "179",
+  "siteType": "Head Start (Direct Fed. Funding)",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

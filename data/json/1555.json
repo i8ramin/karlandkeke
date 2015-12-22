@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JEWISH BOARD OF FAMILY AND CHILDREN'S SERVICES ",
+  "permitHolder": "JEWISH BOARD OF FAMILY AND CHILDREN'S SERVICES, INC.",
+  "address": "34  West 139 Street",
+  "borough": "MANHATTAN",
+  "zipCode": "10037",
+  "phone": "212-690-7234",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8180",
+  "permitExpirationDate": " 09/09/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection lavatory facilities failed to be provided with child high/accessible toilets and sinks",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4743 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

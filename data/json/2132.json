@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "NYSARC, INC., NYC CHAPTER ",
+  "permitHolder": "NYSARC, INC., NYC CHAPTER",
+  "address": "2300 WESTCHESTER AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10462",
+  "phone": "718-409-1450",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6030",
+  "permitExpirationDate": " 03/17/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "152",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "21        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/26/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

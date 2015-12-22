@@ -1,0 +1,55 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRIGHTSIDE ACADEMY, INC. ",
+  "permitHolder": "BRIGHTSIDE ACADEMY, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1362 JEROME AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-590-4615",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "82078",
+  "permitExpirationDate": " 03/03/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "38",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/22/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4747 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service observed providing care to children in a space located more than one level below ground level",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4741 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Designated outdoor play area was observed without fencing of appropriate height at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4747 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Climbing and other elevated equipment observed not provided with approved resilient ground cover at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4747 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

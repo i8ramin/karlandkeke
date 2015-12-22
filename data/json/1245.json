@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GOLD MATERIAL MONTESSORI SCHOOL ",
+  "permitHolder": "CHILD CARE WORKERS CORPORATION",
+  "address": "484 SECOND AVE.",
+  "borough": "MANHATTAN",
+  "zipCode": "10016",
+  "phone": "212-545-0061",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "11437",
+  "permitExpirationDate": " 01/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "66",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "NEW CONVENANT CHRISTIAN DAYCARE SCHOOL ",
+  "permitHolder": "THE NEW COVENANT CHRISTIAN SCHOOL",
+  "address": "1925 GRAND CONCOURSE",
+  "borough": "BRONX",
+  "zipCode": "10453",
+  "phone": "718-299-5250",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 6,
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4307",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4323",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "8115 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4311 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received periodic medical examination",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4317 c",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

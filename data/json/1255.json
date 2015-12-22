@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "GOOD SHEPHERD CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "1943 BROWN STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-339-2745",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

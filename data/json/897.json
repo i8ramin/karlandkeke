@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CONGREGATION YESHIVA BNEI TORAH, INC. ",
+  "permitHolder": "CONGREGATION YESHIVA BNEI TORAH, INC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t5815 20 AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-475-1200",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "98397",
+  "permitExpirationDate": " 10/09/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "BCA AFTER SCHOOL PROGRAM AT P.S. 206 ",
+  "permitHolder": "BCA AFTER SCHOOL PROGRAM AT P.S. 206",
+  "address": "2200 GRAVESEND NECK ROAD",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-438-0008",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/20/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

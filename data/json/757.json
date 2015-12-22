@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "CHELSEA PIERS SUMMER SPORTS ",
+  "permitHolder": "CHELSEA PIERS, LP",
+  "address": "000 Pier 62",
+  "borough": "MANHATTAN",
+  "zipCode": "10014",
+  "phone": "212-336-6892",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34354",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "665",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "309",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Fire fighting equipment is not stategically located",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815a3",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

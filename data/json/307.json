@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BEE ABOVE INC/B'ABOVE WORLDWIDE INSTITUTE ",
+  "permitHolder": "BEE ABOVE INC.",
+  "address": "12-79 REDFERN AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11691",
+  "phone": "718-687-3380",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "70017",
+  "permitExpirationDate": " 07/21/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "95",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

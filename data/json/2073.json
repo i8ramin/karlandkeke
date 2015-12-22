@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NEW YORK KIDS CLUB ",
+  "permitHolder": "601 AMSTERDAM AVENUE CLUB, LLC",
+  "address": "601 AMSTERDAM AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10024",
+  "phone": "212-721-4400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "65338",
+  "permitExpirationDate": " 05/29/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "15",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

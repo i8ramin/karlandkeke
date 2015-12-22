@@ -1,0 +1,55 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "INTERNATIONAL PRESCHOOLS ",
+  "permitHolder": "INTERNATIONAL PRESCHOOLS",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t330 EAST 45 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10017",
+  "phone": "212-371-8604",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7879",
+  "permitExpirationDate": " 06/20/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "96",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/20/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection unwholesome food food not in compliance with nutritional guidelines or of inadequate serving size was observed being served",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4761 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Chemical sanitization procedure results in excessive chemical residue on dishware",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8137 d",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

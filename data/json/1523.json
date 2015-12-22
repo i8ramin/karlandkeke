@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "IVY LEAGUE EARLY LEARNING ACADEMY ",
+  "permitHolder": "GABECO INDUSTRIES, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1779 RICHMOND AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "718-982-0202",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8158",
+  "permitExpirationDate": " 04/20/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "169",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4713 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

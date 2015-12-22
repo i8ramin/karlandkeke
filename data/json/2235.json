@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PARK CHILDREN'S DAY SCHOOL ",
+  "permitHolder": "PARK CHILDREN'S DAY SCHOOL",
+  "address": "4 WEST 76TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10023",
+  "phone": "212-288-3247",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "64038",
+  "permitExpirationDate": " 05/15/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "139",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BROADWAY HOUSING COMMUNITIES, INC. ",
+  "permitHolder": "BROADWAY HOUSING COMMUNITIES, INC.",
+  "address": "583 RIVERSIDE DRIVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10031",
+  "phone": "212-862-7155",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7319",
+  "permitExpirationDate": " 08/25/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "51",
+  "siteType": "Head Start (Direct Fed. Funding)",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "BOYS AND GIRLS REPUBLIC ",
+  "permitHolder": "HENRY STREET SETTEMENT/BOYS AND GIRLS REPUBLIC",
+  "address": "888 East 6th Street",
+  "borough": "MANHATTAN",
+  "zipCode": "10009",
+  "phone": "212-686-8888",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "34553",
+  "permitExpirationDate": " 03/31/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/09/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

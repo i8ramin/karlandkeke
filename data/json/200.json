@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ATLANTIC AVENUE EARLY LEARNING CENTER ",
+  "permitHolder": "BROOKLYN BUREAU OF COMMUNITY SERVICE",
+  "address": "1825 ATLANTIC  AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11233",
+  "phone": "347-296-4980",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8170",
+  "permitExpirationDate": " 05/28/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "51",
+  "siteType": "Head Start (Direct Fed. Funding)",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "5         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service fails to provide/maintain fire alarm when required",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service fails to maintain required postings at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4773 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

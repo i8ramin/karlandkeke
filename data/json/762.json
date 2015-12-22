@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHILD DEVELOPMENT CENTER AT QUEENS COLLEGE ",
+  "permitHolder": "CHILD DEVELOPMENT CENTER AT QUEENS COLLEGE",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t65-30 KISSENA BOULEVARD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11367",
+  "phone": "718-997-5885",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5192",
+  "permitExpirationDate": " 08/02/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "26        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

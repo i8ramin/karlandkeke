@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MONTESSORI SCHOOL OF MANHATTAN ",
+  "permitHolder": "MONTESSORI SCHOOL OF MANHATTAN,LLC",
+  "address": "53 BEACH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10013",
+  "phone": "212-334-0400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7607",
+  "permitExpirationDate": " 05/06/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "133",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "9         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 f",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

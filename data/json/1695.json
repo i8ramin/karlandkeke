@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "LATCH AFTER SCHOOL PROGRAM@MS226 ",
+  "permitHolder": "LATCH AFTER SCHOOL PROGRAM@MS226",
+  "address": "121-10 ROCKAWAY BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11420",
+  "phone": "718-322-0011",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 05/16/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

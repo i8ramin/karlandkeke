@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MILLER EVANGELICAL CHRISTIAN UNION CHURCH OF THE CHURCHES OF CHRIST IN THE CHRISTIAN UNION ",
+  "permitHolder": "MILLER EVANGELICAL CHRISTIAN UNION CHURCH OF THE CHURCHES OF CHRIST IN THE CHRISTIAN UNION",
+  "address": "1110 PRESIDENT STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11225",
+  "phone": "718-363-7160",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "52297",
+  "permitExpirationDate": " 09/19/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "37",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4713 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

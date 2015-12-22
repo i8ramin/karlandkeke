@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "EMOLIOR ACADEMY ",
+  "permitHolder": "EMOLIOR ACADEMY",
+  "address": "1970 West Farms Road",
+  "borough": "BRONX",
+  "zipCode": "10460",
+  "phone": "347-928-0648",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

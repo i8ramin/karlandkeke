@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "DAWNING  VILLAGE, INC. ",
+  "permitHolder": "DAWNING VILLAGE, INC.",
+  "address": "2211 FIRST AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "646-838-7174",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8308",
+  "permitExpirationDate": " 06/20/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "35",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

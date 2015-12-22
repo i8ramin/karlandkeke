@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BLESSED SACRAMENT PRESCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "34-20 94TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-446-4449",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

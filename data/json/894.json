@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CONGREGATION OHEL YITZCHOK ",
+  "permitHolder": "CONGREGATION OHEL YITZCHOK",
+  "address": "137-56 70 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11367",
+  "phone": "718-261-7037",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5218",
+  "permitExpirationDate": " 04/28/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "29        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

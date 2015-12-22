@@ -1,0 +1,24 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BE'ER HAGOLAH INSTITUTE ",
+  "permitHolder": "THE CENTER FOR RUSSIAN JEWRY-BE'ER HAGOLAH INSTITUTE",
+  "address": "671 LOUISIANA AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11239",
+  "phone": "718-642-6800",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

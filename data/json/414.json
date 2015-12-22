@@ -1,0 +1,49 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BOOKS AND RATTLES,INC.11 ",
+  "permitHolder": "BOOKS&RATTLES, INC.II",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t75-02 51 AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11373",
+  "phone": "718-899-1532",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6658",
+  "permitExpirationDate": " 01/04/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "18",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Permittee failed to submit permit renewal application at least 90 days prior to permit expiration date",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4709 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737 b1",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MICHELLE CHIU ",
+  "permitHolder": "VICTORIA CHILDREN'S CENTER, INC.",
+  "address": "323 GRAND STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-625-1828",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "63017",
+  "permitExpirationDate": " 05/02/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "134",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4745 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Food worker observed in soiled outer garments hair nets observed not being used at time of inspection where required",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8113 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Appropriate methods to maintain food prep area free of pests was not provided or maintained at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8123 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

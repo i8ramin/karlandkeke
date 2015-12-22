@@ -1,0 +1,24 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "HOLY FAMILY SCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK CHURCH OF THE HOLY FAMILY",
+  "address": "2169 BLACKROCK AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10472",
+  "phone": "718-863-7280",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

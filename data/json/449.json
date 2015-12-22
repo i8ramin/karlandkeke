@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRIGHT HORIZONS  CHILDREN'S CENTERS LLC ",
+  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTER",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t575 LEXINGTON AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10022",
+  "phone": "212-758-6262",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "6731",
+  "permitExpirationDate": " 10/18/2015",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "16",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4745 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "KIDDIE ACADEMY OF LITTLE NECK ",
+  "permitHolder": "KIDSZONE, INC.",
+  "address": "252-20 NORTHERN BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11362",
+  "phone": "718-229-2829",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7964",
+  "permitExpirationDate": " 12/01/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "146",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

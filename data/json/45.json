@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "ABC KEITH HARING SCHOOL ",
+  "permitHolder": "ASSOCIATION TO BENEFIT CHILDREN",
+  "address": "318 EAST 116TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-426-3960",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "53757",
+  "permitExpirationDate": " 11/01/2015",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "Head Start (Direct Fed. Funding)",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

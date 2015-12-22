@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "COMMUNITY HOUSE NURSERY AND KINDERGARTEN ",
+  "permitHolder": "CHURCH IN THE GARDENS COMMUNITY HOUSE",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t15 BORAGE PLACE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11375",
+  "phone": "718-268-0490",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "1546",
+  "permitExpirationDate": " 06/25/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "42",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

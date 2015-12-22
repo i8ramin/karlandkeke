@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BEGINNINGS NURSERY SCHOOL ",
+  "permitHolder": "BEGINNINGS NURSERY SCHOOL",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t130  EAST 16TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10003",
+  "phone": "212-228-5679",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "9240",
+  "permitExpirationDate": " 11/30/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "74",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

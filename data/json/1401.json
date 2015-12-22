@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HIGHBRIDGE ADVISORY COUNCIL DORIS E. STONE CHILD CARE CENTER ",
+  "permitHolder": "HIGHBRIDGE ADVISORY COUNCIL, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1165 UNIVERSITY AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-681-5888",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7583",
+  "permitExpirationDate": " 11/15/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "55",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "11        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection inside temperature of between 68 deg F and 72 deg F was not maintained when outside temperature registered below 55 deg F",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 d",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

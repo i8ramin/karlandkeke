@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "GREATER RIDGEWOOD YOUTH COUNCIL @ PS/IS 102Q ",
+  "permitHolder": "GREATER RIDGEWOOD YOUTH COUNCIL @ PS/IS 102Q",
+  "address": "55-24 VAN HORN STREET",
+  "borough": "QUEENS",
+  "zipCode": "11373",
+  "phone": "",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "CHILDREN'S BIG APPLE EARLY CHILDHOOD CENTER, INC. ",
+  "permitHolder": "CHILDREN'S BIG APPLE EARLY CHILDHOOD CENTER, INC.",
+  "address": "41-26 CASE STREET",
+  "borough": "QUEENS",
+  "zipCode": "11373",
+  "phone": "718-651-6919",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6957",
+  "permitExpirationDate": " 01/18/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "22",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

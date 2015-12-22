@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GOOD SAMARITAN FULTON DAY CARE CENTER-PRESCHOOL ",
+  "permitHolder": "GOOD SAMARITAN FULTON DAY CARE CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t992 GATES AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-452-0356",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6198",
+  "permitExpirationDate": " 06/27/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4751 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Location of dressing area and/or lockers observed in food area raising potential for food contamination",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8129 d",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

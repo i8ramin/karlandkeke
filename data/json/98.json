@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "AL-MAMOOR PRESCHOOL ",
+  "permitHolder": "AL-MAMOOR CHARTER SCHOOL",
+  "address": "78-31 PARSONS BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11366",
+  "phone": "718-739-0902",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

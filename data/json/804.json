@@ -1,0 +1,55 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "CHILDREN'S STOREFRONT PRESCHOOL ",
+  "permitHolder": "CHILDREN'S STOREFRONT",
+  "address": "61 EAST 129 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "212-427-7900",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "5782",
+  "permitExpirationDate": " 08/08/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "15",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care staff fail to be tested for tuberculosis when required by DOHMH",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4311 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "13109d2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate lighting not provided in commercial building at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4311 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4311 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

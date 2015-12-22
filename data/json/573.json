@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BROOKLYN DEVELOPMENTAL CENTER EARLY CHILDHOOD SERVICES ",
+  "permitHolder": "BROOKLYN DEVELOPMENTAL CENTER EARLY CHILDHOOD SERVICES, INC.",
+  "address": "888 FOUNTAIN AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11208",
+  "phone": "718-235-8800",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6448",
+  "permitExpirationDate": " 11/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "42",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

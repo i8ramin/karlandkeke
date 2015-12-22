@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GIFTED AND TALENTED EARLY DEVELOPERS LLC ",
+  "permitHolder": "GIFTED AND TALENTED EARLY DEVELOPERS LLC",
+  "address": "1019 CHURCH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11218",
+  "phone": "718-942-5381",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "95577",
+  "permitExpirationDate": " 08/27/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "19",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

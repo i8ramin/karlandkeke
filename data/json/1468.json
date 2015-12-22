@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "IMAGINE EARLY LEARNING CENTER P/S ",
+  "permitHolder": "IMAGINE EARLY LEARNING CENTER, LLC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t50 MONROE PLACE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "718-624-7520",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7056",
+  "permitExpirationDate": " 10/23/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "53",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4743 e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4751 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

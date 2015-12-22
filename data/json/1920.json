@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MI NUEVO MUNDO VI ",
+  "permitHolder": "MI NUEVO MUNDO CORP",
+  "address": "100-09 39 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11368",
+  "phone": "718-476-3128",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "72318",
+  "permitExpirationDate": " 08/19/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "36",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Climbing and other elevated equipment observed not provided with approved resilient ground cover at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4747 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4747 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

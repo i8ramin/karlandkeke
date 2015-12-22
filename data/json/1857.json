@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MAKING A DIFFERENCE CENTER ",
+  "permitHolder": "MAKING A DIFFERENCE DAYCARE INC.",
+  "address": "670 ROCKAWAY PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-484-8110",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8013",
+  "permitExpirationDate": " 05/01/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "33",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

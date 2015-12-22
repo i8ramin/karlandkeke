@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "LIL STARS OF THE FUTURE ",
+  "permitHolder": "LIL STARS OF THE FUTURE",
+  "address": "1822 DAVIDSON AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10453",
+  "phone": "347-577-5020",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 06/02/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

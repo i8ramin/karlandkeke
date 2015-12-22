@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "OKIE DOKIE, INC. ",
+  "permitHolder": "OKIE DOKIE, INC.",
+  "address": "1002 65 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-680-2618",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "79377",
+  "permitExpirationDate": " 01/15/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "59",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

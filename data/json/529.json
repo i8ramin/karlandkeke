@@ -1,0 +1,49 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHTSIDE ACADEMY,INC. ",
+  "permitHolder": "BRIGHTSIDE ACADEMY, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1465 WEBSTER AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-681-3040",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8106",
+  "permitExpirationDate": " 12/16/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "116",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

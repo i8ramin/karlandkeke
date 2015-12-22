@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "GOODWILL INDUSTRIES OF GREATER NEW YORK OST PROGRAM @ IS 145 ",
+  "permitHolder": "GOODWILL INDUSTRIES OF GREATER NEW YORK OST PROGRAM @ IS 145",
+  "address": "33-34 80TH ST.",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "646-659-1894",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/31/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}
