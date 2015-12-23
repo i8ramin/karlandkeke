@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ADDIE MAE COLLINS ",
+  "permitHolder": "ADDIE MAE COLLINS COMMUNITY SERVICE III",
+  "address": "2322 THIRD AVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "212-831-3144",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "24778",
+  "permitExpirationDate": " 10/12/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "155",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "LITTLE FLOWER PRESCHOOL ",
+  "permitHolder": "LITTLE FLOWER DAY CARE CENTER AND PREPARATORY SCHOOL INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t755 EASTERN PARKWAY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-342-0908",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

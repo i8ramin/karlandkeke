@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "LAUGH AND LEARN ",
+  "permitHolder": "LAUGH AND LEARN",
+  "address": "228-23 MERRICK BLVD.",
+  "borough": "QUEENS",
+  "zipCode": "11413",
+  "phone": "",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

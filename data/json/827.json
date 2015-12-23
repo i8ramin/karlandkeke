@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "CHURCH OF GOD OF PROPHECY ",
+  "permitHolder": "CHURCH OF GOD OF PROPHECY OF NEW YORK HOLDING CORPORATION",
+  "address": "85 EAST 165TH STREET",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-538-6854",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34008",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "20",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/16/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EARLY BIRD II DAY CARE CENTER ",
+  "permitHolder": "EARLY BIRD II DAY CARE CENTER, INC",
+  "address": "90-05  161 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11432",
+  "phone": "646-342-2210",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "99757",
+  "permitExpirationDate": " 11/10/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

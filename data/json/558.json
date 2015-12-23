@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BROOKLYN AMITY SCHOOL ",
+  "permitHolder": "BROOKLYN AMITY SCHOOL",
+  "address": "3867 SHORE PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11235",
+  "phone": "718-891-6100",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "18399",
+  "permitExpirationDate": " 06/27/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4713 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

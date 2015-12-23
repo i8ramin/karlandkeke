@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE @ PS 422 X ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE @ PS 422 X",
+  "address": "1500 PELHAM PARKWAY SOUTH",
+  "borough": "BRONX",
+  "zipCode": "10461",
+  "phone": "",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

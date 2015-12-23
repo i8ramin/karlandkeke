@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "FRANCIS EDUCATION CENTER ",
+  "permitHolder": "PROFESSIONAL CHILDCARE INC.",
+  "address": "38-03 FRANCIS LEWIS BLVD.",
+  "borough": "QUEENS",
+  "zipCode": "11358",
+  "phone": "718-229-5357",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7998",
+  "permitExpirationDate": " 05/09/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "54",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

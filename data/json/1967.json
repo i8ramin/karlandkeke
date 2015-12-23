@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "MORNING CENTER FOR TEACHING SOCIAL RESPONSIBILITY ",
+  "permitHolder": "MORNING CENTER FOR TEACHING SOCIAL RESPONSIBILITY",
+  "address": "1970 West Farms Road",
+  "borough": "BRONX",
+  "zipCode": "10460",
+  "phone": "646-556-5944",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "33975",
+  "permitExpirationDate": " 12/10/2015",
+  "ageRange": "",
+  "maximumCapacity": "177",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

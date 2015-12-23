@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LIFE SKILLS HOME TRAINING TUTORIAL PROGRAM FOR PRESCHOOLERS, INC ",
+  "permitHolder": "LIFE SKILLS HOME TRAINING TUTORIAL PROGRAM FOR PRESCHOOLERS, INC",
+  "address": "816 CLARENCE AVE",
+  "borough": "BRONX",
+  "zipCode": "10465",
+  "phone": "718-459-1252",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "99718",
+  "permitExpirationDate": " 11/10/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CBI ACADEMY PRESCHOOL ",
+  "permitHolder": "CONGREGATION B'NAI ISRAEL OF STATEN ISLAND",
+  "address": "45 TWOMBLY AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10306",
+  "phone": "718-987-6200",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7852",
+  "permitExpirationDate": " 02/04/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "52",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

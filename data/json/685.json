@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "CARDINAL MCCLOSKEY COMMUNITY SERVICES ",
+  "permitHolder": "CARDINAL MCCLOSKEY SCHOOL AND HOME FOR CHILDREN",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t95 WEST 168TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-293-2006",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "65978",
+  "permitExpirationDate": " 06/05/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "195",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

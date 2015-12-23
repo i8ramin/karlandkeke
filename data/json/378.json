@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BLESSED SACRAMENT PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-BLESSED SACRAMENT SCHOOL",
+  "address": "830 DELAFIELD AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10310",
+  "phone": "718-442-3090",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

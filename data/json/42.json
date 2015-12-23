@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ABC EARLY LEARNING CENTER OF BAY TERRACE ",
+  "permitHolder": "ABC EARLY LEARNING CENTER INC",
+  "address": "208-90 CROSS ISLAND PKWY",
+  "borough": "QUEENS",
+  "zipCode": "11360",
+  "phone": "718-428-0005",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7866",
+  "permitExpirationDate": " 04/09/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "36",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

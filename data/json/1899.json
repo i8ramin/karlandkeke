@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "MAVAKSHEI HASHEM ",
+  "permitHolder": "CONG.MISHKAN YEIHESKEL",
+  "address": "3918 16TH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11218",
+  "phone": "718-435-8900",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CATHOLIC CHARITIES NEIGHBORHOOD SERVICES, INC. ",
+  "permitHolder": "CATHOLIC CHARITIES NEIGHBORHOOD SERVICES,INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t220 HENDRIX STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11207",
+  "phone": "718-647-1042",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7783",
+  "permitExpirationDate": " 07/24/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "8         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

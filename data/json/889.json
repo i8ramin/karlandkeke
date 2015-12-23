@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "CONGREGATION MACHNA SHALVA ",
+  "permitHolder": "CONGREGATION MACHNA SHALVA",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1362 49 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-436-2122",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

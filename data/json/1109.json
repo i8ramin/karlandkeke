@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "FIAO BEACON COMMUNITY CTR @ IS 96 ",
+  "permitHolder": "FIAO BEACON COMMUNITY CTR @ IS 96",
+  "address": "99 AVE. P",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-232-2266",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/11/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

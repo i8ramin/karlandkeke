@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "HANAC ASTORIA BEACON IS 204 ",
+  "permitHolder": "HANAC ASTORIA BEACON IS 204",
+  "address": "36-41 28TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11106",
+  "phone": "718-433-1989",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/18/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

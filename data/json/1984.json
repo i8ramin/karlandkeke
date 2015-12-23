@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "MOSHOLU MONTEFIORE COMMUNITY CENTER @ EVANDER ",
+  "permitHolder": "MOSHOLU MONTEFIORE COMMUNITY CENTER @EVANDER",
+  "address": "800 EAST GUNHILL ROAD",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "347-631-9622",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "93337",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "500",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

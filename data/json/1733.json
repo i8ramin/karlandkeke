@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LIGHTHOUSE INTERNATIONAL CHILD DEVELOPMENT CENTER ",
+  "permitHolder": "LIGHTHOUSE INTERNATIONAL",
+  "address": "111 EAST 59 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10022",
+  "phone": "646-874-8000",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6122",
+  "permitExpirationDate": " 04/29/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "97",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

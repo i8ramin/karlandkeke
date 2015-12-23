@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HEART SHARE HUMAN SERVICES OF NEW YORK PRESCHOOL 1 ",
+  "permitHolder": "CATHOLIC GUARDIAN SOCIETY OF THE DIOCESE OF BROOKLYN, INC.",
+  "address": "115-15 101 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11419",
+  "phone": "718-441-5333",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4827",
+  "permitExpirationDate": " 09/06/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "137",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "26        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

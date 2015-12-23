@@ -1,0 +1,31 @@
+{
+  "type": "Camp",
+  "centerName": "BRONX YMCA @ PS 127 ",
+  "permitHolder": "YMCA",
+  "address": "1560 PURDY STREET",
+  "borough": "BRONX",
+  "zipCode": "10462",
+  "phone": "978-771-2981",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "69077",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/11/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4815a8",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

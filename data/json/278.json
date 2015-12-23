@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BCA EARLY CHILDHOOD EDUCATION CENTER 3 ",
+  "permitHolder": "BROOKLYN CHINESE AMERICAN ASSOCIATION,INC",
+  "address": "713 43RD STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11232",
+  "phone": "718-851-0869",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "24497",
+  "permitExpirationDate": " 10/10/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "128",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Proper ventilation not provided or maintained at time of inspection Indoor air quality nuisance allowed to exist at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4745 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

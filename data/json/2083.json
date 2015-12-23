@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NOAH'S ARK PREPARATORY SCHOOL III ",
+  "permitHolder": "NOAH'S ARC PREPARATORY SCHOOL III INC.",
+  "address": "900 ROGERS AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11226",
+  "phone": "718-355-9660",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "73557",
+  "permitExpirationDate": " 09/19/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously closed program re-opened\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service fails to provide/maintain fire alarm when required",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

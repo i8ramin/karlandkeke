@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JACKSON HEIGHTS EARLY LEARNING CENTER ",
+  "permitHolder": "JACKSON HEIGHTS EARLY LEARNING CENTER",
+  "address": "33-50 82 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-310-0910",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6599",
+  "permitExpirationDate": " 01/10/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "29",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "CATHERINE LABOURNE PROGRAM @ ST. SIMON AND ST. JUDE ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "294 AVENUE T",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-449-1857",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "34",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

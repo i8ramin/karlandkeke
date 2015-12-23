@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ABYSSINIAN HEAD START- ANNIE G. NEWSOME CENTER ",
+  "permitHolder": "ABYSSINIAN DEVELOPMENT CORPORATION",
+  "address": "129 WEST 138 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10030",
+  "phone": "212-690-2869",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6124",
+  "permitExpirationDate": " 07/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "54",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      01/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

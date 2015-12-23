@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "GENESIS AT GOOD COUNSEL HOMES DAYCARE CENTER ",
+  "permitHolder": "GOOD COUNSEL INC.",
+  "address": "1157 FULTON AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-312-3980",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "94397",
+  "permitExpirationDate": " 08/05/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

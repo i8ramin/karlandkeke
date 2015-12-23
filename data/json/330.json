@@ -1,0 +1,24 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BET YAAKOV OHR SARAH ",
+  "permitHolder": "BET YAAKOV OHR SARAH",
+  "address": "1123 AVENUE N",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-627-8758",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "6762",
+  "permitExpirationDate": " 03/07/2004",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

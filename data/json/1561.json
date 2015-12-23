@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JEWISH COMMUNITY CENTER OF STATEN ISLAND ",
+  "permitHolder": "JEWISH COMMUNITY CENTER OF STATEN ISLAND INCORPORATED",
+  "address": "485 VICTORY BOULEVARD",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10301",
+  "phone": "718-475-5290",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "3058",
+  "permitExpirationDate": " 07/20/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "98",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8109 i",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

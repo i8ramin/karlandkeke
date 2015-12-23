@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "HOLY CROSS NURSERY ",
+  "permitHolder": "EFSTATHIOS AND STAMATIKI VALIOTIS GREEK-AMERICAN SCHOOL",
+  "address": "12-03 150 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11357",
+  "phone": "718-747-3803",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "7242",
+  "permitExpirationDate": " 04/24/2010",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

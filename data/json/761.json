@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CHILD DEVELOPMENT CENTER AT KINGSBOROUGH COMMUNITY COLLEGE - I/T ",
+  "permitHolder": "CITY UNIVERSITY OF NEW YORK KINGSBOROUGH COMMUNITY COLLEGE",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1915 ORIENTAL BOULEVARD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11235",
+  "phone": "718-368-5439",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "17357",
+  "permitExpirationDate": " 05/31/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/24/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

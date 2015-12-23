@@ -1,0 +1,31 @@
+{
+  "type": "Camp",
+  "centerName": "BRONX BAPTIST CHURCH DAY CAMP ",
+  "permitHolder": "BRONX BAPTIST CHURCH",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t331 EAST 187 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10458",
+  "phone": "718-933-4095",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34162",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "30",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4817b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

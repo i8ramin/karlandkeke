@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "CONGREGATION MACHNA SHALVA ",
+  "permitHolder": "CONGREGATION MACHNA SHALVA",
+  "address": "4820 16 AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

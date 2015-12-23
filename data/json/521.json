@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRIGHTSIDE ACADEMY, INC. ",
+  "permitHolder": "BRIGHTSIDE ACADEMY,INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t331 EAST 150 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10451",
+  "phone": "718-292-0812",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7565",
+  "permitExpirationDate": " 04/10/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "53",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "9         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4713 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service teaching staff in an infant/toddler program do not meet staff qualification requirements",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4715 ab",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

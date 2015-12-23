@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "KENNEDY CHILD STUDY CENTER, INC. ",
+  "permitHolder": "KENNEDY CHILD STUDY CENTER",
+  "address": "2212 THIRD AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "212-988-9500",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "94577",
+  "permitExpirationDate": " 08/07/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "177",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

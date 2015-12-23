@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BROOKLYN SANDBOX EARLY LEARNING CENTER ",
+  "permitHolder": "BROOKLYN SANDBOX, LLC",
+  "address": "548 6TH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-369-0033",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "72477",
+  "permitExpirationDate": " 08/20/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "39",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

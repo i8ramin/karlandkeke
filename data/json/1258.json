@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "GOOD SHEPHERD SERVICES CS 300 ",
+  "permitHolder": "GOOD SHEPHERD SERVICES CS 300",
+  "address": "2050 Prospect Avenue",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

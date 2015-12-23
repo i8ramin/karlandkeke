@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "CAMBA ALL STARS SUMMER CAMP ",
+  "permitHolder": "CAMBA",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1077 Remsen Avenue      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "347-675-8913",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "92618",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "160",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Senior Counselors providing supervision are not of required minimum age do not have required experience or training",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4809c ",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4817e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4817g",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

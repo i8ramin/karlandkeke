@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BUCKLE MY SHOE NURSERY SCHOOL ",
+  "permitHolder": "TRIBECA NURSERY CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t40 WORTH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10013",
+  "phone": "212-374-1489",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5820",
+  "permitExpirationDate": " 07/15/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "74",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At the time of inspection child care service was observed providing hair brushes and cloth towels for use by children",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4735 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

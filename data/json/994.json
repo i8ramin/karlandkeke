@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EARLY LIFE ",
+  "permitHolder": "LUTHERAN SOCIAL SERVICES OF METROPOLITAN NEW YORK",
+  "address": "200 WEST TREMONT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10453",
+  "phone": "917-962-4344",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "26157",
+  "permitExpirationDate": " 10/24/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "175",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737b2",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

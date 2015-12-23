@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "IMMACULATE CONCEPTION PRESCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "21-63 29 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11105",
+  "phone": "718-729-1969",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

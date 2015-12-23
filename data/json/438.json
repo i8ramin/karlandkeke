@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT BEGINNINGS NYC LLC ",
+  "permitHolder": "BRIGHT BEGINNINGS NYC LLC",
+  "address": "80 BEEKMAN STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10038",
+  "phone": "917-676-1725",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "55478",
+  "permitExpirationDate": " 12/23/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "26",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

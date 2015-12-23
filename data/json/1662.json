@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "KIPS BAY BOYS & GIRLS CLUB - CASTLE HILL UNIT @ P.S. 138 ",
+  "permitHolder": "KIPS BAY BOYS & GIRLS CLUB - CASTLE HILL UNIT@ P.S. 138",
+  "address": "2060 LAFAYETTE AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10473",
+  "phone": "718-822-5325",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "93017",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "300",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

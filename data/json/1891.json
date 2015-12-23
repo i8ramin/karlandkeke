@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "MARYMOUNT SUMMER DAY CAMP ",
+  "permitHolder": "MARYMOUNT SCHOOL OF NEW YORK",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1026 5 AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10028",
+  "phone": "212-744-4486",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34350",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "125",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815a16",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8121 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

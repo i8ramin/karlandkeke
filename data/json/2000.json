@@ -1,0 +1,31 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "MT. CARMEL HOLY ROSARY PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-MT. CARMEL HOLY ROSARY CONSOL",
+  "address": "371 PLEASANT AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "212-876-7555",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received periodic medical examination",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4317 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHILDREN'S CENTER OF JOHN JAY COLLEGE ",
+  "permitHolder": "CHILDREN'S CENTER OF JOHN JAY COLLEGE OF CRIMINAL JUSTICE, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t860 11TH AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10019",
+  "phone": "212-393-6438",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "47619",
+  "permitExpirationDate": " 07/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "34",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BEIKVEI HATZOIN  SCHOOL ",
+  "permitHolder": "BE'IKVEI HATZOIN",
+  "address": "31 DIVISION AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11249",
+  "phone": "718-486-6363",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

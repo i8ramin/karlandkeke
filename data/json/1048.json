@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "ELEMENTS NURSERY ",
+  "permitHolder": "INDUS WORLD INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t99 SUFFOLK STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-982-4444",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "91419",
+  "permitExpirationDate": " 06/26/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "18",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

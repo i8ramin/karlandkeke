@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ANGEL DAYCARE CENTER ",
+  "permitHolder": "ANGEL EARLY CHILDHOOD DEVELOPMENT CENTER, INC.",
+  "address": "1436 67TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-259-0888",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "69057",
+  "permitExpirationDate": " 07/07/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "51",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4713 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 d",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "LITTLE BIRDS DAY CARE CENTER ",
+  "permitHolder": "LITTLE BIRDS DAY CARE CENTER, LLC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t490 LINWOOD STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11208",
+  "phone": "718-647-8095",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7953",
+  "permitExpirationDate": " 11/19/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "14",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/03/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 f",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

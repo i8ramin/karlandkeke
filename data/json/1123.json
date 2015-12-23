@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "FIVE STAR DAY CARE CENTER ",
+  "permitHolder": "SOUTHEAST BRONX NEIGHBORHOOD CENTERS, INC.",
+  "address": "3261 3 AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-292-4774",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4663",
+  "permitExpirationDate": " 05/18/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "100",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "H.E.L.P. USA BRONX CROTONA DAY CARE ",
+  "permitHolder": "H.E.L.P. DAY CARE CORPORATION",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t785 CROTONA PARK NORTH      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10460",
+  "phone": "718-583-1511",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6398",
+  "permitExpirationDate": " 03/13/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737c  ",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Camp",
+  "centerName": "MANHATTAN PLAZA SUMMER YOUTH PROGRAM ",
+  "permitHolder": "M PLAZA, L.P.",
+  "address": "400 WEST  43RD   STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10036",
+  "phone": "212-971-0660",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "71617",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "150",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Counselor to camper ratio not maintained",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4812c ",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

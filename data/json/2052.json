@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NEW WORLD EDUCATIONAL PROGRAM ",
+  "permitHolder": "B'ABOVE WORLDWIDE INSTITUTE, INC.",
+  "address": "137-37 FARMERS BLVD.",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-528-8751",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "26217",
+  "permitExpirationDate": " 10/24/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "93",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

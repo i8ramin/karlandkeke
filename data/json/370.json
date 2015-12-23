@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "BLACK SPECTRUM SUMMER THEATRE DAY CAMP ",
+  "permitHolder": "BLACK SPECTRUM THEATRE COMPANY, INC.",
+  "address": "119-01 Merrick Boulevard",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-723-1800",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34415",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "325",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815a16",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815a16",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4817e",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PARSONS PRESCHOOL ",
+  "permitHolder": "PSYCHOTHERAPEUTIC EVALUATIONAL PROGRAMS, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t85-27 91 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11421",
+  "phone": "718-464-5606",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "96197",
+  "permitExpirationDate": " 09/02/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "65",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "GODDARD RIVERSIDE COMMUNITY CENTER @BEACON MS 118 ",
+  "permitHolder": "GODDARD RIVERSIDE COMMUNITY CENTER @BEACON MS 118",
+  "address": "154 West 93rd street",
+  "borough": "MANHATTAN",
+  "zipCode": "10025",
+  "phone": "212-866-0009",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/10/2015",
+  "ageRange": "",
+  "maximumCapacity": "75",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/24/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

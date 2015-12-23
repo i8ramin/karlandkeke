@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LEAKE AND WATTS SERVICES, INC. ",
+  "permitHolder": "LEAKE AND  WATTS SERVICES, INC.",
+  "address": "1751 PARK AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "212-678-9555",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "96417",
+  "permitExpirationDate": " 09/04/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "81",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "FULL GOSPEL KIDS SUMMER CAMP ",
+  "permitHolder": "FULL GOSPEL UNITED CHURCH OF NY",
+  "address": "168-08 NORTHERN BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11358",
+  "phone": "718-359-0166",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "92817",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "20",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4817p",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "8115 a",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "COLLEGIATE SCHOOL PRESCHOOL ",
+  "permitHolder": "COLLEGIATE SCHOOL",
+  "address": "260 WEST 78 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10024",
+  "phone": "212-812-8543",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "7062",
+  "permitExpirationDate": " 11/08/2008",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "43",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

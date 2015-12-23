@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "LITTLE PEOPLE SUMMER CAMP ",
+  "permitHolder": "LITTLE PEOPLE DAYCARE OF NY, INC.",
+  "address": "216-02 137 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11413",
+  "phone": "347-267-2269",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "90058",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "50",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4811b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4817e",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

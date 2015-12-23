@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "GOOD FOUNDATION INC ",
+  "permitHolder": "GOOD FOUNDATION INC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t196-08 LINDEN BOULEVARD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11412",
+  "phone": "718-712-1500",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "99719",
+  "permitExpirationDate": " 11/10/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "18",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

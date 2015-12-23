@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "NORTHSIDE CENTER FOR CHILD DEVELOPMENT, INC. ",
+  "permitHolder": "NORTHSIDE CENTER FOR CHILD DEVELOPMENT,INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t302-306 EAST 111TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "646-351-1300",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7576",
+  "permitExpirationDate": " 04/04/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "20",
+  "siteType": "Head Start (Direct Fed. Funding)",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "9         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

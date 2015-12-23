@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BROOKLYN ARCHDIOSESE ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "26-25 97TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11369",
+  "phone": "",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

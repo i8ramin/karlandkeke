@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MALCOLM X DAY CARE ",
+  "permitHolder": "EPISCOPAL SOCIAL SERVICES",
+  "address": "111-12 NORTHERN BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11368",
+  "phone": "718-000-0000",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "26197",
+  "permitExpirationDate": " 10/24/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "157",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

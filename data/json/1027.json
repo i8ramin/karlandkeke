@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ECO 4 KIDS, LLC ",
+  "permitHolder": "ECO 4 KIDS, LLC",
+  "address": "4712 AVENUE N",
+  "borough": "BROOKLYN",
+  "zipCode": "11234",
+  "phone": "718-252-8400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "99877",
+  "permitExpirationDate": " 11/13/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "19",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

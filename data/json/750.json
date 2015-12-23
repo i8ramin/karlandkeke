@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHARLES R. DREW EARLY LEARNING ",
+  "permitHolder": "QUEENS COUNTY EDUCATORS FOR TOMORROW,INC",
+  "address": "109-45 207 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11429",
+  "phone": "718-740-2400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4008",
+  "permitExpirationDate": " 09/12/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "120",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

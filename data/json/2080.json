@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NO. BX. NATIONAL COUNCIL OF NEGRO WOMEN CHILD DEV. CENTER ",
+  "permitHolder": "NO. BX. NATIONAL COUNCIL OF NEGRO WOMEN, INC.",
+  "address": "4035 WHITE PLAINS ROAD",
+  "borough": "BRONX",
+  "zipCode": "10466",
+  "phone": "718-231-7100",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4669",
+  "permitExpirationDate": " 11/23/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "180",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 d",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "IAHD- ST. MARY'S PRESCHOOL ",
+  "permitHolder": "THE INSTITUTE OF APPLIED HUMAN DYNAMICS. INC.",
+  "address": "2213 EAST TREMONT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10462",
+  "phone": "718-683-3775",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5028",
+  "permitExpirationDate": " 12/11/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "49",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      01/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

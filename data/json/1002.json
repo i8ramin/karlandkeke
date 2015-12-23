@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EARLY SUNRISE PRESCHOOL AND KINDERGARTEN ",
+  "permitHolder": "EARLY SUNRISE PRE-SCHOOL AND KINDERGARTEN,INC.",
+  "address": "187-08 HILLSIDE AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11432",
+  "phone": "718-736-9064",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6827",
+  "permitExpirationDate": " 10/25/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "29",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/11/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

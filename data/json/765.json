@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHILD PRODIGY LEARNING CENTER, INC. ",
+  "permitHolder": "CHILD PRODIGY LEARNING CENTER, INC.",
+  "address": "1001 BROADWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-574-7558",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7478",
+  "permitExpirationDate": " 10/17/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "73",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

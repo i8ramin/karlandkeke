@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PB CHILDREN'S ACADEMY ",
+  "permitHolder": "3504-06 CHURCH AVENUE DAY CARE, INC.",
+  "address": "3506 CHURCH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11203",
+  "phone": "718-941-1102",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "54518",
+  "permitExpirationDate": " 11/26/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "36",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/16/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Out of Business\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

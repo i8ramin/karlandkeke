@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "INTERNATIONAL CHILDREN'S ",
+  "permitHolder": "B'ABOVE WORLDWIDE INSTITUTE, INC.",
+  "address": "57-27 PENROD STREET",
+  "borough": "QUEENS",
+  "zipCode": "11368",
+  "phone": "718-271-1000",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "25677",
+  "permitExpirationDate": " 10/18/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

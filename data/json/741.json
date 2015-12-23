@@ -1,0 +1,49 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHAI TOTS PRESCHOOL ",
+  "permitHolder": "THE RABBINICAL COMMITTEE OF BROWNSTONE BROOKLYN, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t70 PROSPECT PARK WEST      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-499-0836",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7013",
+  "permitExpirationDate": " 04/18/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "13 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "309",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4723 e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that the child care facility occupies a location associated with a restricted commercial or manufacturing activity or an environmental hazard",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 g",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

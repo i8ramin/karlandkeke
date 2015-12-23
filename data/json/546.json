@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRONX ORGANIZATION FOR THE LEARNING DISABLED OF NEW YORK ",
+  "permitHolder": "BRONX ORGANIZATION FOR THE LEARNING DISABLED OF NEW YORK,INC.",
+  "address": "2885 ST. THERESA AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10461",
+  "phone": "718-430-0981",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8043",
+  "permitExpirationDate": " 07/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "90",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

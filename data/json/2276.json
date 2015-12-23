@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PHIPPS HOUSES LEBANON WEST FARMS ",
+  "permitHolder": "PHIPPS NEIGHBORHOODS, INC.",
+  "address": "1175 EAST TREMONT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10460",
+  "phone": "917-243-7058",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "96678",
+  "permitExpirationDate": " 09/08/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

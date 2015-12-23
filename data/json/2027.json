@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "NEW DORP CHRISTIAN ACADEMY ",
+  "permitHolder": "NEW DORP BAPTIST CHURCH SCHOOL",
+  "address": "259 ROSE AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10306",
+  "phone": "718-351-4442",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

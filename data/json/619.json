@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BUSHWICK UNITED HEAD START ",
+  "permitHolder": "BUSHWICK UNITED HOUSING DEVELOPMENT FUND CORPORATION, INC.",
+  "address": "741 FLUSHING AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11206",
+  "phone": "347-497-3676",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "23718",
+  "permitExpirationDate": " 10/01/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "72",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Passed inspection; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sanitization equipment not properly maintained at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8137 e",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

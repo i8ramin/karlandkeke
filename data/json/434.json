@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT BEGINNINGS EARLY LEARNING CENTER ",
+  "permitHolder": "SIDI INC.",
+  "address": "2160 EAST TREMONT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10462",
+  "phone": "718-822-2586",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "98297",
+  "permitExpirationDate": " 10/08/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "57",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

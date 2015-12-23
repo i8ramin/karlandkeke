@@ -1,0 +1,49 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRIGHTSIDE ACADEMY, INC. ",
+  "permitHolder": "BRIGHTSIDE ACADEMY,INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t2901 WHITE PLAINS ROAD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-653-3714",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8174",
+  "permitExpirationDate": " 06/07/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "46",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4749 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4761 f",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Children feeding bottles observed stored/used without being properly labeled with childs name and date of preparation at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4761 g",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to use available environmentally sensitive cleaning products at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4749 d",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

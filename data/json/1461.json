@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ICCD ",
+  "permitHolder": "INTERDISCIPLINARY CENTER FOR CHILD DEVELOPMENT INC.",
+  "address": "98-02 62 DRIVE",
+  "borough": "QUEENS",
+  "zipCode": "11374",
+  "phone": "718-263-1587",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5313",
+  "permitExpirationDate": " 08/31/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "147",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

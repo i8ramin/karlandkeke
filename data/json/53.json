@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ABC STEPPING STONE DAYCARE ",
+  "permitHolder": "ABC STEPPING STONE DAYCARE",
+  "address": "235 CYPRESS AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10454",
+  "phone": "718-665-5156",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "75040",
+  "permitExpirationDate": " 11/07/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "64",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/24/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

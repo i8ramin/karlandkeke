@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "INITIAL STEPS CHILD DEVELOPMENT CENTER ",
+  "permitHolder": "INITIAL STEPS CHILD DEVELOPMENT,INC.",
+  "address": "3003 GLENWOOD ROAD",
+  "borough": "BROOKLYN",
+  "zipCode": "11210",
+  "phone": "718-434-2805",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6484",
+  "permitExpirationDate": " 10/18/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "48",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "18        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

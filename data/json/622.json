@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BUSHWICK UNITED HOUSING DEVELOPMENT FUND, CORPORATION ",
+  "permitHolder": "BUSHWICK UNITED HOUSING DEVELOPMENT FUND, CORPORATION",
+  "address": "136 STANHOPE STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-443-0685",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7448",
+  "permitExpirationDate": " 09/19/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "128",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

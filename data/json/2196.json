@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF TRUST AT OUR LADY OF MIRACLES ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "744 East 87 Street",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

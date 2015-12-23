@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LITTLE FRIENDS GAN DAY CARE ",
+  "permitHolder": "LITTLE FRIENDS GAN LLC",
+  "address": "1030 NEILSON STREET",
+  "borough": "QUEENS",
+  "zipCode": "11691",
+  "phone": "718-327-3287",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "53140",
+  "permitExpirationDate": " 10/17/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "49",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/16/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 d",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

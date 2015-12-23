@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ACT PROGRAM AT THE CATHEDRAL OF ST. JOHN THE DIVINE. ",
+  "permitHolder": "CATHEDRAL OF ST. JOHN THE DIVINE",
+  "address": "1047 AMSTERDAM AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10025",
+  "phone": "212-316-7530",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "7157",
+  "permitExpirationDate": " 07/18/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "22",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

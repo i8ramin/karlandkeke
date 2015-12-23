@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CARDINAL MCCLOSKEY COMMUNITY SERVICES ",
+  "permitHolder": "CARDINAL MCCLOSKEY SCHOOL AND HOME FOR CHILDREN",
+  "address": "1960 UNIVERSITY AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10453",
+  "phone": "718-731-8439",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "95517",
+  "permitExpirationDate": " 08/26/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "215",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

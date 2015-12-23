@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GRAND STREET SETTLEMENT CHILD AND FAMILY CENTER ",
+  "permitHolder": "GRAND STREET SETTLEMENT, INC.",
+  "address": "319 STANHOPE STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11237",
+  "phone": "718-381-8900",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "26567",
+  "permitExpirationDate": " 10/25/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "74",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

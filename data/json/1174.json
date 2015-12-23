@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "FRIENDS OF CROWN HEIGHTS EDUCATIONAL CENTER #2 ",
+  "permitHolder": "THE FRIENDS OF CROWN HEIGHTS EDUCATIONAL CENTERS,INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t671-675 PROSPECT PLACE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "718-638-8686",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4895",
+  "permitExpirationDate": " 05/06/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "99",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/24/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

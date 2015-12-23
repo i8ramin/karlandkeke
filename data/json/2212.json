@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "OXBRIDGE ACADEMIC PROGRAMS/NEW YORK COLLEGE EXPERIENCE ",
+  "permitHolder": "OXBRIDGE ACADEMIC RESOURCES LTD",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t3009 BROADWAY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10027",
+  "phone": "212-851-9352",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34070",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "1146",
+  "siteType": "Children's Overnight Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

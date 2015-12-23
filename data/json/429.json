@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT  START CHILD LEARNING CENTER, INC ",
+  "permitHolder": "BRIGHT  START CHILD LEARNING CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t30-11 21    STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "718-683-4502",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "95897",
+  "permitExpirationDate": " 08/31/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "62",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

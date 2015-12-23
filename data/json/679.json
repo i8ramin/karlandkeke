@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CARDINAL MC CLOSKEY DAY CARE CENTER SITE 2 ",
+  "permitHolder": "CARDINAL MC CLOSKEY SCHOOL & HOME FOR CHILDREN",
+  "address": "899 EAST 180 STREET",
+  "borough": "BRONX",
+  "zipCode": "10460",
+  "phone": "718-220-3355",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4856",
+  "permitExpirationDate": " 11/04/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "107",
+  "siteType": "Head Start (Direct Fed. Funding)",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BETH RACHEL SCHOOL FOR GIRLS ",
+  "permitHolder": "UNITED TALMUDIC ACADEMY",
+  "address": "720 WYTHE AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11249",
+  "phone": "718-735-9848",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "220",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

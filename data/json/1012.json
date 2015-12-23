@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "EAST HARLEM SCHOLARS ACADEMY PRESCHOOL ",
+  "permitHolder": "EAST HARLEM SCHOLARS ACADEMY CHARTER SCHOOL I I",
+  "address": "1573 Madison Avenue",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-348-2518",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

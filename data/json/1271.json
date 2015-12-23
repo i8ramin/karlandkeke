@@ -1,0 +1,49 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "GRACE CHURCH SCHOOL ",
+  "permitHolder": "GRACE CHURCH SCHOOL",
+  "address": "86 FOURTH  AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10003",
+  "phone": "212-475-5609",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "7335",
+  "permitExpirationDate": " 02/27/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "89",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "309",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate lighting not provided in commercial building at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

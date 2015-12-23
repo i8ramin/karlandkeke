@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GARDEN OF LEARNING DAY CARE ",
+  "permitHolder": "DIANNE DAVIS",
+  "address": "834 PROSPECT PLACE",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "718-778-0996",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5012",
+  "permitExpirationDate": " 01/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "9 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

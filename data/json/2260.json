@@ -1,0 +1,49 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PB CHILDREN'S ACADEMY ",
+  "permitHolder": "3504-06 CHURCH AVE DAY CARE INC",
+  "address": "4112 AVENUE D",
+  "borough": "BROOKLYN",
+  "zipCode": "11203",
+  "phone": "718-941-4112",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "70619",
+  "permitExpirationDate": " 07/25/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "29",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4725 a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection childrens medical files were not provided were incomplete or were not maintained",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4725 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

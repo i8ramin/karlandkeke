@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CORLEARS SCHOOL ",
+  "permitHolder": "CORLEARS SCHOOL",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t324 WEST 15 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10011",
+  "phone": "212-741-2800",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "100197",
+  "permitExpirationDate": " 11/19/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "12",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

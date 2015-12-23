@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CCLC @ 90 PARK ",
+  "permitHolder": "CHILDREN'S CREATIVE LEARNING CENTER",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t90 PARK AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10016",
+  "phone": "212-661-1021",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "11920",
+  "permitExpirationDate": " 02/03/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "33",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection children were observed occupying space not previously approved by the Dept of Buildings FDNY and/or DOHMH",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 f",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

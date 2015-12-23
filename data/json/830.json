@@ -1,0 +1,49 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CIDITTY KIDDIE CORPORATION ",
+  "permitHolder": "CIDITTY KIDDIE CORPORATION",
+  "address": "1700 SEWARD AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10473",
+  "phone": "917-801-4710",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "96577",
+  "permitExpirationDate": " 09/08/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "65",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to take appropriate action to minimize risk associated with individual in child care service with record of criminal activity or child abuse",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 h",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4747 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "BARUCH COLLEGE SUMMER CAMP ",
+  "permitHolder": "BARUCH COLLEGE CITY UNIVERSITY OF NEW YORK",
+  "address": "55 Lexington Avenue",
+  "borough": "MANHATTAN",
+  "zipCode": "10010",
+  "phone": "646-312-5046",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "33853",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "382",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4815a8",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815a5",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

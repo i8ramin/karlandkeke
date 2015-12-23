@@ -1,0 +1,79 @@
+{
+  "type": "Camp",
+  "centerName": "LITTLE RED SUMMER CAMP ",
+  "permitHolder": "LITTLE RED SCHOOL HOUSE, INC.",
+  "address": "196 Bleecker Street",
+  "borough": "MANHATTAN",
+  "zipCode": "10012",
+  "phone": "212-477-5316",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34345",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "325",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 9,
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "13105a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "All windows except fire escape and emergency access windows not provided with guards in camps with children less than 10 years of age",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4815d5",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Food storage preparation and service not conducted in accordance with Article 81 of the Health Code",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4815f2",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "13109d2",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "309",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Aquatics Director is not 21 years of age does not have 3 seasons of relative experience",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4809f12",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815a16",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp equipment not maintained not of safe design or properly installed",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4815b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109e",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

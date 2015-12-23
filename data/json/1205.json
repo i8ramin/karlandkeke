@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GARDEN OF KNOWLEDGE DAY CARE & LEARNING CENTER ",
+  "permitHolder": "GARDEN OF KNOWLEDGE DAY CARE & LEARNING CENTER,INC.",
+  "address": "1657 NOSTRAND AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11226",
+  "phone": "718-469-2229",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7696",
+  "permitExpirationDate": " 02/10/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "8         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4761 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

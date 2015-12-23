@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CONG.  MACHNE CHAIM INC. ",
+  "permitHolder": "CONG. MACHNE CHAIM INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t6101 16TH   AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-871-7571",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "96157",
+  "permitExpirationDate": " 09/02/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "50",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

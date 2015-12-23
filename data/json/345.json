@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BEULAH CHURCH OF THE NAZARENE ",
+  "permitHolder": "BEULAH CHURCH OF THE NAZARENE",
+  "address": "1250 ST. JOHN'S PLACE",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-756-2310",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "99337",
+  "permitExpirationDate": " 11/04/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "48",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

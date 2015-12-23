@@ -1,0 +1,67 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PEACEFUL EXPLORERS ",
+  "permitHolder": "PEACEFUL EXPLORERS CORP",
+  "address": "1113 PRESIDENT STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11225",
+  "phone": "718-483-8528",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "54757",
+  "permitExpirationDate": " 12/04/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "13",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 7,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4713 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4723 e",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4719 i",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

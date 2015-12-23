@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "GAN ISRAEL SCHOOL @ TEMPLE EMANU-EL ",
+  "permitHolder": "CHABAD LUBAVITCH OF STATEN ISLAND",
+  "address": "984 POST AVE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10302",
+  "phone": "718-370-8953",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

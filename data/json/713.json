@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CDI HEAD START ",
+  "permitHolder": "COMMUNITY DEVELOPMENT INSTITUTE HEAD START",
+  "address": "216 BEACH 87TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11693",
+  "phone": "347-732-2875",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "95677",
+  "permitExpirationDate": " 08/28/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "111",
+  "siteType": "Head Start (Direct Fed. Funding)",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

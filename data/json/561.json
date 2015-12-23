@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BROOKLYN ARCHDIOCESE ",
+  "permitHolder": "VISITATION ACADEMY",
+  "address": "8902 RIDGE BLVD",
+  "borough": "BROOKLYN",
+  "zipCode": "11209",
+  "phone": "718-629-9330",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

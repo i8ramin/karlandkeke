@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CHILDREN'S CORNER LEARNING CENTER ",
+  "permitHolder": "BRONX CENTER MANAGEMENT ASSOCIATES I, INC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1776 EASTCHESTER ROAD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10461",
+  "phone": "718-684-3032",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "93797",
+  "permitExpirationDate": " 07/28/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "36",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

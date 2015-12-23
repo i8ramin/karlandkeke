@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "GOOD SHEPHERD SERVICES @ SUMNER COMM CTR. ",
+  "permitHolder": "GOOD SHEPHERD SERVICES @ SUMNER COMM CTR.",
+  "address": "868 PARK AVE",
+  "borough": "BROOKLYN",
+  "zipCode": "11206",
+  "phone": "718-919-0124",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "34323",
+  "permitExpirationDate": " 08/05/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/23/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

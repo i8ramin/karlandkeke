@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "FRIENDS OF CROWN HEIGHTS EDUCATIONAL CENTER #2 ",
+  "permitHolder": "THE FRIENDS OF CROWN HEIGHTS EDUCATIONAL CENTERS,INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t671 PROSPECT PLACE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "718-638-8686",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4434",
+  "permitExpirationDate": " 03/08/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "56",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "9 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4743 e",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

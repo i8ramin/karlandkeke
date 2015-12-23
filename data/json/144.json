@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ALPHABET AC INC. ",
+  "permitHolder": "ALPHABET AC INC.",
+  "address": "65 FOSTER  ROAD",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10309",
+  "phone": "718-701-1720",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "94037",
+  "permitExpirationDate": " 07/30/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "102",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

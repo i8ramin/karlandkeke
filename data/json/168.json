@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ARCHDIOCESE-ST BENEDICT ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST. BENEDICT SCHOOL",
+  "address": "1016 EDISON AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10465",
+  "phone": "718-829-9557",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

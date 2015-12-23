@@ -1,0 +1,91 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MY LITTLE LANGUAGE SCHOOL, MI PEQUENA ESCUELITA, INC. ",
+  "permitHolder": "MY LITTLE LANGUAGE SCHOOL, MI PEQUENA ESCUELITA, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t225  WEST 99TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10025",
+  "phone": "212-665-3600",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8374",
+  "permitExpirationDate": " 08/30/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "39",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 11,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Permittee/applicant submitted incomplete written safety plan",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4711 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4713 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4725 a1",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4733 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 d",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 f",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4719 i",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection childrens medical files were not provided were incomplete or were not maintained",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4725 d",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service Educational Director failed to arrange and verify in-service training for staff documentation not maintained or not available",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4737 b1",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

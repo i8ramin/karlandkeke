@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "LEINAD CHILD CARE SERVICES ",
+  "permitHolder": "LEINAD CHILD CARE SERVICES",
+  "address": "1031 FLUSHING AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11237",
+  "phone": "",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

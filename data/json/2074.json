@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NEW YORK LEAGUE FOR EARLY LEARNING CLEARVIEW SCHOOL ",
+  "permitHolder": "NEW YORK LEAGUE FOR EARLY LEARNING",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t124-06 14TH AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11356",
+  "phone": "718-352-0104",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7995",
+  "permitExpirationDate": " 02/14/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "100",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

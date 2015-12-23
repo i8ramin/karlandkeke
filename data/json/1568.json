@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "JOHN COKER DAY CARE CENTER ",
+  "permitHolder": "LABOR AND INDUSTRY FOR EDUCATION, INC.",
+  "address": "1375 BUSHWICK AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11207",
+  "phone": "718-452-1414",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "23678",
+  "permitExpirationDate": " 10/01/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "75",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

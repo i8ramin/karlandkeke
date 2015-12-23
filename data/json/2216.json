@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "PACKER COLLEGIATE INSTITUTE ",
+  "permitHolder": "PACKER COLLEGIATE INSTITUTE",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t170 JORALEMON STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "718-875-6644",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "1589",
+  "permitExpirationDate": " 06/14/2010",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "KIDDIE KOLLEGE ",
+  "permitHolder": "DAVID GRAYSON CHRISTIAN ACADEMY",
+  "address": "1237 EASTERN PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-774-4924",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

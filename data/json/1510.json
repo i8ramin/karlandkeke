@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "IRA'S BRIARWOOD DAYCARE & PRESCHOOL INC. ",
+  "permitHolder": "IRA'S BRIARWOOD DAYCARE & PRESCHOOL INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t900 LENOX ROAD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11203",
+  "phone": "917-807-2683",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "98018",
+  "permitExpirationDate": " 10/02/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "87",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "LOST BATALLION HALL OF THE CENTRAL QUEENS Y ",
+  "permitHolder": "LOST BATALLION HALL OF THE CENTRAL QUEENS Y",
+  "address": "93-29 QUEENS BLVD.",
+  "borough": "QUEENS",
+  "zipCode": "11374",
+  "phone": "718-268-5011",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 10/08/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

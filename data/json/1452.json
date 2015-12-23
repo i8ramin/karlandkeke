@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "I LOVE ME EARLY CHILDHOOD CENTER, INC. ",
+  "permitHolder": "I LOVE ME EARLY CHILDHOOD CENTER, INC.",
+  "address": "93 NORWOOD AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11208",
+  "phone": "718-235-3416",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7900",
+  "permitExpirationDate": " 08/12/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "24",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously closed program re-opened\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

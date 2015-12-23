@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "COMPASS SUMMER CAMP @ P.S.68 ",
+  "permitHolder": "PHIPPS NEIGHBORHOODS",
+  "address": "4011 MONTICELLO AVE.",
+  "borough": "BRONX",
+  "zipCode": "10466",
+  "phone": "718-324-2854",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "91206",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "752",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4811b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Swimming activities not supervised by Aquatics Director Aquatics Director not present during all swimming and water activity",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4813a2i",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or  motor vehicle insurance",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4821a",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

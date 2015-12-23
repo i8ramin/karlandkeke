@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "MS. ELENA'S SUNSHINE EARLY LEARNING CENTER ",
+  "permitHolder": "MS. ELENA'S SUNSHINE EARLY LEARNING CENTER INC.",
+  "address": "3075 BAISLEY AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10461",
+  "phone": "718-863-6470",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4806",
+  "permitExpirationDate": " 09/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "33        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

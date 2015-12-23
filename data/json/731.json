@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "CH'SAN SOFER PRESCHOOL ",
+  "permitHolder": "YESHIVA CH'SAN SOFER",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1705 49TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-853-8100",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}
