@@ -9,7 +9,7 @@ task :import_json => :environment do
     Infraction.destroy_all
     Inspection.destroy_all
     Daycare.destroy_all 
-    seed_file = "db/daycares.json"
+    seed_file = "data/json/daycares.json"
     puts "LOADING from file #{seed_file}"   
     file = File.read(seed_file)
     venues = JSON.parse(file)

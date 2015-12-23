@@ -31,7 +31,7 @@ def scraper
 	page = agent1.post 'https://a816-healthpsi.nyc.gov/ChildCare/SearchAction2.do'
 	form = page.forms.first
 	page = form.submit
-	agent1.cookie_jar.save_as 'cookies', :session => true, :format => :yaml
+	agent1.cookie_jar.save_as 'data/cookies', :session => true, :format => :yaml
 
 	while offset < 2300 do #  < 10 for testing, 2300 at least for real
 		puts "Offset: " + offset.to_s
@@ -54,7 +54,7 @@ def scraper
 			page2 = agent2.post 'https://a816-healthpsi.nyc.gov/ChildCare/WDetail.do', idString ,({'Content-Type' => 'application/x-www-form-urlencoded'})
 			daycare = pagescrape(page2)	
 			filename = file_i.to_s.rjust(2, "0")
-			File.open("json/#{ filename }.json","w") do |f|
+			File.open("data/json/#{ filename }.json","w") do |f|
 			  f.write(JSON.pretty_generate(daycare))
 			end
 
@@ -67,7 +67,7 @@ def scraper
 
 	end
 
-	File.open("json/daycares.json", "w") do |f|
+	File.open("data/json/daycares.json", "w") do |f|
 		f.write(JSON.pretty_generate(daycares))
 	end
 	return daycares
