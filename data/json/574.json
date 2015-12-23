@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BROOKLYN DIOCESE ",
+  "permitHolder": "HOLY TRINITY SCHOOL",
+  "address": "14-45 143RD STREET",
+  "borough": "QUEENS",
+  "zipCode": "11357",
+  "phone": "718-746-1479",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

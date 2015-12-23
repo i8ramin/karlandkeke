@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHURCH IN THE GARDENS ",
+  "permitHolder": "THE CHURCH IN THE GARDENS NURSERY SCHOOL",
+  "address": "50 ASCAN AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11375",
+  "phone": "718-268-7980",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5561",
+  "permitExpirationDate": " 04/25/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "56",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

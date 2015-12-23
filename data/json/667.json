@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "CAMP HENRY DAY CAMP ",
+  "permitHolder": "HENRY STREET SETTLEMENT",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t301 HENRY STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-254-3100",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34171",
+  "permitExpirationDate": " 09/15/2014",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "114",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/06/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Facilty egress observed obstructed not protected from hazardous areas",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4815a6",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "All windows except fire escape and emergency access windows not provided with guards in camps with children less than 10 years of age",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4815d5",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

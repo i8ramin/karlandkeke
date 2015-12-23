@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "CHILD DEVELOPMENT CENTER OF THE MOSHOLU MONTEFIORE COMMUNITY CENTER ",
+  "permitHolder": "MOSHOLU MONTEFIORE COMMUNITY CENTER, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t3450 DEKALB AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-654-0563",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5991",
+  "permitExpirationDate": " 07/06/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "162",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "21        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

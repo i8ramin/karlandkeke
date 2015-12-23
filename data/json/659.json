@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "CAMP F.R.E.E. - GAN ISRAEL ",
+  "permitHolder": "FRIENDS OF REFUGEES OF EASTERN EUROPE, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t841 OCEAN PARKWAY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "347-850-0408",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34404",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "500",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/20/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109f",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4817g",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

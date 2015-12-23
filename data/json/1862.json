@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "MANHATTAN CHRISTIAN ACADEMY PRESCHOOL ",
+  "permitHolder": "MANHATTAN CHRISTIAN ACADEMY",
+  "address": "401 WEST 205 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10034",
+  "phone": "212-567-5521",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

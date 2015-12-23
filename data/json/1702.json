@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LE JARDIN DE LOUISE LLC ",
+  "permitHolder": "LE JARDIN DE LOUISE LLC",
+  "address": "1331 FLATBUSH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11226",
+  "phone": "347-833-9470",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "95937",
+  "permitExpirationDate": " 08/31/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

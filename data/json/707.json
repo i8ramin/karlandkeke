@@ -1,0 +1,31 @@
+{
+  "type": "Camp",
+  "centerName": "CCBC-SUMMER CAMP ",
+  "permitHolder": "CCBC COMMUNITY SERVICES, INC.",
+  "address": "103 MADISON STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-962-6040",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "45399",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "70",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Camp Director fails to conduct inspection of fire protection facilities and equipment",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4815a1",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

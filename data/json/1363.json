@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "HARLEM YMCA SUMMER DAY CAMP ",
+  "permitHolder": "YMCA OF GREATER NEW YORK",
+  "address": "181 WEST 135 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10030",
+  "phone": "212-912-2103",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34472",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "300",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

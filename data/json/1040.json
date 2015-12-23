@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EIS LAASOIS CHILD DEVELOPMENT SERVICES ",
+  "permitHolder": "WILLIAMSBURG INFANT & EARLY CHILDHOOD DEVELOPMENT CENTER, INC.",
+  "address": "22 MIDDLETON ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11206",
+  "phone": "718-303-9400",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7590",
+  "permitExpirationDate": " 02/17/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "165",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

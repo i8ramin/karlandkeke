@@ -1,0 +1,49 @@
+{
+  "type": "Camp",
+  "centerName": "CAMP CHELSEA RECREATION CENTER ",
+  "permitHolder": "NYC DEPARTMENT OF PARKS AND RECREATION",
+  "address": "430 WEST 25TH ST.",
+  "borough": "MANHATTAN",
+  "zipCode": "10001",
+  "phone": "212-255-3705",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "33912",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "1046",
+  "siteType": "Municipal Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "13109d2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Buddy system or other accountability system has not been established System does not contains camper identity ability record of coming and goings buddy assignments  15 minute checks",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4813a3iv",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Camp Director fails to conduct inspection of fire protection facilities and equipment",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4815a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "8119 ab",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

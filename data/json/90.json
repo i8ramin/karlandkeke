@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "AHRC FRANCIS OF PAOLA EARLY LEARNING CENTER ",
+  "permitHolder": "ASSOCIATION FOR THE HELP OF RETARDED CHILDREN, INC.",
+  "address": "195-201 CONSELYEA STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-782-1462",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5687",
+  "permitExpirationDate": " 09/27/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "205",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "23        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Beverages with added sweeteners observed being served to children at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4761 b1",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

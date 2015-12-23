@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "GOOD SHEPHERD AFTER SCHOOL PROGRAM AT P.S. 246 ",
+  "permitHolder": "GOOD SHEPHERD AFTER SCHOOL PROGRAM AT P.S. 246",
+  "address": "2641 GRAND CONCOURSE",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-584-6764",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 07/04/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

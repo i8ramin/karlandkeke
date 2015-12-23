@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF GRACE ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "385 AVENUE W",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-375-2081",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

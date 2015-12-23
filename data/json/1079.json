@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "EVANGEL CHRISTIAN PRESCHOOL ",
+  "permitHolder": "EVANGEL CHRISTIAN SCHOOL",
+  "address": "39-21 CRESCENT STREET",
+  "borough": "QUEENS",
+  "zipCode": "11101",
+  "phone": "718-937-9600",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

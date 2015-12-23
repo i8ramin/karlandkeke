@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "MT. MORIAH CHRISTIAN ACADEMY ",
+  "permitHolder": "MT. MORIAH CHURCH OF GOD IN CHRIST",
+  "address": "1149 EASTERN PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-953-4383",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

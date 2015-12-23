@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NIGHTINGALE DAY CARE CENTER ",
+  "permitHolder": "NIGHTINGALE DAY CARE CENTER, INC.",
+  "address": "462 LENOX RD",
+  "borough": "BROOKLYN",
+  "zipCode": "11203",
+  "phone": "718-676-1646",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "20377",
+  "permitExpirationDate": " 08/07/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Appropriate sanitary receptacle and disinfectant not provided in diaper changing area at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4743 h3",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

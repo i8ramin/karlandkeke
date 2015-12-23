@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF SORROWS ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "35-34 105TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11368",
+  "phone": "718-426-5517",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

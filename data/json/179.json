@@ -1,0 +1,31 @@
+{
+  "type": "Camp",
+  "centerName": "ASCENSION SUMMER CAMP ",
+  "permitHolder": "CATHOLIC SCHOOL REGION OF MANHATTAN",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t220 WEST 108TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10025",
+  "phone": "212-222-5161",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "91277",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Each camper is not protected from unreasonable risk to health and safety physical and sexual abuse public health hazards",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4812ab1",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

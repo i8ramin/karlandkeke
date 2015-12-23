@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "EFFIE B'S EARLY CHILDHOOD DEVELOPMENT CENTER CORP. ",
+  "permitHolder": "EFFIE B'S EARLY CHILDHOOD DEVELOPMENT CENTER CORP.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1173 EASTERN PARKWAY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-735-5500",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8096",
+  "permitExpirationDate": " 11/16/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/20/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to notify DOHMH within 24 hours of child abuse allegation/indication or record of criminal activity of individuals associated with child care service serious injury death or loss of a child",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4719 g",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Written behavior management policy not provided at time of inspection distributed to staff or made available to parents",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4767 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

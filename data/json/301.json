@@ -1,0 +1,37 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BEDFORD STUYVESANT EARLY CHILDHOOD DEVELOPMENT CENTER, INC. ",
+  "permitHolder": "BEDFORD STUYVESANT EARLY CHILDHOOD DEVELOPMENT CENTER, INC.",
+  "address": "262 LEXINGTON AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "718-453-0670",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "4297",
+  "permitExpirationDate": " 03/25/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "57",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4725 a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4725 a2",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

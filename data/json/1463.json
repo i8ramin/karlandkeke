@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "IDEAL MONTESSORI ",
+  "permitHolder": "IDEAL MONTESSORI",
+  "address": "87-41 165 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11432",
+  "phone": "718-523-6237",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "5006",
+  "permitExpirationDate": " 11/19/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "36",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

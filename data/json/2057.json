@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "NEW YORK CHILD RESOURCE CENTER INC. ",
+  "permitHolder": "NEW YORK CHILD RESOURCE CENTER INC.",
+  "address": "4624 BROADWAY",
+  "borough": "MANHATTAN",
+  "zipCode": "10040",
+  "phone": "212-569-1044",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "100698",
+  "permitExpirationDate": " 12/04/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "88",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

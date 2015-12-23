@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "HEBREW ACADEMY FOR SPECIAL CHILDREN (P/S) ",
+  "permitHolder": "HEBREW ACADEMY FOR SPECIAL CHILDREN,INC.",
+  "address": "555 REMSEN AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-495-3510",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5573",
+  "permitExpirationDate": " 04/20/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "163",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/23/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

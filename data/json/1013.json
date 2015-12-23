@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EAST MIDWOOD HEBREW DAY SCHOOL ",
+  "permitHolder": "RABBI HARRY HALPERN DAY SCHOOL",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1256 EAST 21 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11210",
+  "phone": "718-253-1555",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "1465",
+  "permitExpirationDate": " 10/28/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "83",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4713 f",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "IRA'S BRIARWOOD DAY CARE & PRESCHOOL  INC. ",
+  "permitHolder": "IRA'S BRIARWOOD DAY CARE & PRESCHOOL INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t139-76 85 DRIVE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11435",
+  "phone": "718-739-6500",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8240",
+  "permitExpirationDate": " 02/18/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "15",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

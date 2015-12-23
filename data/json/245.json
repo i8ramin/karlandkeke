@@ -1,0 +1,26 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BAMBI EARLY CHILDHOOD EDUCATIONAL CENTER ",
+  "permitHolder": "B.E.C.E.C. INC.",
+  "address": "1981 HOMECREST AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-645-7010",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "5912",
+  "permitExpirationDate": " 06/02/2012",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "90",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/27/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

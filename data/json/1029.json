@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ECUMENICAL COMMUNITY DEVELOPMENT ORGANIZATION, INC. ",
+  "permitHolder": "ECUMENICAL COMMUNITY DEVELOPMENT ORGANIZATION, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t249 WEST 144TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10030",
+  "phone": "212-234-8135",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7439",
+  "permitExpirationDate": " 09/23/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "69",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

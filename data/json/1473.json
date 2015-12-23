@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "IMMACULATE CONCEPTION 151ST PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-IMMACULATE CONCEPTION",
+  "address": "378 EAST 151 STREET",
+  "borough": "BRONX",
+  "zipCode": "10455",
+  "phone": "718-585-4843",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "5837",
+  "permitExpirationDate": " 11/03/2001",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

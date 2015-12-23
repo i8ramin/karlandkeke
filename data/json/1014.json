@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EAST RIVER CHILD DEVELOPMENT CENTER ",
+  "permitHolder": "EAST RIVER CHILD DEVELOPMENT CENTER",
+  "address": "570 GRAND STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-254-7301",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6952",
+  "permitExpirationDate": " 02/29/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "37",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4735 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

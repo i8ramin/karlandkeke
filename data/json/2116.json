@@ -1,0 +1,55 @@
+{
+  "type": "Camp",
+  "centerName": "NY L.I.F.E. SUMMER CAMP ",
+  "permitHolder": "NEW YORK PRESBYTERIAN CHURCH",
+  "address": "43-23 37 Avenue",
+  "borough": "QUEENS",
+  "zipCode": "11101",
+  "phone": "917-426-5213",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "91538",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "50",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "All camper and staff injuries illness and conditions reportable pursuant to HC Article 11 were not reported Medical log not complete and/or updated",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4817k",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4811a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4811b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4817e",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4809i",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

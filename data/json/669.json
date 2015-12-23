@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "CAMP KIDSMART ",
+  "permitHolder": "ROCKAWAY ARTISTS ALLIANCE INC. KIDSMART PROGRAM",
+  "address": "000 Heinzelman Road T-149",
+  "borough": "QUEENS",
+  "zipCode": "11695",
+  "phone": "718-474-6807",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "33972",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "185",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

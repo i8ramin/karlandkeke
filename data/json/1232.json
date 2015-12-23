@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "GIRLS PREPARATORY CHARTER SCHOOL OF NEW YORK ",
+  "permitHolder": "GIRLS PREPARATORY CHARTER SCHOOL OF NEW YORK",
+  "address": "441 EAST 148 STREET",
+  "borough": "BRONX",
+  "zipCode": "10455",
+  "phone": "718-618-7700",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "73769",
+  "permitExpirationDate": " 09/26/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "53",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

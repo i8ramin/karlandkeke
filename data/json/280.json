@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "BCA SUMMER DAY CAMP @ P.S. 69 ",
+  "permitHolder": "BROOKLYN CHINESE-AMERICAN ASSOCIATION, INC.",
+  "address": "884 63RD STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11220",
+  "phone": "718-438-0008",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "33992",
+  "permitExpirationDate": " 09/15/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

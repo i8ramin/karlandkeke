@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "HAPPY DRAGON PRESCHOOL ",
+  "permitHolder": "HAPPY DRAGON OF NEW YORK, INC.",
+  "address": "30-04 146 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11354",
+  "phone": "718-446-9021",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "7298",
+  "permitExpirationDate": " 10/15/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "42",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

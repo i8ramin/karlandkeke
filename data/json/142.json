@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ALPHA KAPPA ALPHA SORORITY  EPSILON PI OMEGA CHAPTER DAY CARE CENTER,INC ",
+  "permitHolder": "ALPHA KAPPA ALPHA SORORITY EPSILON PI OMEGA CHAPTER DAY CARE CENTER, INC",
+  "address": "144-06 ROCKAWAY BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11436",
+  "phone": "718-322-6242",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5005",
+  "permitExpirationDate": " 12/21/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "95",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

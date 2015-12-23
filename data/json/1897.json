@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "MASPETH TOWN HALL @ PS/IS 119. ",
+  "permitHolder": "MASPETH TOWN HALL @ PS/IS 119.",
+  "address": "74-01 78TH AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11385",
+  "phone": "718-335-6049",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 12/10/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

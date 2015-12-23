@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CHINESE AMERICAN PLANNING COUNCIL. INC. ",
+  "permitHolder": "CHINESE AMERICAN PLANNING COUNCIL. INC.",
+  "address": "115 CHRYSTIE STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-219-2286",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6521",
+  "permitExpirationDate": " 08/02/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "79",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "13 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate the potential for exposure to choking hazards by children",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sufficient utility sinks not provided not of adequate size insufficent water provided in comercial buildings",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "13109d3",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

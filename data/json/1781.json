@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LITTLE MUNCHKINS PLAYGROUP 56, INC. ",
+  "permitHolder": "LITTLE MUNCHKINS PLAYGROUP 56, INC.",
+  "address": "5021 10 AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-437-7261",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "99557",
+  "permitExpirationDate": " 11/06/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

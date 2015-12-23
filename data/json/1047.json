@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ELBER ISLAMIC SCHOOL ",
+  "permitHolder": "AL-BER INC.",
+  "address": "25-42 49 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11103",
+  "phone": "917-362-1130",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "GOODWILL INDUSTRIES / BEACON PS 149 ",
+  "permitHolder": "GOODWILL INDUSTRIES / BEACON PS 149",
+  "address": "93-11 34TH AVE",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-426-0888",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 05/17/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "A CHILD'S PLACE TOO ",
+  "permitHolder": "A CHILD'S PLACE TOO",
+  "address": "107-17 NORTHERN BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11368",
+  "phone": "000-000-0000",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "7805",
+  "permitExpirationDate": " 09/24/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "12",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Out of Business\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

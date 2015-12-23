@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BAMBI DAY CARE III ",
+  "permitHolder": "B.E.C.E.C. INC.",
+  "address": "2114 BROWN STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-368-1817",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "6097",
+  "permitExpirationDate": " 09/30/2011",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "136",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

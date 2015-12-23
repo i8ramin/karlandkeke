@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY'S CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "125-18 ROCKAWAY BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11420",
+  "phone": "718-641-0212",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

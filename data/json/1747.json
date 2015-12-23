@@ -1,0 +1,79 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LITTLE ANGELS DAY CARE CENTER ",
+  "permitHolder": "LITTLE ANGELS DAY CARE CENTER, INC.",
+  "address": "906-908 PROSPECT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10459",
+  "phone": "347-269-7550",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "55320",
+  "permitExpirationDate": " 12/18/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/22/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 9,
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "307",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4761 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to submit a corrective action plan within five days when required corrective action plan not approved",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4721 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Appropriate child activity not provided by child care service unacceptable forms of discipline utilized by staff of child care service",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4767 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service fails to provide adequate periods of outdoor play Children observed improperly dressed for current weather conditions during periods of outdoor play",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4771 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4745 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Written behavior management policy not provided at time of inspection distributed to staff or made available to parents",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4767 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

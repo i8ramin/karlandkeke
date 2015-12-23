@@ -1,0 +1,49 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BEDFORD STUYVESANT EARLY CHILDHOOD DEVELOPMENT CENTER INC. ",
+  "permitHolder": "BEDFORD STUYVESANT EARLY CHILDHOOD DEVELOPMENT CENTER, INC.",
+  "address": "260 JEFFERSON AVENUE.",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "718-453-0722",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5051",
+  "permitExpirationDate": " 08/05/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "37",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service fails to provide/maintain fire alarm when required",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4757 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Required smoke and carbon monoxide detectors not provided or maintained at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4759 g",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Daily cleaning not conducted by child care service Wiping cloths not maintained sanitized at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "8137 ab",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

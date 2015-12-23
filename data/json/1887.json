@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "MARY QUEEN OF HEAVEN SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "1326 EAST 57 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11234",
+  "phone": "718-763-2360",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

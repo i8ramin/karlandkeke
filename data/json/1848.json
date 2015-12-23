@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "MAGEN DAVID YESH-ISSAC SHLM E ",
+  "permitHolder": "MAGEN DAVID YESH-ISSAC SHLM E",
+  "address": "2130 MCDONALD AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-236-5905",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "410",
+  "siteType": "No Permit Required",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

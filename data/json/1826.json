@@ -1,0 +1,55 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LOUIS A. FICKLING CHILD DEVELOPMENT CENTER ",
+  "permitHolder": "CLAREMONT NEIGHBORHOOD CENTER, INC.",
+  "address": "1240 WEBSTER AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-538-7135",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "2051",
+  "permitExpirationDate": " 11/01/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "53",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 5,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service fails to provide/maintain fire alarm when required",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to notify DOHMH within 24 hours of child abuse allegation/indication or record of criminal activity of individuals associated with child care service serious injury death or loss of a child",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4719 g",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to submit a corrective action plan within five days when required corrective action plan not approved",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4721 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

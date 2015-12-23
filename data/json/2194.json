@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF THE BLESSED SACRAMENT PAROCHIAL SCHOOL ",
+  "permitHolder": "ROMAN CATHOLIC CHURCH BOROUGH OF QUEENS",
+  "address": "34-45 202 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11361",
+  "phone": "718-229-4434",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

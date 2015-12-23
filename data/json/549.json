@@ -1,0 +1,24 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRONX SKY CHILD CARE CENTER, INC. ",
+  "permitHolder": "BRONX SKY CHILD CARE CENTER, INC.",
+  "address": "481 EAST 158TH STREET",
+  "borough": "BRONX",
+  "zipCode": "10451",
+  "phone": "718-401-0100",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "97762",
+  "permitExpirationDate": " 09/28/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "16",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

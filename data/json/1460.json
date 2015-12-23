@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ICCD ",
+  "permitHolder": "INTERDISCIPLINARY CENTER FOR CHILD DEVELOPMENT,INC.",
+  "address": "35-55 223 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11361",
+  "phone": "718-428-5370",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "5620",
+  "permitExpirationDate": " 06/21/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "90",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

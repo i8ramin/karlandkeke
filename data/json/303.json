@@ -1,0 +1,31 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BEDFORD STUYVESANT EARLY CHILDHOOD DEVELOPMENT CENTER, INC. ",
+  "permitHolder": "BEDFORD STUYVESANT EARLY CHILDHOOD DEVELOPMENT CENTER, INC.",
+  "address": "281 STUYVESANT AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-455-3720",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "31017",
+  "permitExpirationDate": " 01/18/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "35",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Poison ivy and/or other restricted weeds observed in child care service/school program at time of inspection",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "18111",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Camp",
+  "centerName": "F.R.E.S.H. IMAGINE U ",
+  "permitHolder": "ST. PAUL'S COMMUNITY BAPTIST CHURCH INC.",
+  "address": "818 SCHENCK AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11207",
+  "phone": "718-257-1300",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34403",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "112",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+        "Category ": "                                                         Minor violations General Violations                            ",
+        "Code Sub-Section": "4817g",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

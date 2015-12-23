@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "CHRIST LUTHERAN SCHOOL ",
+  "permitHolder": "CHRIST LUTHERAN SCHOOL",
+  "address": "248-01 FRANCIS LEWIS BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11422",
+  "phone": "718-525-6884",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

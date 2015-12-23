@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "EAST TREMONT CHILD CARE AND DEVELOPMENT CENTER ",
+  "permitHolder": "EAST TREMONT CHILD CARE AND DEVELOPMENT CENTER",
+  "address": "1811 CROTONA AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "718-731-4166",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "1956",
+  "permitExpirationDate": " 08/17/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

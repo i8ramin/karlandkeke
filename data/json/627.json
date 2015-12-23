@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "BUTTERCUP DAYCARE ",
+  "permitHolder": "BUTTERCUP DAYCARE, INC.",
+  "address": "16 GLENMORE AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11212",
+  "phone": "347-378-2808",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8268",
+  "permitExpirationDate": " 03/21/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "19",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

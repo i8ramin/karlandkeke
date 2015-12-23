@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "CHINATOWN YMCA TASC @ PS 126 ",
+  "permitHolder": "CHINATOWN YMCA TASC @ PS 126",
+  "address": "80 CATHERINE STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10038",
+  "phone": "212-406-1137",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 09/03/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

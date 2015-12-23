@@ -1,0 +1,49 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "HELP MORRIS EARLY CHILDHOOD PROGRAM ",
+  "permitHolder": "HELP DAY CARE CORPORATION (H D C C)",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t285 EAST 171 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "718-583-0174",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6082",
+  "permitExpirationDate": " 03/28/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "18",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "20        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/03/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 4,
+    "infractions": [
+      {
+        "Violation Summary ": "Number of children in attendance exceeds approved maximum child capacity",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4705 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service observed at time of inspection to be providing care for infants under 12 months of age in groups mixed with older children",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4723 g",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4725 a1",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4725 a2",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

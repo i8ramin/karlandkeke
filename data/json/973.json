@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "DODGE YMCA ASP @ PS 307 ",
+  "permitHolder": "DODGE YMCA ASP @ PS 307",
+  "address": "209 YORK ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "917-539-0864",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "34031",
+  "permitExpirationDate": " 02/11/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/21/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

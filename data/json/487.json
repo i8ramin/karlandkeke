@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRIGHT HORIZONS CHILDREN'S CENTERS,  INC. ",
+  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTERS, INC.",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t4 TIMES SQUARE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "MANHATTAN",
+  "zipCode": "10036",
+  "phone": "212-840-3336",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "7102",
+  "permitExpirationDate": " 09/30/2015",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "14",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/22/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

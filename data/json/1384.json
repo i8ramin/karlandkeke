@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "HELLENIC ORTHODOX COMMUNITY OF ASTORIA ST. DEMETRIOS ",
+  "permitHolder": "HELLENIC ORTHODOX COMMUNITY OF ASTORIA ST. DEMETRIOS",
+  "address": "30-11 30 DRIVE",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "718-728-1754",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LUTHERAN SOCIAL SERVICES UPK ",
+  "permitHolder": "LUTHERAN SOCIAL SERVICES OF METROPOLITAN NEW YORK",
+  "address": "1951 PARK AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10037",
+  "phone": "212-933-1815",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "72878",
+  "permitExpirationDate": " 10/01/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "126",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/20/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

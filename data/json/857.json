@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "COLONY-SOUTH BROOKLYN HOUSES, INCORPORATED ",
+  "permitHolder": "COLONY-SOUTH BROOKLYN HOUSES, INCORPORATED",
+  "address": "872-874 CRESCENT STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11208",
+  "phone": "718-625-3810",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "97858",
+  "permitExpirationDate": " 09/30/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

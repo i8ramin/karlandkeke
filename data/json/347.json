@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BIG APPLE ACADEMY ELEMENTARY SCHOOL ",
+  "permitHolder": "BIG APPLE INSTITUTE INC",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t503 LAKE STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-333-1099",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

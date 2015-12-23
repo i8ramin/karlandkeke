@@ -1,0 +1,43 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "MAGICAL YEARS EARLY CHILDHOOD CENTER ",
+  "permitHolder": "SUNSET BAY COMMUNITY SERVICES,INC.",
+  "address": "230 60 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11220",
+  "phone": "718-439-0450",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6083",
+  "permitExpirationDate": " 03/11/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "42",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 3,
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4759 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4761 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4755 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  }
+}

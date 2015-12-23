@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "OST MS SUMMER CAMP ",
+  "permitHolder": "SOUTHEAST BRONX NEIGHBORHOOD CENTERS, INC",
+  "address": "890 Cauldwell Avenue",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-542-2727",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "94797",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "500",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

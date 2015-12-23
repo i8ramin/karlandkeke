@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "KIPS BAY BOYS NULL CLUB DAY CAMP ",
+  "permitHolder": "KIPS BAY BOYS AND GIRLS CLUB, INC.",
+  "address": "1930 RANDALL AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10473",
+  "phone": "718-893-8600",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "34346",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "1294",
+  "siteType": "Traveling Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

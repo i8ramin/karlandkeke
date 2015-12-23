@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "ASPIRA OF NY, INC ",
+  "permitHolder": "ASPIRA OF NY, INC",
+  "address": "778 FOREST AVE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

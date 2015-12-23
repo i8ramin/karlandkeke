@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "GOODWILL BEACON @ I.S. 141 ",
+  "permitHolder": "GOODWILL BEACON @ I.S. 141",
+  "address": "37-11 21ST AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11105",
+  "phone": "718-777-9200",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 08/14/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

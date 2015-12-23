@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "INCARNATION SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "89-15 FRANCIS LEWIS BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11427",
+  "phone": "718-465-5066",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "44",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

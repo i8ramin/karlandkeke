@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BAIS CHAYA ESTHER ",
+  "permitHolder": "BAIS CHAYA ESTHER",
+  "address": "1305 AVENUE R",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-645-6605",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "7624",
+  "permitExpirationDate": " 08/07/2008",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "29",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

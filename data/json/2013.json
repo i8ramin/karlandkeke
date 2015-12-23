@@ -1,0 +1,26 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "NAYEMA UNIVERSAL CHILD CARE CENTER INC. ",
+  "permitHolder": "NAYEMA UNIVERSAL CHILD CARE CENTER INC.",
+  "address": "1107-09 NEWKIRK AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-462-3688",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6665",
+  "permitExpirationDate": " 04/13/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "18",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

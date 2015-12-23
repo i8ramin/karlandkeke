@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "HODORI SONYC ",
+  "permitHolder": "HODORI SONYC PROGRAM AT EAST WEST SCHOOL OF INTERNATIONAL STUDIES",
+  "address": "46-21 Colden Street",
+  "borough": "QUEENS",
+  "zipCode": "11355",
+  "phone": "",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

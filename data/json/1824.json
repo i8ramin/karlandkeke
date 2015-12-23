@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "LOS NINOS SERVICES, INC. ",
+  "permitHolder": "LOS NINOS SERVICES, INC.",
+  "address": "4024 AMBOY ROAD",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10308",
+  "phone": "718-984-9200",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "40797",
+  "permitExpirationDate": " 05/20/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "32",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

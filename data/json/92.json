@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "AL MADINAH SCHOOL ",
+  "permitHolder": "AL MADINAH SCHOOL, INC",
+  "address": "18-24 ASTORIA BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "718-222-4986",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

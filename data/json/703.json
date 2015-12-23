@@ -1,0 +1,31 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "CATHOLIC CHARITIES NEIGHBORHOOD SERVICES, INC. ",
+  "permitHolder": "CATHOLIC CHARITIES NEIGHBORHOOD SERVICES,INC.",
+  "address": "38-11 27TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11101",
+  "phone": "718-937-7640",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "8371",
+  "permitExpirationDate": " 10/07/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "160",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4         ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 1,
+    "infractions": [
+      {
+        "Violation Summary ": "Climbing and other elevated equipment observed not provided with approved resilient ground cover at time of inspection",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4747 f",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

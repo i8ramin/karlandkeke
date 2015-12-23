@@ -1,0 +1,24 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "BNOS MALKA ACADEMY ",
+  "permitHolder": "BNOS MALKA ACADEMY",
+  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t71-02 113 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "borough": "QUEENS",
+  "zipCode": "11375",
+  "phone": "718-268-2667",
+  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

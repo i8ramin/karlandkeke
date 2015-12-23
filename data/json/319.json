@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "BELL SUMMER CAMP @ X063 ",
+  "permitHolder": "THE B.E.L.L. FOUNDATION, INC.",
+  "address": "1260 FRANKLIN AVE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "917-684-7738",
+  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitNumber": "47937",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "120",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/31/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 2,
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Code Sub-Section": "4815a8",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Code Sub-Section": "4811b",
+        " Status": "OPEN "
+      }
+    ]
+  }
+}

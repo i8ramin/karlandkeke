@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "LITTLE FLOWERS SCHOOL AGE PROGRAM II ",
+  "permitHolder": "LITTLE FLOWERS SCHOOL AGE PROGRAM II",
+  "address": "232-10 MERRICK BLVD.",
+  "borough": "QUEENS",
+  "zipCode": "11413",
+  "phone": "718-712-1440",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 08/12/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}

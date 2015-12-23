@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "KON WAH DAY SCHOOL ",
+  "permitHolder": "KON WAH, INC.",
+  "address": "135-27 38 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11354",
+  "phone": "718-353-4388",
+  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitNumber": "6902",
+  "permitExpirationDate": " 05/18/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "284",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "13        ",
+  "hasInspections": true,
+  "latestInspection": {
+    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/26/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
+    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
+    "numInfractions": 0,
+    "infractions": [
+
+    ]
+  }
+}

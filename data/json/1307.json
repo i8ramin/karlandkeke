@@ -1,0 +1,24 @@
+{
+  "type": "Camp",
+  "centerName": "GRYC/ P.S./ I.S. 113 Q ",
+  "permitHolder": "THE GREATER RIDGEWOOD YOUTH COUNCIL",
+  "address": "78-23 87  STREET",
+  "borough": "QUEENS",
+  "zipCode": "11385",
+  "phone": "718-456-5437",
+  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": false,
+  "latestInspection": {
+    "date": null,
+    "result": null,
+    "infractions": null,
+    "numInfractions": null
+  }
+}
