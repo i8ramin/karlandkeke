@@ -1,14 +1,14 @@
-var auth0Lock = new Auth0Lock(
-  '<%= Rails.application.secrets.auth0_client_id %>',
-  '<%= Rails.application.secrets.auth0_domain %>'
-);
+// var auth0Lock = new Auth0Lock(
+//   "#{Rails.application.secrets.auth0_client_id}",
+//   "#{Rails.application.secrets.auth0_domain}"
+// );
 
-function signin() {
-  auth0Lock.show({
-    callbackURL: '<%= Rails.application.secrets.auth0_callback_base %>/auth/auth0/callback',
-    responseType: 'code',
-    authParams: {
-      scope: 'openid name email picture'
-    }
-  });
-}
+// function signin() {
+//   auth0Lock.show({
+//     callbackURL: "#{Rails.application.secrets.auth0_callback_base}/auth/auth0/callback",
+//     responseType: 'code',
+//     authParams: {
+//       scope: 'openid name email picture'
+//     }
+//   });
+// }

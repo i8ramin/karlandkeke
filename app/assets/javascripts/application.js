@@ -13,3 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+
+//= require semantic_ui/semantic_ui
+
+$('.ui.dropdown').dropdown();

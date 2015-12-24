@@ -1,4 +1,10 @@
-ruby '2.1.6'
+ruby '2.2.3'
+
+# source 'https://rails-assets.org' do
+#   # https://rails-assets.org/
+#   # gem 'rails-assets-foundation-sites'
+#   gem 'rails-assets-bootstrap'
+# end
 
 source 'https://rubygems.org' do
   gem 'bundler', '>= 1.8.4'
@@ -10,6 +16,12 @@ source 'https://rubygems.org' do
   gem 'puma'
 
   gem 'mongoid', '~> 5.0.0'
+
+  gem 'therubyracer'
+
+  # https://github.com/Semantic-Org/Semantic-UI-Rails-LESS
+  gem 'less-rails-semantic_ui', '~> 2.1.7'
+  gem 'autoprefixer-rails', '~> 6.2.1'
 
   # https://github.com/slim-template/slim-rails
   gem 'slim-rails'
@@ -33,8 +45,8 @@ source 'https://rubygems.org' do
   gem 'hashie'
 
   # https://auth0.com/docs/server-platforms/rails
-  gem 'omniauth', '~> 1.2'
-  gem 'omniauth-auth0', '~> 1.1'
+  # gem 'omniauth', '~> 1.2'
+  # gem 'omniauth-auth0', '~> 1.1'
 
   # https://devcenter.heroku.com/articles/memcachier#rails-3-and-4
   gem 'dalli'
@@ -63,10 +75,4 @@ source 'https://rubygems.org' do
     # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
     gem 'spring'
   end
-end
-
-
-source 'https://rails-assets.org' do
-  # https://rails-assets.org/
-  gem 'rails-assets-foundation-sites'
 end
