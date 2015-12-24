@@ -10,8 +10,33 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
+ *= require semantic_ui/semantic_ui
  *= require_self
  */
 
-@import "foundation_and_overrides";
-@import "main";
+@import 'semantic_ui/config/globals/site.variables';
+
+.logo {
+  font-weight: 700;
+
+  span {
+    font-weight: 300;
+  }
+}
+
+#masthead {
+  .logo {
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: white;
+  }
+
+  .field {
+    label {
+      color: white;
+      text-transform: uppercase;
+      font-weight: 400;
+      font-size: 11px;
+    }
+  }
+}

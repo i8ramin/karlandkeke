@@ -1,9 +1,10 @@
 ruby '2.1.6'
 
-source 'https://rails-assets.org' do
-  # https://rails-assets.org/
-  gem 'rails-assets-foundation-sites'
-end
+# source 'https://rails-assets.org' do
+#   # https://rails-assets.org/
+#   # gem 'rails-assets-foundation-sites'
+#   gem 'rails-assets-bootstrap'
+# end
 
 source 'https://rubygems.org' do
   gem 'bundler', '>= 1.8.4'
@@ -15,6 +16,12 @@ source 'https://rubygems.org' do
   gem 'puma'
 
   gem 'mongoid', '~> 5.0.0'
+
+  gem 'therubyracer'
+
+  # https://github.com/Semantic-Org/Semantic-UI-Rails-LESS
+  gem 'less-rails-semantic_ui', '~> 2.1.7'
+  gem 'autoprefixer-rails', '~> 6.2.1'
 
   # https://github.com/slim-template/slim-rails
   gem 'slim-rails'

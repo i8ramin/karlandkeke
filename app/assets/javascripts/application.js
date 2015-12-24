@@ -14,6 +14,6 @@
 //= require jquery_ujs
 //= require_tree .
 
-//= require foundation-sites
+//= require semantic_ui/semantic_ui
 
-$(document).foundation();
+$('.ui.dropdown').dropdown();
