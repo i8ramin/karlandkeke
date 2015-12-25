@@ -14,6 +14,7 @@
  *= require_self
  */
 
+@import 'semantic_ui/themes/default/globals/site.variables';
 @import 'semantic_ui/config/globals/site.variables';
 
 .logo {
@@ -24,19 +25,76 @@
   }
 }
 
+.grade {
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
+
+  &-a {
+    background-color: @blue;
+  }
+
+  &-b {
+    background-color: @green;
+  }
+}
+
 #masthead {
+  .ui.menu {
+    margin: 0 !important;
+  }
+
+  .ui.secondary.menu {
+    background-color: @secondaryColor;
+  }
+
   .logo {
     font-size: 20px;
     letter-spacing: 2px;
     color: white;
   }
 
+  .header.item {
+    width: 210px;
+    margin: 0;
+  }
+
   .field {
     label {
-      color: white;
+      color: @lightGrey;
       text-transform: uppercase;
       font-weight: 400;
       font-size: 11px;
     }
   }
+
+  .ui.label {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 11px;
+    letter-spacing: 1px;
+  }
+}
+
+#results {
+  margin: 0;
+
+  .item {
+    padding: @huge;
+  }
+
+  .grade {
+    margin-left: 5px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+}
+
+#map {
+  min-height: calc(~"100vh - 139px");
+  background-repeat: no-repeat;
+  background-size: cover;
 }

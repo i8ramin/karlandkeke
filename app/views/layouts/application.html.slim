@@ -19,15 +19,15 @@ html lang="en"
           .item.search
             .field
               label(for="search")
-                | Search by Daycare or Location
+                | Search by daycare or Location
               .ui.left.icon.input.loadingg
-                input(type="search" id="search" name="search" placeholder="Daycare or location")
+                input(type="search" id="search" name="search" placeholder="Search")
                 i.search.icon
           .item.filter
             .field
               label
                 | Filter
-              .ui.floating.selection.labeled.icon.dropdown(id="search" name="search")
+              .ui.floating.selection.labeled.icon.dropdown(id="filter")
                 input(type="hidden" name="filter")
                 / i.filter.icon
                 .text
@@ -49,7 +49,26 @@ html lang="en"
                   .item(data-value="D")
                     .ui.red.empty.circular.label
                     | D
-
+        .ui.secondary.menu
+          .header.item
+          .item
+            .field
+              .ui.floating.selection.labeled.icon.dropdown(name="violations")
+                input(type="hidden" name="violations")
+                .text
+                  i.warning.sign.icon
+                  | Add Violations
+                i.dropdown.icon
+                .menu
+                  .item(data-value="violation 1") Violation 1
+                  .item(data-value="violation 2") Violation 2
+          .item
+            .ui.label
+              | Permit
+              i.delete.icon
+            .ui.label
+              | Immunization
+              i.delete.icon
 
     = yield
 
