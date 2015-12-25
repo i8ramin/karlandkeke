@@ -1,26 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "HORACE MANN KINDERGARTEN ",
+  "centerName": "HORACE MANN BARNARD KINDERGARTEN ",
   "permitHolder": "HORACE MANN SCHOOL",
-  "address": "4430 TIBBETT AVE",
+  "address": "4440 TIBBETT AVENUE",
   "borough": "BRONX",
   "zipCode": "10471",
   "phone": "718-432-3300",
-  "permitStatus": "\r\n                    Active\r\n                    ",
-  "permitNumber": "7683",
-  "permitExpirationDate": " 12/19/2008",
+  "permitStatus": " Active ",
+  "permitNumber": "4567",
+  "permitExpirationDate": " 07/23/2009",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "21",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/14/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 03/14/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

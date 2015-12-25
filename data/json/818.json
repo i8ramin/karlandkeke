@@ -1,24 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "CHRIST LUTHERAN SCHOOL ",
-  "permitHolder": "CHRIST LUTHERAN SCHOOL",
-  "address": "248-01 FRANCIS LEWIS BOULEVARD",
-  "borough": "QUEENS",
-  "zipCode": "11422",
-  "phone": "718-525-6884",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "CHRIST THE KING CATHOLIC SCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-CHRIST THE KING CHURCH",
+  "address": "1345 GRAND CONCOURSE",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-538-5959",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "20",
-  "siteType": "Private",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 03/13/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

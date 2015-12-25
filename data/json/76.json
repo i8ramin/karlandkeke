@@ -1,24 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "ADEF INTERNATIONAL INC. ",
-  "permitHolder": "ADEF INTERNATIONAL INC.",
-  "address": "9303 AVENUE L",
-  "borough": "BROOKLYN",
-  "zipCode": "11236",
-  "phone": "718-484-3623",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "94497",
-  "permitExpirationDate": " 08/06/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "27",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "ADVANTAGE TENNIS CLUBS ",
+  "permitHolder": "PLAZA 43 ASSOCIATES LP",
+  "address": "450 WEST 43RD STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10036",
+  "phone": "212-594-0554",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "90857",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "180",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": false,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 07/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

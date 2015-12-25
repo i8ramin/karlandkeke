@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "ALBANY ",
-  "permitHolder": "SCO FAMILY OF SERVICES FAMILY DYNAMICS",
-  "address": "164 TROY AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11213",
-  "phone": "718-363-2476",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "68358",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "18",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "ALEPH BET TODDLER CARE INC ",
+  "permitHolder": "ALEPH BET CORP",
+  "address": "84-75 DANIELS STREET",
+  "borough": "QUEENS",
+  "zipCode": "11435",
+  "phone": "917-209-5595",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96457",
+  "permitExpirationDate": " 09/04/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

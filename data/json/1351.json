@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "HARLEM CHILDREN'S ZONE AFTER-SCHOOL PS 242M ",
-  "permitHolder": "HARLEM CHILDREN'S ZONE AFTER-SCHOOL PS 242M",
-  "address": "134 WEST 122ND STREET",
+  "centerName": "HARLEM CHILDRENS ZONE CS 154 ",
+  "permitHolder": "HARLEM CHILDRENS ZONE CS 154",
+  "address": "250 WEST 127TH STREET",
   "borough": "MANHATTAN",
   "zipCode": "10027",
-  "phone": "212-678-2908",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "33997",
-  "permitExpirationDate": " 10/10/2015",
+  "phone": "646-261-9775",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "",
-  "maximumCapacity": "0",
+  "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/12/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/16/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

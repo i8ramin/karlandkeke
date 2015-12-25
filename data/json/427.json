@@ -1,55 +1,26 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "BRIDGE COMMUNITY PLAYSCHOOL ",
-  "permitHolder": "BRIDGE COMMUNITY PLAYSCHOOL, INC",
-  "address": "250 EAST 61 STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10065",
-  "phone": "646-281-0244",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "73497",
-  "permitExpirationDate": " 09/17/2016",
+  "centerName": "BRIGHT START CHILD LEARNING CENTER INC ",
+  "permitHolder": "BRIGHT START CHILD LEARNING CENTER INC",
+  "address": "30-11 21 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "718-683-4502",
+  "permitStatus": " Permitted ",
+  "permitNumber": "95897",
+  "permitExpirationDate": " 08/31/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "37",
+  "maximumCapacity": "62",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 5,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4741 i",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4749 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4735 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service fails to maintain required postings at time of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4773 b",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,37 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "CLASSIC CORNERSTONE  COMMUNITY CENTER ",
-  "permitHolder": "BRONXWORKS",
-  "address": "286 EAST 156 STREET",
-  "borough": "BRONX",
-  "zipCode": "10451",
-  "phone": "718-665-1300",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "69299",
-  "permitExpirationDate": " 09/15/2014",
-  "ageRange": "",
-  "maximumCapacity": "952",
-  "siteType": "Summer Day Camp",
+  "centerName": "CMS SONYC PROGRAM AMT MIDDLE SCHOOL ",
+  "permitHolder": "CMS SONYC PROGRAM AMT MIDDLE SCHOOL",
+  "address": "8-21 BAY 25 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11691",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/25/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
-    "infractions": [
-      {
-        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4811b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4811b",
-        " Status": "OPEN "
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

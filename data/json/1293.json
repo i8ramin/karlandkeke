@@ -1,12 +1,12 @@
 {
   "type": "Camp",
-  "centerName": "GREATER RIDGEWOOD YOUTH COUNCIL @ PS/IS 87Q ",
-  "permitHolder": "GREATER RIDGEWOOD YOUTH COUNCIL @ PS/IS 87Q",
+  "centerName": "GREATER RIDGEWOOD YOUTH COUNCIL PS/IS 87Q ",
+  "permitHolder": "GREATER RIDGEWOOD YOUTH COUNCIL PS/IS 87Q",
   "address": "67-54 80 STREET",
   "borough": "QUEENS",
   "zipCode": "11379",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "",
@@ -14,11 +14,13 @@
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

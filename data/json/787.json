@@ -1,55 +1,26 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "CHILDREN'S CORNER LEARNING CENTER ",
-  "permitHolder": "CENTER MANAGEMENT ASSOCIATES, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1200 WATERS PLACE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Child Care - Pre School",
+  "centerName": "CHILDRENS CORNER LEARNING CENTER ",
+  "permitHolder": "BRONX CENTER MANAGEMENT ASSOCIATES I INC",
+  "address": "1776 EASTCHESTER ROAD ",
   "borough": "BRONX",
   "zipCode": "10461",
-  "phone": "718-239-1062",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7496",
-  "permitExpirationDate": " 10/20/2017",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "56",
+  "phone": "718-684-3032",
+  "permitStatus": " Permitted ",
+  "permitNumber": "93817",
+  "permitExpirationDate": " 07/28/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "99",
   "siteType": "Private",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "10 or more",
-  "hasInspections": true,
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/16/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 5,
-    "infractions": [
-      {
-        "Violation Summary ": "Number of children in attendance exceeds approved maximum child capacity",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4705 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 ab",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 f",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4761 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4713 c",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

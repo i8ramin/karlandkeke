@@ -1,37 +1,39 @@
 {
   "type": "Camp",
-  "centerName": "ARTSCAPE SUMMER CAMP ",
-  "permitHolder": "THE HARLEM SCHOOL OF THE ARTS, INC.",
-  "address": "645 Saint Nicholas Avenue",
-  "borough": "MANHATTAN",
-  "zipCode": "10030",
-  "phone": "212-926-4100",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "34272",
+  "centerName": "ASIAN AMERICAN COALITION FOR EDUCATION ",
+  "permitHolder": "ASIAN AMERICAN COALITION FOR EDUCATION",
+  "address": "57-00 223 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11364",
+  "phone": "718-570-2202",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91207",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "200",
+  "maximumCapacity": "50",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
+    "date": "Inspection Date 08/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "2",
     "infractions": [
       {
-        "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4817e",
-        " Status": "CORRECTED"
+        "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4821a",
+        " Status": "OPEN "
       },
       {
-        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4809i",
-        " Status": "CORRECTED"
+        "Violation Summary ": "Parental authorization for camp to respond to emergencies as appropriate in absence of parental contact not on file",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4817i",
+        " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

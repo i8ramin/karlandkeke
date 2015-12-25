@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "HAN-I PRESCHOOL ",
-  "permitHolder": "HAN-I, INC",
-  "address": "198-18 32ND ROAD",
+  "type": "Camp",
+  "centerName": "HANAC ASTORIA BEACON IS 204 ",
+  "permitHolder": "HANAC ASTORIA BEACON IS 204",
+  "address": "36-41 28TH STREET",
   "borough": "QUEENS",
-  "zipCode": "11358",
-  "phone": "718-358-3377",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7965",
-  "permitExpirationDate": " 11/26/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "23",
-  "siteType": "Private",
+  "zipCode": "11106",
+  "phone": "718-433-1989",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/18/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "7         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/05/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

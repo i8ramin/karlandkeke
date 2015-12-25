@@ -1,26 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "ALL SPORTS FOR ALL PEOPLE ",
-  "permitHolder": "ALL SPORTS FOR ALL PEOPLE, CORP",
-  "address": "1625 11 AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11215",
-  "phone": "718-748-7084",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "91680",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "300",
-  "siteType": "Summer Day Camp",
+  "centerName": "ALLIANCE FOR YOUTH PS 291 PS/MS 15 ",
+  "permitHolder": "ALLIANCE FOR YOUTH PS 291 PS/MS 15",
+  "address": "2195 ANDREWS AVE",
+  "borough": "BRONX",
+  "zipCode": "10453",
+  "phone": "718-563-0473",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/07/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

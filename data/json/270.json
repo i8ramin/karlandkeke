@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BAYBEE LOUNGE DAYCARE CORP. ",
-  "permitHolder": "BAYBEE LOUNGE DAYCARE CORP.",
-  "address": "2745 ATLANTIC AVENUE",
+  "type": "Camp",
+  "centerName": "BBCS GARY KLINSKY CHILDREN CTR PS 306 ",
+  "permitHolder": "BBCS GARY KLINSKY CHILDREN CTR PS 306",
+  "address": "970 VERMONT ST",
   "borough": "BROOKLYN",
   "zipCode": "11207",
-  "phone": "646-541-7744",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "8398",
-  "permitExpirationDate": " 09/28/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "25",
-  "siteType": "Private",
+  "phone": "718-649-4119",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "4         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/07/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

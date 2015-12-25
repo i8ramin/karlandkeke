@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "BAIS YAAKOV FAIGEH SCHONBERGER OF ADAS YEREIM ",
-  "permitHolder": "BAIS YAAKOV FAIGEH SCHONBERGER OF ADAS YEREIM",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1169 43RD STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BAIS YAKOV OF ADAS YEREIM ",
+  "permitHolder": "BAIS YAKOV OF ADAS YEREIM",
+  "address": "563 BEDFORD AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "718-435-5111",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "8262",
-  "permitExpirationDate": " 01/24/2017",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "16",
-  "siteType": "Head Start (Direct Fed. Funding)",
+  "zipCode": "11211",
+  "phone": "718-302-7500",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "4         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

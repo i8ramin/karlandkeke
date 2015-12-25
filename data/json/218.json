@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "BACKPACKS AND BINOCULARS ",
-  "permitHolder": "BACKPACKS AND BINOCULARS, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t110 SCHERMERHORN ST.      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "BAIS CHAYA ESTHER ",
+  "permitHolder": "BAIS CHAYA ESTHER",
+  "address": "1305 AVENUE R",
   "borough": "BROOKLYN",
-  "zipCode": "11201",
-  "phone": "855-687-6923",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "88358",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "200",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11229",
+  "phone": "718-645-6605",
+  "permitStatus": " Active ",
+  "permitNumber": "7624",
+  "permitExpirationDate": " 08/07/2008",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "29",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/20/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

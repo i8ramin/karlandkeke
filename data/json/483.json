@@ -1,26 +1,26 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "BRIGHT HORIZONS CHILDREN'S CENTERS INC. ",
-  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTER, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t388 GREENWICH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "BRIGHT HORIZONS CHILDRENS CENTERS LLC ",
+  "permitHolder": "BRIGHT HORIZONS CHILDRENS CENTERS LLC",
+  "address": "129 HUDSON STREET ",
   "borough": "MANHATTAN",
   "zipCode": "10013",
-  "phone": "212-816-7700",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6590",
-  "permitExpirationDate": " 06/27/2017",
+  "phone": "212-226-7465",
+  "permitStatus": " Permitted ",
+  "permitNumber": "92657",
+  "permitExpirationDate": " 07/10/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "15",
-  "siteType": "Corporate",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "10 or more",
-  "hasInspections": true,
+  "maximumCapacity": "70",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

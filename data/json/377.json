@@ -1,24 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BLESSED SACRAMENT PRESCHOOL ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "34-20 94TH STREET",
-  "borough": "QUEENS",
-  "zipCode": "11372",
-  "phone": "718-446-4449",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "BLESSED SACRAMENT SCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-CHURCH OF THE BLESSED SACRAMENT",
+  "address": "1160 BEACH AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10472",
+  "phone": "718-892-0433",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "64",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

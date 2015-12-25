@@ -1,31 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "EASTER SEALS CHILD DEVELOPMENT CENTER ",
-  "permitHolder": "EASTER SEALS NEW YORK, INC.",
-  "address": "2433 EAST TREMONT AVENUE",
+  "type": "Camp",
+  "centerName": "EASTSIDE HOUSES-MILBROOK CC ",
+  "permitHolder": "EASTSIDE HOUSES-MILBROOK CC",
+  "address": "201 ST ANNS AVE",
   "borough": "BRONX",
-  "zipCode": "10461",
-  "phone": "718-409-4227",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7815",
-  "permitExpirationDate": " 10/15/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "133",
-  "siteType": "ACS Contracted Preschools",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "8         ",
-  "hasInspections": true,
+  "zipCode": "10454",
+  "phone": "718-585-1254",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 07/15/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/31/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 08/12/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4719 c",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

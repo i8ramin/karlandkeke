@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "EAST HARLEM COUNCIL FOR HUMAN SERVICES INC.BILINGUAL HEAD START ",
-  "permitHolder": "EAST HARLEM COUNCIL FOR HUMAN SERVICES INC.",
-  "address": "30 EAST 111 STREET",
+  "type": "School Based Child Care",
+  "centerName": "EAST HARLEM SCHOLARS ACADEMY PRESCHOOL ",
+  "permitHolder": "EAST HARLEM SCHOLARS ACADEMY CHARTER SCHOOL I I",
+  "address": "1573 Madison Avenue",
   "borough": "MANHATTAN",
   "zipCode": "10029",
-  "phone": "212-860-7201",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6385",
-  "permitExpirationDate": " 01/24/2017",
+  "phone": "212-348-2518",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "87",
-  "siteType": "ACS Head Start",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "10 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

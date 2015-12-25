@@ -1,24 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BNOS YAKOV ",
-  "permitHolder": "YESHIVATH KEHILATH YAKOV",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t274 KEAP STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "BNOS ZION OF BOBOV ",
+  "permitHolder": "BNOS ZION OF BOBOV",
+  "address": "1368 50 STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11211",
-  "phone": "718-963-1212",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11219",
+  "phone": "",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "176",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

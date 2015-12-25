@@ -1,31 +1,33 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "AHRC FRANCIS OF PAOLA EARLY LEARNING CENTER ",
-  "permitHolder": "ASSOCIATION FOR THE HELP OF RETARDED CHILDREN, INC.",
-  "address": "195-201 CONSELYEA STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11211",
-  "phone": "718-782-1462",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "5687",
-  "permitExpirationDate": " 09/27/2016",
+  "type": "School Based Child Care",
+  "centerName": "AL MADINAH SCHOOL ",
+  "permitHolder": "AL MADINAH SCHOOL INC",
+  "address": "18-24 ASTORIA BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "718-222-4986",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "205",
+  "maximumCapacity": "0",
   "siteType": "Private",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "23        ",
-  "hasInspections": true,
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 12/15/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "1",
     "infractions": [
       {
-        "Violation Summary ": "Beverages with added sweeteners observed being served to children at time of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4761 b1",
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
         " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

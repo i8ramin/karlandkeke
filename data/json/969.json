@@ -1,24 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "DIVINE MERCY CATHOLIC ACADEMY ",
+  "centerName": "DIVINE WISDOM CATHOLIC ACADEMY ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "101-60 92ND STREET",
+  "address": "45-11 245 STREET",
   "borough": "QUEENS",
-  "zipCode": "11416",
-  "phone": "718-845-3074",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11362",
+  "phone": "718-631-3153",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 12/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

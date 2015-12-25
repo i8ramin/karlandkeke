@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BCA EARLY CHILDHOOD EDUCATION CENTER 5 ",
-  "permitHolder": "BROOKLYN CHINESE-AMERICAN ASSOCIATION, INC.",
-  "address": "871 50TH STREET",
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BEER HAGOLAH INSTITUTE ",
+  "permitHolder": "THE CENTER FOR RUSSIAN JEWRY-BEER HAGOLAH INSTITUTE",
+  "address": "671 LOUISIANA AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11220",
-  "phone": "718-435-8818",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "41797",
-  "permitExpirationDate": " 05/29/2017",
+  "zipCode": "11239",
+  "phone": "718-642-6800",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "102",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/03/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

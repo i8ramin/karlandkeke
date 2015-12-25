@@ -1,24 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "HANAC ASTORIA BEACON IS 204 ",
-  "permitHolder": "HANAC ASTORIA BEACON IS 204",
-  "address": "36-41 28TH STREET",
+  "centerName": "HANAC ASTORIA CORNERSTONE ",
+  "permitHolder": "HANAC ASTORIA CORNERSTONE",
+  "address": "4-05 ASTORIA BLVD",
   "borough": "QUEENS",
-  "zipCode": "11106",
-  "phone": "718-433-1989",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "zipCode": "11102",
+  "phone": "",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 01/18/2015",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

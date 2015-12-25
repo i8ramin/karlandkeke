@@ -1,7 +1,19 @@
-desc "import JSON data into Mongo"
-task :import_json => :environment do
+require_relative '../../data/scraper.rb'
 
-    puts "BEGIN import JSON --> Mongo"
+namespace :mongo do
+  desc "Scrape data and generate JSON"
+  task scrape: :environment do
+  	begin
+  		scraper
+  	rescue Exception => e
+  		puts "scrape failed."
+  		puts e.to_s
+  	end
+  end
+
+  desc "import JSON data into Mongo"
+  task import: :environment do
+  	puts "BEGIN import JSON --> Mongo"
     counter = 0
     fails = []
 
@@ -30,5 +42,6 @@ task :import_json => :environment do
     puts "#{counter} records imported"
     puts "#{fails.size} failed to import"
     puts "END   import JSON --> Mongo"
+  end
 
 end

@@ -1,31 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "ALL SOULS SCHOOL ",
-  "permitHolder": "ALL SOULS SCHOOL",
-  "address": "1157 LEXINGTON AVENUE",
-  "borough": "MANHATTAN",
-  "zipCode": "10075",
-  "phone": "212-861-5232",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "2014",
-  "permitExpirationDate": " 04/26/2017",
+  "type": "School Based Child Care",
+  "centerName": "ALLEN CHRISTIAN PRESCHOOL ",
+  "permitHolder": "ALLEN CHRISTIAN SCHOOL",
+  "address": "114-32 MERRICK BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-657-2500",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "110",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "10 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 01/12/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Designated outdoor play area was observed without fencing of appropriate height at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4747 b",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

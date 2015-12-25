@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "BATTERY PARK CITY DAY NURSERY, INC. ",
-  "permitHolder": "BATTERY PARK CITY DAY NURSERY, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t215 SOUTH END AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Camp",
+  "centerName": "BAXTER STREET SCHOOL AGE CENTER ",
+  "permitHolder": "CHINESE AMERICAN PLANNING COUNCIL INC",
+  "address": "143 BAXTER STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10280",
-  "phone": "212-945-0088",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "5233",
-  "permitExpirationDate": " 07/03/2017",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "20",
-  "siteType": "Private",
+  "zipCode": "10013",
+  "phone": "212-431-8574",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/31/2011",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "10 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/23/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,37 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "GEORGIA L. MC MURRAY BATKIDS CENTER ",
-  "permitHolder": "COLONY SOUTH BROOKLYN HOUSES, INC.",
-  "address": "140 58TH STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11220",
-  "phone": "718-567-0818",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7625",
-  "permitExpirationDate": " 07/28/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "52",
-  "siteType": "ACS Contracted Preschools",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "GENESIS AT GOOD COUNSEL HOMES DAYCARE CENTER ",
+  "permitHolder": "GOOD COUNSEL INC",
+  "address": "1157 FULTON AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-312-3980",
+  "permitStatus": " Permitted ",
+  "permitNumber": "94397",
+  "permitExpirationDate": " 08/05/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "9         ",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
-    "infractions": [
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "OPEN "
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

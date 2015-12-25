@@ -1,24 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "FIAO BEACON COMMUNITY CTR @ IS 96 ",
-  "permitHolder": "FIAO BEACON COMMUNITY CTR @ IS 96",
-  "address": "99 AVE. P",
+  "centerName": "FIAO BEACON MARLBOROHOUSING ",
+  "permitHolder": "FIAO BEACON MARLBOROHOUSING",
+  "address": "2298 WEST 8TH STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11204",
-  "phone": "718-232-2266",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 04/11/2015",
+  "zipCode": "11223",
+  "phone": "718-333-0575",
+  "permitStatus": " Registered ",
+  "permitNumber": "34062",
+  "permitExpirationDate": " 06/08/2015",
   "ageRange": "",
   "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 08/13/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

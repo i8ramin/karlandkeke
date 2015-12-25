@@ -1,31 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "EAST RIVER CHILD DEVELOPMENT CENTER ",
-  "permitHolder": "EAST RIVER CHILD DEVELOPMENT CENTER",
-  "address": "577 GRAND STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10002",
-  "phone": "212-254-7300",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "4149",
-  "permitExpirationDate": " 07/18/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "60",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "EAST SIDE HOUSE MITCHEL COMM CTR ",
+  "permitHolder": "EAST SIDE HOUSE MITCHEL COMM CTR",
+  "address": "210 ALEXANDER AVE",
+  "borough": "BRONX",
+  "zipCode": "10454",
+  "phone": "718-993-3245",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 08/06/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "13109f",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

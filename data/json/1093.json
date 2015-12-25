@@ -1,31 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "FAIRYTALE DAYCARE, INC. ",
-  "permitHolder": "FAIRYTALE DAYCARE, INC.",
-  "address": "99-17 63RD ROAD",
+  "type": "Camp",
+  "centerName": "FAIRYTALE DAYCARE ",
+  "permitHolder": "FAIRYTALE DAYCARE INC",
+  "address": "99-17 63 ROAD ",
   "borough": "QUEENS",
   "zipCode": "11374",
   "phone": "718-275-0204",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "87757",
-  "permitExpirationDate": " 05/11/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "14",
-  "siteType": "Corporate",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "90997",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "30",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 08/04/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4759 b",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

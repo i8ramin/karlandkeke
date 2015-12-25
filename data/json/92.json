@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "AL MADINAH SCHOOL ",
-  "permitHolder": "AL MADINAH SCHOOL, INC",
-  "address": "18-24 ASTORIA BLVD",
+  "centerName": "AL-IMAN SCHOOL ",
+  "permitHolder": "AL-IMAN SCHOOL",
+  "address": "137-11 90 AVENUE",
   "borough": "QUEENS",
-  "zipCode": "11102",
-  "phone": "718-222-4986",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11435",
+  "phone": "718-297-6520",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 12/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -2,11 +2,11 @@
   "type": "Camp",
   "centerName": "2015 MUSIC SUMMER ARTS PROGRAM ",
   "permitHolder": "LAURISSA JANE MUSIC IN",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t90-04 175 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "address": "90-04 175 STREET ",
   "borough": "QUEENS",
   "zipCode": "11432",
   "phone": "718-739-7452",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitStatus": " In-Renewal ",
   "permitNumber": "94737",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
@@ -14,11 +14,13 @@
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1 or more",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BUSHWICK UNITED HOUSING DEV FUND CORP/ BUSHWICK UNITED HS/ EARLY LEARN CENTER ",
-  "permitHolder": "BUSHWICK UNITED HOUSING DEVELOPMENT FUND CORPORATION",
-  "address": "178 LEONARD STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11206",
-  "phone": "347-296-8152",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7923",
-  "permitExpirationDate": " 09/23/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "39",
-  "siteType": "ACS Head Start",
+  "type": "Camp",
+  "centerName": "BUTTER BEANS FOOD GARDEN SUMMER CAMP ",
+  "permitHolder": "BUTTER BEANS WELLNESS INC",
+  "address": "324 WEST 15 STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10011",
+  "phone": "646-469-6529",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92458",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "25",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "7         ",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/28/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

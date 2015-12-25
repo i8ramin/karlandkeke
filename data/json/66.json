@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "ACE INTEGRATION HEAD START ",
-  "permitHolder": "HOSPITAL CLINIC HOME CENTER INSTRUCTIONAL CORPORATION",
-  "address": "1419-23 BROADWAY",
+  "type": "School Based Child Care",
+  "centerName": "ACH TOV VCHESED ",
+  "permitHolder": "ACH TOV VCHESED",
+  "address": "27 SKILLMAN STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11221",
-  "phone": "718-443-3917",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6971",
-  "permitExpirationDate": " 05/12/2016",
+  "zipCode": "11205",
+  "phone": "718-384-1652",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "136",
-  "siteType": "ACS Head Start",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

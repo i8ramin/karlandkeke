@@ -1,12 +1,12 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "BNOS SQUARE OF WILLIAMSBURG ",
-  "permitHolder": "BNOS SQUARE OF WILLIAMSBURG",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t382 WILLOUGHBY AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "BNOS YAKOV OF BOROUGH PARK ",
+  "permitHolder": "YESHIVATH KEHILATH YAKOV",
+  "address": "1402 40TH STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11205",
-  "phone": "718-797-9844",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11218",
+  "phone": "718-963-1212",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

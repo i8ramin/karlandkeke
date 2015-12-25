@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "CYPRESS HILLS COMMUNITY LEARNING CENTER @ IS 171 ",
-  "permitHolder": "CYPRESS HILLS LOCAL DEVELOPMENT CORP., INC.",
-  "address": "528 RIDGEWOOD AVENUE",
+  "centerName": "CYPRESS HILLS LEARNING CENTER PS 89 ",
+  "permitHolder": "CYPRESS HILLS LOCAL DEVELOPMENT CORPORATION",
+  "address": "265 WARWICK STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11208",
-  "phone": "718-235-1028",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "33965",
+  "zipCode": "11207",
+  "phone": "718-964-1180",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91722",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "130",
+  "maximumCapacity": "400",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/28/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

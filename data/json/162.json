@@ -1,61 +1,45 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "APPLE TREE DAYCARE AC, INC. ",
-  "permitHolder": "APPLE TREE DAYCARE AC, INC.",
-  "address": "440 EAST 48TH STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11203",
-  "phone": "718-287-7488",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "44957",
-  "permitExpirationDate": " 06/25/2017",
+  "centerName": "ARC-EN-CIEL ",
+  "permitHolder": "VHG GROUP INC",
+  "address": "1656 3RD AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10128",
+  "phone": "917-825-8763",
+  "permitStatus": " Permitted ",
+  "permitNumber": "76337",
+  "permitExpirationDate": " 12/01/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "40",
+  "maximumCapacity": "30",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2         ",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/26/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 6,
+    "date": "Inspection Date 05/27/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "3",
     "infractions": [
       {
-        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4725 a1",
-        " Status": "CORRECTED"
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "OPEN "
       },
       {
-        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4725 a2",
-        " Status": "CORRECTED"
+        "Violation Summary ": "Child care service fails to maintain required postings at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4773 b",
+        " Status": "OPEN "
       },
       {
-        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4733 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4719 i",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection childrens medical files were not provided were incomplete or were not maintained",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4725 d",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "CORRECTED"
+        "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "8109 i",
+        " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

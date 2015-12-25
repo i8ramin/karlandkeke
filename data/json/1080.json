@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "EVOLUTION ENRICHMENT CENTER ",
-  "permitHolder": "KINGS DAY CARE, LLC.",
-  "address": "38 DELANCEY STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10002",
-  "phone": "212-375-9500",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "77438",
-  "permitExpirationDate": " 12/15/2016",
+  "type": "School Based Child Care",
+  "centerName": "EVANGEL CHRISTIAN PRESCHOOL ",
+  "permitHolder": "EVANGEL CHRISTIAN SCHOOL",
+  "address": "39-21 CRESCENT STREET",
+  "borough": "QUEENS",
+  "zipCode": "11101",
+  "phone": "718-937-9600",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "72",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/31/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

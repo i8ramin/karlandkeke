@@ -1,24 +1,26 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "GOOD SHEPHERD CATHOLIC ACADEMY ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "1943 BROWN STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11229",
-  "phone": "718-339-2745",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "type": "Camp",
+  "centerName": "GOOD SHEPHERD AFTER SCHOOL PROGRAM AT PS 246 ",
+  "permitHolder": "GOOD SHEPHERD AFTER SCHOOL PROGRAM AT PS 246",
+  "address": "2641 GRAND CONCOURSE",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-584-6764",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
+  "permitExpirationDate": " 07/04/2016",
+  "ageRange": "",
   "maximumCapacity": "",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

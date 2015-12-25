@@ -1,24 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL INDUSTRIES OF GREATER NEW YORK OST PROGRAM @ IS 145 ",
-  "permitHolder": "GOODWILL INDUSTRIES OF GREATER NEW YORK OST PROGRAM @ IS 145",
-  "address": "33-34 80TH ST.",
-  "borough": "QUEENS",
-  "zipCode": "11372",
-  "phone": "646-659-1894",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 01/31/2015",
+  "centerName": "GOODWILL INDUSTRIES OF GREATER NEW YORK INC BEACON 265 ",
+  "permitHolder": "GOODWILL INDUSTRIES OF GREATER NEW YORK INC BEACON 265",
+  "address": "101 Park Avenue",
+  "borough": "BROOKLYN",
+  "zipCode": "11205",
+  "phone": "718-237-0852",
+  "permitStatus": " Registered ",
+  "permitNumber": "34121",
+  "permitExpirationDate": " 07/06/2016",
   "ageRange": "",
-  "maximumCapacity": "",
+  "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 07/29/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

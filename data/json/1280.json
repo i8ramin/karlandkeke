@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "GRAND ST SETTLEMENT EARLY HEAD START ",
-  "permitHolder": "GRAND STREET SETTLEMENT",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t80 PITT STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Camp",
+  "centerName": "GRAHAM-WINDHAM PS/MS 123 ",
+  "permitHolder": "GRAHAM-WINDHAM PS/MS 123",
+  "address": "301 WEST 140TH STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10002",
-  "phone": "212-674-1740",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6604",
-  "permitExpirationDate": " 04/02/2017",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "14",
-  "siteType": "Private",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "10 or more",
-  "hasInspections": true,
+  "zipCode": "10030",
+  "phone": "212-368-1622",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 09/27/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/24/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/09/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,24 +1,26 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "BAYIS V'GAN DAY CARE PROGRAM ",
-  "permitHolder": "BAYIS V'GAN DAY CARE PROGRAM",
-  "address": "1014 EAST 15 STREET",
+  "type": "Camp",
+  "centerName": "BCA A S P PS 105 ",
+  "permitHolder": "BCA A S P PS 105",
+  "address": "1031 59TH ST",
   "borough": "BROOKLYN",
-  "zipCode": "11230",
-  "phone": "718-377-0777",
-  "permitStatus": "\r\n                    Active\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
+  "zipCode": "11219",
+  "phone": "718-438-0008",
+  "permitStatus": " Registered ",
+  "permitNumber": "33798",
+  "permitExpirationDate": " 06/26/2015",
+  "ageRange": "",
   "maximumCapacity": "0",
-  "siteType": "Private",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

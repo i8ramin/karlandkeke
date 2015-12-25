@@ -1,24 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BLESSED SACRAMENT CATHOLIC ACADEMY ",
+  "centerName": "BLESSED SACRAMENT PRESCHOOL ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "187 EUCLID AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11208",
-  "phone": "718-235-4863",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "address": "34-20 94TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-446-4449",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "48",
+  "maximumCapacity": "0",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

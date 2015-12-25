@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "COSMOKIDZ PRE-SCHOOL ",
-  "permitHolder": "COSMOKIDZ LLC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t71-33 162 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "QUEENS",
-  "zipCode": "11365",
-  "phone": "718-380-5439",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "26457",
-  "permitExpirationDate": " 10/25/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "38",
+  "type": "Camp",
+  "centerName": "COUNTEE CULLEN COMMUNITY CENTER DAY CAMP ",
+  "permitHolder": "HARLEM CHILDRENS ZONE INC",
+  "address": "242 WEST 144 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10030",
+  "phone": "212-234-4500",
+  "permitStatus": " Registered ",
+  "permitNumber": "34400",
+  "permitExpirationDate": " 09/15/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "3         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/22/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/17/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

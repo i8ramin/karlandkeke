@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BOYS AND GIRLS HARBOR INC. ",
-  "permitHolder": "BOYS AND GIRLS HARBOR INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1 EAST 104 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Camp",
+  "centerName": "BOYS AND GIRLS REPUBLIC ",
+  "permitHolder": "HENRY STREET SETTEMENT/BOYS AND GIRLS REPUBLIC",
+  "address": "888 East 6th Street",
   "borough": "MANHATTAN",
-  "zipCode": "10029",
-  "phone": "212-427-2244",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "5100",
-  "permitExpirationDate": " 11/29/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "187",
-  "siteType": "ACS Contracted Preschools",
+  "zipCode": "10009",
+  "phone": "212-686-8888",
+  "permitStatus": " Registered ",
+  "permitNumber": "34553",
+  "permitExpirationDate": " 03/31/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/09/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,43 +1,26 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "ADDIE MAE COLLINS COMMUNITY SERVICE HEAD START ",
-  "permitHolder": "ADDIE MAE COLLINS COMMUNITY SERVICES, INC.",
-  "address": "345 EAST 101 STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10029",
-  "phone": "212-831-6407",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6148",
-  "permitExpirationDate": " 05/09/2016",
+  "centerName": "ADEF INTERNATIONAL INC ",
+  "permitHolder": "ADEF INTERNATIONAL INC",
+  "address": "9303 AVENUE L",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-484-3623",
+  "permitStatus": " Permitted ",
+  "permitNumber": "94497",
+  "permitExpirationDate": " 08/06/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "30",
-  "siteType": "ACS Head Start",
+  "maximumCapacity": "27",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/20/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4749 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4757 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4741 j",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

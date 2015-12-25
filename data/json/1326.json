@@ -1,24 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "HANAC ASTORIA CORNERSTONE ",
-  "permitHolder": "HANAC ASTORIA CORNERSTONE",
-  "address": "4-05 ASTORIA BLVD",
+  "centerName": "HANAC INC PS 212 ",
+  "permitHolder": "HANAC INC PS 212",
+  "address": "34-25 82ND STREET",
   "borough": "QUEENS",
-  "zipCode": "11102",
-  "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "zipCode": "11372",
+  "phone": "718-898-6973",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "permitExpirationDate": " 04/02/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 06/20/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

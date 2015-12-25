@@ -1,55 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "ALEPH BET NY, INC. ",
-  "permitHolder": "ALEPH BET NY, INC.",
-  "address": "133-135 EAST 29TH STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10016",
-  "phone": "212-685-0241",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "28419",
-  "permitExpirationDate": " 12/03/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "38",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "ALL SPORTS FOR ALL PEOPLE ",
+  "permitHolder": "ALL SPORTS FOR ALL PEOPLE",
+  "address": "237 7 AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-748-7084",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92079",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "500",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "3         ",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/03/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 5,
+    "date": "Inspection Date 08/03/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4759 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4741 i",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection child care service failed to provide separate adult lavatory facilities for staff Staff observed using lavatory facilities designated for childrens use",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4743 d",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4741 j",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

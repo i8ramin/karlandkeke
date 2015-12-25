@@ -1,67 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "CHINATOWN YMCA @ HOUSTON STREET ",
-  "permitHolder": "YOUNG MEN'S CHRISTIAN ASSOCIATION OF GREATER NEW YORK",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t273 BOWERY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "CHINATOWN YMCA TASC PS 126 ",
+  "permitHolder": "CHINATOWN YMCA TASC PS 126",
+  "address": "80 CATHERINE STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10002",
-  "phone": "212-912-2460",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "34050",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "61",
+  "zipCode": "10038",
+  "phone": "212-406-1137",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 09/03/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 7,
-    "infractions": [
-      {
-        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "13105a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Facilty egress observed obstructed not protected from hazardous areas",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4815a6",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4815a8",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4815a16",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4815a5",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Camp equipment not maintained not of safe design or properly installed",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4815b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Buddy system or other accountability system has not been established System does not contains camper identity ability record of coming and goings buddy assignments  15 minute checks",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4813a3iv",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

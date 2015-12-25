@@ -1,26 +1,28 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "GET SET  KINDERGARTEN SCHOOL- AVENUE D ",
-  "permitHolder": "GET SET LINDEN INC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t4411 AVENUE D      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "GENESIS CHILDHOOD CENTER INC ",
+  "permitHolder": "GENESIS CHILDHOOD CENTER INC",
+  "address": "1567 RALPH AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11203",
-  "phone": "718-451-5378",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7026",
-  "permitExpirationDate": " 12/01/2016",
+  "zipCode": "11236",
+  "phone": "718-778-0313",
+  "permitStatus": " Permitted ",
+  "permitNumber": "98377",
+  "permitExpirationDate": " 10/09/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "74",
+  "maximumCapacity": "30",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/27/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

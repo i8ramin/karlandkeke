@@ -1,61 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "GODDARD RIVERSIDE DAY CARE CENTER ",
-  "permitHolder": "GODDARD RIVERSIDE COMMUNITY CENTER",
-  "address": "114 WEST 91 STREET",
+  "type": "Camp",
+  "centerName": "GODDARD RIVERSIDE COMMUNITY CENTER BEACON MS 118 ",
+  "permitHolder": "GODDARD RIVERSIDE COMMUNITY CENTER BEACON MS 118",
+  "address": "154 West 93rd street",
   "borough": "MANHATTAN",
-  "zipCode": "10024",
-  "phone": "212-873-6865",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "2061",
-  "permitExpirationDate": " 02/11/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "93",
-  "siteType": "ACS Contracted Preschools",
+  "zipCode": "10025",
+  "phone": "212-866-0009",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/10/2015",
+  "ageRange": "",
+  "maximumCapacity": "75",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 6,
+    "date": "Inspection Date 07/24/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4719 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 ab",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4733 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4713 f",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4719 i",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

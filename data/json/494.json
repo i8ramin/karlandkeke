@@ -1,43 +1,26 @@
 {
   "type": "Child Care - Infants/Toddlers",
-  "centerName": "BRIGHT STAR STRATFORD INC ",
-  "permitHolder": "BRIGHT STAR STRATFORD INC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1217 STRATFORD  AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BRONX",
-  "zipCode": "10472",
-  "phone": "718-842-9361",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "58678",
-  "permitExpirationDate": " 03/13/2016",
+  "centerName": "BRIGHT START CHILD LEARNING CENTER INC ",
+  "permitHolder": "BRIGHT START CHILD LEARNING CENTER INC",
+  "address": "30-11 21 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "718-683-4502",
+  "permitStatus": " Permitted ",
+  "permitNumber": "95877",
+  "permitExpirationDate": " 08/31/2017",
   "ageRange": "0 - 2",
   "maximumCapacity": "18",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
-    "infractions": [
-      {
-        "Violation Summary ": "Permittee/applicant submitted incomplete written safety plan",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4711 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection diaper changing counter not properly constructed Diaper changing area observed not to be adjacent to a hand wash sink with adequate hot and cold running water",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4743 h1",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Children feeding bottles observed stored/used without being properly labeled with childs name and date of preparation at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4761 g",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

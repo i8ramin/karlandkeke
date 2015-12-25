@@ -1,31 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "ELADIA'S KIDS PARENT LLC ",
-  "permitHolder": "ELADIA'S KIDS PARENT LLC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t147 5TH AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BROOKLYN",
-  "zipCode": "11217",
-  "phone": "718-633-3316",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7786",
-  "permitExpirationDate": " 08/07/2017",
+  "type": "School Based Child Care",
+  "centerName": "ELBER ISLAMIC SCHOOL ",
+  "permitHolder": "AL-BER INC",
+  "address": "25-42 49 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11103",
+  "phone": "917-362-1130",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "16",
-  "siteType": "Private",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "8         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 d",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

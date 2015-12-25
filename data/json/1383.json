@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "HELEN KELLER SERVICES FOR THE BLIND  CHILDREN'S LEARNING CENTER ",
-  "permitHolder": "HELEN KELLER SERVICES FOR THE BLIND INC.",
-  "address": "57 WILLOUGHBY STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11201",
-  "phone": "718-522-2122",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "5827",
-  "permitExpirationDate": " 10/03/2015",
+  "type": "School Based Child Care",
+  "centerName": "HELLENIC ORTHODOX COMMUNITY OF ASTORIA ST DEMETRIOS ",
+  "permitHolder": "HELLENIC ORTHODOX COMMUNITY OF ASTORIA ST DEMETRIOS",
+  "address": "30-11 30 DRIVE",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "718-728-1754",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "40",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "14 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 12/15/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

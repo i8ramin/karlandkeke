@@ -1,26 +1,63 @@
 {
-  "type": "Camp",
-  "centerName": "BEANSPROUTS DAY CAMP ",
-  "permitHolder": "BEANSPROUTS",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t506 6TH AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "BEDFORD HARRISON DAY CARE CENTER ",
+  "permitHolder": "UNITED TALMUDICAL ACADEMY",
+  "address": "60 HARRISON AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11215",
-  "phone": "718-965-8573",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "86537",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "29",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11211",
+  "phone": "718-963-9260",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 05/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "6",
     "infractions": [
-
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Food service observed in operation without required permit",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "8105 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program fails to provide complete written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4321 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4317 d",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Attendance records not provided or maintained by school-based child care program at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4319 a",
+        " Status": "OPEN "
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

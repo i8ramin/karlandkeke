@@ -1,37 +1,33 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "BNEI MOSHE OF NEW WILLIAMSBURG ",
-  "permitHolder": "BNEI MOSHE OF NEW WILLIAMSBURG",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t388 VERNON AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "BNOS CHAYA ",
+  "permitHolder": "CONGREGATION BNOS CHAYA",
+  "address": "4511 14 AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11206",
-  "phone": "347-452-1479",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "74138",
-  "permitExpirationDate": " 10/08/2016",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "18",
+  "zipCode": "11219",
+  "phone": "718-851-1212",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
+    "date": "Inspection Date 02/04/2014",
+    "result": "Inspection Result ",
+    "numInfractions": "1",
     "infractions": [
       {
-        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4733 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "CORRECTED"
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

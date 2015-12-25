@@ -1,85 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "ACADEMY OF ST. JOSEPH PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-ACADEMY OF ST. JOSEPH",
-  "address": "111 WASHINGTON PLACE",
-  "borough": "MANHATTAN",
-  "zipCode": "10014",
-  "phone": "212-243-5420",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "ACADEMY PRESCHOOL ",
+  "permitHolder": "SPEAK THE WORD CHRISTIAN ACADEMY",
+  "address": "120 STUYVESANT PLACE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10301",
+  "phone": "718-447-2820",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "25",
-  "siteType": "Corporate",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      01/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 10,
-    "infractions": [
-      {
-        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "13105a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "307",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Food service observed in operation without required permit",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "8105 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Temperature not maintained in commercial space of 65 deg F when outside is less than 50 deg F during work/occupancy hours",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "13107c 2",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "13109d2",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "8115 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Choking poster not provided in food service area at time of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "17-172",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4319 b",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "8109 i",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "8121 a",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

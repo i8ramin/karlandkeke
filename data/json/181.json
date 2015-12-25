@@ -1,26 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "ASIAN-AMERICAN TARGET SUMMER DAY CAMP ",
-  "permitHolder": "ASIAN-AMERICAN TARGET CORP.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t8401 23 AVE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BROOKLYN",
-  "zipCode": "11214",
-  "phone": "718-886-8371",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "33800",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "165",
+  "centerName": "ASPIRA OF NEW YORK IS 131 ",
+  "permitHolder": "ASPIRA OF NEW YORK IS 131",
+  "address": "885 BOLTON AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10473",
+  "phone": "718-991-7490",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 12/09/2014",
+  "ageRange": "",
+  "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

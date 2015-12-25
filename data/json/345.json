@@ -1,24 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BEULAH CHURCH OF THE NAZARENE ",
-  "permitHolder": "BEULAH CHURCH OF THE NAZARENE",
-  "address": "1250 ST. JOHN'S PLACE",
+  "type": "School Based Child Care",
+  "centerName": "BIG APPLE ACADEMY ELEMENTARY SCHOOL ",
+  "permitHolder": "BIG APPLE INSTITUTE INC",
+  "address": "503 LAKE STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11213",
-  "phone": "718-756-2310",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "99337",
-  "permitExpirationDate": " 11/04/2017",
+  "zipCode": "11223",
+  "phone": "718-333-1099",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "48",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": false,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

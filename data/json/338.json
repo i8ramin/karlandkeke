@@ -1,24 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BETH JACOB OF BORO PARK ",
-  "permitHolder": "BETH JACOB OF BORO PARK",
-  "address": "1371 46 STREET",
+  "centerName": "BETH RACHEL SCHOOL FOR GIRLS ",
+  "permitHolder": "UNITED TALMUDIC ACADEMY",
+  "address": "720 WYTHE AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "718-436-7300",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11249",
+  "phone": "718-735-9848",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "220",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,55 +1,28 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "ABC VARIETY CODY GIFFORD HOUSE ",
-  "permitHolder": "ASSOCIATION TO BENEFIT CHILDREN",
-  "address": "404 EAST 91ST STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10128",
-  "phone": "212-369-2010",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7684",
-  "permitExpirationDate": " 12/18/2015",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "17",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "ABIDETH COMMUNITY CENTER SUMMER PARADISE 171 ",
+  "permitHolder": "QUEENS HERALD COMMUNITY CORPORATION",
+  "address": "171-39 NORTHERN BOULEVARD ",
+  "borough": "QUEENS",
+  "zipCode": "11358",
+  "phone": "646-535-7245",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91520",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "130",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "9         ",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 5,
+    "date": "Inspection Date 07/28/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4759 b",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection stairways observed without protective barriers Stairways not provided with child height banisters Protective barriers not provided where required",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4741 g",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that plumbing was not installed by a licensed plumber plumbing cross connection or other hazard observed that may result in the contamination of the potable water supply Lead content of water has not been tested",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4743 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4741 j",
-        " Status": "OPEN "
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "E.A.T.S. PROGRAM PRESENTS DANCE EMPOWERMENT CAMP ",
-  "permitHolder": "DANCE EMPOWERMENT LLC",
-  "address": "233-15 MERRICK BLVD.",
+  "type": "Child Care - Pre School",
+  "centerName": "EARLY BIRD II DAY CARE CENTER ",
+  "permitHolder": "EARLY BIRD II DAY CARE CENTER INC",
+  "address": "90-05 161 STREET",
   "borough": "QUEENS",
-  "zipCode": "11422",
-  "phone": "917-920-3330",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "68578",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "80",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11432",
+  "phone": "646-342-2210",
+  "permitStatus": " Permitted ",
+  "permitNumber": "99757",
+  "permitExpirationDate": " 11/10/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

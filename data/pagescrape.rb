@@ -1,6 +1,25 @@
+def cleanup(data)
+	def filter(datum)
+		return String(datum).gsub(/[^\w\s\-\/]/, "").gsub(/\r?\n|\r|\t/,"").gsub(/\s+/, " ").gsub(/<[^>]*>/, "")
+	end
+	data.each do |key, value|
+		if value.class == Hash
+			data[key] = cleanup(value)
+		elsif value.class == Array
+			value.each do |val|
+				cleanup(val)
+			end
+		else
+			data[key] = filter(value)
+		end
+	end
+end
+
 def pagescrape(page)
 	
 	daycare = {}
+
+	# basic info
 
 	infoBoxes = page.search('.projectBox')
 
@@ -27,6 +46,9 @@ def pagescrape(page)
 	daycare['yearsOperating'] = moreboxData[7].search('h5')[1].text
 
 	#performanceHistorySections = page.search('.row-fluid .span12 .dashWidget ul.nav.nav-tabs li')
+
+
+	# info related to latest inspection
 	
 	latestSections = page.search('#4 table tr table')
 	
@@ -37,8 +59,8 @@ def pagescrape(page)
 		infractionTable = latestSections[1]
 
 		latestInspectionData = latestInspectionInfo.search('tr')
-		daycare['latestInspection']['date'] = latestInspectionData[0]
-		daycare['latestInspection']['result'] = latestInspectionData[1]
+		daycare['latestInspection']['date'] = latestInspectionData[0].search('td')[0].text
+		daycare['latestInspection']['result'] = latestInspectionData[1].search('td')[0].text
 
 		tableHeaders = infractionTable.search('table tr.odd th')
 		headers = []
@@ -77,6 +99,24 @@ def pagescrape(page)
 		daycare['latestInspection']['infractions'] = nil
 		daycare['latestInspection']['numInfractions'] = nil
 	end
+
+	# end latest inspection
+	# begin for older inspections
+
+	if !latestSections.empty? 
+		inspectionsTable = page.search('#5 > div.accordion')
+		inspections = inspectionsTable.search('.accordion-group')
+		daycare['numInspections'] = inspections.length + 1 # the latest inspection is in seperate tab
+		daycare['pastInspections'] = inspections
+	else
+		daycare['numInspections'] = 0
+		daycare['pastInspections'] = nil
+	end
+
+	# end older inspections
+
+
+	cleanup(daycare)
 
 	return daycare
 

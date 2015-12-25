@@ -1,24 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BAIS CHAYA ESTHER ",
-  "permitHolder": "BAIS CHAYA ESTHER",
-  "address": "1305 AVENUE R",
+  "centerName": "BAIS ROCHEL SCHOOL OF BORO PARK ",
+  "permitHolder": "UNITED TALMUNDICAL ACADEMY OF BORO PARK",
+  "address": "5301 14 AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11229",
-  "phone": "718-645-6605",
-  "permitStatus": "\r\n                    Active\r\n                    ",
-  "permitNumber": "7624",
-  "permitExpirationDate": " 08/07/2008",
+  "zipCode": "11219",
+  "phone": "718-438-7822",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "29",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

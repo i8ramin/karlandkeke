@@ -1,24 +1,33 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BAIS ESTHER SCHOOL ",
-  "permitHolder": "BAIS ESTHER SCHOOL",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1353 50 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "BAIS SARAH SCHOOL ",
+  "permitHolder": "CONGREGATION MACHNE CHAIM INC",
+  "address": "6101 16TH AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "718-436-1234",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11204",
+  "phone": "718-871-7571",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "160",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 06/19/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care program failed to maintain line of site supervision",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4309 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

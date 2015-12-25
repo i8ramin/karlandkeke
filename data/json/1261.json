@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "GOOD SHEPHERD SERVICES PS 676 ",
-  "permitHolder": "GOOD SHEPHERD SERVICES PS 676",
-  "address": "27 HUNTINGTON ST",
+  "centerName": "GOOD SHEPHERD SERVICES PS 32 ",
+  "permitHolder": "GOOD SHEPHERD SERVICES PS 32",
+  "address": "317 HOYT ST",
   "borough": "BROOKLYN",
   "zipCode": "11231",
-  "phone": "718-222-9561",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "phone": "212-625-5876",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 05/24/2016",
+  "permitExpirationDate": " N/A",
   "ageRange": "",
   "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/22/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/05/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

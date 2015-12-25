@@ -1,24 +1,45 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "ELBER ISLAMIC SCHOOL ",
-  "permitHolder": "AL-BER INC.",
-  "address": "25-42 49 STREET",
-  "borough": "QUEENS",
-  "zipCode": "11103",
-  "phone": "917-362-1130",
-  "permitStatus": "\r\n                    Active\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "ELEMENTS NURSERY ",
+  "permitHolder": "INDUS WORLD INC",
+  "address": "99 SUFFOLK STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-982-4444",
+  "permitStatus": " Permitted ",
+  "permitNumber": "91419",
+  "permitExpirationDate": " 06/26/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "18",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": false,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 12/07/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Permittee/applicant submitted incomplete written safety plan",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4711 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Children feeding bottles observed stored/used without being properly labeled with childs name and date of preparation at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4761 g",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4735 b",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

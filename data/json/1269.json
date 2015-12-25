@@ -1,26 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL OST@ PS 157 ",
-  "permitHolder": "GOODWILL OST@ PS 157",
-  "address": "850 KENT AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11205",
-  "phone": "917-559-7248",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "centerName": "GOODWILL INDUSTRIES OF GREATER NEW YORK OST PROGRAM IS 145 ",
+  "permitHolder": "GOODWILL INDUSTRIES OF GREATER NEW YORK OST PROGRAM IS 145",
+  "address": "33-34 80TH ST",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "646-659-1894",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 01/27/2015",
+  "permitExpirationDate": " 01/31/2015",
   "ageRange": "",
-  "maximumCapacity": "0",
+  "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/26/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

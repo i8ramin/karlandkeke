@@ -1,26 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BROOKLYN ARCHDIOCESE ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "84-05 78 AVENUE",
+  "centerName": "BROOKLYN ARCHDIOSESE ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "26-25 97TH STREET",
   "borough": "QUEENS",
-  "zipCode": "11385",
-  "phone": "718-456-6636",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11369",
+  "phone": "",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "42",
+  "maximumCapacity": "0",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/16/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Inspection pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

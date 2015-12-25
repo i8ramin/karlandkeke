@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "GIFTED KIDDIES, INC. ",
-  "permitHolder": "GIFTED KIDDIES, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t116-33 SUTPHIN  BOULEVARD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "QUEENS",
-  "zipCode": "11434",
-  "phone": "718-734-4895",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "91499",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "8",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "GIFTED AND TALENTED EARLY DEVELOPERS LLC ",
+  "permitHolder": "GIFTED AND TALENTED EARLY DEVELOPERS LLC",
+  "address": "1019 CHURCH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11218",
+  "phone": "718-942-5381",
+  "permitStatus": " Permitted ",
+  "permitNumber": "95577",
+  "permitExpirationDate": " 08/27/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "19",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/26/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Out of Business\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

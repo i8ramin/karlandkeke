@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "CROSS ISLAND YMCA DAY CAMP ",
-  "permitHolder": "YMCA OF GREATER NEW YORK",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t238-10 HILLSIDE AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "QUEENS",
-  "zipCode": "11427",
-  "phone": "718-551-9300",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "33687",
+  "centerName": "CROTONA PARK WEST PHIPPS DAY CAMP ",
+  "permitHolder": "PHIPPS COMMUNITY DEVELOPMENT CORPORATION",
+  "address": "1717 FULTON AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "718-716-1196",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "46520",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "174",
+  "maximumCapacity": "215",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/24/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/15/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "EPIPHANY COMMUNITY NURSERY SCHOOL ",
-  "permitHolder": "EPIPHANY COMMUNITY NURSERY SCHOOL",
-  "address": "510 EAST 74TH STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10021",
-  "phone": "212-737-2977",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6488",
-  "permitExpirationDate": " 04/07/2016",
+  "type": "School Based Child Care",
+  "centerName": "EPIPHANY LUTHERAN SCHOOL ",
+  "permitHolder": "EPIPHANY LUTHERAN SCHOOL",
+  "address": "721 LINCOLN PLACE",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "718-773-7200",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "123",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/24/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BAIS ROCHEL SCHOOL OF BORO PARK ",
-  "permitHolder": "UNITED TALMUNDICAL ACADEMY OF BORO PARK",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t5301 14 AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "BAIS UVI PRESCHOOL ",
+  "permitHolder": "BAIS UVI GRIEDING",
+  "address": "2555 NOSTRAND AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "718-438-7822",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11210",
+  "phone": "718-755-6916",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

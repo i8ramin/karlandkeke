@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "CAMBA BOULEVARD CORNERSTONE A BETTER TOMORROW ",
-  "permitHolder": "CAMBA INC.",
-  "address": "726 STANLEY AVENUE",
+  "centerName": "CAMBA KIDS UNITE SUMMER CAMP ",
+  "permitHolder": "CAMBA",
+  "address": "7002 4TH AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11207",
-  "phone": "718-272-0050",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "63917",
+  "zipCode": "11209",
+  "phone": "347-623-3969",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92697",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "150",
+  "maximumCapacity": "50",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

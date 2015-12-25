@@ -1,24 +1,26 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "ARCHDIOCESE-ST BENEDICT ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST. BENEDICT SCHOOL",
-  "address": "1016 EDISON AVENUE",
+  "type": "Camp",
+  "centerName": "ARETE EDUCATION INC ",
+  "permitHolder": "ARETE EDUCATION INC",
+  "address": "360 E 145TH STREET",
   "borough": "BRONX",
-  "zipCode": "10465",
-  "phone": "718-829-9557",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "10454",
+  "phone": "",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
+  "ageRange": "",
   "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

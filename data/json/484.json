@@ -1,24 +1,26 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "BRIGHT HORIZONS CHILDREN'S CENTERS LLC ",
-  "permitHolder": "BRIGHT HORIZONS CHILDREN'S CENTERS LLC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t529A WEST 29TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Child Care - Pre School",
+  "centerName": "BRIGHT HORIZONS CHILDRENS CENTERS LLC ",
+  "permitHolder": "BRIGHT HORIZONS CHILDRENS CENTERS LLC",
+  "address": "529A WEST 29TH STREET ",
   "borough": "MANHATTAN",
   "zipCode": "10001",
   "phone": "212-643-3474",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "100697",
+  "permitStatus": " Permitted ",
+  "permitNumber": "100657",
   "permitExpirationDate": " 12/04/2017",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "30",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "75",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

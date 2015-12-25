@@ -1,49 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "CONEY ISLAND CHILD CARE CENTER ",
-  "permitHolder": "LABOR & INDUSTRY FOR EDUCATION, INC.",
-  "address": "2757 WEST 33RD STREET",
+  "type": "School Based Child Care",
+  "centerName": "CONG MACHNA SHALVA ",
+  "permitHolder": "CONG MACHNA SHALVA",
+  "address": "5815 20 AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11224",
-  "phone": "718-942-4494",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "24617",
-  "permitExpirationDate": " 03/07/2016",
+  "zipCode": "11204",
+  "phone": "718-436-2122",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "58",
-  "siteType": "ACS Contracted Preschools",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "3         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 4,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection it was determined that plumbing was not installed by a licensed plumber plumbing cross connection or other hazard observed that may result in the contamination of the potable water supply Lead content of water has not been tested",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4743 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that plumbing was not installed by a licensed plumber plumbing cross connection or other hazard observed that may result in the contamination of the potable water supply Lead content of water has not been tested",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4743 a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4743 e",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4751 a",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

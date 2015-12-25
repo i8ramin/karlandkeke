@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "CHAZAK DAY CAMP ",
-  "permitHolder": "CHAZAK DAY CAMP",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t147-37 70TH ROAD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "QUEENS",
-  "zipCode": "11367",
-  "phone": "718-261-1872",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "43937",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "500",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "CHEER-AND-GROW LEARNING ACADEMY CORP ",
+  "permitHolder": "CHEER-AND-GROW LEARNING ACADEMY CORP",
+  "address": "1926 CROSS BRONX EXPRESSWAY",
+  "borough": "BRONX",
+  "zipCode": "10472",
+  "phone": "212-433-0804",
+  "permitStatus": " Permitted ",
+  "permitNumber": "98957",
+  "permitExpirationDate": " 10/26/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "76",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

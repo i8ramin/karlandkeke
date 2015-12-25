@@ -1,24 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL BEACON @ I.S. 141 ",
-  "permitHolder": "GOODWILL BEACON @ I.S. 141",
-  "address": "37-11 21ST AVENUE",
+  "centerName": "GOODWILL PS 40 ",
+  "permitHolder": "GOODWILL PS 40",
+  "address": "109-20 UNION HALL ST",
   "borough": "QUEENS",
-  "zipCode": "11105",
-  "phone": "718-777-9200",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "zipCode": "11433",
+  "phone": "718-523-0801",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 08/14/2015",
+  "permitExpirationDate": " 12/27/2015",
   "ageRange": "",
-  "maximumCapacity": "0",
+  "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 07/18/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

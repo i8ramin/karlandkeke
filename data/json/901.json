@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "COPO PRE-K ",
-  "permitHolder": "COUNCIL OF PEOPLES ORGANIZATION, INC.",
-  "address": "1083 CONEY ISLAND AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11230",
-  "phone": "718-434-3266",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "72881",
-  "permitExpirationDate": " 09/03/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "18",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CORLEARS SCHOOL ",
+  "permitHolder": "CORLEARS SCHOOL",
+  "address": "324 WEST 15 STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10011",
+  "phone": "212-741-2800",
+  "permitStatus": " Permitted ",
+  "permitNumber": "100197",
+  "permitExpirationDate": " 11/19/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "12",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

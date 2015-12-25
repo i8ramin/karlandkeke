@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "HOLY ROSARY EARLY CHILDHOOD ACADEMY AT ST. MARY STAR OF THE SEA ",
+  "centerName": "HOLY ROSARY EARLY CHILDHOOD ACADEMY AT ST MARY STAR OF THE SEA ",
   "permitHolder": "CATHOLIC SCHOOL REGION OF NORTHEAST-EAST BRONX",
   "address": "580 MINNIEFORD AVENUE",
   "borough": "BRONX",
   "zipCode": "10464",
   "phone": "718-652-1211",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

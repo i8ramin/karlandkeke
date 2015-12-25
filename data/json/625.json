@@ -1,26 +1,28 @@
 {
-  "type": "Camp",
-  "centerName": "BUTTER BEANS FOOD & GARDEN SUMMER CAMP ",
-  "permitHolder": "BUTTER BEANS WELLNESS, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t324 WEST 15 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Child Care - Pre School",
+  "centerName": "BUTTERFLY CHILD CARE CENTER INC ",
+  "permitHolder": "BUTTERFLY CHILD CARE CENTER INC",
+  "address": "296 EAST 4 STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10011",
-  "phone": "646-469-6529",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "92458",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "25",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10009",
+  "phone": "212-477-1199",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96359",
+  "permitExpirationDate": " 09/03/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "57",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

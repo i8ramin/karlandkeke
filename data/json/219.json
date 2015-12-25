@@ -1,24 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BAIS BROCHO OF KARLIN STOLIN ",
-  "permitHolder": "BAIS BROCHO OF KARLIN STOLIN",
-  "address": "1022 43 STREET",
+  "centerName": "BAIS ESTHER SCHOOL ",
+  "permitHolder": "BAIS ESTHER SCHOOL",
+  "address": "1353 50 STREET ",
   "borough": "BROOKLYN",
   "zipCode": "11219",
-  "phone": "718-853-1222",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "phone": "718-436-1234",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "643",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

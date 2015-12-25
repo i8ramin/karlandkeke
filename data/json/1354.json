@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "HARLEM CHILDREN'S ZONE, INC. BEACON 54 ",
-  "permitHolder": "HARLEM CHILDREN'S ZONE, INC. BEACON 54",
-  "address": "103 WEST 107TH ST",
+  "centerName": "HARLEM CHILDRENS ZONE/PS 197 ",
+  "permitHolder": "HARLEM CHILDRENS ZONE/PS 197",
+  "address": "2230 FIFTH AVENUE",
   "borough": "MANHATTAN",
-  "zipCode": "10025",
-  "phone": "212-866-0700",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "zipCode": "10037",
+  "phone": "212-234-6200",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitExpirationDate": " 07/06/2015",
   "ageRange": "",
   "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/24/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/24/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

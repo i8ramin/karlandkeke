@@ -1,12 +1,12 @@
 {
   "type": "Camp",
-  "centerName": "A CHILD'S PLACE ",
-  "permitHolder": "A CHILD'S PLACE",
+  "centerName": "A CHILDS PLACE ",
+  "permitHolder": "A CHILDS PLACE",
   "address": "32-20 108 STREET",
   "borough": "QUEENS",
   "zipCode": "11369",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "",
@@ -14,11 +14,13 @@
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

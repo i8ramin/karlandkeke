@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "CAMBA ELITE SUMMER CAMP ",
-  "permitHolder": "CAMBA",
-  "address": "50 JEFFERSON AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11216",
-  "phone": "347-598-1448",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "45037",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "150",
-  "siteType": "Summer Day Camp",
+  "type": "School Based Child Care",
+  "centerName": "CAMBRIA CENTER FOR THE GIFTED CHILD ",
+  "permitHolder": "CAMBRIA CENTER FOR THE GIFTED CHILD",
+  "address": "233-10 LINDEN BLVD ",
+  "borough": "QUEENS",
+  "zipCode": "11411",
+  "phone": "718-341-1991",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

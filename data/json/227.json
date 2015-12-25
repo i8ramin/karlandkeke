@@ -1,12 +1,12 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "BAIS UVI PRESCHOOL ",
-  "permitHolder": "BAIS UVI GRIEDING",
-  "address": "2555 NOSTRAND AVENUE",
+  "type": "Universal Pre-K Half Day",
+  "centerName": "BAIS YAAKOV DCHASSIDEI GUR/UPK ",
+  "permitHolder": "BAIS YAAKOV DCHASSIDEI GUR/UPK",
+  "address": "1975 51 STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11210",
-  "phone": "718-755-6916",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11204",
+  "phone": "718-833-8560",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

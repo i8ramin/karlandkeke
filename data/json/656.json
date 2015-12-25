@@ -1,55 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "CAMP CARMINE DAY CAMP ",
-  "permitHolder": "NYC DEPARTMENT OF PARKS AND RECREATION",
-  "address": "1 Clarkson Street",
-  "borough": "MANHATTAN",
-  "zipCode": "10014",
-  "phone": "212-242-5418",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "34278",
+  "centerName": "CAMP FORT GREENE ",
+  "permitHolder": "CAMP FORT GREENE LLC",
+  "address": "372 Clinton Avenue ",
+  "borough": "BROOKLYN",
+  "zipCode": "11238",
+  "phone": "917-622-8804",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92160",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "175",
-  "siteType": "Municipal Summer Day Camp",
+  "maximumCapacity": "38",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/03/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 5,
+    "date": "Inspection Date 08/19/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Aquatic supervisory staff not at pool side nor providing appropriate supervision at time of inspection",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "16515 c",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Camp Operator fails to provide adequate supervision",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4812a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Swimming activities not supervised by Aquatics Director Aquatics Director not present during all swimming and water activity",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4813a2i",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Buddy system or other accountability system has not been established System does not contains camper identity ability record of coming and goings buddy assignments  15 minute checks",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4813a3iv",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Camp Director fails to conduct inspection of fire protection facilities and equipment",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4815a1",
-        " Status": "OPEN "
-      }
+
     ]
-  }
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 08/12/2015 Result Initial Annual Inspection - Inspection pending /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Inspection pending/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div"
 }

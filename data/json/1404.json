@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "HIGHBRIDGE ADVISORY COUNCIL MARSHALL ENGLAND EARLY LEARNING CENTER ",
-  "permitHolder": "HIGHBRIDGE ADVISORY COUNCIL FAMILY SERVICES INC.",
-  "address": "800 CONCOURSE VILLAGE EAST",
+  "type": "Camp",
+  "centerName": "HIGHBRIDGE GARDENS CORNERSTONE ",
+  "permitHolder": "CATHOLIC CHARITIES COMMUNITY SERVICES OF NEW YORK",
+  "address": "1155 UNIVERSITY AVENUE ",
   "borough": "BRONX",
-  "zipCode": "10451",
-  "phone": "718-742-2367",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7381",
-  "permitExpirationDate": " 06/29/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "165",
-  "siteType": "ACS Contracted Preschools",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "zipCode": "10452",
+  "phone": "718-992-7797",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "67898",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/26/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

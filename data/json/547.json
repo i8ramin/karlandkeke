@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BRONX PARK EAST PREPARATORY INC. ",
-  "permitHolder": "BRONX PARK EAST PREPARATORY, INC.",
-  "address": "2270 BRONX PARK EAST",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRONX SKY CHILD CARE CENTER INC ",
+  "permitHolder": "BRONX SKY CHILD CARE CENTER INC",
+  "address": "481 EAST 158TH STREET",
   "borough": "BRONX",
-  "zipCode": "10467",
-  "phone": "718-882-3261",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7140",
-  "permitExpirationDate": " 08/14/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "20",
+  "zipCode": "10451",
+  "phone": "718-401-0100",
+  "permitStatus": " Permitted ",
+  "permitNumber": "97762",
+  "permitExpirationDate": " 09/28/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "16",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

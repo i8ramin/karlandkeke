@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BAMBI DAY CARE CENTER INC. ",
-  "permitHolder": "BAMBI DAY CARE CENTER INC",
-  "address": "138 HANCOCK STREET",
+  "type": "School Based Child Care",
+  "centerName": "BAMBI DAY CARE III ",
+  "permitHolder": "BECEC INC",
+  "address": "2114 BROWN STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11216",
-  "phone": "718-230-3487",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7600",
-  "permitExpirationDate": " 12/12/2015",
+  "zipCode": "11229",
+  "phone": "718-368-1817",
+  "permitStatus": " Active ",
+  "permitNumber": "6097",
+  "permitExpirationDate": " 09/30/2011",
   "ageRange": "2 - 5",
-  "maximumCapacity": "35",
+  "maximumCapacity": "136",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "10        ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,26 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL BEACON JHS 109 ",
-  "permitHolder": "GOODWILL BEACON JHS 109",
-  "address": "213-10 92ND AVE.",
+  "centerName": "GOODWILL BEACON IS 141 ",
+  "permitHolder": "GOODWILL BEACON IS 141",
+  "address": "37-11 21ST AVENUE",
   "borough": "QUEENS",
-  "zipCode": "11428",
-  "phone": "347-659-2712",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "34266",
-  "permitExpirationDate": " 03/31/2015",
+  "zipCode": "11105",
+  "phone": "718-777-9200",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 08/14/2015",
   "ageRange": "",
   "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/04/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

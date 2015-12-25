@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "CENTRAL UTA ",
-  "permitHolder": "KHHD YOEL OF SATMAR BP",
-  "address": "84-88 SANFORD STREET",
+  "centerName": "CHSAN SOFER PRESCHOOL ",
+  "permitHolder": "YESHIVA CHSAN SOFER",
+  "address": "1705 49TH STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11205",
-  "phone": "718-797-2888",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11204",
+  "phone": "718-853-8100",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,13 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/17/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Inspection pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

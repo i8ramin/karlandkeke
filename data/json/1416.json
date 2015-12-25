@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "HOLY FAMILY PRESCHOOL ",
+  "centerName": "HOLY FAMILY CATHOLIC ACADEMY ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
   "address": "74-15 175TH STREET",
   "borough": "QUEENS",
   "zipCode": "11366",
   "phone": "718-969-2124",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

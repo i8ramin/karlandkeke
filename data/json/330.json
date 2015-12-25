@@ -1,24 +1,26 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "BET YAAKOV OHR SARAH ",
-  "permitHolder": "BET YAAKOV OHR SARAH",
-  "address": "1123 AVENUE N",
+  "type": "School Based Child Care",
+  "centerName": "BETH CHANA SCHOOL ",
+  "permitHolder": "BETH CHANA SCHOOL",
+  "address": "204 KEAP STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11230",
-  "phone": "718-627-8758",
-  "permitStatus": "\r\n                    Active\r\n                    ",
-  "permitNumber": "6762",
-  "permitExpirationDate": " 03/07/2004",
+  "zipCode": "11211",
+  "phone": "718-387-7535",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
   "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

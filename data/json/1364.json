@@ -1,85 +1,28 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "HARVEST PREPARATORY ACADEMY ",
-  "permitHolder": "HARVEST WORSHIPING CENTER INTERNATIONAL INC.",
-  "address": "4036 WHITE PLAINS ROAD",
-  "borough": "BRONX",
-  "zipCode": "10466",
-  "phone": "718-231-2905",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "type": "Camp",
+  "centerName": "HAUP 21ST CENTURY HORIZONS YOUTH PROGRAM PS-241 ",
+  "permitHolder": "HAUP 21ST CENTURY HORIZONS YOUTH PROGRAM PS-241",
+  "address": "976 President Street",
+  "borough": "BROOKLYN",
+  "zipCode": "11225",
+  "phone": "917-480-0038",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
+  "permitExpirationDate": " 01/15/2015",
+  "ageRange": "",
   "maximumCapacity": "0",
-  "siteType": "Private",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/01/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 10,
+    "date": "Inspection Date 08/23/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4313",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service operating without a permit Permit expired",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4703 a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4719 c",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 ab",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 f",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4741 f",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4733 b",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At the time of inspection child care service failed to maintain a minimum of 30 square feet of space per child",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4739 b",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4719 i",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Restriction on milk service not complied with at time of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4761 b3",
-        " Status": "OPEN "
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

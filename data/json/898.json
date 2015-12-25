@@ -1,26 +1,28 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "CONVENT OF THE SACRED HEART PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-CONVENT OF THE SACRED HEART SCHOOL",
-  "address": "1 EAST 91 STREET",
+  "type": "Camp",
+  "centerName": "COOL CREATIONS ",
+  "permitHolder": "THE MANDELL ACADEMY LLC",
+  "address": "795 COLUMBUS AVENUE ",
   "borough": "MANHATTAN",
-  "zipCode": "10128",
-  "phone": "212-722-4745",
-  "permitStatus": "\r\n                    Active\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "zipCode": "10025",
+  "phone": "212-222-2925",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91210",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/02/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "GOOD SHEPHERD SERVICES ",
-  "permitHolder": "GOOD SHEPHERD SERVICES",
-  "address": "125 EAST 181ST STREET",
-  "borough": "BRONX",
-  "zipCode": "10453",
-  "phone": "347-386-9286",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "type": "School Based Child Care",
+  "centerName": "GOOD SHEPHERD CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "1943 BROWN STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-339-2745",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 06/21/2016",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/07/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

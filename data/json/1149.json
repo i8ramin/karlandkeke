@@ -2,11 +2,11 @@
   "type": "School Based Child Care",
   "centerName": "FRANCIS SCHOOL ",
   "permitHolder": "FRANCIS SCHOOL",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t4240 AMBOY ROAD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "address": "1128 OLYMPIA BLVD",
   "borough": "STATEN ISLAND",
-  "zipCode": "10308",
+  "zipCode": "10306",
   "phone": "718-967-0400",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

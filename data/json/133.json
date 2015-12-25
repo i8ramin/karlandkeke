@@ -1,37 +1,28 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "ALL SEASONS DAY NURSERY INFANT/TODDLER ",
-  "permitHolder": "ALL SEASONS DAY CARE, LLC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1701 NEREID AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BRONX",
-  "zipCode": "10466",
-  "phone": "718-324-8300",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7458",
-  "permitExpirationDate": " 11/06/2016",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "18",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "ALL SPORTS FOR ALL PEOPLE ",
+  "permitHolder": "ALL SPORTS FOR ALL PEOPLE CORP",
+  "address": "1625 11 AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-748-7084",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91680",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "300",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "10        ",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
+    "date": "Inspection Date 08/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 ab",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 f",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

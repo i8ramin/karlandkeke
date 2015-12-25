@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BROOKLYN DIOCESE/MOST PRECIOUS BLOOD ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "32-52 37 STREET",
-  "borough": "QUEENS",
-  "zipCode": "11103",
-  "phone": "718-278-4081",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "BROOKLYN HEIGHTS MONTESSORI SCHOOL ",
+  "permitHolder": "BROOKLYN HEIGHTS MONTESSORI SCHOOL",
+  "address": "185 COURT STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "718-858-5100",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,18 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/16/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 10/01/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "13109e",
-        " Status": "OPEN "
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

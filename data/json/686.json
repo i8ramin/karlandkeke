@@ -1,37 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "CARRIE MASTRONARDI EARLY CHILDHOOD EDUCATION CENTER ",
-  "permitHolder": "THE GUILD FOR EXCEPTIONAL CHILDREN, INC.",
-  "address": "1273 57 STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "718-435-2554",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "4357",
-  "permitExpirationDate": " 09/21/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "264",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "CASITA MARIA/MOTT HALL CHARTER SCHOOL ",
+  "permitHolder": "CASITA MARIA/MOTT HALL CHARTER SCHOOL",
+  "address": "1260 FRANKLIN AVE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
-    "infractions": [
-      {
-        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4719 c",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 ab",
-        " Status": "OPEN "
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BNOS ZION OF BOBOV ",
-  "permitHolder": "BNOS ZION OF BOBOV",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t5000 14 AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "BOBOVER YESHIVA BNEI ZION ",
+  "permitHolder": "BOBOVER YESHIVA BNEI ZION",
+  "address": "4206 15 AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11219",
-  "phone": "718-438-3080",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "phone": "718-851-4000",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

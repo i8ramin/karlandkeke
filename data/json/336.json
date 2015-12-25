@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BETH JACOB DAY CARE CENTER ",
-  "permitHolder": "BETH JACOB DAY CARE CENTER,INC.",
-  "address": "1363 46TH STREET",
+  "type": "School Based Child Care",
+  "centerName": "BETH JACOB OF BORO PARK ",
+  "permitHolder": "BETH JACOB OF BORO PARK",
+  "address": "1371 46 STREET",
   "borough": "BROOKLYN",
   "zipCode": "11219",
-  "phone": "718-435-5755",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "4735",
-  "permitExpirationDate": " 02/02/2016",
+  "phone": "718-436-7300",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "368",
-  "siteType": "ACS Contracted Preschools",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

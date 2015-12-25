@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "DISCOVERY PROGRAMS ",
-  "permitHolder": "DISCOVERY PROGRAMS, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t251 WEST 100 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "MANHATTAN",
-  "zipCode": "10025",
-  "phone": "212-749-8717",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "34584",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "68",
-  "siteType": "Summer Day Camp",
+  "type": "School Based Child Care",
+  "centerName": "DIVINE MERCY CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "101-60 92ND STREET",
+  "borough": "QUEENS",
+  "zipCode": "11416",
+  "phone": "718-845-3074",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

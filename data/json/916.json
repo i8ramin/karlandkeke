@@ -1,37 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "CPC JACOB RIIS CHILD CARE CENTER ",
-  "permitHolder": "CHINESE-AMERICAN PLANNING COUNCIL, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t108 AVENUE D      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "MANHATTAN",
-  "zipCode": "10009",
-  "phone": "212-533-9138",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6408",
-  "permitExpirationDate": " 01/09/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "35",
-  "siteType": "ACS Contracted Preschools",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "type": "Camp",
+  "centerName": "CPC QUEENS SCHOOL-AGE DCC PS20 ",
+  "permitHolder": "CPC QUEENS SCHOOL-AGE DCC PS20",
+  "address": "142-30 BARCLAY AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11355",
+  "phone": "718-358-8916",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/15/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
+    "date": "Inspection Date 07/23/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4751 a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4757 b",
-        " Status": "OPEN "
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

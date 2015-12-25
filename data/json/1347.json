@@ -1,43 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "HAPPY SCHOLARS ",
-  "permitHolder": "HAPPY SCHOLARS, INC.",
-  "address": "7806-08 NEW UTRECHT AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11214",
-  "phone": "718-256-0050",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "67778",
-  "permitExpirationDate": " 06/24/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "58",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "HARBOR SCHOOL AGE DCC ",
+  "permitHolder": "HARBOR SCHOOL AGE DCC",
+  "address": "1 EAST 104TH ST",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-427-2244",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
+    "date": "Inspection Date 07/31/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
-        "Category ": "                                                                                      ",
-        "Code Sub-Section": " ",
-        " Status": ""
-      },
-      {
-        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4749 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4741 j",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

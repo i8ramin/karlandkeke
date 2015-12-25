@@ -1,26 +1,51 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "DEWITT REFORMED CHURCH HEAD START ",
-  "permitHolder": "DEWITT REFORMED CHURCH",
-  "address": "280 RIVINGTON STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10002",
-  "phone": "212-254-3070",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "2090",
-  "permitExpirationDate": " 10/05/2016",
+  "type": "School Based Child Care",
+  "centerName": "DGK PAROCHIAL SCHOOL OF HOLY CROSS GREEK ORTHODOX ",
+  "permitHolder": "DIMITRIOS AND GEORGIA KALOIDIS PAROCHIAL SCHOOL",
+  "address": "8502 RIDGE BOULEVARD",
+  "borough": "BROOKLYN",
+  "zipCode": "11209",
+  "phone": "718-836-8096",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "95",
-  "siteType": "ACS Head Start",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/29/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 10/23/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "4",
     "infractions": [
-
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "13109d2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate lighting not provided in commercial building at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

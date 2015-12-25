@@ -1,24 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "GOOD SHEPHERD SERVICES MS 45 BEACON ",
-  "permitHolder": "GOOD SHEPHERD SERVICES MS 45 BEACON",
-  "address": "2502 LORILLARD PLACE",
+  "centerName": "GOOD SHEPHERD SERVICES CS 300 ",
+  "permitHolder": "GOOD SHEPHERD SERVICES CS 300",
+  "address": "2050 Prospect Avenue",
   "borough": "BRONX",
-  "zipCode": "10458",
+  "zipCode": "10457",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "",
+  "ageRange": "4 - 16",
   "maximumCapacity": "0",
-  "siteType": "Private",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

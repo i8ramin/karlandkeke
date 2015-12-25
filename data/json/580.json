@@ -1,26 +1,26 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "BROOKLYN HEIGHTS SYNAGOGUE PRESCHOOL ",
-  "permitHolder": "BROOKLYN HEIGHTS SYNAGOGUE",
-  "address": "131 REMSEN STREET",
+  "centerName": "BROOKLYN SCHOOLHOUSE DAYCARE LLC ",
+  "permitHolder": "BROOKLYN SCHOOLHOUSE DAYCARE LLC",
+  "address": "156 GATES AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11201",
-  "phone": "718-522-2070",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7126",
-  "permitExpirationDate": " 07/06/2017",
+  "zipCode": "11238",
+  "phone": "718-395-5415",
+  "permitStatus": " Permitted ",
+  "permitNumber": "95618",
+  "permitExpirationDate": " 08/27/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "94",
-  "siteType": "Private",
+  "maximumCapacity": "18",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

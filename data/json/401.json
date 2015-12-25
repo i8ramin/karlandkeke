@@ -1,37 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BNOS SPINKA BOYS SCHOOL ",
-  "permitHolder": "BNOS SPINKA BOYS SCHOOL",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t799 KENT  AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "BNOS YAKOV ",
+  "permitHolder": "YESHIVATH KEHILATH YAKOV",
+  "address": "274 KEAP STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11205",
-  "phone": "718-854-8005",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11211",
+  "phone": "718-963-1212",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "176",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
-    "infractions": [
-      {
-        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4313",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4311 b",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,26 +1,26 @@
 {
-  "type": "Camp",
-  "centerName": "EARLY SCHOLARS ",
-  "permitHolder": "ERIN JACQUES",
-  "address": "86-35 235 COURT",
-  "borough": "QUEENS",
-  "zipCode": "11427",
-  "phone": "347-494-1640",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "69518",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "30",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "EARLY SOLUTIONS SERVICES LLC ",
+  "permitHolder": "EARLY SOLUTIONS SERVICES LLC",
+  "address": "506 MCDONOUGH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11233",
+  "phone": "718-872-6599",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96857",
+  "permitExpirationDate": " 09/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "32",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

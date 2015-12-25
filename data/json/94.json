@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "AL-IMAN SCHOOL ",
-  "permitHolder": "AL-IMAN SCHOOL",
-  "address": "137-11  90 AVENUE",
+  "centerName": "AL-ISHAN PRESCHOOL ",
+  "permitHolder": "AL-IHSAN ACADEMY",
+  "address": "134-02 ROCKAWAY BOULEVARD",
   "borough": "QUEENS",
-  "zipCode": "11435",
-  "phone": "718-297-6520",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11420",
+  "phone": "718-322-3154",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 12/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

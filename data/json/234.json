@@ -1,12 +1,12 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "BAIS YAKOV OF ADAS YEREIM ",
-  "permitHolder": "BAIS YAKOV OF ADAS YEREIM",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t563 BEDFORD AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "BAMBI ACADEMY ",
+  "permitHolder": "BIG APPLE INSTITUTE INC",
+  "address": "2937 86TH STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11211",
-  "phone": "718-302-7500",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11223",
+  "phone": "718-333-0300",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

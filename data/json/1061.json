@@ -1,24 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "EMOLIOR ACADEMY ",
-  "permitHolder": "EMOLIOR ACADEMY",
-  "address": "1970 West Farms Road",
+  "centerName": "EPISCOPAL SOCIAL SERVICES PS 75 ",
+  "permitHolder": "EPISCOPAL SOCIAL SERVICES OF NEW YORK INC",
+  "address": "984 FAILE STREET",
   "borough": "BRONX",
-  "zipCode": "10460",
-  "phone": "347-928-0648",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "4 - 16",
+  "zipCode": "10459",
+  "phone": "718-328-5624",
+  "permitStatus": " Registered ",
+  "permitNumber": "34047",
+  "permitExpirationDate": " 03/31/2012",
+  "ageRange": "",
   "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 08/16/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

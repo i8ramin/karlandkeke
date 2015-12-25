@@ -1,26 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "CAMBA SUMMERSCAPE SUMMER CAMP ",
-  "permitHolder": "CHURCH AVENUE MERCHANT BLOCK ASSOCIATION, INC",
-  "address": "1957 NOSTRAND AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11210",
-  "phone": "718-462-2597",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "34078",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "180",
-  "siteType": "Summer Day Camp",
+  "centerName": "CAMBRIA HEIGHTS COMMUNITY CHURCH ASP ",
+  "permitHolder": "CAMBRIA HEIGHTS COMMUNITY CHURCH ASP",
+  "address": "116-02 220TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11411",
+  "phone": "718-276-2686",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/19/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/16/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,12 +1,12 @@
 {
   "type": "Camp",
-  "centerName": "GSS @ EAST FORDHAM ACADEMY FOR THE ARTS ",
-  "permitHolder": "GSS @ EAST FORDHAM ACADEMY FOR THE ARTS",
+  "centerName": "GSS EAST FORDHAM ACADEMY FOR THE ARTS ",
+  "permitHolder": "GSS EAST FORDHAM ACADEMY FOR THE ARTS",
   "address": "778 Forest Avenue",
   "borough": "BRONX",
   "zipCode": "10456",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "4 - 16",
@@ -14,11 +14,13 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }
