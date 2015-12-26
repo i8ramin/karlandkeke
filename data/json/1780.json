@@ -1,31 +1,26 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "LITTLE MUNCHKINS 56 ",
-  "permitHolder": "LITTLE MUNCHKINS PLAYGROUP 56, INC.",
-  "address": "1460 56TH STREET",
+  "type": "Child Care - Pre School",
+  "centerName": "LITTLE MUNCHKINS PLAYGROUP 56 INC ",
+  "permitHolder": "LITTLE MUNCHKINS PLAYGROUP 56 INC",
+  "address": "5021 10 AVENUE",
   "borough": "BROOKLYN",
   "zipCode": "11219",
   "phone": "718-437-7261",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "55817",
-  "permitExpirationDate": " 01/07/2016",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "49",
-  "siteType": "Private",
+  "permitStatus": " Permitted ",
+  "permitNumber": "99557",
+  "permitExpirationDate": " 11/06/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4741 j",
-        " Status": "OPEN "
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

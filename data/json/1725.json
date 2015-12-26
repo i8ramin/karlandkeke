@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "LIBERTY DAY CARE SERVICE, INC. ",
-  "permitHolder": "LIBERTY DAY CARE SERVICE, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t478 EAST 95 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BROOKLYN",
-  "zipCode": "11212",
-  "phone": "718-498-4384",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7093",
-  "permitExpirationDate": " 05/21/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "31",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "LIC YMCA OST PROGRAM Q126 ",
+  "permitHolder": "LIC YMCA OST PROGRAM Q126",
+  "address": "31-51 21 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11106",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "10 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

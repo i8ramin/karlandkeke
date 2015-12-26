@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "INFINITY EDUCATIONAL CHILD CARE OF GERRITSEN BEACH ",
-  "permitHolder": "INFINITY EDUCATIONAL PROGRAMS INC.",
-  "address": "2934-2936 GERRITSEN  AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11229",
-  "phone": "718-336-2936",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "64697",
-  "permitExpirationDate": " 05/20/2016",
+  "type": "School Based Child Care",
+  "centerName": "INCARNATION SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "89-15 FRANCIS LEWIS BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11427",
+  "phone": "718-465-5066",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "29",
-  "siteType": "Private",
+  "maximumCapacity": "44",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      01/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 12/09/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,49 +1,28 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "MARY WALTON CHILDREN'S CENTER ",
-  "permitHolder": "BETHANY DAY NURSERY, INC.",
-  "address": "224 WEST 152 STREET",
+  "centerName": "MARYEL INTERNATIONAL INC ",
+  "permitHolder": "MARYEL INTERNATIONAL INC",
+  "address": "28 EAST 35TH STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10039",
-  "phone": "212-283-4242",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "1637",
-  "permitExpirationDate": " 01/23/2016",
+  "zipCode": "10016",
+  "phone": "212-213-2097",
+  "permitStatus": " Permitted ",
+  "permitNumber": "50917",
+  "permitExpirationDate": " 08/21/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "60",
-  "siteType": "ACS Contracted Preschools",
+  "maximumCapacity": "52",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "2 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 4,
+    "date": "Inspection Date 02/26/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4741 i",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4749 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4757 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 a",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 05/20/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div"
 }

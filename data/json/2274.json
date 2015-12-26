@@ -1,26 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "PHIPPS AFTERSCHOOL ",
-  "permitHolder": "PHIPPS AFTERSCHOOL AT THE PLAZAS",
-  "address": "320 EAST 26TH STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10010",
-  "phone": "212-863-9387",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "centerName": "PHIPPS COMMUNITY DEVELOPMENT CORPORATION ",
+  "permitHolder": "PHIPPS COMMUNITY DEVELOPMENT CORPORATION",
+  "address": "4011 MONTICELLO AVE",
+  "borough": "BRONX",
+  "zipCode": "10466",
+  "phone": "917-806-9096",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitExpirationDate": " 03/22/2017",
   "ageRange": "",
-  "maximumCapacity": "40",
+  "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/28/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

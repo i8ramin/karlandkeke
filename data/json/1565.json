@@ -1,26 +1,28 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "JEWISH INSTITUTE OF QUEENS ",
-  "permitHolder": "JEWISH INSTITUTE OF QUEENS",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t60-05  WOODHAVEN BLVD.      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Camp",
+  "centerName": "JEWISH INSTITUE OF QUEENS COSTAR ",
+  "permitHolder": "JEWISH INSTITUE OF QUEENS COSTAR",
+  "address": "60-05 WOODHAVEN BLVD",
   "borough": "QUEENS",
   "zipCode": "11373",
   "phone": "718-426-9369",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "permitExpirationDate": " 05/10/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/19/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/06/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

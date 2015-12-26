@@ -18,19 +18,13 @@
   "latestInspection": {
     "date": "Inspection Date 12/17/2015",
     "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
-    "numInfractions": "3",
+    "numInfractions": "2",
     "infractions": [
       {
         "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
         "Code Sub-Section": "4733 b",
         " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4733 b",
-        " Status": "OPEN "
       },
       {
         "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",

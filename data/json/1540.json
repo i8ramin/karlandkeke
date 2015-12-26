@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "JACOB A. RIIS SETTLEMENT HOUSE @ PS 166 ",
-  "permitHolder": "JACOB A. RIIS SETTLEMENT HOUSE @ PS 166",
-  "address": "33-09 35TH AVENUE",
+  "centerName": "JACOB A RIIS AFTERSCHOOL PROGRAM ",
+  "permitHolder": "JACOB A RIIS AFTERSCHOOL PROGRAM",
+  "address": "35-40 21ST STREET",
   "borough": "QUEENS",
   "zipCode": "11106",
-  "phone": "718-361-2341",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 11/16/2014",
+  "phone": "718-784-7447",
+  "permitStatus": " Registered ",
+  "permitNumber": "34535",
+  "permitExpirationDate": " 08/24/2016",
   "ageRange": "",
   "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/23/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/31/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

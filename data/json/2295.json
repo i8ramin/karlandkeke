@@ -1,26 +1,33 @@
 {
   "type": "Child Care - Pre School",
   "centerName": "PNW ENTERPRISES LLC ",
-  "permitHolder": "PNW ENTERPRISES, LLC",
-  "address": "88 LEONARD STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10013",
-  "phone": "212-334-3301",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "73437",
-  "permitExpirationDate": " 09/17/2016",
+  "permitHolder": "PNW ENTERPRISES LLC",
+  "address": "45-45 CENTER BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11109",
+  "phone": "347-813-4999",
+  "permitStatus": " Permitted ",
+  "permitNumber": "97920",
+  "permitExpirationDate": " 10/01/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "30",
+  "maximumCapacity": "45",
   "siteType": "Private",
-  "certifiedToAdministerMedication": "Yes",
+  "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/20/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 12/03/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4743 e",
+        " Status": "CORRECTED"
+      }
     ]
-  }
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 11/18/2015 Result Initial Annual Inspection - Reinspection Required /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateAt time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4743 e/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /div"
 }

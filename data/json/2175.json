@@ -1,24 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF GUADALUPE PRESCHOOL ",
-  "permitHolder": "OUR LADY OF GUADALUPE SCHOOL",
-  "address": "1514 72 STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11228",
-  "phone": "718-331-2070",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "OUR LADY OF HELP OF CHRISTIAN PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF HELP OF CHRISTIANS",
+  "address": "7392 AMBOY ROAD",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10307",
+  "phone": "718-984-1360",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
   "maximumCapacity": "0",
-  "siteType": "Private",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

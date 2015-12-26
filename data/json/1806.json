@@ -1,12 +1,12 @@
 {
   "type": "Camp",
   "centerName": "LITTLE STARS THREE ",
-  "permitHolder": "LITTLE STARS THREE, INC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1420 BURKE AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "permitHolder": "LITTLE STARS THREE INC",
+  "address": "1420 BURKE AVENUE ",
   "borough": "BRONX",
   "zipCode": "10469",
   "phone": "347-947-3171",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
+  "permitStatus": " In-Renewal ",
   "permitNumber": "92659",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
@@ -14,11 +14,13 @@
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1 or more",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

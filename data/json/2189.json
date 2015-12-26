@@ -1,31 +1,33 @@
 {
-  "type": "Camp",
-  "centerName": "OUR LADY OF REFUGE DAY CAMP ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t2700-10 Briggs Avenue      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BRONX",
-  "zipCode": "10458",
-  "phone": "347-675-1825",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "33797",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "50",
-  "siteType": "Summer Day Camp",
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF SORROWS ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "35-34 105TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11368",
+  "phone": "718-426-5517",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/13/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 12/16/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "1",
     "infractions": [
       {
-        "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or  motor vehicle insurance",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4821a",
-        " Status": "CORRECTED"
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

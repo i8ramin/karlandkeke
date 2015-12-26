@@ -1,49 +1,28 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "JUST 4  KIDS SOUNDVIEW CENTER ",
-  "permitHolder": "JUST 4 KIDS SOUNDVIEW CENTER, INC.",
-  "address": "214 SOUNDVIEW AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10473",
-  "phone": "917-995-8041",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7334",
-  "permitExpirationDate": " 08/27/2017",
+  "centerName": "JUMPSTART EARLY INTERVENTION ",
+  "permitHolder": "WOMENS LEAGUE COMMUNITY RESIDENCES INC",
+  "address": "2294 NOSTRAND AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11210",
+  "phone": "347-000-0000",
+  "permitStatus": " Permitted ",
+  "permitNumber": "84837",
+  "permitExpirationDate": " 04/08/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "24",
-  "siteType": "ACS Contracted Preschools",
+  "maximumCapacity": "44",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "14        ",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 4,
+    "date": "Inspection Date 10/16/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4713 f",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4719 i",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "OPEN "
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

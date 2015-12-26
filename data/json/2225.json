@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "PAL CAREY GARDENS DAY CARE CENTER ",
-  "permitHolder": "POLICE ATHLETIC LEAGUE INC.",
-  "address": "2964 WEST 23 STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11224",
-  "phone": "718-372-4044",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6102",
-  "permitExpirationDate": " 06/18/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "69",
-  "siteType": "ACS Contracted Preschools",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "type": "Camp",
+  "centerName": "PAL GOLDIE MAPLE ACADEMY BEACON AT PS 183Q ",
+  "permitHolder": "POLICE ATHLETIC LEAGUE INC",
+  "address": "2-45 BEACH 79 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11693",
+  "phone": "347-658-2530",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "93938",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

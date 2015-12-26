@@ -1,24 +1,26 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "LEIF ERICSON DAY SCHOOL ",
-  "permitHolder": "LEIF ERICSON DAY SCHOOL",
-  "address": "1037 72 STREET",
+  "type": "Camp",
+  "centerName": "LEINAD CHILD CARE SERVICES ",
+  "permitHolder": "LEINAD CHILD CARE SERVICES",
+  "address": "1031 FLUSHING AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11228",
-  "phone": "718-748-9023",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11237",
+  "phone": "",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

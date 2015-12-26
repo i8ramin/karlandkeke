@@ -1,26 +1,26 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "KEREN OHR  NURSERY INC. ",
-  "permitHolder": "KEREN OHR NURSERY INC.",
-  "address": "170-16 73 AVENUE",
-  "borough": "QUEENS",
-  "zipCode": "11366",
-  "phone": "718-380-5611",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7408",
-  "permitExpirationDate": " 08/17/2017",
+  "centerName": "KENNEDY CHILD STUDY CENTER INC ",
+  "permitHolder": "KENNEDY CHILD STUDY CENTER",
+  "address": "2212 THIRD AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "212-988-9500",
+  "permitStatus": " Permitted ",
+  "permitNumber": "94577",
+  "permitExpirationDate": " 08/07/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "55",
+  "maximumCapacity": "177",
   "siteType": "Private",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "10        ",
-  "hasInspections": true,
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

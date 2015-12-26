@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "IOLA JORDAN DAY CARE CENTER ",
-  "permitHolder": "1332 FULTON AVENUE DAY CARE,INC.",
-  "address": "421 EAST 161 STREET",
-  "borough": "BRONX",
-  "zipCode": "10451",
-  "phone": "718-402-4166",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "5483",
-  "permitExpirationDate": " 06/29/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "154",
-  "siteType": "ACS Contracted Preschools",
+  "type": "Camp",
+  "centerName": "INWOOD COMM IS 52 ",
+  "permitHolder": "INWOOD COMM IS 52",
+  "address": "650 ACADEMY ST",
+  "borough": "MANHATTAN",
+  "zipCode": "10034",
+  "phone": "212-942-0043",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/04/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/11/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/16/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

@@ -1,31 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "LAPUERTA ABIERTA EARLY LEARN CENTER ",
-  "permitHolder": "POLICE ATHLETIC LEAGUE INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t3001 WEST 37TH STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BROOKLYN",
-  "zipCode": "11224",
-  "phone": "718-373-1100",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "51657",
-  "permitExpirationDate": " 09/06/2015",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "61",
-  "siteType": "Private",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "2         ",
-  "hasInspections": true,
+  "type": "Camp",
+  "centerName": "LATCH AFTER SCHOOL PROGRAMMS226 ",
+  "permitHolder": "LATCH AFTER SCHOOL PROGRAMMS226",
+  "address": "121-10 ROCKAWAY BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11420",
+  "phone": "718-322-0011",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 05/16/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/26/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
-    "infractions": [
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

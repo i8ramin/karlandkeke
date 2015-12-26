@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF ANGELS PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF ANGELS",
-  "address": "2865 CLAFLIN AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10468",
-  "phone": "718-549-3503",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "OUR LADY OF GOOD COUNSEL SCHOOL-PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF GOOD COUNSEL SCHOOL",
+  "address": "42 AUSTIN PLACE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10304",
+  "phone": "718-447-7260",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,18 +14,13 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/13/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
-    "infractions": [
-      {
-        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4317 a1",
-        " Status": "OPEN "
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

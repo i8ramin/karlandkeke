@@ -1,26 +1,69 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "MID-BRONX C C R P HEAD START ",
-  "permitHolder": "MID-BRONX C C R P EARLY CHILDHOOD CENTER, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1125 GRAND CONCOURSE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Camp",
+  "centerName": "MID-BRONX COUNCIL SERVICES INC ",
+  "permitHolder": "MID-BRONX COUNCIL SERVICES INC",
+  "address": "1125 GRAND CONCOURSE ",
   "borough": "BRONX",
   "zipCode": "10452",
-  "phone": "718-590-7042",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6058",
-  "permitExpirationDate": " 08/10/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "261",
-  "siteType": "ACS Contracted Preschools",
+  "phone": "718-410-6735",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34212",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "30",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/26/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/05/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "7",
     "infractions": [
-
+      {
+        "Violation Summary ": "Clearances for Director of Camp not submitted to DOHMH or on File with DOHMH",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4809b3",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp Director on site found to have criminal record in contraindication of NYS Correction Law 23-A",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4809b4iii",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp is not supervised by a Camp Director Director on site is not qualified is not of required age or does not have the required experience",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4809b12",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4811a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4817b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4821a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp Director failed to file certified conviction history document with DOHMH",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809b4",
+        " Status": "OPEN "
+      }
     ]
-  }
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 08/08/2013 Result Monitoring Inspection Non-Routine - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Monitoring Inspection Non-Routine - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div"
 }

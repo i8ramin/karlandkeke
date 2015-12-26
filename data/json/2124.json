@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "NYCHA DEWITT CLINTON COMM. CTR. ",
-  "permitHolder": "NYCHA DEWITT CLINTON COMM. CTR.",
-  "address": "120 EAST 110TH ST.",
+  "centerName": "NYCHA HERBERT H LEHMAN ",
+  "permitHolder": "NYCHA HERBERT H LEHMAN",
+  "address": "1589 MADISON AVE",
   "borough": "MANHATTAN",
   "zipCode": "10029",
-  "phone": "212-876-1240",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "phone": "212-876-6480",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitExpirationDate": " 05/02/2015",
   "ageRange": "",
   "maximumCapacity": "",
   "siteType": "Municipal Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/07/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/30/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

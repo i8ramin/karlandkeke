@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "OUR KIDS PLACE COUNTRY DAY INC. ",
-  "permitHolder": "OUR KIDS PLACE COUNTRY DAY INC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t137-25 BROOKVILLE BLVD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF FATIMA ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "25-38 80TH STREET",
   "borough": "QUEENS",
-  "zipCode": "11422",
-  "phone": "718-276-3722",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "54337",
-  "permitExpirationDate": " 11/20/2017",
+  "zipCode": "11370",
+  "phone": "718-429-7031",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "100",
-  "siteType": "Private",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

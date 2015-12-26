@@ -1,24 +1,26 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF THE BLESSED SACRAMENT PAROCHIAL SCHOOL ",
-  "permitHolder": "ROMAN CATHOLIC CHURCH BOROUGH OF QUEENS",
-  "address": "34-45 202 STREET",
-  "borough": "QUEENS",
-  "zipCode": "11361",
-  "phone": "718-229-4434",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "OUR LADY OF TRUST AT OUR LADY OF MIRACLES ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "744 East 87 Street",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "",
+  "maximumCapacity": "0",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,26 +1,39 @@
 {
-  "type": "Camp",
-  "centerName": "PENN-WORTMAN LIVE 4 LIFE CORNERSTONE ",
-  "permitHolder": "CAMBA,  INC",
-  "address": "895 PENNSYLVANIA AVENUE",
+  "type": "School Based Child Care",
+  "centerName": "PEOPLES DAY CARE ",
+  "permitHolder": "PEOPLES ELEMENTARY SCHOOL",
+  "address": "2 VAN SINDEREN AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11207",
-  "phone": "718-649-1371",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "69957",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "175",
-  "siteType": "Summer Day Camp",
+  "phone": "718-485-0100",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 11/05/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "2",
     "infractions": [
-
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

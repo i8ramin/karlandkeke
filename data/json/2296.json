@@ -1,31 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "PNW ENTERPRISES, LLC ",
-  "permitHolder": "PNW ENTERPRISES, LLC",
-  "address": "45-45 CENTER BLVD",
-  "borough": "QUEENS",
-  "zipCode": "11109",
-  "phone": "347-813-4999",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "97920",
-  "permitExpirationDate": " 10/01/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "45",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "POLICE ATHLETIC LEAGUE PS 196 ",
+  "permitHolder": "POLICE ATHLETIC LEAGUE INC",
+  "address": "1250 WARD AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10472",
+  "phone": "718-409-4164",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "93338",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "180",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/03/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4743 e",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

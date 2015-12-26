@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "PAVE ACADEMY ",
-  "permitHolder": "PRE-PAVE, INC./PAVE ACADEMY CHARTER SCHOOL",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t732 HENRY STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "PAVE ACADEMY PRESCHOOL ",
+  "permitHolder": "PAVE ACADEMY CHARTER SCHOOL",
+  "address": "76 LORRAINE STREET ",
   "borough": "BROOKLYN",
   "zipCode": "11231",
   "phone": "718-858-7813",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

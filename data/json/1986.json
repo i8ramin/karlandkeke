@@ -1,12 +1,12 @@
 {
   "type": "Camp",
-  "centerName": "MOSHOLU-MONTEFIORE COMMUNITY CENTER, INC. ",
-  "permitHolder": "MOSHOLU-MONTEFIORE COMMUNITY CENTER, INC.",
+  "centerName": "MOSHOLU-MONTEFIORE COMMUNITY CENTER INC ",
+  "permitHolder": "MOSHOLU-MONTEFIORE COMMUNITY CENTER INC",
   "address": "3540 BIVONA STREET",
   "borough": "BRONX",
   "zipCode": "10475",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "",
@@ -14,11 +14,13 @@
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

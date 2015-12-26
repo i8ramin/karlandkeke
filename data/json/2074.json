@@ -1,26 +1,33 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "NEW YORK LEAGUE FOR EARLY LEARNING CLEARVIEW SCHOOL ",
-  "permitHolder": "NEW YORK LEAGUE FOR EARLY LEARNING",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t124-06 14TH AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "QUEENS",
-  "zipCode": "11356",
-  "phone": "718-352-0104",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7995",
-  "permitExpirationDate": " 02/14/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "100",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "NEW YORK SPORTS CLUB ",
+  "permitHolder": "TOWN SPORTS INTERNATIONAL LLC",
+  "address": "1637 3RD AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10128",
+  "phone": "212-987-7200",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "94598",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "15",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "6         ",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/19/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809i",
+        " Status": "OPEN "
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

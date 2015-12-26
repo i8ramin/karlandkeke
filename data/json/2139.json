@@ -1,31 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "OASIS @ P.S.156 ",
-  "permitHolder": "OASIS CHILDREN'S SERVICES, LLC.",
-  "address": "104 Sutter Avenue",
+  "centerName": "OASIS BEACON CENTER IS 323 ",
+  "permitHolder": "OASIS BEACON CENTER IS 323",
+  "address": "210 CHESTER STREET",
   "borough": "BROOKLYN",
   "zipCode": "11212",
-  "phone": "646-205-7788",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "42863",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "190",
+  "phone": "718-498-7030",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 07/08/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 08/12/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4817g",
-        " Status": "OPEN "
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

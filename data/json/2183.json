@@ -1,24 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF MOUNT CARAMEL PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF MOUNT CARAMEL",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t2465 BATHGATE AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BRONX",
-  "zipCode": "10458",
-  "phone": "718-295-6080",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "Our Lady of Peptual help preschool ",
+  "permitHolder": "ARCHDIOCESE OF BROOKLYN",
+  "address": "111-10 115 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11420",
+  "phone": "718-843-4184",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "23",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 12/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

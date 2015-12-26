@@ -1,31 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "NEW MILESTONE DAY CARE CENTER ",
-  "permitHolder": "NEW MILESTONE, INC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t158-13 72 AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "QUEENS",
-  "zipCode": "11365",
-  "phone": "718-380-1978",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7754",
-  "permitExpirationDate": " 05/13/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "58",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "NEW SETTLEMENT APARTMENTS ",
+  "permitHolder": "NEW SETTLEMENT APARTMENTS",
+  "address": "1484 INWOOD AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-716-8000",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 09/26/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "8         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4749 a",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

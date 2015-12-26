@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF FATIMA ",
+  "centerName": "OUR LADY OF GRACE ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "25-38 80TH STREET",
-  "borough": "QUEENS",
-  "zipCode": "11370",
-  "phone": "718-429-7031",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "address": "385 AVENUE W",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-375-2081",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

@@ -1,26 +1,26 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "LITTLE EXPLORERS PRESCHOOL & DAY CARE ",
-  "permitHolder": "LITTLE EXPLORERS,INC.",
-  "address": "213-41 40 AVENUE",
-  "borough": "QUEENS",
-  "zipCode": "11361",
-  "phone": "347-502-7073",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7940",
-  "permitExpirationDate": " 10/25/2016",
+  "type": "School Based Child Care",
+  "centerName": "LITTLE FLOWER PRESCHOOL ",
+  "permitHolder": "LITTLE FLOWER DAY CARE CENTER AND PREPARATORY SCHOOL INC",
+  "address": "755 EASTERN PARKWAY ",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-342-0908",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "15",
-  "siteType": "Private",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "7         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

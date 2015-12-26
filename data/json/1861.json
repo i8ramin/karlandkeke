@@ -2,11 +2,11 @@
   "type": "School Based Child Care",
   "centerName": "MANHATTAN BEACH JEWISH CENTER ",
   "permitHolder": "ZVI DOV ROTH DAY SCHOL OF YESHIVA RAMBAM",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t60 WEST END AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "address": "60 WEST END AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11235",
   "phone": "718-743-5511",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,13 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
 }

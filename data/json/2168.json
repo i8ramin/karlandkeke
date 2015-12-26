@@ -1,26 +1,33 @@
 {
-  "type": "Camp",
-  "centerName": "OUR KIDS AFTERSCHOOL PROGRAM ",
-  "permitHolder": "JACOB A RIIS NEIGHBORHOOD SETTLEMENT HOUSE, INC.",
-  "address": "10-25 41ST AVE.",
-  "borough": "QUEENS",
-  "zipCode": "11101",
-  "phone": "718-784-7447",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF ANGELS PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF ANGELS",
+  "address": "2865 CLAFLIN AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-549-3503",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/31/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 03/13/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4317 a1",
+        " Status": "OPEN "
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }
