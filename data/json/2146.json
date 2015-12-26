@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "ODYSSEY HOUSE FAMILY CENTER ",
-  "permitHolder": "ODYSSEY HOUSE,INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t219 EAST 121 ST      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "MANHATTAN",
-  "zipCode": "10035",
-  "phone": "212-987-5193",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7350",
-  "permitExpirationDate": " 01/24/2017",
+  "type": "School Based Child Care",
+  "centerName": "OHOLEI TORAH EDUCATIONAL INSTITUTE ",
+  "permitHolder": "OHOLEI TORAH",
+  "address": "667 EASTERN PKWY ",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-778-3340",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "20",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "18        ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/09/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.669627891448,
+  "longitude": -73.946227040005
 }

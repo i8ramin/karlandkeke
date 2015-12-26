@@ -1,43 +1,45 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "NURSERY NORTH INFANT & CHILD DAYCARE CENTER ",
-  "permitHolder": "NURSERY NORTH INFANT & CHILD DAY CARE, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t2094 FREDRICK DOUGLAS BLVD.      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "centerName": "NURSERY SCHOOL AT HABONIM ",
+  "permitHolder": "CONGREGATION HABONIM INC",
+  "address": "101 WEST END AVENUE ",
   "borough": "MANHATTAN",
-  "zipCode": "10026",
-  "phone": "212-222-4404",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7595",
-  "permitExpirationDate": " 05/22/2016",
+  "zipCode": "10069",
+  "phone": "212-787-5347",
+  "permitStatus": " Permitted ",
+  "permitNumber": "80602",
+  "permitExpirationDate": " 02/06/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "39",
+  "maximumCapacity": "60",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "9         ",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
+    "date": "Inspection Date 06/02/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "3",
     "infractions": [
       {
-        "Violation Summary ": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4761 d",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4749 a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4757 b",
+        "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4749 c",
         " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Restriction on juice service not complied with at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4761 b2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "8109 i",
+        " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

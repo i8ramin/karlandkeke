@@ -2,23 +2,29 @@
   "type": "School Based Child Care",
   "centerName": "IMMACULATE CONCEPTION PRESCHOOL ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "21-63 29 STREET",
+  "address": "179-14 DALNY ROAD",
   "borough": "QUEENS",
-  "zipCode": "11105",
-  "phone": "718-729-1969",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11432",
+  "phone": "718-739-5933",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "25",
+  "maximumCapacity": "19",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 12/07/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.716064867796,
+  "longitude": -73.785233689682
 }

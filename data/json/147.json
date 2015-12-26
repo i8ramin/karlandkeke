@@ -22,5 +22,7 @@
     "numInfractions": ""
   },
   "numInspections": "0",
-  "pastInspections": ""
+  "pastInspections": "",
+  "latitude": 40.8851004004,
+  "longitude": -73.892943186614
 }

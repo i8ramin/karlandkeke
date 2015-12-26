@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "KIDDIE KORNER PRE-SCHOOL #2 ",
-  "permitHolder": "CHABAD LUBAVITCH OF BROOKLYN HEIGHTS",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t117 REMSEN STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "KIDDIE KOLLEGE ",
+  "permitHolder": "DAVID GRAYSON CHRISTIAN ACADEMY",
+  "address": "1237 EASTERN PARKWAY",
   "borough": "BROOKLYN",
-  "zipCode": "11201",
-  "phone": "718-596-4840",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "12077",
-  "permitExpirationDate": " 02/07/2016",
+  "zipCode": "11213",
+  "phone": "718-774-4924",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "12",
+  "maximumCapacity": "",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "3         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.66859362215,
+  "longitude": -73.927263259776
 }

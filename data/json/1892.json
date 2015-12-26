@@ -1,31 +1,30 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "MASORES BAIS YAAKOV PRESCHOOL ",
+  "type": "Camp",
+  "centerName": "MASORES DAY CAMP ",
   "permitHolder": "MASORES BAIS YAAKOV",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1395 OCEAN AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "address": "1271 EAST 35 STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11230",
-  "phone": "718-692-2424",
-  "permitStatus": "\r\n                    Active\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "zipCode": "11210",
+  "phone": "718-906-6500",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91199",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "600",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 07/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4311 c",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.623224973683,
+  "longitude": -73.941354640059
 }

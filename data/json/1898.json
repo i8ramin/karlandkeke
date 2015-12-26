@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "MASPETH TOWN HALL PRE-SCHOOL ",
-  "permitHolder": "MASPETH TOWN HALL INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t53-37 72 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "QUEENS",
-  "zipCode": "11378",
-  "phone": "718-335-6049",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "5144",
-  "permitExpirationDate": " 04/15/2017",
+  "type": "School Based Child Care",
+  "centerName": "MAVAKSHEI HASHEM ",
+  "permitHolder": "CONGMISHKAN YEIHESKEL",
+  "address": "3918 16TH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11218",
+  "phone": "718-435-8900",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "40",
-  "siteType": "Private",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "29        ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.636481796589,
+  "longitude": -73.979855554412
 }

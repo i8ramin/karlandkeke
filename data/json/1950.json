@@ -1,26 +1,28 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "MISSION OF THE IMMACULATE VIRGIN FOR THE PROTECTION OF HOMELESS AND DESTITUTE CHILDREN ",
-  "permitHolder": "MISSION OF THE IMMACULATE VIRGIN FOR THE PROTECTION OF HOMELESS AND DESTITUTE CHILDREN",
-  "address": "6581 HYLAN BOULEVARD",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10309",
-  "phone": "718-317-2849",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "5659",
-  "permitExpirationDate": " 09/14/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "73",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "MMCC MARBLE HILL CORNERSTONE ",
+  "permitHolder": "MOSHOLU MONTEFIORE COMMUNITY CENTER INC",
+  "address": "5365 BROADWAY",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-562-9450",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91302",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "165",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/27/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

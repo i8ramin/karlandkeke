@@ -2,11 +2,11 @@
   "type": "School Based Child Care",
   "centerName": "MOSDOS SATMAR ",
   "permitHolder": "MOSDOS SATMAR",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t4423 15 AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "address": "4423 15 AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11219",
   "phone": "718-508-4444",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,54 +14,58 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/04/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 7,
+    "date": "Inspection Date 11/04/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "7",
     "infractions": [
       {
         "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
         "Code Sub-Section": "13105a",
         " Status": "OPEN "
       },
       {
         "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
         "Code Sub-Section": "13109d2",
         " Status": "OPEN "
       },
       {
         "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
         "Code Sub-Section": "4323",
         " Status": "OPEN "
       },
       {
         "Violation Summary ": "Sufficient utility sinks not provided not of adequate size insufficent water provided in comercial buildings",
-        "Category ": "                                                         Minor violations General Violations                            ",
+        "Category ": " Minor violations General Violations ",
         "Code Sub-Section": "13109d3",
         " Status": "OPEN "
       },
       {
         "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
-        "Category ": "                                                         Minor violations General Violations                            ",
+        "Category ": " Minor violations General Violations ",
         "Code Sub-Section": "13109f",
         " Status": "OPEN "
       },
       {
         "Violation Summary ": "Child care activity results in exposure to lime ashes or other nuisance materials",
-        "Category ": "                                                         Minor violations General Violations                            ",
+        "Category ": " Minor violations General Violations ",
         "Code Sub-Section": "15303",
         " Status": "OPEN "
       },
       {
         "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
+        "Category ": " Minor violations General Violations ",
         "Code Sub-Section": "4311 c",
         " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.634981185728,
+  "longitude": -73.984968569213
 }

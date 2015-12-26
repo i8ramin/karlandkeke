@@ -1,49 +1,47 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "LITTLE SCHOLARS LEARNING CENTER ",
-  "permitHolder": "M AND N CHILD CARE, INC.",
-  "address": "52 QUENTIN ROAD",
+  "centerName": "LITTLE SCHOLARS LEARNING CENTER II ",
+  "permitHolder": "TEREMOK DAY CARE LLC",
+  "address": "448 NEPTUNE AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11223",
-  "phone": "718-373-7046",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "49917",
-  "permitExpirationDate": " 08/09/2017",
+  "zipCode": "11224",
+  "phone": "718-743-9009",
+  "permitStatus": " Permitted ",
+  "permitNumber": "75797",
+  "permitExpirationDate": " 11/21/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "26",
+  "maximumCapacity": "37",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2         ",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/07/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 4,
+    "date": "Inspection Date 12/01/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "3",
     "infractions": [
       {
-        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4713 c",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At the time of inspection child care service failed to maintain a minimum of 30 square feet of space per child",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4739 b",
-        " Status": "OPEN "
-      },
-      {
         "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-        "Category ": "                                                         Minor violations General Violations                            ",
+        "Category ": " Minor violations General Violations ",
         "Code Sub-Section": "4713 d",
         " Status": "OPEN "
       },
       {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to maintain childrens daily attendance records",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4727 a",
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4737 b1",
         " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "4",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 03/10/2015 Result Compliance Inspection of Open Violations - Previously cited violations corrected /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Compliance Inspection of Open Violations - Previously cited violations corrected/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateAt time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4741 h/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 02/27/2015 Result Compliance Inspection of Open Violations - Reinspection Required /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Compliance Inspection of Open Violations - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateRequired food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4761 a/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateAt time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4741 h/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla2 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse2 idcollap2 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 02/04/2015 Result Initial Annual Inspection - Reinspection Required /a /div div idcollapse2 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateRequired food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4761 a/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateAt time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4741 h/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /div",
+  "latitude": 40.579860249841,
+  "longitude": -73.970206841033
 }

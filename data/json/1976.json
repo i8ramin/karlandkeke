@@ -2,11 +2,11 @@
   "type": "School Based Child Care",
   "centerName": "MOSDOS CHASIDEI SQUARE ",
   "permitHolder": "MOSDOS CHASIDEI SQUARE",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t1373 43 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "address": "1373 43 STREET ",
   "borough": "BROOKLYN",
   "zipCode": "11219",
   "phone": "718-436-2550",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.637501161911,
+  "longitude": -73.987155061813
 }

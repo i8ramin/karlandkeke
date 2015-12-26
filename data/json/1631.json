@@ -1,43 +1,35 @@
 {
   "type": "Camp",
-  "centerName": "KIDS CREATIVE ",
-  "permitHolder": "KIDS CREATIVE 404, INC.",
-  "address": "314 WEST 91 STREET",
+  "centerName": "KIDS IN THE GAME ",
+  "permitHolder": "KIDS IN THE GAME LLC",
+  "address": "620 ISHAM STREET ",
   "borough": "MANHATTAN",
-  "zipCode": "10024",
-  "phone": "646-485-5123",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "46020",
+  "zipCode": "10034",
+  "phone": "347-289-8047",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "45077",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "94",
-  "siteType": "Traveling Summer Day Camp",
+  "maximumCapacity": "72",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/21/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
+    "date": "Inspection Date 07/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "1",
     "infractions": [
       {
-        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "309",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4815a16",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Camp Director fails to conduct inspection of fire protection facilities and equipment",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4815a1",
-        " Status": "OPEN "
+        "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4817p",
+        " Status": "CORRECTED"
       }
     ]
-  }
+  },
+  "numInspections": "4",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/29/2014 Result Initial Annual Inspection - Reinspection Required Fines pending /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required Fines pending/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateHealth Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4817p/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/29/2014 Result Initial Annual Inspection - Reinspection Required Fines pending /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required Fines pending/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateHealth Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4817p/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla2 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse2 idcollap2 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/24/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse2 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
+  "latitude": 40.869192341752,
+  "longitude": -73.920458854876
 }

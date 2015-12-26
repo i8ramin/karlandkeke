@@ -1,24 +1,41 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "PHIPPS HOUSES LEBANON WEST FARMS ",
-  "permitHolder": "PHIPPS NEIGHBORHOODS, INC.",
-  "address": "1175 EAST TREMONT AVENUE",
+  "type": "Camp",
+  "centerName": "PHIPPS NEIGHBORHOODS SOUNDVIEW CORNERSTONE ",
+  "permitHolder": "PHIPPS CORNERSTONE AT SOUNDVIEW",
+  "address": "1680 SEWARD AVENUE",
   "borough": "BRONX",
-  "zipCode": "10460",
-  "phone": "917-243-7058",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "96678",
-  "permitExpirationDate": " 09/08/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "60",
-  "siteType": "Private",
+  "zipCode": "10473",
+  "phone": "718-378-6246",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91201",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "300",
+  "siteType": "Traveling Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": false,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 08/26/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Aquatics Director is not certified in CPR for the Professional rescuer Certification is not current Cerification is not limited to one year validation period",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4809f34gh",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Aquatics Director is not 21 years of age does not have 3 seasons of relative experience",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4809f12",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.818359291787,
+  "longitude": -73.868970980963
 }

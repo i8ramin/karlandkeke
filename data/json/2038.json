@@ -1,43 +1,30 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "NEW LIFE CHILD DEVELOPMENT INC EARLY LEARN SITE #4 ",
-  "permitHolder": "NEW LIFE CHILD DEVELOPMENT CENTER, INC.",
-  "address": "1307 GREENE AVENUE",
+  "type": "Camp",
+  "centerName": "NEW LIFE DCC ",
+  "permitHolder": "NEW LIFE DCC",
+  "address": "295 WOODBINE ST",
   "borough": "BROOKLYN",
   "zipCode": "11237",
-  "phone": "718-366-1668",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7012",
-  "permitExpirationDate": " 07/26/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "117",
-  "siteType": "ACS Head Start",
+  "phone": "718-821-3432",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
+    "date": "Inspection Date 08/21/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4741 i",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4741 j",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.696404688497,
+  "longitude": -73.912941172384
 }

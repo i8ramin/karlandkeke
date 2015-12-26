@@ -1,31 +1,30 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "LITTLE DREAMERS ",
-  "permitHolder": "N&B FRIENDSHIP INC.",
-  "address": "4317 AVENUE D",
+  "centerName": "LITTLE EINSTEINS OF CANARSIE LLC ",
+  "permitHolder": "LITTLE EINSTEINS OF CANARSIE LLC",
+  "address": "8413 AVENUE K",
   "borough": "BROOKLYN",
-  "zipCode": "11203",
-  "phone": "718-451-2566",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7028",
-  "permitExpirationDate": " 06/04/2016",
+  "zipCode": "11236",
+  "phone": "718-251-5000",
+  "permitStatus": " Permitted ",
+  "permitNumber": "80117",
+  "permitExpirationDate": " 01/29/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "25",
+  "maximumCapacity": "100",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 12/03/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4723 e",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 12/01/2015 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
+  "latitude": 40.634307127383,
+  "longitude": -73.906385959017
 }

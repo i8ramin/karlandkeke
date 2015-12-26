@@ -1,12 +1,12 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE @ PS 378 X ICAHN 2 ",
-  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE @ PS 378 X ICAHN 2",
-  "address": "1640 BRONXDALE AVE",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE PS 717X ICAHN ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 717X ICAHN",
+  "address": "1506 BROOK AVENUE",
   "borough": "BRONX",
-  "zipCode": "10462",
+  "zipCode": "10457",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "4 - 16",
@@ -14,11 +14,15 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.838554908737,
+  "longitude": -73.9050493874
 }

@@ -1,31 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "IN KIDS WE TRUST ",
-  "permitHolder": "IN KIDS WE TRUST, INC.",
-  "address": "241 MARCUS GARVEY BOULEVARD",
-  "borough": "BROOKLYN",
-  "zipCode": "11221",
-  "phone": "718-453-0004",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7212",
-  "permitExpirationDate": " 09/22/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "18",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "IMMANUEL GENIUS SUMMER CAMP ",
+  "permitHolder": "IMMANUEL NY MISSION INC",
+  "address": "253-01 NORTHERN BLVD ",
+  "borough": "QUEENS",
+  "zipCode": "11362",
+  "phone": "718-877-3001",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "89397",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "35",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      10/14/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Reinspection Required; Violations corrected at time of inspection\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
-    "infractions": [
-      {
-        "Violation Summary ": "Required smoke and carbon monoxide detectors not provided or maintained at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 g",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.770779379223,
+  "longitude": -73.735407434151
 }

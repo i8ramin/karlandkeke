@@ -1,24 +1,47 @@
 {
   "type": "Camp",
   "centerName": "IMMANUEL GENIUS SUMMER CAMP ",
-  "permitHolder": "IMMANUEL NY MISSION, INC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t253-01 NORTHERN BLVD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "permitHolder": "IMMANUEL GENIUS INC",
+  "address": "213-01 NORTHERN BLVD ",
   "borough": "QUEENS",
-  "zipCode": "11362",
-  "phone": "718-877-3001",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "89397",
+  "zipCode": "11361",
+  "phone": "718-819-0190",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91537",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "35",
+  "maximumCapacity": "40",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1 or more",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 07/22/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+        "Category ": " ",
+        "Code Sub-Section": " ",
+        " Status": ""
+      },
+      {
+        "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4817p",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Food supervisors do not have a Food Protection Certificate in accordance with HC 8115",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815f1",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/14/2015 Result Initial Annual Inspection - Reinspection Required Fines pending /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required Fines pending/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
+  "latitude": 40.760113918724,
+  "longitude": -73.77013957582
 }

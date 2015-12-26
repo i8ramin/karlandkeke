@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "MASPETH TOWN HALL @ I.S. 73 ",
-  "permitHolder": "MASPETH TOWN HALL @ I.S. 73",
-  "address": "70-02 54TH AVENUE",
+  "centerName": "MASPETH TOWN HALL PS/IS 119 ",
+  "permitHolder": "MASPETH TOWN HALL PS/IS 119",
+  "address": "74-01 78TH AVENUE",
   "borough": "QUEENS",
-  "zipCode": "11378",
+  "zipCode": "11385",
   "phone": "718-335-6049",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 09/14/2015",
+  "permitExpirationDate": " 12/10/2014",
   "ageRange": "",
   "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/25/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.704398264031,
+  "longitude": -73.875182965191
 }

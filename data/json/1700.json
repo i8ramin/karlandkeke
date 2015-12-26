@@ -1,26 +1,65 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "LAVELLE SCHOOL FOR THE BLIND ",
-  "permitHolder": "LAVELLE SCHOOL FOR THE BLIND",
-  "address": "3830 PAULDING AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10469",
-  "phone": "718-882-1212",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7139",
-  "permitExpirationDate": " 06/26/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "48",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "LAVNER CAMPS ",
+  "permitHolder": "LAVNER CAMPS PROGRAMS INC",
+  "address": "60 Washington Square South ",
+  "borough": "MANHATTAN",
+  "zipCode": "10012",
+  "phone": "212-998-4906",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92339",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "50",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "6",
     "infractions": [
-
+      {
+        "Violation Summary ": "Camp Operator fails to provide adequate supervision",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4812a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4817p",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4811b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4817e",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809i",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4817g",
+        " Status": "OPEN "
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.730140739106,
+  "longitude": -73.997806277323
 }

@@ -1,31 +1,41 @@
 {
   "type": "Camp",
-  "centerName": "PAL @ P.S. 41 ",
-  "permitHolder": "POLICE ATHLETHIC LEAGUE, INC.",
-  "address": "216 Clawson Street",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10306",
-  "phone": "718-351-6777",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "45458",
+  "centerName": "PAL PS 48 ",
+  "permitHolder": "POLICE ATHLETIC LEAGUE INC",
+  "address": "730 BRYANT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10474",
+  "phone": "212-477-9450",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34439",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "100",
+  "maximumCapacity": "105",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/30/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 1,
+    "date": "Inspection Date 07/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "2",
     "infractions": [
       {
-        "Violation Summary ": "Serious illness or accident not reported to the Dept in 24 hours",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4817n",
+        "Violation Summary ": "Aquatics Director is not certified in CPR for the Professional rescuer Certification is not current Cerification is not limited to one year validation period",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4809f34gh",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Camp fails to provides one Lifeguard for 25 campers when using off site facility lifeguard observed supervising more than 3400 ft of pool surface 50 yards of shoreline",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4813a4iii",
         " Status": "CORRECTED"
       }
     ]
-  }
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 04/03/2013 Result /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
+  "latitude": 40.815470540073,
+  "longitude": -73.885768724945
 }

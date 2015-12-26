@@ -1,12 +1,12 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "MAGIC PLACE DAYCARE INC. ",
-  "permitHolder": "MAGIC PLACE DAY CARE, INC.",
-  "address": "613 MIDLAND  AVENUE",
+  "centerName": "MAGIC PLACE DAYCARE INC ",
+  "permitHolder": "MAGIC PLACE DAY CARE INC",
+  "address": "613 MIDLAND AVENUE",
   "borough": "STATEN ISLAND",
   "zipCode": "10306",
   "phone": "718-987-1278",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitStatus": " Permitted ",
   "permitNumber": "96298",
   "permitExpirationDate": " 09/03/2017",
   "ageRange": "2 - 5",
@@ -14,11 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.571546365206,
+  "longitude": -74.09169000001
 }

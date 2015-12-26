@@ -1,26 +1,28 @@
 {
-  "type": "Camp",
-  "centerName": "OUR LADY OF HOPE ",
-  "permitHolder": "SENSATIONAL KIDS, INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t61-21 71 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "OUR LADY OF LOURDES ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "92-80 220 STREET",
   "borough": "QUEENS",
-  "zipCode": "11379",
-  "phone": "718-386-1962",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "34531",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "189",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11428",
+  "phone": "718-464-1480",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/11/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.723327632209,
+  "longitude": -73.736559823103
 }

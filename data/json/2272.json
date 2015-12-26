@@ -1,26 +1,35 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "PHEBEANA PRE-SCHOOL, INC. ",
-  "permitHolder": "PHEBEANA PRE-SCHOOL, INC.",
-  "address": "160 PARKSIDE AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11226",
-  "phone": "718-284-8147",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "5919",
-  "permitExpirationDate": " 07/26/2016",
+  "type": "School Based Child Care",
+  "centerName": "PHILLIP AND JAMES SCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-STS PHILLIP AND JAMES SCHOOL",
+  "address": "1160 EAST 213 STREET",
+  "borough": "BRONX",
+  "zipCode": "10469",
+  "phone": "718-882-4576",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "55",
-  "siteType": "Private",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 04/08/2014",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received age appropriate immunizations",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4317 a2",
+        " Status": "CORRECTED"
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.875525848396,
+  "longitude": -73.852430309302
 }

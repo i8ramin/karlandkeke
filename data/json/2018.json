@@ -1,12 +1,12 @@
 {
   "type": "Universal Pre-K Half Day",
   "centerName": "NESIVOS BAIS YAAKOV PRESCHOOL ",
-  "permitHolder": "BROS. YISROEL SCHOOL",
+  "permitHolder": "BROS YISROEL SCHOOL",
   "address": "1021 45 STREET",
   "borough": "BROOKLYN",
   "zipCode": "11219",
   "phone": "718-972-0804",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,13 +14,17 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      03/24/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Monitoring Inspection Non-Routine - Out of Business\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 03/24/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Out of Business",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.640910824733,
+  "longitude": -73.995816623238
 }
