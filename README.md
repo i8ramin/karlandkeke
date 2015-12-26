@@ -14,6 +14,12 @@ brew install mongodb
 bundle exec rake mongo:import
 ```
 
+## On Heroku
+```
+heroku run rake mongo:import -a karlandkeke
+```
+
+
 This will set up mongodb locally and import the scraped data (This will wipe mongo clean and re-import the entire dataset)
 
 ## Check if you've imported data correctly
