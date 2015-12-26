@@ -1,30 +1,24 @@
 #results.ui.two.column.stackable.grid
   .column
     ol.ui.large.divided.list
-      li.item
-        .image
-          span.grade.grade-a A
-        .content
-          .header Brooklyn Daycare
-          .meta
-            span blah blah
-          .description
-          .extra
-            strong 12 violations
-            | Permit, Safety plan, Immunizations, CPR,
-            |  Outdoor space,
-            strong +6 more
-      li.item
-        .image
-          span.grade.grade-b  B
-        .content
-          .header Brooklyn Daycare
-          .meta
-            span blah blah
-          .description
-          .extra
-            strong 12 violations
-            | Permit, Safety plan, Immunizations, CPR,
-            |  Outdoor space,
-            strong +6 more
+      - @daycares.each do |daycare|
+        li.item
+          .image
+            - grade = ['a','b','c','d','e'].sample
+            span.grade class="grade-#{grade}"= grade
+          .content
+            .header=daycare.center_name
+            .meta
+              span= daycare.address
+              div
+                span="#{daycare.borough}, NY "
+                span= daycare.zipcode
+            p.description
+            .extra
+              - num_violations = daycare.inspection.infractions.count
+              strong= "#{num_violations} violations"
+              - if num_violations > 0
+                div.violations
+                  - daycare.inspection.infractions.each do |infraction| 
+                    div= infraction.violation_summary
   #map.column
