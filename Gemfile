@@ -52,6 +52,9 @@ source 'https://rubygems.org' do
   gem 'dalli'
   gem 'memcachier'
 
+  # Scraper-related gems
+  gem 'mechanize'
+
   group :production, :staging do
     gem 'rails_12factor'
     gem 'rack-timeout'
@@ -74,8 +77,5 @@ source 'https://rubygems.org' do
 
     # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
     gem 'spring'
-
-    # Scraper-related gems
-    gem 'mechanize'
   end
 end
