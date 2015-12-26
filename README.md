@@ -2,7 +2,7 @@
 
 ## Scrape data from a816-healthpsi.nyc.gov
 ```
-ruby data/scraper.rb
+bundle exec rake mongo:scrape
 ```
 
 This will create add json files for individual daycare centers as well as daycares.json (collection) in data/json folder
