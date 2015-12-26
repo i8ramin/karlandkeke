@@ -58,10 +58,6 @@
     margin: 0 !important;
   }
 
-  .ui.secondary.menu {
-    background-color: @secondaryColor;
-  }
-
   .logo {
     font-size: 20px;
     letter-spacing: 2px;
@@ -69,11 +65,15 @@
   }
 
   .header.item {
-    width: 210px;
     margin: 0;
+    min-width: 192px;
   }
 
   .field {
+    @media only screen and (max-width: @largestMobileScreen) {
+      flex: 1;
+    }
+
     label {
       color: @lightGrey;
       text-transform: uppercase;
@@ -87,6 +87,10 @@
     font-weight: 300;
     font-size: 11px;
     letter-spacing: 1px;
+  }
+
+  input[name="search"] {
+    min-width: 200px;
   }
 }
 
@@ -108,7 +112,7 @@
 }
 
 #map {
-  min-height: calc(~"100vh - 139px");
+  min-height: calc(~"100vh - 121px");
   background-repeat: no-repeat;
   background-size: cover;
 }
