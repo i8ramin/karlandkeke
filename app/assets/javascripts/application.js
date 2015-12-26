@@ -17,5 +17,7 @@
 //= require semantic_ui/semantic_ui
 //= require mapbox/mapbox-gl_v0.12.2
 //= require jquery/jquery.shorten
+//= require lunr/lunr
+//= require points
 
 $('.ui.dropdown').dropdown();

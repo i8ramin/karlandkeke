@@ -1,0 +1,22 @@
+$(function(){
+  index = lunr(function () {
+    this.field('center_name', {boost: 10})
+    this.field('address')
+    this.field('zipcode')
+    this.ref('id')
+  })
+
+  <% seed_file = "data/json/daycares.json" %>
+  <% file = File.read(seed_file) %>
+  <% venues = JSON.parse(file) %>
+  <% id = 1 %>
+  <% venues.each do |daycare| %>
+    <% id = id+1 %>
+    index.add({
+      id: "<%=id%>",
+      center_name: "<%=daycare['centerName']%>",
+      address: "<%=daycare['address']%>",
+      zipcode: "<%=daycare['zipCode']%>"
+    })  
+  <% end %>
+});
