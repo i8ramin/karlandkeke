@@ -6,6 +6,8 @@ class Daycare
   field :type, type: String
   field :center_name, type: String
   field :permit_holder, type: String
+  field :lat, type: Float
+  field :lon, type: Float
   field :address, type: String
   field :borough, type: String
   field :zipcode, type: String
