@@ -54,6 +54,12 @@
 }
 
 #masthead {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+
   .ui.menu {
     margin: 0 !important;
   }
@@ -95,7 +101,9 @@
 }
 
 #results {
-  margin: 0;
+  position: relative;
+  top: 154px;
+  // margin: 0;
 
   .item {
     padding: @huge;
@@ -112,7 +120,9 @@
 }
 
 #map {
-  min-height: calc(~"100vh - 121px");
-  background-repeat: no-repeat;
-  background-size: cover;
+  position: fixed;
+  top: 150px;
+  width: calc(~"50vw - 20px");
+  height: calc(~"100vh - 154px");
+  overflow: hidden;
 }

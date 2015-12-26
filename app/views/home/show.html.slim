@@ -1,4 +1,5 @@
-#results.ui.two.column.stackable.grid
+
+.ui.two.column.stackable.grid#results
   .column
     ol.ui.large.divided.list
       - @daycares.each do |daycare|
@@ -10,7 +11,7 @@
             .header=daycare.center_name
             .street_address
               small= daycare.address
-            .city_state_info  
+            .city_state_info
               small="#{daycare.borough}, NY #{daycare.zipcode}"
             p.description
               small
@@ -22,6 +23,7 @@
               strong= "#{num_violations} violations"
               - if num_violations > 0
                 div.violations
-                  - daycare.inspection.infractions.each do |infraction| 
+                  - daycare.inspection.infractions.each do |infraction|
                     div= infraction.violation_summary
-  #map.column
+  .column
+    #map

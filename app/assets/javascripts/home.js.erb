@@ -12,6 +12,7 @@
 //     }
 //   });
 // }
+
 $(function(){
   // setup map
   mapboxgl.accessToken = 'pk.eyJ1IjoiaGsyMyIsImEiOiJjaWg2dDRmOXAwNmNpdWtrdDRvdW1xdzI2In0.F9uULd8DhCkRGltilPPZbg';
@@ -51,7 +52,7 @@ $(function(){
       }
     });
   });
-  
+
   map.on('style.load', function () {
 
     map.addSource("markers", geojson);
@@ -69,14 +70,14 @@ $(function(){
       "paint": {
         "text-size": 12
       }
-    });  
+    });
   });
-  
-  $("div.violations").shorten({
-    showChars: 250,
-    ellipsesText: '',
-    moreText: 'MORE',
-    lessText: 'LESS'
-  });
+
+  // $("div.violations").shorten({
+  //   showChars: 250,
+  //   ellipsesText: '',
+  //   moreText: 'MORE',
+  //   lessText: 'LESS'
+  // });
 });
 
