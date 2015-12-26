@@ -20,13 +20,13 @@ def scraper
 		linkPK:0,
 		pageroffset:0,
 		getNewResult:true,
-		progTypeValues: '', 
-		search:1, 
-		facilityName: '', 
-		borough: '', 
-		permitNo: '', 
-		neighborhood: '', 
-		zipCode: '' 
+		progTypeValues: '',
+		search:1,
+		facilityName: '',
+		borough: '',
+		permitNo: '',
+		neighborhood: '',
+		zipCode: ''
 	}
 	page = agent1.post 'https://a816-healthpsi.nyc.gov/ChildCare/SearchAction2.do'
 	form = page.forms.first
@@ -52,10 +52,10 @@ def scraper
 			# puts idString
 
 			page2 = agent2.post 'https://a816-healthpsi.nyc.gov/ChildCare/WDetail.do', idString ,({'Content-Type' => 'application/x-www-form-urlencoded'})
-			daycare = pagescrape(page2)	
+			daycare = pagescrape(page2)
 			page3 = agent2.get 'https://a816-healthpsi.nyc.gov/ChildCare/html5/mobilemap.jsp?type=streetview'
 			map_page_body = page3.parser.css('body')[0]['onload']
-			map_page_body.to_s.gsub(/'(\-?\d+(\.\d+)?)',\s*'(\-?\d+(\.\d+)?)'/) { |match| 
+			map_page_body.to_s.gsub(/'(\-?\d+(\.\d+)?)',\s*'(\-?\d+(\.\d+)?)'/) { |match|
 				ll = match.gsub(/'/, '').split(', ')
 				daycare["latitude"], daycare["longitude"] = ll[0].to_f, ll[1].to_f
 				puts "lat: #{daycare['latitude']} lon: #{daycare['longitude']}"
@@ -79,7 +79,4 @@ def scraper
 		f.write(JSON.pretty_generate(daycares))
 	end
 	return daycares
-
 end
-
-scraper
