@@ -16,6 +16,7 @@
 
 //= require semantic_ui/semantic_ui
 //= require mapbox/mapbox-gl_v0.12.2
+//= require jquery/jquery.shorten
 
 $('.ui.dropdown').dropdown();
 
