@@ -2,7 +2,7 @@
   .column
     ol.ui.large.divided.list
       - @daycares.each do |daycare|
-        li.item
+        li.item.daycare data-lat=daycare.lat data-lon=daycare.lon data-center_name=daycare.center_name
           .image
             - grade = ['a','b','c','d','e'].sample
             span.grade class="grade-#{grade}"= grade
@@ -14,7 +14,7 @@
               small="#{daycare.borough}, NY #{daycare.zipcode}"
             p.description
               small
-                span="EST #{DateTime.now.year - daycare.years_operating}"
+                span="EST #{DateTime.now.year }"
                 span &middot;
                 span="#{daycare.maximum_capacity} Capacity"
             .extra

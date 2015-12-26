@@ -13,6 +13,65 @@
 //   });
 // }
 $(function(){
+  // setup map
+  mapboxgl.accessToken = 'pk.eyJ1IjoiaGsyMyIsImEiOiJjaWg2dDRmOXAwNmNpdWtrdDRvdW1xdzI2In0.F9uULd8DhCkRGltilPPZbg';
+
+  var map = new mapboxgl.Map({
+      container: 'map', // container id
+      style: 'mapbox://styles/hk23/ciimpkraf007n8ulx593l7qze', //stylesheet location
+      center: [-74.0059, 40.7127], // starting position 40.7127° N, 74.0059° W
+      zoom: 9, // starting zoom
+      hash: true
+  });
+
+  // Add zoom and rotation controls to the map.
+  map.addControl(new mapboxgl.Navigation());
+
+  var points = $("li.daycare");
+  var geojson= {
+    "type": "geojson",
+    "data": {
+      "type": "FeatureCollection",
+      "features": []
+    }
+  };
+
+  $.each(points, function(index, point) {
+    var lat = $(point).data('lat');
+    var lon = $(point).data('lon');
+    var center_name = $(point).data('center_name');
+    geojson.data.features.push({
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [lon, lat]
+      },
+      "properties": {
+        "title": center_name
+      }
+    });
+  });
+  
+  map.on('style.load', function () {
+
+    map.addSource("markers", geojson);
+    map.addLayer({
+      "id": "markers",
+      "type": "symbol",
+      "source": "markers",
+      "layout": {
+        "icon-image": "{marker-symbol}-15",
+        "text-field": "{title}",
+        "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+        "text-offset": [0, 0.6],
+        "text-anchor": "top"
+      },
+      "paint": {
+        "text-size": 12
+      }
+    });  
+  });
+  
   $("div.violations").shorten({
     showChars: 250,
     ellipsesText: '',
