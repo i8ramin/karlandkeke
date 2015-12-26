@@ -58,10 +58,6 @@
     margin: 0 !important;
   }
 
-  .ui.secondary.menu {
-    background-color: @secondaryColor;
-  }
-
   .logo {
     font-size: 20px;
     letter-spacing: 2px;
@@ -69,11 +65,14 @@
   }
 
   .header.item {
-    width: 210px;
     margin: 0;
   }
 
   .field {
+    @media only screen and (max-width: @largestMobileScreen) {
+      flex: 1;
+    }
+
     label {
       color: @lightGrey;
       text-transform: uppercase;
@@ -108,7 +107,7 @@
 }
 
 #map {
-  min-height: calc(~"100vh - 139px");
+  min-height: calc(~"100vh - 121px");
   background-repeat: no-repeat;
   background-size: cover;
 }

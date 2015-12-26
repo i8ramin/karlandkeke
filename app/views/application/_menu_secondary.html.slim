@@ -1,0 +1,21 @@
+.item.violations
+  .field
+    label
+      | Violations
+    .ui.floating.selection.labeled.icon.dropdown(name="violations")
+      input(type="hidden" name="violations")
+      .text
+        i.warning.sign.icon
+        | Add Violations
+      i.dropdown.icon
+      .menu
+        .item(data-value="violation 1") Violation 1
+        .item(data-value="violation 2") Violation 2
+.item
+  .labels
+    .ui.label
+      | Permit
+      i.delete.icon
+    .ui.label
+      | Immunization
+      i.delete.icon

@@ -11,66 +11,23 @@ html lang="en"
     = stylesheet_link_tag 'application', media: 'all'
     = csrf_meta_tags
   body
-    nav#masthead
-      form.ui.form
-        .ui.menu
-          .header.item.logo
-            | KARL<span>AND</span>KEKE
-          .item.search
-            .field
-              label(for="search")
-                | Search by daycare or Location
-              .ui.left.icon.input.loadingg
-                input(type="search" id="search" name="search" placeholder="Search")
-                i.search.icon
-          .item.filter
-            .field
-              label
-                | Filter
-              .ui.floating.selection.labeled.icon.dropdown(id="filter")
-                input(type="hidden" name="filter")
-                / i.filter.icon
-                .text
-                  .ui.empty.circular.label
-                  | All Grades
-                .menu
-                  .item(data-value="All")
-                    .ui.empty.circular.label
-                    | All Grades
-                  .item(data-value="A")
-                    .ui.blue.empty.circular.label
-                    | A
-                  .item(data-value="B")
-                    .ui.green.empty.circular.label
-                    | B
-                  .item(data-value="C")
-                    .ui.orange.empty.circular.label
-                    | C
-                  .item(data-value="D")
-                    .ui.red.empty.circular.label
-                    | D
-        .ui.secondary.menu
+    form.ui.form#sidebar
+      .ui.vertical.sidebar.menu
+        .header.item
+          .logo KARL<span>AND</span>KEKE
+        = render "menu_main"
+      .ui.vertical.sidebar.secondary.menu
+        = render "menu_secondary"
+    .pusher#content
+      form.ui.form#masthead
+        .ui.stackable.menu
           .header.item
-          .item
-            .field
-              .ui.floating.selection.labeled.icon.dropdown(name="violations")
-                input(type="hidden" name="violations")
-                .text
-                  i.warning.sign.icon
-                  | Add Violations
-                i.dropdown.icon
-                .menu
-                  .item(data-value="violation 1") Violation 1
-                  .item(data-value="violation 2") Violation 2
-          .item
-            .ui.label
-              | Permit
-              i.delete.icon
-            .ui.label
-              | Immunization
-              i.delete.icon
+            .logo KARL<span>AND</span>KEKE
+          = render "menu_main"
+        .ui.stackable.secondary.menu
+          = render "menu_secondary"
 
-    = yield
+      = yield
 
     /= javascript_include_tag '//cdn.auth0.com/js/lock-7.0.min.js'
     = javascript_include_tag 'application'

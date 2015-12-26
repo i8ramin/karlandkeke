@@ -4,3 +4,4 @@
 
 @borderRadius: none;
 @background: @primaryColor;
+@secondaryBackground: @secondaryColor;

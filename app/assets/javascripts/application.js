@@ -19,3 +19,4 @@
 //= require jquery/jquery.shorten
 
 $('.ui.dropdown').dropdown();
+// $('.ui.sidebar').sidebar('toggle');
