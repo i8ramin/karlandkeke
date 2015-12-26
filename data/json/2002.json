@@ -1,26 +1,28 @@
 {
-  "type": "Camp",
-  "centerName": "MT. SINAI/BARTON DAY CAMP ",
-  "permitHolder": "THE BARTON CENTER FOR DIABETES EDUCATION, INC.",
-  "address": "1 Gustave Levy Place",
-  "borough": "MANHATTAN",
-  "zipCode": "10029",
-  "phone": "857-373-9027",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "34394",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "31",
-  "siteType": "Summer Day Camp",
+  "type": "School Based Child Care",
+  "centerName": "MT MORIAH CHRISTIAN ACADEMY ",
+  "permitHolder": "MT MORIAH CHURCH OF GOD IN CHRIST",
+  "address": "1149 EASTERN PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-953-4383",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/13/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.668746372315,
+  "longitude": -73.93013608928
 }

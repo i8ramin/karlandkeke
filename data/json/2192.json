@@ -1,24 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF THE ANGELUS ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "98-05 63RD DRIVE",
+  "centerName": "OUR LADY OF THE BLESSED SACRAMENT PAROCHIAL SCHOOL ",
+  "permitHolder": "ROMAN CATHOLIC CHURCH BOROUGH OF QUEENS",
+  "address": "34-45 202 STREET",
   "borough": "QUEENS",
-  "zipCode": "11374",
-  "phone": "718-896-7220",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "zipCode": "11361",
+  "phone": "718-229-4434",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.766489805922,
+  "longitude": -73.785633631046
 }

@@ -1,43 +1,30 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "JADS  CHILDREN CENTER INC. ",
-  "permitHolder": "JADS CHILDREN CENTER INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t2403 GRAND CONCOURSE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "BRONX",
-  "zipCode": "10468",
-  "phone": "718-220-1477",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "8042",
-  "permitExpirationDate": " 06/29/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "75",
-  "siteType": "Private",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "6         ",
-  "hasInspections": true,
+  "type": "Camp",
+  "centerName": "JACOB A RIIS SETTLEMENT HOUSE PS 166 ",
+  "permitHolder": "JACOB A RIIS SETTLEMENT HOUSE PS 166",
+  "address": "33-09 35TH AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11106",
+  "phone": "718-361-2341",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 11/16/2014",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/15/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
+    "date": "Inspection Date 07/23/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4723 ab",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4713 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4741 j",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 08/07/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
+  "latitude": 40.757301496743,
+  "longitude": -73.926732870283
 }

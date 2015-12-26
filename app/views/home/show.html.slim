@@ -8,12 +8,15 @@
             span.grade class="grade-#{grade}"= grade
           .content
             .header=daycare.center_name
-            .meta
-              span= daycare.address
-              div
-                span="#{daycare.borough}, NY "
-                span= daycare.zipcode
+            .street_address
+              small= daycare.address
+            .city_state_info  
+              small="#{daycare.borough}, NY #{daycare.zipcode}"
             p.description
+              small
+                span="EST #{DateTime.now.year - daycare.years_operating}"
+                span &middot;
+                span="#{daycare.maximum_capacity} Capacity"
             .extra
               - num_violations = daycare.inspection.infractions.count
               strong= "#{num_violations} violations"

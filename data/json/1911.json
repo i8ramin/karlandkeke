@@ -1,43 +1,28 @@
 {
-  "type": "Child Care - Infants/Toddlers",
+  "type": "School Based Child Care",
   "centerName": "MEVAKSHAI HASHEM ",
   "permitHolder": "MEVAKSHAI HASHEM",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t550 OCEAN PARKWAY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "address": "1569 47 STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11218",
+  "zipCode": "11219",
   "phone": "718-435-8900",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "73857",
-  "permitExpirationDate": " 09/30/2016",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "24",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/03/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection diaper changing counter not properly constructed Diaper changing area observed not to be adjacent to a hand wash sink with adequate hot and cold running water",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4743 h1",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection trash and garbage observed not stored in appropriate containers with tight fitting lids",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4749 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service observed utilizing chairs and other equipment not of suitable size for children in attendance on day of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4755 a",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.632639908324,
+  "longitude": -73.985138430417
 }

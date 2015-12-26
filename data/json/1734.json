@@ -1,43 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "LIGHTHOUSE PRESCHOOL ",
-  "permitHolder": "LIGHTHOUSE PRESCHOOL",
-  "address": "80-82 BOWERY",
-  "borough": "MANHATTAN",
-  "zipCode": "10013",
-  "phone": "212-219-8813",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7039",
-  "permitExpirationDate": " 09/27/2016",
+  "type": "Universal Pre-K Half Day",
+  "centerName": "LIL INVENTORS ",
+  "permitHolder": "2260 LITTLE SHEPHERDS LLC",
+  "address": "2260 ANDREWS AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-295-2740",
+  "permitStatus": " Permitted ",
+  "permitNumber": "94477",
+  "permitExpirationDate": " 08/06/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "40",
+  "maximumCapacity": "18",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "11 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      01/26/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
-    "infractions": [
-      {
-        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4735 b",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "8121 a",
-        " Status": "OPEN "
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.860644231445,
+  "longitude": -73.908050886456
 }

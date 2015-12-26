@@ -1,37 +1,28 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "NEW YORK CENTER FOR INFANTS AND TODDLERS, INC. ",
-  "permitHolder": "NEW YORK CENTER FOR INFANTS AND TODDLERS, INC.",
-  "address": "1787 MADISON AVENUE",
+  "centerName": "NEW YORK CHILD RESOURCE CENTER INC ",
+  "permitHolder": "NEW YORK CHILD RESOURCE CENTER INC",
+  "address": "4624 BROADWAY",
   "borough": "MANHATTAN",
-  "zipCode": "10035",
-  "phone": "212-289-6100",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "8176",
-  "permitExpirationDate": " 06/14/2016",
+  "zipCode": "10040",
+  "phone": "212-569-1044",
+  "permitStatus": " Permitted ",
+  "permitNumber": "100698",
+  "permitExpirationDate": " 12/04/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "20",
+  "maximumCapacity": "88",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "5         ",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/02/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 2,
-    "infractions": [
-      {
-        "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4741 h",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4757 b",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.861203407555,
+  "longitude": -73.93042119069
 }

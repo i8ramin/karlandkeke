@@ -1,26 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "MILLENNIUM DEVELOPMENT @ I.S. 78 ",
-  "permitHolder": "MILLENNIUM DEVELOPMENT @ I.S. 78",
-  "address": "1420 EAST 68TH STREET",
+  "centerName": "MILLENNIUM DEVELOPMENT PS 115 ",
+  "permitHolder": "MILLENNIUM DEVELOPMENT PS 115",
+  "address": "1500 EAST 92ND STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11234",
+  "zipCode": "11236",
   "phone": "718-444-0101",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitExpirationDate": " 03/19/2016",
   "ageRange": "",
-  "maximumCapacity": "",
+  "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/12/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.6350074617,
+  "longitude": -73.897262340549
 }

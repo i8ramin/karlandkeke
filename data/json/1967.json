@@ -6,7 +6,7 @@
   "borough": "BRONX",
   "zipCode": "10460",
   "phone": "646-556-5944",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "33975",
   "permitExpirationDate": " 12/10/2015",
   "ageRange": "",
@@ -14,11 +14,15 @@
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.839303230564,
+  "longitude": -73.880461984255
 }

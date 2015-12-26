@@ -1,12 +1,12 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE @ MS 241X ",
-  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE @ MS 241X",
-  "address": "1595 Bathgate Avenue",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE PS 422 X ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 422 X",
+  "address": "1500 PELHAM PARKWAY SOUTH",
   "borough": "BRONX",
-  "zipCode": "10457",
+  "zipCode": "10461",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "4 - 16",
@@ -14,11 +14,15 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.857019517729,
+  "longitude": -73.843123109285
 }

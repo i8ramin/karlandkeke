@@ -1,24 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE ",
-  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE",
-  "address": "228 Avenue S",
-  "borough": "BROOKLYN",
-  "zipCode": "11223",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE MS 241X ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE MS 241X",
+  "address": "1595 Bathgate Avenue",
+  "borough": "BRONX",
+  "zipCode": "10457",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "",
+  "ageRange": "4 - 16",
   "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.839237946651,
+  "longitude": -73.901315107107
 }

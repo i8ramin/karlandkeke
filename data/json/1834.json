@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "LURIA OF BROOKLYN,INC. ",
+  "centerName": "LURIA OF BROOKLYNINC ",
   "permitHolder": "LURIA ACADEMY OF BROOKLYN",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t238 ST. MARKS AVENUE      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "address": "238 ST MARKS AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11238",
   "phone": "347-234-1145",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.678391847028,
+  "longitude": -73.967894927975
 }

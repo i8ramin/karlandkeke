@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "NEW COVENANT PRESCHOOL ",
-  "permitHolder": "NEW COVENANT CHRISTIAN SCHOOL",
-  "address": "1179 BOSTON ROAD",
-  "borough": "BRONX",
-  "zipCode": "10456",
-  "phone": "917-567-1795",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "centerName": "NEW DORP CHRISTIAN ACADEMY ",
+  "permitHolder": "NEW DORP BAPTIST CHURCH SCHOOL",
+  "address": "259 ROSE AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10306",
+  "phone": "718-351-4442",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,13 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      06/17/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.57133625551,
+  "longitude": -74.114668841919
 }

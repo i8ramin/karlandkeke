@@ -1,12 +1,12 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE @ IS 190 X ",
-  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE @ IS 190 X",
-  "address": "1550 CROTONA PARK EAST",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE PS 378 X ICAHN 2 ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 378 X ICAHN 2",
+  "address": "1640 BRONXDALE AVE",
   "borough": "BRONX",
-  "zipCode": "10460",
+  "zipCode": "10462",
   "phone": "",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "4 - 16",
@@ -14,11 +14,15 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.844723483034,
+  "longitude": -73.858205947521
 }

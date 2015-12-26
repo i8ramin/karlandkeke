@@ -1,12 +1,12 @@
 {
   "type": "Camp",
-  "centerName": "NYCHA DAVIDSON COMMUNITY CTR. ",
-  "permitHolder": "NYCHA DAVIDSON COMMUNITY CTR.",
-  "address": "1221 PROSPECT AVE",
+  "centerName": "NYCHA FORT INDEPENDENCE CC ",
+  "permitHolder": "NYCHA FORT INDEPENDENCE CC",
+  "address": "3350 BAILEY AVE",
   "borough": "BRONX",
-  "zipCode": "10459",
-  "phone": "718-328-9078",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "zipCode": "10463",
+  "phone": "718-884-7050",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "",
@@ -14,13 +14,17 @@
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/16/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/07/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.880087295812,
+  "longitude": -73.900740730697
 }

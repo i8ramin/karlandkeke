@@ -1,43 +1,28 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "LITTLE SCHOLARS LEARNING CENTER II ",
-  "permitHolder": "TEREMOK DAY CARE LLC",
-  "address": "448 NEPTUNE AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11224",
-  "phone": "718-743-9009",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "75797",
-  "permitExpirationDate": " 11/21/2016",
+  "centerName": "LITTLE SMARTIES CORP ",
+  "permitHolder": "LITTLE SMARTIES CORP",
+  "address": "329 NORWAY AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10305",
+  "phone": "718-351-6102",
+  "permitStatus": " Permitted ",
+  "permitNumber": "101177",
+  "permitExpirationDate": " 01/06/2018",
   "ageRange": "2 - 5",
-  "maximumCapacity": "37",
+  "maximumCapacity": "66",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": true,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      12/01/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
-    "infractions": [
-      {
-        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4713 d",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4737 b1",
-        " Status": "OPEN "
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.590685777086,
+  "longitude": -74.076784965713
 }

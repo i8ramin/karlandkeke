@@ -1,55 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "PARKWAY ELEMENTARY SCHOOL ",
-  "permitHolder": "PARKWAY ELEMENTARY SCHOOL",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t5566 KINGS HIGHWAY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "School Based Child Care",
+  "centerName": "PARKWAY PRESCHOOL ",
+  "permitHolder": "PARKWAY PRESCHOOL",
+  "address": "5566 KINGS HIGHWAY ",
   "borough": "BROOKLYN",
   "zipCode": "11203",
   "phone": "718-346-0369",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7660",
-  "permitExpirationDate": " 10/21/2016",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "66",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "9         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/18/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Not Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 5,
-    "infractions": [
-      {
-        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4719 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4713 d",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4733 c",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4737 b1",
-        " Status": "CORRECTED"
-      }
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.648104690586,
+  "longitude": -73.924337901455
 }

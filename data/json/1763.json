@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "LITTLE FLOWERS EARLY CHILDHOOD CENTER, INC ",
-  "permitHolder": "LITTLE FLOWERS EARLY CHILDHOOD CENTER, INC",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t234-10 MERRICK BOULEVARD      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Camp",
+  "centerName": "LITTLE FLOWERS SCHOOL AGE PROGRAM II ",
+  "permitHolder": "LITTLE FLOWERS SCHOOL AGE PROGRAM II",
+  "address": "232-10 MERRICK BLVD",
   "borough": "QUEENS",
-  "zipCode": "11422",
+  "zipCode": "11413",
   "phone": "718-712-1440",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6195",
-  "permitExpirationDate": " 07/14/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "26",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 08/12/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "20        ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/08/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.675134365342,
+  "longitude": -73.737605338867
 }

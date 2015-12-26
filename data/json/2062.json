@@ -1,26 +1,28 @@
 {
-  "type": "Camp",
-  "centerName": "NEW YORK CITY MISSION SOCIETY @ P.S 85 ",
-  "permitHolder": "NEW YORK CITY MISSION SOCIETY @ P.S 85",
-  "address": "2400 MARION AVE",
-  "borough": "BRONX",
-  "zipCode": "10458",
-  "phone": "718-583-7200",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "34473",
-  "permitExpirationDate": " 12/04/2014",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "NEW YORK INTERNATIONAL SCHOOL ",
+  "permitHolder": "NEW YORK INTERNATIONAL SCHOOL",
+  "address": "4 EAST 90TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10128",
+  "phone": "212-641-0260",
+  "permitStatus": " Permitted ",
+  "permitNumber": "95657",
+  "permitExpirationDate": " 08/27/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "54",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/08/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.783941429729,
+  "longitude": -73.958260181547
 }

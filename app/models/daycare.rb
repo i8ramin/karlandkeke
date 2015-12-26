@@ -26,6 +26,8 @@ class Daycare
     d.type = payload["type"]
     d.center_name= payload["centerName"]
     d.permit_holder = payload["permitHolder"]
+    d.lat = payload["latitude"]
+    d.lon = payload["longitude"]
     d.address = payload["address"]
     d.borough = payload["borough"]
     d.zipcode = payload["zipCode"]

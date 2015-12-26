@@ -1,24 +1,47 @@
 {
-  "type": "Camp",
-  "centerName": "KINGSBRIDGE HGTS COMM. CENTER ",
-  "permitHolder": "KINGSBRIDGE HGTS COMM. CENTER",
-  "address": "3101 KINGSBRIDGE TER",
+  "type": "Child Care - Pre School",
+  "centerName": "KINGSBRIDGE MONTESSORI SCHOOL XI ",
+  "permitHolder": "JASMINE EDUCATIONAL ENTERPRISE INC",
+  "address": "2500 JEROME AVENUE ",
   "borough": "BRONX",
-  "zipCode": "10463",
-  "phone": "718-884-0700",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 03/01/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10468",
+  "phone": "718-561-8111",
+  "permitStatus": " Permitted ",
+  "permitNumber": "56457",
+  "permitExpirationDate": " 01/31/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "44",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": false,
+  "yearsOperating": "2",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 11/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4719 i",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 09/15/2015 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
+  "latitude": 40.86404651033,
+  "longitude": -73.900052532929
 }

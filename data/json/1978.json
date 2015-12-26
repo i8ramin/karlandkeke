@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
   "centerName": "MOSDOS SATMAR BP INC ",
-  "permitHolder": "MOSDOS SATMAR BP, INC",
+  "permitHolder": "MOSDOS SATMAR BP INC",
   "address": "5901 13 AVENUE",
   "borough": "BROOKLYN",
   "zipCode": "11219",
   "phone": "718-508-4444",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,30 +14,34 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/21/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
+    "date": "Inspection Date 02/21/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "3",
     "infractions": [
       {
         "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
         "Code Sub-Section": "13105a",
         " Status": "CORRECTED"
       },
       {
         "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
         "Code Sub-Section": "307",
         " Status": "OPEN "
       },
       {
         "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
         "Code Sub-Section": "309",
         " Status": "OPEN "
       }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.629325157586,
+  "longitude": -73.998022158821
 }

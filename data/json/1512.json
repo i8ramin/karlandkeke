@@ -1,26 +1,35 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "IRA'S PARKWAY DAY CARE & PRESCHOOL,INC. ",
-  "permitHolder": "IRA?S BRIARWOOD DAY CARE AND PRESCHOOL INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t141-20 GRAND CENTRAL PARKWAY      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
-  "borough": "QUEENS",
-  "zipCode": "11435",
-  "phone": "718-526-1803",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6711",
-  "permitExpirationDate": " 10/14/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "36",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "IRAS DAYCARE AND PRESCHOOL III ",
+  "permitHolder": "IRAS DAYCARE III INC",
+  "address": "900 LENOX ROAD ",
+  "borough": "BROOKLYN",
+  "zipCode": "11203",
+  "phone": "718-618-7330",
+  "permitStatus": " Permitted ",
+  "permitNumber": "86417",
+  "permitExpirationDate": " 04/27/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "30",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/24/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/28/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.655604616436,
+  "longitude": -73.926153012425
 }

@@ -1,26 +1,30 @@
 {
   "type": "Camp",
-  "centerName": "NYCHA HERBERT H. LEHMAN ",
-  "permitHolder": "NYCHA HERBERT H. LEHMAN",
-  "address": "1589 MADISON AVE",
-  "borough": "MANHATTAN",
-  "zipCode": "10029",
-  "phone": "212-876-6480",
-  "permitStatus": "\r\n                    Registered\r\n                    ",
+  "centerName": "NYCHA MURPHY COMMUNITY CENTER ",
+  "permitHolder": "NYCHA MURPHY COMMUNITY CENTER",
+  "address": "601 CROTONA PARK NORTH",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "718-466-6724",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 05/02/2015",
+  "permitExpirationDate": " N/A",
   "ageRange": "",
   "maximumCapacity": "",
-  "siteType": "Municipal Summer Day Camp",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      07/30/2013</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/06/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.842910590784,
+  "longitude": -73.895320843968
 }

@@ -1,26 +1,35 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "MANHATTAN NURSERY SCHOOL ",
-  "permitHolder": "MIDTOWN CARE INC.",
-  "address": "\r\n\t\t\t\t\t\r\n\t\t\t\t\t38 WEST 32 STREET      \t\t\t  \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t",
+  "type": "Camp",
+  "centerName": "MANHATTAN PLAZA SUMMER YOUTH PROGRAM ",
+  "permitHolder": "M PLAZA LP",
+  "address": "400 WEST 43RD STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10001",
-  "phone": "212-631-0543",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6417",
-  "permitExpirationDate": " 05/27/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "83",
-  "siteType": "Private",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "19        ",
-  "hasInspections": true,
+  "zipCode": "10036",
+  "phone": "212-971-0660",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "71617",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "150",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/25/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 08/05/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Counselor to camper ratio not maintained",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4812c ",
+        " Status": "CORRECTED"
+      }
     ]
-  }
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 08/11/2014 Result Initial Annual Inspection - Reinspection Required Fines pending /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required Fines pending/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateCamp Operator fails to provide adequate supervision/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4812a/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateEach camper is not protected from unreasonable risk to health and safety physical and sexual abuse public health hazards/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4812ab1/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateEach camper is not under immediate visual observation and verbal contact with counselors during all activities/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4812ab2/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateHealth Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4817p/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /div",
+  "latitude": 40.759166362715,
+  "longitude": -73.992325831236
 }

@@ -1,43 +1,30 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "KINGS HIGHWAY PREPARATORY SCHOOL ",
-  "permitHolder": "VALERIE MCDONALD",
-  "address": "9218 KINGS HIGHWAY",
+  "type": "Camp",
+  "centerName": "KINGS HIGHWAY UMC SUMMER ",
+  "permitHolder": "KINGS HIGHWAY UNITED METHODIST CHURCH",
+  "address": "1387 EAST 37 STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11212",
-  "phone": "718-498-3690",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "17297",
-  "permitExpirationDate": " 05/29/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "21",
-  "siteType": "Private",
+  "zipCode": "11210",
+  "phone": "718-338-6619",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "69377",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "3         ",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      09/11/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 3,
+    "date": "Inspection Date 08/05/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Electrical/chemical/mechanical hazards observed at time of inspection",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4759 f",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Required smoke and carbon monoxide detectors not provided or maintained at time of inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4759 g",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": "                                                         Minor violations General Violations                            ",
-        "Code Sub-Section": "4741 j",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "3",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/29/2015 Result Initial Annual Inspection - Reinspection Required /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateCamp health program not maintained and/or supervised by physician Health records of campers and staff are not kept and maintained plan is not comprehensive and complete nutrition emergency and first aid plan accident reporting disaster search and rescue child observation food and facility maintenance not included/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4817a/a/td td alignleft bgcolorFFFFFF classcenterOPEN /td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/24/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
+  "latitude": 40.622073787967,
+  "longitude": -73.939205122303
 }

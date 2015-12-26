@@ -1,24 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF THE SNOWS SCHOOL ",
+  "centerName": "OUR LADY OF TRUST CATHOLOIC ACADEMY ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "79-33 258 STREET",
-  "borough": "QUEENS",
-  "zipCode": "11004",
-  "phone": "718-343-1346",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "address": "1696 CANARSIE ROAD",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-241-6633",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "",
+  "maximumCapacity": "0",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.631867449624,
+  "longitude": -73.891337041068
 }

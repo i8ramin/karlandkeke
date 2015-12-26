@@ -1,26 +1,28 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "LIFE SKILLS HOME TRAINING TUTORIAL PROGRAM FOR PRE-SCHOOLERS ",
-  "permitHolder": "LIFE SKILLS HOME TRAINING TUTORIAL PROGRAM FOR PRE-SCHOOLERS, INC.",
-  "address": "3051 EAST TREMONT AVENUE",
+  "centerName": "LIFE SKILLS HOME TRAINING TUTORIAL PROGRAM FOR PRESCHOOLERS INC ",
+  "permitHolder": "LIFE SKILLS HOME TRAINING TUTORIAL PROGRAM FOR PRESCHOOLERS INC",
+  "address": "816 CLARENCE AVE",
   "borough": "BRONX",
-  "zipCode": "10461",
-  "phone": "718-828-8462",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "6088",
-  "permitExpirationDate": " 08/25/2017",
+  "zipCode": "10465",
+  "phone": "718-459-1252",
+  "permitStatus": " Permitted ",
+  "permitNumber": "99718",
+  "permitExpirationDate": " 11/10/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "41",
-  "siteType": "Private",
+  "maximumCapacity": "40",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12 or more",
-  "hasInspections": true,
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      02/12/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Compliance Inspection of Open Violations - Previously cited violations corrected\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.831740054332,
+  "longitude": -73.816875686731
 }

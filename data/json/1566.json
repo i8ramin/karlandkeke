@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "JEWISH INSTITUTE OF QUEENS PRESCHOOL ",
+  "centerName": "Jewish Institute ",
   "permitHolder": "JEWISH INSTITUTE OF QUEENS",
-  "address": "64-41 UTOPIA PKWY.",
+  "address": "60-05 WOODHAVEN BLVD ",
   "borough": "QUEENS",
-  "zipCode": "11365",
+  "zipCode": "11373",
   "phone": "718-426-9369",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,17 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "Inspection Date 02/19/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 12/17/2013 Result Initial Annual Inspection - Reinspection Required /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateSchool-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4323/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /div",
+  "latitude": 40.73124910255,
+  "longitude": -73.871560397697
 }

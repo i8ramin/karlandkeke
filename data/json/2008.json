@@ -1,12 +1,12 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "MY SUNSHINE KIDS INC. ",
-  "permitHolder": "MY SUNSHINE KIDS INC.",
-  "address": "928 55  STREET",
+  "centerName": "MY SUNSHINE KIDS INC ",
+  "permitHolder": "MY SUNSHINE KIDS INC",
+  "address": "928 55 STREET",
   "borough": "BROOKLYN",
   "zipCode": "11219",
   "phone": "347-350-9562",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
+  "permitStatus": " Permitted ",
   "permitNumber": "94698",
   "permitExpirationDate": " 08/11/2017",
   "ageRange": "2 - 5",
@@ -14,13 +14,17 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": true,
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      04/17/2014</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      \t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 04/17/2014",
+    "result": "Inspection Result ",
+    "numInfractions": "0",
     "infractions": [
 
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.636450575124,
+  "longitude": -74.003563378136
 }

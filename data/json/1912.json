@@ -1,12 +1,12 @@
 {
   "type": "School Based Child Care",
-  "centerName": "MEVAKSHAI HASHEM ",
+  "centerName": "MEVAKSHAI HASHEM PRESCHOOL ",
   "permitHolder": "MEVAKSHAI HASHEM",
-  "address": "1569 47 STREET",
+  "address": "550 OCEAN PARKWAY ",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
+  "zipCode": "11218",
   "phone": "718-435-8900",
-  "permitStatus": "\r\n                    Active\r\n                    ",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
@@ -14,11 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": false,
+  "hasInspections": "false",
   "latestInspection": {
-    "date": null,
-    "result": null,
-    "infractions": null,
-    "numInfractions": null
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.634913000108,
+  "longitude": -73.972516865348
 }

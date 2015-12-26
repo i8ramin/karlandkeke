@@ -1,26 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "NEW YORK CREATIVE CHILDCARE ",
-  "permitHolder": "NEW YORK CREATIVE CHILDCARE INC.",
-  "address": "5015 6TH AVENUE",
+  "type": "Camp",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE",
+  "address": "228 Avenue S",
   "borough": "BROOKLYN",
-  "zipCode": "11220",
-  "phone": "718-686-0388",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "8300",
-  "permitExpirationDate": " 05/06/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "54",
-  "siteType": "Private",
+  "zipCode": "11223",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "4         ",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      05/27/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
-    "infractions": [
-
-    ]
-  }
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.601293110781,
+  "longitude": -73.976952916785
 }

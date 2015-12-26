@@ -1,26 +1,33 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "JACKSON CHILD DEVELOPEMENT CENTER, INC. ",
-  "permitHolder": "JACKSON CHILD DEVELOPMENT CENTER, INC.",
-  "address": "36-02 14 STREET",
+  "type": "Camp",
+  "centerName": "JACK CURRAN MEMORIAL CAMPS ",
+  "permitHolder": "SPORTS COURT ENTERPRIZES",
+  "address": "8353 MANTON STREET",
   "borough": "QUEENS",
-  "zipCode": "11106",
-  "phone": "718-392-2510",
-  "permitStatus": "\r\n                    Permitted\r\n                    ",
-  "permitNumber": "7186",
-  "permitExpirationDate": " 12/17/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "165",
-  "siteType": "Private",
+  "zipCode": "11435",
+  "phone": "718-943-3155",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "69219",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "12        ",
-  "hasInspections": true,
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      11/10/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Passed inspection with no violations\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- VISIT&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 0,
+    "date": "Inspection Date 07/16/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815a16",
+        " Status": "CORRECTED"
+      }
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": ""
 }

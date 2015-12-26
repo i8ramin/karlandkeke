@@ -1,67 +1,30 @@
 {
   "type": "Camp",
-  "centerName": "NYC SUMMER QUEST ",
-  "permitHolder": "PARTNERSHIP WITH CHILDREN",
-  "address": "778 Forest Avenue",
+  "centerName": "NYCHA DAVIDSON COMMUNITY CTR ",
+  "permitHolder": "NYCHA DAVIDSON COMMUNITY CTR",
+  "address": "1221 PROSPECT AVE",
   "borough": "BRONX",
-  "zipCode": "10456",
-  "phone": "646-285-3740",
-  "permitStatus": "\r\n                    In-Renewal\r\n                    ",
-  "permitNumber": "34560",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "150",
+  "zipCode": "10459",
+  "phone": "718-328-9078",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
-  "hasInspections": true,
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "<tr class=\"odd gradeX\">\r\n                        <td>Inspection Date:      08/06/2015</td>\r\n                        <td>                          \r\n                                                \r\n                        </td>\r\n                        \r\n                      </tr>",
-    "result": "<tr class=\"even gradeC\">\r\n                        <td>Inspection Result:      Initial Annual Inspection - Reinspection Required; Fines pending\t</td>\r\n                        <td>    \r\n                                                                     \r\n                        <!-- INSPECTION&nbsp;- -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</td>\r\n                      </tr>",
-    "numInfractions": 7,
+    "date": "Inspection Date 08/16/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "No Trip leader in caharge of campers during off camp tripsTrip leader does not have adequate experience and competency Trip leader not of required age Trip Leader not certified in responding to emergencies first aid or accompanied by certified individual",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4809e",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4815a8",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "All camper and staff injuries illness and conditions reportable pursuant to HC Article 11 were not reported Medical log not complete and/or updated",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4817k",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
-        "Category ": "                                                         Violations requiring immediate correction Public Health Hazards                            ",
-        "Code Sub-Section": "4817p",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4811a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4811b",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
-        "Category ": "                                                         Violations requiring correction within two weeks Critical Violations                            ",
-        "Code Sub-Section": "4815a5",
-        " Status": "CORRECTED"
-      }
+
     ]
-  }
+  },
+  "numInspections": "1",
+  "pastInspections": "",
+  "latitude": 40.827257425316,
+  "longitude": -73.898474756265
 }
