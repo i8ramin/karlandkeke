@@ -11,7 +11,7 @@ This will create add json files for individual daycare centers as well as daycar
 ```
 bundle install
 brew install mongodb
-bundle exec rake import_json
+bundle exec rake mongo:import
 ```
 
 This will set up mongodb locally and import the scraped data (This will wipe mongo clean and re-import the entire dataset)
