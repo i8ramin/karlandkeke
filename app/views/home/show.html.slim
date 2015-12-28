@@ -5,8 +5,7 @@
       - @daycares.each do |daycare|
         li.item.daycare data-lat=daycare.lat data-lon=daycare.lon data-center_name=daycare.center_name
           .image
-            - grade = ['a','b','c','d','e'].sample
-            span.grade class="grade-#{grade}"= grade
+            span.grade class="grade-#{daycare.grade}"= daycare.grade
           .content
             .header=daycare.center_name
             .street_address
