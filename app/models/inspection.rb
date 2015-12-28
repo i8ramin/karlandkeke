@@ -13,9 +13,10 @@ class Inspection
      i = Inspection.new
      i.date = payload["date"]
      i.result= payload["result"]
-     i.number_of_infractions = payload["numInfractions"]
+     i.number_of_infractions = 0 
+     i.number_of_infractions = payload["numInfractions"] unless payload['numInfractions'].empty?
      i.save
-     if payload["infractions"]
+     unless payload["infractions"].empty?
          payload["infractions"].each do |inf|
              infraction = Infraction.from_json(inf)
              infraction.inspection = i
