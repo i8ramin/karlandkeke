@@ -22,6 +22,7 @@ class Daycare
   field :certified_to_administer_medication, type: Boolean
   field :years_operating, type: Integer
   field :has_inspections, type: Boolean
+  field :grade, type: String
 
   def self.from_json(payload)
     d = Daycare.new
@@ -46,10 +47,31 @@ class Daycare
 
     i = Inspection.from_json(payload["latestInspection"])
     d.inspection = i
+    d.grade = d.get_grade
     i.daycare = d
     d.save
     i.save
     return d
   end
 
+  def get_grade
+    score = 0
+    score += 1 if self.certified_to_administer_medication?
+    score += 2 if self.has_inspections?
+    score -= self.inspection.number_of_infractions if self.inspection
+    
+    # Grades are WIP (its naive at best for now)
+    # score can get as high as 3 
+    # score can get as low as the number of infractions it has
+    case score
+      when 2..3
+        'a'
+      when 0..1
+        'b'
+      when -2..-1
+        'c'
+      when -10..-3
+        'd'
+    end
+  end
 end
