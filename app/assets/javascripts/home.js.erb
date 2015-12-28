@@ -51,7 +51,7 @@ var setup_map = function() {
       "properties": {
         "title": center_name,
         "description": "<div class=\"marker-title\">"+ center_name +"</div>",
-        "marker-symbol": "marker"
+        "marker-symbol": "marker-24"
       }
     });
   });
@@ -67,7 +67,11 @@ var setup_map = function() {
       "source": "markers",
       "interactive": true,
       "layout": {
-        "icon-image": "{marker-symbol}",
+        "icon-image": "{marker-symbol}"
+      },
+      "paint": {
+        "text-size": 14,
+        "icon-color" : "#ff0000"
       }
     });  
   });
@@ -103,13 +107,6 @@ $(function(){
     setup_map();
   }
   
-  $("div.violations").shorten({
-    showChars: 250,
-    ellipsesText: '',
-    moreText: 'MORE',
-    lessText: 'LESS'
-  });
-
   // $("div.violations").shorten({
   //   showChars: 250,
   //   ellipsesText: '',
