@@ -18,7 +18,8 @@
                 span &middot;
                 span="#{daycare.maximum_capacity} Capacity"
             .extra
-              - num_violations = daycare.inspection.infractions.count
+              - num_violations = 0
+              - num_violations = daycare.inspection.infractions.count if daycare.inspection
               strong= "#{num_violations} violations"
               - if num_violations > 0
                 div.violations
