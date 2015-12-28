@@ -14,7 +14,7 @@
               small="#{daycare.borough}, NY #{daycare.zipcode}"
             p.description
               small
-                span="EST #{DateTime.now.year }"
+                span="EST #{DateTime.now.year - daycare.years_operating}"
                 span &middot;
                 span="#{daycare.maximum_capacity} Capacity"
             .extra

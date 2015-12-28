@@ -42,7 +42,9 @@ class Daycare
     d.maximum_capacity = payload["maximumCapacity"]
     d.site_type = payload["siteType"]
     d.certified_to_administer_medication = payload["certifiedToAdministerMedication"]
-    d.years_operating = payload["yearsOperating"]
+    years_operating   = 0
+    years_operating   = payload["yearsOperating"] unless payload["yearsOperating"].blank?
+    d.years_operating = years_operating
     d.has_inspections = payload["hasInspections"]
 
     i = Inspection.from_json(payload["latestInspection"])
