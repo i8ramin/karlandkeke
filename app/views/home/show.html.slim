@@ -3,7 +3,7 @@
   .column
     ol.ui.large.divided.list
       - @daycares.each do |daycare|
-        li.item.daycare data-lat=daycare.lat data-lon=daycare.lon data-center_name=daycare.center_name
+        li.item.daycare data-lat=daycare.lat data-lon=daycare.lon data-center_name=daycare.center_name data-grade=daycare.grade
           .image
             span.grade class="grade-#{daycare.grade}"= daycare.grade
           .content
