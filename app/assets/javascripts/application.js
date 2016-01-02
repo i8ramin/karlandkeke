@@ -18,4 +18,11 @@
 //= require jquery/jquery.shorten
 //= require map
 
-$('.ui.dropdown').dropdown();
+$(function(){
+  $('.ui.dropdown').dropdown({
+    onChange: function(e) {
+      e = e.toLowerCase();
+      window.location = e === 'all' ? "/" : "/grade/" + e;
+    }
+  });
+});
