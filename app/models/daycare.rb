@@ -5,6 +5,7 @@ class Daycare
 
   field :type, type: String
   field :center_name, type: String
+  field :permalink, type: String
   field :permit_holder, type: String
   field :lat, type: Float
   field :lon, type: Float
@@ -27,7 +28,8 @@ class Daycare
   def self.from_json(payload)
     d = Daycare.new
     d.type = payload["type"]
-    d.center_name= payload["centerName"]
+    d.center_name= payload["centerName"].rstrip
+    d.permalink  = d.center_name.downcase.gsub(" ", "-") 
     d.permit_holder = payload["permitHolder"]
     d.lat = payload["latitude"]
     d.lon = payload["longitude"]

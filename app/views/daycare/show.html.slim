@@ -38,11 +38,11 @@
           - if num_violations > 0
             ol.violations
               - @daycare.inspection.infractions.each do |infraction|
-                - if infraction.short_description
-                  li class="violation-#{infraction.multiplier}"
+                li class="violation-#{infraction.multiplier}"
+                  - if infraction.short_description
                     div
                       strong= infraction.short_description
-                    div
-                      span= infraction.violation_summary
+                  div
+                    span= infraction.violation_summary
   .column
     #map

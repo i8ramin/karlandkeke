@@ -8,7 +8,7 @@
           .image
             span.grade class="grade-#{daycare.grade}"= daycare.grade
           .content
-            .header=link_to(daycare.center_name, "daycare/#{daycare.id}")
+            .header=link_to(daycare.center_name, "daycare/#{daycare.permalink}")
             .street_address
               small= daycare.address
             .city_state_info
