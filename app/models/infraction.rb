@@ -7,8 +7,8 @@ class Infraction
   field :category, type: String
   field :code_subsection, type: String
   field :status, type: String
-  field :short_definition, type: String
-  field :simple_summary, type: String
+  field :short_description, type: String
+  field :multiplier, type: Integer
   field :extra_notes, type: String
 
   def self.from_json(payload)
@@ -18,11 +18,13 @@ class Infraction
       i.code_subsection = payload["Code Sub-Section"]
       simplified_code = @@simplified_codes[i.code_subsection.gsub(/[^0-9a-z\\s]/i, '')]
       if simplified_code.present?
-        i.short_definition = simplified_code[:short_definition]
-        i.simple_summary   = simplified_code[:one_word]
-        i.extra_notes      = simplified_code[:extra]
+        i.short_description = simplified_code[:short_description]
+        i.category          = simplified_code[:category] #overwrite existing category
+        i.multiplier        = simplified_code[:multiplier]
+        i.extra_notes       = simplified_code[:extra]
       end
-      
+
+      i.multiplier = 1 if i.multiplier == 0 || i.multiplier.nil?
       i.status = payload[" Status"]
       i.save
       return i

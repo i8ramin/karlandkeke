@@ -60,7 +60,12 @@ class Daycare
     score = 0
     score += 1 if self.certified_to_administer_medication?
     score += 2 if self.has_inspections?
-    score -= self.inspection.number_of_infractions if self.inspection
+    if self.inspection && self.inspection.number_of_infractions > 0
+      self.inspection.infractions.each do |inf|
+        score -= inf.multiplier
+      end
+    end
+
     
     # Grades are WIP (its naive at best for now)
     # score can get as high as 3 
@@ -74,6 +79,8 @@ class Daycare
         'c'
       when -10..-3
         'd'
+      when -25..-10
+        'e'
     end
   end
 end
