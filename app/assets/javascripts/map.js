@@ -1,6 +1,6 @@
 var map;
 
-var setup_map = function(points) {
+var setup_map = function(points, show_popup_on_load) {
   // setup map
   mapboxgl.accessToken = 'pk.eyJ1IjoiaGsyMyIsImEiOiJjaWg2dDRmOXAwNmNpdWtrdDRvdW1xdzI2In0.F9uULd8DhCkRGltilPPZbg';
 
@@ -44,10 +44,18 @@ var setup_map = function(points) {
     return marker
   };
 
+  var show_popup = function(geom, desc, dont_show_on_load) {
+    new mapboxgl.Popup({closeOnClick: !!dont_show_on_load})
+      .setLngLat(geom)
+      .setHTML(desc)
+      .addTo(map);
+  };
+
   $.each(points, function(index, point) {
     var lat = $(point).data('lat');
     var lon = $(point).data('lon');
     var center_name = $(point).data('center_name');
+    var permalink   = '/daycare/' + center_name.toLowerCase().trimRight().replace(/\s/g, '-');
     var grade = $(point).data('grade');
     if (!lat || !lon) {
       return true;
@@ -61,7 +69,7 @@ var setup_map = function(points) {
       },
       "properties": {
         "title": center_name,
-        "description": "<div class=\"marker-title\">"+ center_name +"</div><div class=\"image\"><span class=\"grade grade-"+grade+"\">"+grade+"</span></div>",
+        "description": "<div class=\"image table-cell\"><span class=\"grade grade-"+grade+"\">"+grade+"</span></div><div class=\"marker-title table-cell\"><a href='" + permalink + "'>" + center_name +"</a></div>",
         "marker-symbol": get_marker_for_grade(grade)
       }
     });
@@ -80,7 +88,12 @@ var setup_map = function(points) {
       "layout": {
         "icon-image": "{marker-symbol}"
       }
-    });  
+    });
+    
+    if (show_popup_on_load) {
+      var feature = geojson.features[0];
+      show_popup(feature.geometry.coordinates, feature.properties.description, false);
+    }
   });
 
   // When a click event occurs near a marker icon, open a popup at the location of
@@ -91,10 +104,7 @@ var setup_map = function(points) {
         return;
 
       var feature = features[0];
-      new mapboxgl.Popup()
-        .setLngLat(feature.geometry.coordinates)
-        .setHTML(feature.properties.description)
-        .addTo(map);
+      show_popup(feature.geometry, feature.properties.description, true);
     });
   });
 
@@ -109,7 +119,10 @@ var setup_map = function(points) {
 
 var fly = function(lat, lon) {
   map.flyTo({
-    center: [lon, lat]
+    center: [lon, lat],
+    zoom: 16,
+    speed: 1,
+    curve: 1
   });
 };
 
