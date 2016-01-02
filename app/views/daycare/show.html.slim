@@ -1,0 +1,48 @@
+= javascript_include_tag "daycare"
+
+.ui.two.column.stackable.grid#results
+  .column
+    div.item.daycare data-lat=@daycare.lat data-lon=@daycare.lon data-center_name=@daycare.center_name data-grade=@daycare.grade
+      .image.table-cell
+        span.grade class="grade-#{@daycare.grade}"= @daycare.grade
+      .content.table-cell
+        strong.header=@daycare.center_name
+        .street_address
+          small= @daycare.address
+        .city_state_info
+          small="#{@daycare.borough}, NY #{@daycare.zipcode}"
+        .phone_number
+          small="#{@daycare.phone}"
+        p.description
+          div
+            strong Type: 
+            span= @daycare.type
+          div 
+            strong Age Range: 
+            span= @daycare.age_range
+          div
+            strong= "Not " unless @daycare.certified_to_administer_medication 
+            strong certified to administer medication 
+          div
+            strong Has 
+            strong= "no " unless @daycare.has_inspections
+            strong regular inspections
+          div
+            span="EST #{DateTime.now.year - @daycare.years_operating}"
+            span &middot;
+            span="#{@daycare.maximum_capacity} Capacity"
+        .extra
+          - num_violations = 0
+          - num_violations = @daycare.inspection.infractions.count if @daycare.inspection
+          strong= "#{num_violations} violations"
+          - if num_violations > 0
+            ol.violations
+              - @daycare.inspection.infractions.each do |infraction|
+                - if infraction.short_description
+                  li class="violation-#{infraction.multiplier}"
+                    div
+                      strong= infraction.short_description
+                    div
+                      span= infraction.violation_summary
+  .column
+    #map

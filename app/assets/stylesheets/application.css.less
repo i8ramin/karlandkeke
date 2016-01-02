@@ -68,6 +68,9 @@
     font-size: 20px;
     letter-spacing: 2px;
     color: white;
+    a {
+      color: white;
+    }
   }
 
   .header.item {
@@ -134,4 +137,28 @@
 
 .marker-title {
   font-weight: 700;
+}
+
+.table-cell {
+  display:table-cell;
+  padding:0 5px;
+}
+
+/*
+  using http://www.patternify.com/ to make these images
+*/
+.violation-1 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8/5/hPwMaYBzKggA71R3tPD4VZwAAAABJRU5ErkJggg==");  
+}
+
+.violation-2 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8VRfwnwENMA5lQQBJChvR9aXGMQAAAABJRU5ErkJggg==");  
+}
+
+.violation-3 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8xc//nwENMA5lQQA/FxTxqU213QAAAABJRU5ErkJggg==");  
+}
+
+ol.ui.list .violation-item:before {
+  content: '';
 }

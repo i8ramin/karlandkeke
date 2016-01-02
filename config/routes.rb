@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  get "/" => "home#show"
+  get "/" => "daycare#index"
+  get "/daycare/:id" => "daycare#show"
   get "/dashboard" => "dashboard#show"
 
   get "/auth/auth0/callback" => "auth0#callback"

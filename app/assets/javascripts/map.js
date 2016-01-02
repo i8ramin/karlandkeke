@@ -1,34 +1,20 @@
-// var auth0Lock = new Auth0Lock(
-//   "#{Rails.application.secrets.auth0_client_id}",
-//   "#{Rails.application.secrets.auth0_domain}"
-// );
+var map;
 
-// function signin() {
-//   auth0Lock.show({
-//     callbackURL: "#{Rails.application.secrets.auth0_callback_base}/auth/auth0/callback",
-//     responseType: 'code',
-//     authParams: {
-//       scope: 'openid name email picture'
-//     }
-//   });
-// }
-
-var setup_map = function() {
+var setup_map = function(points) {
   // setup map
   mapboxgl.accessToken = 'pk.eyJ1IjoiaGsyMyIsImEiOiJjaWg2dDRmOXAwNmNpdWtrdDRvdW1xdzI2In0.F9uULd8DhCkRGltilPPZbg';
 
-  var map = new mapboxgl.Map({
-      container: 'map', // container id
-      style: 'mapbox://styles/hk23/ciimpkraf007n8ulx593l7qze', //stylesheet location
-      center: [-74.0059, 40.7127], // starting position 40.7127° N, 74.0059° W
-      zoom: 9, // starting zoom
-      hash: true
+  map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: 'mapbox://styles/hk23/ciimpkraf007n8ulx593l7qze', //stylesheet location
+    center: [-74.0059, 40.7127], // starting position 40.7127° N, 74.0059° W
+    zoom: 9, // starting zoom
+    hash: true
   });
 
   // Add zoom and rotation controls to the map.
   map.addControl(new mapboxgl.Navigation());
 
-  var points = $("li.daycare");
   var geojson= {
     "type": "FeatureCollection",
     "features": []
@@ -121,18 +107,9 @@ var setup_map = function() {
   });
 };
 
-$(function(){
-  if (!mapboxgl.supported()) {
-    alert('Your browser does not support Mapbox GL');
-  } else {
-    setup_map();
-  }
-  
-  // $("div.violations").shorten({
-  //   showChars: 250,
-  //   ellipsesText: '',
-  //   moreText: 'MORE',
-  //   lessText: 'LESS'
-  // });
-});
+var fly = function(lat, lon) {
+  map.flyTo({
+    center: [lon, lat]
+  });
+};
 
