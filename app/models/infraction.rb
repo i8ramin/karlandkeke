@@ -40,7 +40,7 @@ class Infraction
     reformatted_code = ""
     reformatted_code = d[:code_reformatted].to_s.gsub(/[^0-9a-z\\s]/i, '') unless d[:code_reformatted].nil?
     simplified_code  = reformatted_code if reformatted_code.length > simplified_code.length
-    puts "s: #{d[:code].gsub(/[^0-9a-z\\s]/i, '')} r: #{reformatted_code} sc:#{simplified_code}"
+
     @@simplified_codes[simplified_code] = d
   }
 
