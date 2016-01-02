@@ -36,7 +36,11 @@ class Infraction
   data = CSV.read("data/simplified_health_codes.csv", { encoding: "UTF-8", headers: true, header_converters: :symbol, converters: :all})
   data.map { |d|
     d = d.to_hash
-    simplified_code = d[:code].gsub(/[^0-9a-z ]/i, '')
+    simplified_code  = d[:code].gsub(/[^0-9a-z\\s]/i, '')
+    reformatted_code = ""
+    reformatted_code = d[:code_reformatted].to_s.gsub(/[^0-9a-z\\s]/i, '') unless d[:code_reformatted].nil?
+    simplified_code  = reformatted_code if reformatted_code.length > simplified_code.length
+    puts "s: #{d[:code].gsub(/[^0-9a-z\\s]/i, '')} r: #{reformatted_code} sc:#{simplified_code}"
     @@simplified_codes[simplified_code] = d
   }
 
