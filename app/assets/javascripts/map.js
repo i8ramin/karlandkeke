@@ -26,19 +26,22 @@ var setup_map = function(points, show_popup_on_load) {
     var marker = 'building-24';
     switch(grade) {
       case 'a':
-        marker = 'marker-24';
+        marker = 'star-24';
         break;
       case 'b':
         marker = 'marker-24';
         break;
       case 'c':
-        marker = 'marker-stroked-24';
+        marker = 'roadblock-24';
         break;
       case 'd':
-        marker = 'marker-stroked-24';
+        marker = 'fire-station-24';
+        break;
+      case 'e':
+        marker = 'danger-24';
         break;
       default:
-        marker = 'building-24';
+        marker = 'monument-24';
         break;
     }
     return marker
