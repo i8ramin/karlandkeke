@@ -15,9 +15,9 @@
               small="#{daycare.borough}, NY #{daycare.zipcode}"
             p.description
               small
-                span="EST #{DateTime.now.year - daycare.years_operating}"
-                span &middot;
-                span="#{daycare.maximum_capacity} Capacity"
+                span="EST #{DateTime.now.year - daycare.years_operating} "
+                strong &middot;
+                span=" #{daycare.maximum_capacity} Capacity"
             .extra
               - num_violations = 0
               - num_violations = daycare.inspection.infractions.count if daycare.inspection

@@ -28,9 +28,9 @@
             strong= "no " unless @daycare.has_inspections
             strong regular inspections
           div
-            span="EST #{DateTime.now.year - @daycare.years_operating}"
+            span="EST #{DateTime.now.year - @daycare.years_operating} "
             span &middot;
-            span="#{@daycare.maximum_capacity} Capacity"
+            span=" #{@daycare.maximum_capacity} Capacity"
         .extra
           - num_violations = 0
           - num_violations = @daycare.inspection.infractions.count if @daycare.inspection
