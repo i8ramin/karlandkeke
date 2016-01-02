@@ -104,7 +104,7 @@ var setup_map = function(points, show_popup_on_load) {
         return;
 
       var feature = features[0];
-      show_popup(feature.geometry, feature.properties.description, true);
+      show_popup(feature.geometry.coordinates, feature.properties.description, true);
     });
   });
 
