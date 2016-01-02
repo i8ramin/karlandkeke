@@ -24,8 +24,8 @@
               - if num_violations > 0
                 div.violations
                   - daycare.inspection.infractions.each do |infraction|
-                    - if infraction.simple_summary
-                      div= infraction.simple_summary
+                    - if infraction.short_description
+                      div= infraction.short_description
                     - else
                       div= infraction.violation_summary
   .column
