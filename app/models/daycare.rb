@@ -1,6 +1,8 @@
 class Daycare
-
   include Mongoid::Document
+  include Mongoid::Timestamps
+  include Mongoid::Pagination
+
   has_one :inspection
 
   field :type, type: String
@@ -29,7 +31,7 @@ class Daycare
     d = Daycare.new
     d.type = payload["type"]
     d.center_name= payload["centerName"].rstrip
-    d.permalink  = d.center_name.downcase.gsub(" ", "-") 
+    d.permalink  = d.center_name.downcase.gsub(" ", "-")
     d.permit_holder = payload["permitHolder"]
     d.lat = payload["latitude"]
     d.lon = payload["longitude"]
@@ -68,9 +70,9 @@ class Daycare
       end
     end
 
-    
+
     # Grades are WIP (its naive at best for now)
-    # score can get as high as 3 
+    # score can get as high as 3
     # score can get as low as the number of infractions it has
     case score
       when 2..3

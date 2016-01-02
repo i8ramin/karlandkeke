@@ -1,6 +1,6 @@
 class DaycareController < ApplicationController
   def index
-  	@daycares = Daycare.limit(50).to_a
+  	@daycares = Daycare.page(params[:page])
   end
 
   def show

@@ -1,6 +1,6 @@
 class Inspection
-
   include Mongoid::Document
+  include Mongoid::Timestamps
 
   belongs_to :daycare
   has_many :infractions
@@ -13,7 +13,7 @@ class Inspection
      i = Inspection.new
      i.date = payload["date"]
      i.result= payload["result"]
-     i.number_of_infractions = 0 
+     i.number_of_infractions = 0
      i.number_of_infractions = payload["numInfractions"] unless payload['numInfractions'].empty?
      i.save
      unless payload["infractions"].empty?
@@ -23,7 +23,7 @@ class Inspection
              i.infractions << infraction
          end
      end
-     i.save 
+     i.save
      return i
   end
 

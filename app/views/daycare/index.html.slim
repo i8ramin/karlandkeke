@@ -1,34 +1,15 @@
 = javascript_include_tag "daycares"
 
-.ui.two.column.stackable.grid#results
-  .column
-    ol.ui.large.divided.list
-      - @daycares.each do |daycare|
-        li.item.daycare data-lat=daycare.lat data-lon=daycare.lon data-center_name=daycare.center_name data-grade=daycare.grade
-          .image
-            span.grade class="grade-#{daycare.grade}"= daycare.grade
-          .content
-            .header=link_to(daycare.center_name, "daycare/#{daycare.permalink}")
-            .street_address
-              small= daycare.address
-            .city_state_info
-              small="#{daycare.borough}, NY #{daycare.zipcode}"
-            p.description
-              small
-                span="EST #{DateTime.now.year - daycare.years_operating} "
-                strong &middot;
-                span=" #{daycare.maximum_capacity} Capacity"
-            .extra
-              - num_violations = 0
-              - num_violations = daycare.inspection.infractions.count if daycare.inspection
-              strong= "#{num_violations} violations"
-              - if num_violations > 0
-                ol.violations
-                  - daycare.inspection.infractions.each do |infraction|
-                    li class="violation-item violation-#{infraction.multiplier}"
-                      - if infraction.short_description
-                        div= infraction.short_description
-                      - else
-                        div= infraction.violation_summary
-  .column
-    #map
+.ui.stackable.grid#results
+  .two.column.row
+    .column
+      .ui.basic.segment
+        .ui.large.divided.list.results-list
+          - @daycares.each do |daycare|
+            = render "daycare", daycare: daycare, details: false
+
+      .ui.basic.segment
+        = paginate @daycares
+    .column
+      .map-wrapper
+        #map

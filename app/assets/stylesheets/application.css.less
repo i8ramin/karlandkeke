@@ -54,11 +54,13 @@
 }
 
 #masthead {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 999;
+  @media only screen and (min-width: @largestMobileScreen) {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+  }
 
   .ui.menu {
     margin: 0 !important;
@@ -103,31 +105,61 @@
   }
 }
 
+#content {
+  @media only screen and (min-width: @largestMobileScreen) {
+    position: relative;
+    top: 154px;
+  }
+}
+
 #results {
   position: relative;
-  top: 154px;
-  // margin: 0;
 
-  .item {
-    padding: @huge;
+  .results-list .item.daycare {
+    padding: @large;
+
+    @media only screen and (min-width: @largestMobileScreen) {
+      padding: @huge;
+    }
+  }
+
+  .violations {
+    padding: 1rem 0;
   }
 
   .grade {
-    margin-left: 5px;
     display: inline-block;
     width: 30px;
     height: 30px;
     line-height: 30px;
     text-align: center;
   }
+
+  .ui.pagination.menu {
+    flex-wrap: wrap;
+  }
 }
 
-#map {
-  position: fixed;
-  top: 150px;
-  width: calc(~"50vw - 20px");
-  height: calc(~"100vh - 154px");
-  overflow: hidden;
+.map-wrapper {
+  display: none;
+
+  @media only screen and (min-width: @largestMobileScreen) {
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+
+    #map {
+      position: fixed;
+      top: 154px;
+      bottom: 0;
+      right: 0;
+      width: calc(~"50vw - 20px");
+      height: calc(~"100vh - 154px");
+      overflow: hidden;
+    }
+  }
 }
 
 .mapboxgl-popup {
@@ -148,17 +180,17 @@
   using http://www.patternify.com/ to make these images
 */
 .violation-1 {
-  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8/5/hPwMaYBzKggA71R3tPD4VZwAAAABJRU5ErkJggg==");  
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8/5/hPwMaYBzKggA71R3tPD4VZwAAAABJRU5ErkJggg==");
 }
 
 .violation-2 {
-  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8VRfwnwENMA5lQQBJChvR9aXGMQAAAABJRU5ErkJggg==");  
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8VRfwnwENMA5lQQBJChvR9aXGMQAAAABJRU5ErkJggg==");
 }
 
 .violation-3 {
-  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8xc//nwENMA5lQQA/FxTxqU213QAAAABJRU5ErkJggg==");  
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8xc//nwENMA5lQQA/FxTxqU213QAAAABJRU5ErkJggg==");
 }
 
-ol.ui.list .violation-item:before {
-  content: '';
-}
+// ol.ui.list .violation-item:before {
+//   content: '';
+// }

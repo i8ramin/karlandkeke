@@ -1,6 +1,8 @@
 class Infraction
   require 'csv'
   include Mongoid::Document
+  include Mongoid::Timestamps
+
   belongs_to :inspection
 
   field :violation_summary, type: String
@@ -29,13 +31,13 @@ class Infraction
       i.save
       return i
   end
-  
+
   @@simplified_codes = {}
   data = CSV.read("data/simplified_health_codes.csv", { encoding: "UTF-8", headers: true, header_converters: :symbol, converters: :all})
-  data.map { |d| 
+  data.map { |d|
     d = d.to_hash
     simplified_code = d[:code].gsub(/[^0-9a-z ]/i, '')
-    @@simplified_codes[simplified_code] = d 
+    @@simplified_codes[simplified_code] = d
   }
 
 end

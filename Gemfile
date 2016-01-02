@@ -55,6 +55,11 @@ source 'https://rubygems.org' do
   # Scraper-related gems
   gem 'mechanize'
 
+  # pagination
+  # https://github.com/amatsuda/kaminari
+  gem 'kaminari'
+  gem 'mongoid-pagination'
+
   group :production, :staging do
     gem 'rails_12factor'
     gem 'rack-timeout'

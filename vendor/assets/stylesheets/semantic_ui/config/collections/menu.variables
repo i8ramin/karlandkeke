@@ -5,3 +5,7 @@
 @borderRadius: none;
 @background: @primaryColor;
 @secondaryBackground: @secondaryColor;
+
+@itemTextColor: @invertedMutedTextColor;
+@hoverItemTextColor: @invertedSelectedTextColor;
+@paginationActiveTextColor: @invertedSelectedTextColor;
