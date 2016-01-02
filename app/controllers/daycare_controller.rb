@@ -4,6 +4,6 @@ class DaycareController < ApplicationController
   end
 
   def show
-  	@daycare = Daycare.find(params[:id])
+  	@daycare = Daycare.find_by(permalink: params[:id])
   end
 end
