@@ -58,7 +58,7 @@ def scraper
 			map_page_body.to_s.gsub(/'(\-?\d+(\.\d+)?)',\s*'(\-?\d+(\.\d+)?)'/) { |match|
 				ll = match.gsub(/'/, '').split(', ')
 				daycare["latitude"], daycare["longitude"] = ll[0].to_f, ll[1].to_f
-				puts "lat: #{daycare['latitude']} lon: #{daycare['longitude']}"
+				# puts "lat: #{daycare['latitude']} lon: #{daycare['longitude']}"
 			}
 
 			filename = file_i.to_s.rjust(2, "0")
