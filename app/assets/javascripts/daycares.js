@@ -1,4 +1,4 @@
-require("./components/Test.js.jsx")
+require("./components/App.js.jsx")
 
 $(function(){
   if (!mapboxgl.supported()) {

@@ -1,12 +1,9 @@
 .ui.stackable.grid#results
   .two.column.row
     .column
-      br
-      br
-      #react
-
       .ui.basic.segment
         .ui.large.divided.list.results-list
+          #react
           - @daycares.each do |daycare|
             = render "daycare", daycare: daycare, details: false
         - if !@daycares.is_a?(Array)
