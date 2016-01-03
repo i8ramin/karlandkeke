@@ -7,11 +7,12 @@ bundle exec rake mongo:scrape
 
 This will create add json files for individual daycare centers as well as daycares.json (collection) in data/json folder
 
-## Setup Mongodb, import data
+## Setup Mongodb, import data, download npm packages
 ```
 bundle install
 brew install mongodb
 bundle exec rake mongo:import
+npm install
 ```
 
 ## On Heroku

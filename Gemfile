@@ -20,6 +20,8 @@ source 'https://rubygems.org' do
 
   gem 'therubyracer'
 
+  gem "browserify-rails"
+
   # https://github.com/Semantic-Org/Semantic-UI-Rails-LESS
   gem 'less-rails-semantic_ui', '~> 2.1.7'
   gem 'autoprefixer-rails', '~> 6.2.1'

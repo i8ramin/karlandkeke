@@ -16,5 +16,10 @@
 !/log/.keep
 /tmp
 
+# Ignore all package related files
+/node_modules
+browserify-cache.json
+npm-debug.log
+
 .env
 .byebug_history

@@ -22,5 +22,8 @@ module Karlandkeke
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
+
+    # Config for browserify_rails to accepts ES6 and jsx
+    config.browserify_rails.commandline_options = "-t [ babelify --presets [ stage-0 es2015 react ] ] --extension=\".js.jsx\""
   end
 end

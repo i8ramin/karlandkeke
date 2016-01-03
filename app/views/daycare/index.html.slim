@@ -1,8 +1,10 @@
-= javascript_include_tag "daycares"
-
 .ui.stackable.grid#results
   .two.column.row
     .column
+      br
+      br
+      #react
+
       .ui.basic.segment
         .ui.large.divided.list.results-list
           - @daycares.each do |daycare|
@@ -13,3 +15,5 @@
     .column
       .map-wrapper
         #map
+
+= javascript_include_tag "daycares"
