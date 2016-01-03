@@ -115,28 +115,35 @@ def pagescrape(page)
 			
 			header = node.search('.accordion-toggle').text.split(":") 
 			inspection['date'] = header[1][/[^\Q Result\E]+/] # ex: from "10/15/2015 Result"
-			puts "inspection date is #{ inspection['date']}."
+			#puts "inspection date is #{ inspection['date']}."
 			other_info = header[2].split(" - ") 
 			inspection['type'] = other_info[0] # ex: "Initial Annual Inspection"
-			puts "inspection type: #{ inspection['type']}"
+			# puts "inspection type: #{ inspection['type']}"
 			inspection['result'] = other_info[1] # ex: "Reinspection Required; Fines pending"
-			puts "inspection result: #{ inspection['result']}"
+			# puts "inspection result: #{ inspection['result']}"
 
-			tableHeaders = node.search('tr.odd th')
-			headers = []
-			tableHeaders.each do |name|
-				headers.push(name.text)
-			end
-			inspection["violations"] = []
 			violationNodes = node.search('tr.even.gradeC')
-			violationNodes.each do |violation|
-				data = {}
-				i = 0
-				violation.search("td").each do |val|
-					data[headers[i]] = val.text
-					i += 1
+			if violationNodes.length == 1
+				inspection['violations'] = nil
+				inspection['numViolations'] = 0
+			else
+				inspection['numViolations'] = violationNodes.length 
+				# have to be non-DRY with above because there's always at least tr with that class
+				tableHeaders = node.search('tr.odd th')
+				headers = []
+				tableHeaders.each do |name|
+					headers.push(name.text)
 				end
-				inspection["violations"].push(data)
+				inspection["violations"] = []
+				violationNodes.each do |violation|
+					data = {}
+					i = 0
+					violation.search("td").each do |val|
+						data[headers[i]] = val.text
+						i += 1
+					end
+					inspection["violations"].push(data)
+				end
 			end
 
 			inspections.push(inspection)
