@@ -105,9 +105,47 @@ def pagescrape(page)
 
 	if !latestSections.empty? 
 		inspectionsTable = page.search('#5 > div.accordion')
-		inspections = inspectionsTable.search('.accordion-group')
-		daycare['numInspections'] = inspections.length + 1 # the latest inspection is in seperate tab
+		inspectionNodes = inspectionsTable.search('.accordion-group')
+		daycare['numInspections'] = inspectionNodes.length + 1 # the latest inspection is in seperate tab
+		
+		inspections = []
+		inspectionNodes.each do |node|
+			
+			inspection = {}
+			
+			header = node.search('.accordion-toggle').text.split(":") 
+			inspection['date'] = header[1][/[^\Q Result\E]+/] # ex: from "10/15/2015 Result"
+			puts "inspection date is #{ inspection['date']}."
+			other_info = header[2].split(" - ") 
+			inspection['type'] = other_info[0] # ex: "Initial Annual Inspection"
+			puts "inspection type: #{ inspection['type']}"
+			inspection['result'] = other_info[1] # ex: "Reinspection Required; Fines pending"
+			puts "inspection result: #{ inspection['result']}"
+
+			tableHeaders = node.search('tr.odd th')
+			headers = []
+			tableHeaders.each do |name|
+				headers.push(name.text)
+			end
+			inspection["violations"] = []
+			violationNodes = node.search('tr.even.gradeC')
+			violationNodes.each do |violation|
+				data = {}
+				i = 0
+				violation.search("td").each do |val|
+					data[headers[i]] = val.text
+					i += 1
+				end
+				inspection["violations"].push(data)
+			end
+
+			inspections.push(inspection)
+
+		end
+
 		daycare['pastInspections'] = inspections
+
+
 	else
 		daycare['numInspections'] = 0
 		daycare['pastInspections'] = nil
