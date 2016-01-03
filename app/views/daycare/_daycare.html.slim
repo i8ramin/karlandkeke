@@ -10,7 +10,11 @@
   .image
     .grade class="grade-#{daycare.grade}"= daycare.grade
   .content
-    .header=link_to(daycare.center_name, "/daycare/#{daycare.permalink}")
+    .header
+      =link_to(daycare.center_name, "/daycare/#{daycare.permalink}")
+      span.show_map
+        | &nbsp;
+        i.map.icon
     .street_address
       small= daycare.address
     .city_state_info

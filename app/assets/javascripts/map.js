@@ -120,7 +120,8 @@ var setup_map = function(points, show_popup_on_load) {
   });
 };
 
-var fly = function(lat, lon) {
+var fly = function(lat, lon, speed) {
+  speed = speed || 1;
   map.flyTo({
     center: [lon, lat],
     zoom: 16,
@@ -129,3 +130,16 @@ var fly = function(lat, lon) {
   });
 };
 
+$(function(){
+  $('span.show_map').on('click', function(e){
+    var daycare = $(e.target).closest(".daycare")[0];
+    var lat = $(daycare).data('lat');
+    var lon = $(daycare).data('lon');
+    if (lat && lon) {
+      fly(lat,lon, 10);  
+    } else {
+      console.log('whoops - no lat/lon available for this daycare!');
+    }
+    
+  });
+});
