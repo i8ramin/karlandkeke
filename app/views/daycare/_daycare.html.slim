@@ -26,11 +26,12 @@
         span="EST #{DateTime.now.year - daycare.years_operating} "
         strong &middot;
         span=" #{daycare.maximum_capacity} Capacity"
-  .violations
-    - num_violations = 0
-    - num_violations = daycare.inspection.infractions.count if daycare.inspection
-    strong= "#{num_violations} violations"
-    - if num_violations > 0
+
+  - num_violations = 0
+  - num_violations = daycare.inspection.infractions.count if daycare.inspection
+  - if num_violations > 0
+    .violations
+      strong= "#{num_violations} violations"
       .ui.list.violation-list
         - daycare.inspection.infractions.each do |infraction|
           .item.infraction[class="violation-#{infraction.multiplier}"]

@@ -17,12 +17,3 @@
 //= require mapbox/mapbox-gl_v0.12.2
 //= require jquery/jquery.shorten
 //= require map
-
-$(function(){
-  $('.ui.dropdown').dropdown({
-    onChange: function(e) {
-      e = e.toLowerCase();
-      window.location = e === 'all' ? "/" : "/grade/" + e;
-    }
-  });
-});

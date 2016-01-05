@@ -1,4 +1,6 @@
 class DaycareController < ApplicationController
+  before_action :set_selected_grade_filter
+
   def index
   	@daycares = Daycare.page(params[:page])
   end
@@ -8,6 +10,12 @@ class DaycareController < ApplicationController
   end
 
   def grade
-  	@daycares = Daycare.where(grade: params[:grade]).page(params[:page])
+  	@daycares = Daycare.where(grade: params[:grade].downcase).page(params[:page])
+  end
+
+private
+
+  def set_selected_grade_filter
+    @grade_filter = (params[:grade] || '').upcase || 'All'
   end
 end

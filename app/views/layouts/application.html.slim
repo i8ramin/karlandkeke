@@ -11,7 +11,6 @@ html lang="en"
     = stylesheet_link_tag 'application', media: 'all'
     = csrf_meta_tags
     = javascript_include_tag 'application'
-
   body
     #masthead
       form.ui.form
@@ -55,30 +54,19 @@ html lang="en"
                   .item(data-value="E")
                     .ui.red.empty.circular.label
                     | E
-        .ui.stackable.secondary.menu
-          .header.item
-          .item.violations
-            .field
-              label
-                | Violations
-              .ui.floating.selection.labeled.icon.dropdown(name="violations")
-                input(type="hidden" name="violations")
-                .text
-                  i.warning.sign.icon
-                  | Add Violations
-                i.dropdown.icon
-                .menu
-                  .item(data-value="violation 1") Violation 1
-                  .item(data-value="violation 2") Violation 2
-          .item
-            .labels
-              .ui.label
-                | Permit
-                i.delete.icon
-              .ui.label
-                | Immunization
-                i.delete.icon
 
+          javascript:
+            (function ($) {
+              var filterDropdownEl = $('#masthead .item.filter .ui.dropdown');
+
+              filterDropdownEl.dropdown('set selected', "#{@grade_filter}");
+
+              filterDropdownEl.dropdown({
+                onChange: function (val) {
+                  window.location = (val.toLowerCase() === 'all') ? "/" : "/grade/" + val;
+                }
+              });
+            })(window.jQuery);
     #content
       = yield
 
