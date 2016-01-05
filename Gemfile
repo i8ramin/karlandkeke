@@ -16,6 +16,7 @@ source 'https://rubygems.org' do
   gem 'puma'
 
   gem 'mongoid', '~> 5.0.0'
+  gem 'mongoid_fulltext'
 
   gem 'therubyracer'
 
@@ -60,15 +61,15 @@ source 'https://rubygems.org' do
   gem 'kaminari'
   gem 'mongoid-pagination'
 
+
   group :production, :staging do
     gem 'rails_12factor'
     gem 'rack-timeout'
   end
 
   group :development, :test do
-    gem 'sqlite3'
-    # Call 'byebug' anywhere in the code to stop execution and get a debugger console
     gem 'byebug'
+    gem 'pry-byebug'
     gem 'dotenv-rails'
   end
 

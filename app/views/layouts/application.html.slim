@@ -13,7 +13,7 @@ html lang="en"
     = javascript_include_tag 'application'
   body
     #masthead
-      form.ui.form
+      form.ui.form[action="/" method="get"]
         .ui.stackable.menu
           .header.item
             .logo
@@ -23,7 +23,7 @@ html lang="en"
               label(for="search")
                 | Search by daycare or Location
               .ui.fluid.left.icon.input
-                input(type="search" id="search" name="search" placeholder="Search")
+                input(type="search" id="search" name="q" placeholder="Search")
                 i.search.icon
           .item.filter
             .field
@@ -63,7 +63,7 @@ html lang="en"
 
               filterDropdownEl.dropdown({
                 onChange: function (val) {
-                  window.location = (val.toLowerCase() === 'all') ? "/" : "/grade/" + val;
+                  window.location = (val.toLowerCase() === 'all') ? "/" : "/daycare/grade/" + val;
                 }
               });
             })(window.jQuery);

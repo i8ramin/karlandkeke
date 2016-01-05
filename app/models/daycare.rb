@@ -2,6 +2,7 @@ class Daycare
   include Mongoid::Document
   include Mongoid::Timestamps
   include Mongoid::Pagination
+  include Mongoid::FullTextSearch
 
   has_one :inspection
 
@@ -26,6 +27,8 @@ class Daycare
   field :years_operating, type: Integer
   field :has_inspections, type: Boolean
   field :grade, type: String
+
+  fulltext_search_in :center_name, :address, :borough, :zipcode, :phone
 
   def self.from_json(payload)
     d = Daycare.new

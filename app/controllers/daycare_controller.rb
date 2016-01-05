@@ -2,7 +2,9 @@ class DaycareController < ApplicationController
   before_action :set_selected_grade_filter
 
   def index
-  	@daycares = Daycare.page(params[:page])
+    query = params[:q]
+    @daycares = query.present? ? Daycare.fulltext_search(query) : Daycare.page(params[:page])
+  	# @daycares = Daycare.page(params[:page])
   end
 
   def show

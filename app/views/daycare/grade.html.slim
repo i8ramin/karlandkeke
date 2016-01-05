@@ -7,7 +7,7 @@
         .ui.large.divided.list.results-list
           - @daycares.each do |daycare|
             = render "daycare", daycare: daycare, details: false
-
+    - unless @daycares.is_a?(Array)
       .ui.basic.segment
         = paginate @daycares
     .column
