@@ -4,7 +4,6 @@ class DaycareController < ApplicationController
   def index
     query = params[:q]
     @daycares = query.present? ? Daycare.fulltext_search(query) : Daycare.page(params[:page])
-  	# @daycares = Daycare.page(params[:page])
   end
 
   def show

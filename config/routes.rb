@@ -5,9 +5,6 @@ Rails.application.routes.draw do
     end
   end
 
-  # get "/daycare/:id" => "daycare#show"
-  # get "/grade/:grade" => "daycare#grade"
-
   # get "/auth/auth0/callback" => "auth0#callback"
   # get "/auth/failure" => "auth0#failure"
 
