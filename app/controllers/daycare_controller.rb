@@ -1,5 +1,6 @@
 class DaycareController < ApplicationController
   before_action :set_selected_grade_filter
+  before_action :cdn_cache
 
   def index
     query = params[:q]
