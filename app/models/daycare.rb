@@ -13,8 +13,6 @@ class Daycare
   field :permit_holder, type: String
   field :location,  type: Point, spatial: true, delegate: true
 
-  field :lat, type: Float
-  field :lon, type: Float
   field :address, type: String
   field :borough, type: String
   field :zipcode, type: String
@@ -42,7 +40,6 @@ class Daycare
     d = Daycare.new
     d.type = payload["type"]
     d.center_name= payload["centerName"].rstrip
-    d.permalink  = d.center_name.downcase.gsub(" ", "-")
     d.permit_holder = payload["permitHolder"]
     d.location = {
       latitude:  payload["latitude"] || 0.0,
@@ -51,6 +48,10 @@ class Daycare
     d.address = payload["address"]
     d.borough = payload["borough"]
     d.zipcode = payload["zipCode"]
+    
+    d.permalink  = d.center_name.downcase.gsub(" ", "-")
+    d.permalink += "-" + d.id if Daycare.where(permalink: d.permalink).count > 0
+
     d.phone = payload["phone"]
     d.permit_status = payload["permitStatus"]
     d.permit_number = payload["permitNumber"]
