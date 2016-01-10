@@ -11,74 +11,40 @@ html lang="en"
     = stylesheet_link_tag 'application', media: 'all'
     = csrf_meta_tags
     = javascript_include_tag 'application'
-
   body
     #masthead
-      form.ui.form
-        .ui.stackable.menu
-          .header.item
-            .logo
-              a href="/" KARL<span>AND</span>KEKE
-          .item.search
-            .field
-              label(for="search")
-                | Search by daycare or Location
-              .ui.fluid.left.icon.input
-                input(type="search" id="search" name="search" placeholder="Search")
-                i.search.icon
-          .item.filter
-            .field
-              label
-                | Filter
-              .ui.fluid.floating.selection.labeled.icon.dropdown(id="filter")
-                input(type="hidden" name="filter")
-                / i.filter.icon
-                .text
-                  .ui.empty.circular.label
-                  | All Grades
-                .menu
-                  .item(data-value="All")
-                    .ui.empty.circular.label
-                    | All Grades
-                  .item(data-value="A")
-                    .ui.blue.empty.circular.label
-                    | A
-                  .item(data-value="B")
-                    .ui.green.empty.circular.label
-                    | B
-                  .item(data-value="C")
-                    .ui.yellow.empty.circular.label
-                    | C
-                  .item(data-value="D")
-                    .ui.orange.empty.circular.label
-                    | D
-                  .item(data-value="E")
-                    .ui.red.empty.circular.label
-                    | E
-        .ui.stackable.secondary.menu
-          .header.item
-          .item.violations
-            .field
-              label
-                | Violations
-              .ui.floating.selection.labeled.icon.dropdown(name="violations")
-                input(type="hidden" name="violations")
-                .text
-                  i.warning.sign.icon
-                  | Add Violations
-                i.dropdown.icon
-                .menu
-                  .item(data-value="violation 1") Violation 1
-                  .item(data-value="violation 2") Violation 2
-          .item
-            .labels
-              .ui.label
-                | Permit
-                i.delete.icon
-              .ui.label
-                | Immunization
-                i.delete.icon
+      nav.navbar.navbar-fixed-top.navbar-full.bg-primary
+        a.navbar-brand[href="/"] KARL<span>AND</span>KEKE
 
+        form.form-inline[method="get"]
+          .form-group.search
+            label.form-control-label.sr-only[for="search"]
+              | Search by Daycare or Location
+            .input-group
+              input.form-control[type="search" id="search" name="q" placeholder="Search" value=@query]
+              .input-group-addon
+                button.btn.fa.fa-search[type="submit"]
+          .form-group
+            .grades-filter.dropdown
+              button.btn.btn-secondary.dropdown-toggle[type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"]
+                - if @grade_filter == 'All Grades'
+                  = @grade_filter
+                - else
+                  span.grade[class="grade-#{@grade_filter.downcase}"]=@grade_filter
+              .dropdown-menu
+                - if @grade_filter != 'All Grades'
+                  a.dropdown-item[href="/"]
+                    span All Grades
+                a.dropdown-item[href="/daycare/grade/A"]
+                  span.grade.grade-a A
+                a.dropdown-item[href="/daycare/grade/B"]
+                  span.grade.grade-b B
+                a.dropdown-item[href="/daycare/grade/C"]
+                  span.grade.grade-c C
+                a.dropdown-item[href="/daycare/grade/D"]
+                  span.grade.grade-d D
+                a.dropdown-item[href="/daycare/grade/E"]
+                  span.grade.grade-e E
     #content
       = yield
 

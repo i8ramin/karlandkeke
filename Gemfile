@@ -1,10 +1,8 @@
 ruby '2.2.3'
 
-# source 'https://rails-assets.org' do
-#   # https://rails-assets.org/
-#   # gem 'rails-assets-foundation-sites'
-#   gem 'rails-assets-bootstrap'
-# end
+source 'https://rails-assets.org' do
+  gem 'rails-assets-tether', '>= 1.1.0'
+end
 
 source 'https://rubygems.org' do
   gem 'bundler', '>= 1.8.4'
@@ -12,16 +10,17 @@ source 'https://rubygems.org' do
   # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
   gem 'rails', '4.2.5'
 
-  gem 'pg'
   gem 'puma'
 
   gem 'mongoid', '~> 5.0.0'
+  gem 'mongoid_fulltext'
+  gem 'mongoid-geospatial'
 
   gem 'therubyracer'
 
-  # https://github.com/Semantic-Org/Semantic-UI-Rails-LESS
-  gem 'less-rails-semantic_ui', '~> 2.1.7'
-  gem 'autoprefixer-rails', '~> 6.2.1'
+  gem 'font-awesome-rails'
+  gem 'bootstrap', '~> 4.0.0.alpha3'
+  # gem 'autoprefixer-rails', '~> 6.2.1'
 
   # https://github.com/slim-template/slim-rails
   gem 'slim-rails'
@@ -66,9 +65,8 @@ source 'https://rubygems.org' do
   end
 
   group :development, :test do
-    gem 'sqlite3'
-    # Call 'byebug' anywhere in the code to stop execution and get a debugger console
     gem 'byebug'
+    gem 'pry-byebug'
     gem 'dotenv-rails'
   end
 

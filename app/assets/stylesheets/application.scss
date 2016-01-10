@@ -1,0 +1,177 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_self
+ */
+
+@import "font-awesome";
+@import "bootstrap_and_overrides";
+@import "mapbox/mapbox_v2.2.2";
+@import "leaflet/leaflet-locate";
+
+$masthead-height: 71px;
+$masthead-mobile-height: 179px;
+
+body {
+  padding-top: $masthead-mobile-height;
+
+  @include media-breakpoint-up(sm) {
+    padding-top: $masthead-height;
+  }
+}
+
+#masthead {
+  a.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: white;
+
+    span {
+      font-weight: 300;
+    }
+
+    @include media-breakpoint-down(sm) {
+      display: block;
+      float: none;
+    }
+  }
+
+  form.form-inline .input-group-addon {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  form.form-inline .input-group-addon .btn {
+    padding: 0;
+    background-color: transparent;
+  }
+
+  .form-group {
+    margin-right: 1rem;
+  }
+}
+
+#results {
+  padding: 1rem 0;
+}
+
+#map {
+  display: none;
+  position: fixed;
+  top: $masthead-height;
+  bottom: 0;
+  right: 0;
+  width: 50%;
+  height: calc(100vh - $masthead-height);
+  overflow: hidden;
+
+  @include media-breakpoint-up(sm) {
+    display: block;
+  }
+}
+
+.grades-filter {
+  .dropdown-menu {
+    min-width: auto;
+  }
+
+  .dropdown-toggle .grade {
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 14px;
+  }
+
+  .dropdown-toggle::after {
+    margin-left: .5rem;
+  }
+}
+
+.grade {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  text-align: center;
+  color: white;
+  font-weight: 300;
+  font-size: 16px;
+  text-transform: uppercase;
+
+  &-a {
+    background-color: $blue;
+  }
+
+  &-b {
+    background-color: $green;
+  }
+
+  &-c {
+    background-color: $yellow;
+  }
+
+  &-d {
+    background-color: $orange;
+  }
+
+  &-e {
+    background-color: $red;
+  }
+
+  &-f {
+    background-color: $black;
+  }
+}
+
+.daycare {
+  border-bottom: 1px solid $gray-lighter;
+
+  .header {
+    font-weight: bold;
+  }
+  .description {
+    color: $gray-light;
+  }
+}
+
+.violations-list {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.violations {
+  span.label {
+    text-transform: uppercase;
+  }
+  .violation-1 span.label.label-info {
+    background-color: $yellow;
+  }
+  .violation-2 span.label.label-info {
+    background-color: $orange;
+  }
+  .violation-3 span.label.label-info {
+    background-color: $red;
+  }
+}
+
+// using http://www.patternify.com/ to make these images
+.violation-1 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8/5/hPwMaYBzKggA71R3tPD4VZwAAAABJRU5ErkJggg==");
+}
+
+.violation-2 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8VRfwnwENMA5lQQBJChvR9aXGMQAAAABJRU5ErkJggg==");
+}
+
+.violation-3 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8xc//nwENMA5lQQA/FxTxqU213QAAAABJRU5ErkJggg==");
+}

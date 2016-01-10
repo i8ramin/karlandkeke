@@ -20,9 +20,9 @@ namespace :mongo do
     # makes sense to clear out the existing data in our case
     Infraction.destroy_all
     Inspection.destroy_all
-    Daycare.destroy_all 
+    Daycare.destroy_all
     seed_file = "data/json/daycares.json"
-    puts "LOADING from file #{seed_file}"   
+    puts "LOADING from file #{seed_file}"
     file = File.read(seed_file)
     venues = JSON.parse(file)
     puts venues.size
@@ -39,9 +39,16 @@ namespace :mongo do
 
     end
 
+    # create geospatial indexes
+    Daycare.create_indexes
+    
     puts "#{counter} records imported"
     puts "#{fails.size} failed to import"
     puts "END   import JSON --> Mongo"
   end
 
+  desc "index Daycare data for full text search"
+  task index: :environment do
+    Daycare.update_ngram_index
+  end
 end

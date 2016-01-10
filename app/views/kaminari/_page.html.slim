@@ -1,6 +1,9 @@
+
 - if page.current?
-  a.item.active href=url title=("#{t('views.pagination.page.current')} #{page}")
-    = page
+  li.page-item.active
+    a.page-link[href=url aria-label=("#{t('views.pagination.page.current')} #{page}") title=("#{t('views.pagination.page.current')} #{page}")]
+      span=page
 - else
-  a.item href=url title=("#{t('views.pagination.page.goto')} #{page}")
-    = page
+  li.page-item
+    a.page-link[href=url aria-label=("#{t('views.pagination.page.goto')} #{page}") title=("#{t('views.pagination.page.goto')} #{page}")]
+      span=page

@@ -1,8 +1,12 @@
 Rails.application.routes.draw do
-  get "/" => "daycare#index"
-  get "/daycare/:id" => "daycare#show"
-  get "/grade/:grade" => "daycare#grade"
+  resources :daycare, only: [:show, :grade] do
+    collection do
+      get "grade/:grade", to: "daycare#index"
+    end
+  end
 
   # get "/auth/auth0/callback" => "auth0#callback"
   # get "/auth/failure" => "auth0#failure"
+
+  root :to => "daycare#index"
 end
