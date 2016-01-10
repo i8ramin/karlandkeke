@@ -9,7 +9,8 @@ class DaycareController < ApplicationController
       daycares = Daycare
     end
 
-    @daycares = @query.present? ? Daycare.fulltext_search(@query) : daycares.page(@page)
+    # @daycares = @query.present? ? Daycare.fulltext_search(@query) : daycares.page(@page)
+    @daycares = @query.present? ? Daycare.es.search(@query).results : daycares.page(@page)
   end
 
   def show

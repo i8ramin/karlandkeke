@@ -3,6 +3,9 @@ class Daycare
   include Mongoid::Timestamps
   include Mongoid::Pagination
   include Mongoid::FullTextSearch
+  include Mongoid::Elasticsearch
+
+  elasticsearch!
 
   has_one :inspection
 
