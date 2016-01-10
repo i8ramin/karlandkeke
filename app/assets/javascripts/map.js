@@ -1,65 +1,57 @@
 var map;
 
 var setup_map = function(points, show_popup_on_load) {
+  
   // setup map
-  mapboxgl.accessToken = 'pk.eyJ1IjoiaGsyMyIsImEiOiJjaWg2dDRmOXAwNmNpdWtrdDRvdW1xdzI2In0.F9uULd8DhCkRGltilPPZbg';
-
-  map = new mapboxgl.Map({
-    container: 'map', // container id
-    style: 'mapbox://styles/hk23/ciimpkraf007n8ulx593l7qze', //stylesheet location
-    center: [-74.0059, 40.7127], // starting position 40.7127° N, 74.0059° W
-    zoom: 9, // starting zoom
-    hash: true
-  });
-
-  // Add zoom and rotation controls to the map.
-  map.addControl(new mapboxgl.Navigation());
+  L.mapbox.accessToken = 'pk.eyJ1IjoiaGsyMyIsImEiOiJjaWg2dDRmOXAwNmNpdWtrdDRvdW1xdzI2In0.F9uULd8DhCkRGltilPPZbg';
+  map = L.mapbox.map('map', 'hk23.oljk2o07')
+                .setView([40.7127, -74.0059])
+                .setZoom(12);
+  var hash = L.hash(map);
+  L.control.locate().addTo(map);
+  
+  var markerLayer = L.mapbox.featureLayer().addTo(map);
 
   var geojson= {
     "type": "FeatureCollection",
     "features": []
   };
 
-  // mapbox-gl does not support icon-color for maki icons yet
-  // so, for now lets use different icons for different grades
   var get_marker_for_grade = function(grade) {
-    var marker = 'building-24';
+    var marker = {
+      "color": "#3ca0d3",
+      "symbol": grade
+    };
     switch(grade) {
       case 'a':
-        marker = 'star-24';
+        marker.color= "#2185D0";
         break;
       case 'b':
-        marker = 'marker-24';
+        marker.color= "#21BA45";
         break;
       case 'c':
-        marker = 'roadblock-24';
+        marker.color= "#FBBD08";
         break;
       case 'd':
-        marker = 'fire-station-24';
+        marker.color= "#F2711C";
         break;
       case 'e':
-        marker = 'danger-24';
+        marker.color= "#DB2828";
         break;
       default:
-        marker = 'monument-24';
+        marker.color= "#3ca0d3";
         break;
     }
     return marker
-  };
-
-  var show_popup = function(geom, desc, dont_show_on_load) {
-    new mapboxgl.Popup({closeOnClick: !!dont_show_on_load})
-      .setLngLat(geom)
-      .setHTML(desc)
-      .addTo(map);
   };
 
   $.each(points, function(index, point) {
     var lat = $(point).data('lat');
     var lon = $(point).data('lon');
     var center_name = $(point).data('center_name');
-    var permalink   = '/daycare/' + center_name.toLowerCase().trimRight().replace(/\s/g, '-');
+    var permalink   = $(point).data('permalink');
     var grade = $(point).data('grade');
+    var props = get_marker_for_grade(grade);
     if (!lat || !lon) {
       return true;
     }
@@ -72,62 +64,37 @@ var setup_map = function(points, show_popup_on_load) {
       },
       "properties": {
         "title": center_name,
-        "description": "<div class=\"image table-cell\"><span class=\"grade grade-"+grade+"\">"+grade+"</span></div><div class=\"marker-title table-cell\"><a href='" + permalink + "'>" + center_name +"</a></div>",
-        "marker-symbol": get_marker_for_grade(grade)
+        "url": permalink,
+        "description": "<div class=\"image table-cell\"><span class=\"grade grade-"+grade+"\">"+grade+"</span></div>",
+        "marker-symbol": props.symbol,
+        "marker-color": props.color,
+        "marker-size": "large",
       }
     });
   });
 
-  map.on('style.load', function () {
-    map.addSource("markers", {
-      "type": "geojson",
-      "data": geojson
-    });
-    map.addLayer({
-      "id": "markers",
-      "type": "symbol",
-      "source": "markers",
-      "interactive": true,
-      "layout": {
-        "icon-image": "{marker-symbol}"
-      }
-    });
-    
+  // Add custom popups to each using our custom feature properties
+  markerLayer.on('layeradd', function(e) {
+    var marker = e.layer,
+        feature = marker.feature;
+
+    // Create custom popup content
+    var popupContent =  '<a target="_blank" class="popup" href="' + feature.properties.url + '">' +
+                            // feature.properties.description +
+                            feature.properties.title
+                        '</a>';
+
+    marker.bindPopup(popupContent);
     if (show_popup_on_load) {
-      var feature = geojson.features[0];
-      show_popup(feature.geometry.coordinates, feature.properties.description, false);
+      marker.openPopup();
     }
   });
 
-  // When a click event occurs near a marker icon, open a popup at the location of
-  // the feature, with description HTML from its properties.
-  map.on('click', function (e) {
-    map.featuresAt(e.point, {layer: 'markers', radius: 10, includeGeometry: true}, function (err, features) {
-      if (err || !features.length)
-        return;
-
-      var feature = features[0];
-      show_popup(feature.geometry.coordinates, feature.properties.description, true);
-    });
-  });
-
-  // Use the same approach as above to indicate that the symbols are clickable
-  // by changing the cursor style to 'pointer'.
-  map.on('mousemove', function (e) {
-    map.featuresAt(e.point, {layer: 'markers', radius: 10}, function (err, features) {
-      map.getCanvas().style.cursor = (!err && features.length) ? 'pointer' : '';
-    });
-  });
+  markerLayer.setGeoJSON(geojson);
 };
 
 var fly = function(lat, lon, speed) {
-  speed = speed || 1;
-  map.flyTo({
-    center: [lon, lat],
-    zoom: 16,
-    speed: 1,
-    curve: 1
-  });
+  map.setView(new L.LatLng(lat, lon), 14);
 };
 
 $(function(){
