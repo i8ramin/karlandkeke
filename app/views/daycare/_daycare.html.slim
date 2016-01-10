@@ -1,8 +1,8 @@
 - details = details || nil
-
+- location= daycare.location.to_hsh(:lon, :lat)
 .media.daycare[
-  data-lat=daycare.lat
-  data-lon=daycare.lon
+  data-lat=location[:lat]
+  data-lon=location[:lon]
   data-center_name=daycare.center_name
   data-grade=daycare.grade
   data-permalink="/daycare/#{daycare.permalink}"
@@ -13,9 +13,10 @@
     .media-right.content
       .header
         =link_to(daycare.center_name, "/daycare/#{daycare.permalink}")
-        span.show_map
-          | &nbsp;
-          i.fa.fa-map-marker
+        - if location[:lat] != 0.0 && location[:lon] != 0.0
+          span.show_map
+            | &nbsp;
+            i.fa.fa-map-marker
       address
         .street_address
           small= daycare.address

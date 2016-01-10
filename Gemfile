@@ -14,6 +14,7 @@ source 'https://rubygems.org' do
 
   gem 'mongoid', '~> 5.0.0'
   gem 'mongoid_fulltext'
+  gem 'mongoid-geospatial'
 
   gem 'therubyracer'
 
