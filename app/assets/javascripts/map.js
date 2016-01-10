@@ -9,7 +9,12 @@ var setup_map = function(points, show_popup_on_load) {
                 .setZoom(12);
   var hash = L.hash(map);
   L.control.locate().addTo(map);
-  
+
+  map.on('locationfound', function(e) {
+    var nearby = [e.latitude, e.longitude].join(",");
+    window.location = "/?nearby=" + nearby;
+  });
+
   var markerLayer = L.mapbox.featureLayer().addTo(map);
 
   var geojson= {
