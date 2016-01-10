@@ -9,6 +9,11 @@ class DaycareController < ApplicationController
       daycares = Daycare
     end
 
+    if params['nearby']
+      lat, lon = params['nearby'].split(',')
+      daycares.nearby([lon, lat])
+    end
+
     @daycares = @query.present? ? Daycare.fulltext_search(@query) : daycares.page(@page)
   end
 
