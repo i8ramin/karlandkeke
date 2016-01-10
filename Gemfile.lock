@@ -113,6 +113,8 @@ GEM
     mongoid-compatibility (0.3.1)
       activesupport
       mongoid (>= 2.0)
+    mongoid-geospatial (5.0.0)
+      mongoid (>= 5.0.0.beta)
     mongoid-pagination (0.2.0)
       activesupport
       mongoid
@@ -240,6 +242,7 @@ DEPENDENCIES
   mechanize!
   memcachier!
   mongoid (~> 5.0.0)!
+  mongoid-geospatial!
   mongoid-pagination!
   mongoid_fulltext!
   pry-byebug!

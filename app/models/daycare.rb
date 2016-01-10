@@ -3,6 +3,7 @@ class Daycare
   include Mongoid::Timestamps
   include Mongoid::Pagination
   include Mongoid::FullTextSearch
+  include Mongoid::Geospatial
 
   has_one :inspection
 
@@ -10,6 +11,8 @@ class Daycare
   field :center_name, type: String
   field :permalink, type: String
   field :permit_holder, type: String
+  field :location,  type: Point, spatial: true, delegate: true
+
   field :lat, type: Float
   field :lon, type: Float
   field :address, type: String
@@ -28,6 +31,9 @@ class Daycare
   field :has_inspections, type: Boolean
   field :grade, type: String
 
+  # query by location
+  spatial_scope :location
+
   fulltext_search_in :center_name, :zipcode
 
   def name; center_name end
@@ -38,8 +44,10 @@ class Daycare
     d.center_name= payload["centerName"].rstrip
     d.permalink  = d.center_name.downcase.gsub(" ", "-")
     d.permit_holder = payload["permitHolder"]
-    d.lat = payload["latitude"]
-    d.lon = payload["longitude"]
+    d.location = {
+      latitude:  payload["latitude"] || 0.0,
+      longitude: payload["longitude"] || 0.0
+    }
     d.address = payload["address"]
     d.borough = payload["borough"]
     d.zipcode = payload["zipCode"]
