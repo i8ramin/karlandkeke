@@ -3,15 +3,24 @@ class DaycareController < ApplicationController
   before_action :cdn_cache
 
   def index
-    if @grade
-      daycares = Daycare.where(grade: @grade.downcase)
-    else
-      daycares = Daycare
+    daycares = Daycare.all
+    
+    if params['nearby']
+      geom_point   = params[:nearby].split(",").map(&:to_f)
+      max_distance = (params[:max_distance] || 100).to_i 
+      min_distance = (params[:min_distance] || 0).to_i 
+
+      daycares = Daycare.where(:location => {
+        '$near' => geom_point,
+        '$maxDistance' => max_distance.fdiv(69),
+        '$minDistance' => min_distance.fdiv(69)
+      })
     end
 
-    if params['nearby']
-      lat, lon = params['nearby'].split(',')
-      daycares.nearby([lon, lat])
+    if @grade
+      daycares = daycares.where(grade: @grade.downcase)
+    else
+      daycares = daycares
     end
 
     @daycares = @query.present? ? Daycare.fulltext_search(@query) : daycares.page(@page)

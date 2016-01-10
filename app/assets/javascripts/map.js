@@ -11,8 +11,8 @@ var setup_map = function(points, show_popup_on_load) {
   L.control.locate().addTo(map);
 
   map.on('locationfound', function(e) {
-    var nearby = [e.latitude, e.longitude].join(",");
-    window.location = "/?nearby=" + nearby;
+    var nearby = [e.longitude, e.latitude].join(",");
+    window.location.search = "nearby=" + nearby;
   });
 
   var markerLayer = L.mapbox.featureLayer().addTo(map);
