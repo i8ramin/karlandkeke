@@ -30,6 +30,8 @@ class Daycare
 
   fulltext_search_in :center_name, :address, :borough, :zipcode, :phone
 
+  def name; center_name end
+
   def self.from_json(payload)
     d = Daycare.new
     d.type = payload["type"]

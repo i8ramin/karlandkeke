@@ -1,0 +1,22 @@
+{
+  "name": "karlandkeke",
+  "version": "1.0.0",
+  "description": "## Scrape data from a816-healthpsi.nyc.gov ``` bundle exec rake mongo:scrape ```",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i8ramin/karlandkeke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i8ramin/karlandkeke/issues"
+  },
+  "homepage": "https://github.com/i8ramin/karlandkeke#readme"
+}
