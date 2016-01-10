@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   resources :daycare, only: [:show, :grade] do
     collection do
-      get "grade/:grade", to: "daycare#grade"
+      get "grade/:grade", to: "daycare#index"
     end
   end
 

@@ -14,7 +14,7 @@
         =link_to(daycare.center_name, "/daycare/#{daycare.permalink}")
         span.show_map
           | &nbsp;
-          i.map.icon
+          i.fa.fa-map-marker
       address
         .street_address
           small= daycare.address
@@ -26,38 +26,32 @@
         small
           span="EST #{DateTime.now.year - daycare.years_operating} "
           strong &middot;
-          span=" #{daycare.maximum_capacity} Capacity"
+          span.capacity=" #{daycare.maximum_capacity} Capacity"
 
       - num_violations = 0
       - num_violations = daycare.inspection.infractions.count if daycare.inspection
       - if num_violations > 0
         .violations
           strong= "#{num_violations} violations"
-          .ui.list.violation-list
+          ul.violations-list
             - daycare.inspection.infractions.each do |infraction|
-              .item.infraction[class="violation-#{infraction.multiplier}"]
+              li.violation[class="violation-#{infraction.multiplier}"]
                 - if infraction.short_description
                   = infraction.short_description
                 - else
                   = infraction.violation_summary
 
-  - if details
-    .details
-      table.table
-        tbody
-          tr
-            td Type
-            td
-              = daycare.type
-          tr
-            td Age Range
-            td
-              = daycare.age_range
-          tr
-            td Medical certification
-            td
-              = "#{daycare.certified_to_administer_medication ? 'Is' : 'Not'} certified to administer medication"
-          tr
-            td Inspections
-            td
-              = "#{daycare.has_inspections ? 'Has' : 'No'} regular inspections"
+      - if details
+        ul.list-group.details
+          li.list-group-item
+            strong Type
+            .desc= daycare.type
+          li.list-group-item
+            strong Age range
+            .desc= daycare.age_range
+          li.list-group-item
+            strong Medical certification
+            .desc= "#{daycare.certified_to_administer_medication ? 'Is' : 'Not'} certified to administer medication"
+          li.list-group-item
+            strong Inspections
+            .desc= "#{daycare.has_inspections ? 'Has' : 'No'} regular inspections"

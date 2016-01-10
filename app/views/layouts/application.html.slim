@@ -13,11 +13,11 @@ html lang="en"
     = javascript_include_tag 'application'
   body
     #masthead
-      nav.navbar.navbar-full.bg-primary
+      nav.navbar.navbar-fixed-top.navbar-full.bg-primary
         a.navbar-brand[href="/"] KARL<span>AND</span>KEKE
 
-        form.form-inline[action="/" method="get"]
-          .form-group
+        form.form-inline[method="get"]
+          .form-group.search
             label.form-control-label.sr-only[for="search"]
               | Search by Daycare or Location
             .input-group
@@ -25,12 +25,16 @@ html lang="en"
               .input-group-addon
                 button.btn.fa.fa-search[type="submit"]
           .form-group
-            .dropdown
+            .grades-filter.dropdown
               button.btn.btn-secondary.dropdown-toggle[type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"]
-                = @grade_filter
+                - if @grade_filter == 'All Grades'
+                  = @grade_filter
+                - else
+                  span.grade[class="grade-#{@grade_filter.downcase}"]=@grade_filter
               .dropdown-menu
-                a.dropdown-item[href="/"]
-                  span All Grades
+                - if @grade_filter != 'All Grades'
+                  a.dropdown-item[href="/"]
+                    span All Grades
                 a.dropdown-item[href="/daycare/grade/A"]
                   span.grade.grade-a A
                 a.dropdown-item[href="/daycare/grade/B"]
@@ -41,9 +45,6 @@ html lang="en"
                   span.grade.grade-d D
                 a.dropdown-item[href="/daycare/grade/E"]
                   span.grade.grade-e E
-                a.dropdown-item[href="/daycare/grade/F"]
-                  span.grade.grade-f F
-
     #content
       = yield
 

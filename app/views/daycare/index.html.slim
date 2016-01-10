@@ -4,11 +4,9 @@
   .container-fluid
     .row
       .col-md-6
-          .results-list
-            - @daycares.each do |daycare|
-              = render "daycare", daycare: daycare, details: false
-          - if !@daycares.is_a?(Array)
-            = paginate @daycares
-      .col-md-6
-        .map-wrapper
-          #map
+        .results-list
+          - @daycares.each do |daycare|
+            = render "daycare", daycare: daycare, details: false
+        - if !@daycares.is_a?(Array)
+          = paginate @daycares
+#map

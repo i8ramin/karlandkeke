@@ -17,6 +17,17 @@
 @import "bootstrap_and_overrides";
 @import "mapbox/mapbox-gl_v0.12.2";
 
+$masthead-height: 71px;
+$masthead-mobile-height: 179px;
+
+body {
+  padding-top: $masthead-mobile-height;
+
+  @include media-breakpoint-up(sm) {
+    padding-top: $masthead-height;
+  }
+}
+
 #masthead {
   a.navbar-brand {
     font-weight: 700;
@@ -25,6 +36,11 @@
 
     span {
       font-weight: 300;
+    }
+
+    @include media-breakpoint-down(sm) {
+      display: block;
+      float: none;
     }
   }
 
@@ -43,33 +59,51 @@
   }
 }
 
-.map-wrapper {
-  display: block;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
+#results {
+  padding: 1rem 0;
+}
 
-  #map {
-    position: fixed;
-    top: 81px;
-    bottom: 0;
-    right: 0;
-    width: calc(50vw - 20px);
-    height: calc(100vh - 81px);
-    overflow: hidden;
+#map {
+  display: none;
+  position: fixed;
+  top: $masthead-height;
+  bottom: 0;
+  right: 0;
+  width: 50%;
+  height: calc(100vh - $masthead-height);
+  overflow: hidden;
+
+  @include media-breakpoint-up(sm) {
+    display: block;
+  }
+}
+
+.grades-filter {
+  .dropdown-menu {
+    min-width: auto;
+  }
+
+  .dropdown-toggle .grade {
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 14px;
+  }
+
+  .dropdown-toggle::after {
+    margin-left: .5rem;
   }
 }
 
 .grade {
   display: inline-block;
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
   text-align: center;
   color: white;
-  font-weight: 400;
-  font-size: 18px;
+  font-weight: 300;
+  font-size: 16px;
   text-transform: uppercase;
 
   &-a {
@@ -95,4 +129,33 @@
   &-f {
     background-color: $black;
   }
+}
+
+.daycare {
+  border-bottom: 1px solid $gray-lighter;
+
+  .header {
+    font-weight: bold;
+  }
+  .description {
+    color: $gray-light;
+  }
+}
+
+.violations-list {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+// using http://www.patternify.com/ to make these images
+.violation-1 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8/5/hPwMaYBzKggA71R3tPD4VZwAAAABJRU5ErkJggg==");
+}
+
+.violation-2 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8VRfwnwENMA5lQQBJChvR9aXGMQAAAABJRU5ErkJggg==");
+}
+
+.violation-3 {
+  list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8xc//nwENMA5lQQA/FxTxqU213QAAAABJRU5ErkJggg==");
 }
