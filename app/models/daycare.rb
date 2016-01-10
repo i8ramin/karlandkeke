@@ -28,7 +28,7 @@ class Daycare
   field :has_inspections, type: Boolean
   field :grade, type: String
 
-  fulltext_search_in :center_name, :address, :borough, :zipcode, :phone
+  fulltext_search_in :center_name, :zipcode
 
   def name; center_name end
 

@@ -1,1 +1,3 @@
-Rack::Timeout.timeout = 25
+if defined? Rack::Timeout
+  Rack::Timeout.timeout = 25
+end
