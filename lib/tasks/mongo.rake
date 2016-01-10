@@ -39,10 +39,11 @@ namespace :mongo do
 
     end
 
-    puts "#{counter} records imported"
-    puts "#{fails.size} failed to import"
     # create geospatial indexes
     Daycare.create_indexes
+    
+    puts "#{counter} records imported"
+    puts "#{fails.size} failed to import"
     puts "END   import JSON --> Mongo"
   end
 

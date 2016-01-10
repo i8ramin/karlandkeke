@@ -148,6 +148,21 @@ body {
   padding-left: 0;
 }
 
+.violations {
+  span.label {
+    text-transform: uppercase;
+  }
+  .violation-1 span.label.label-info {
+    background-color: $yellow;
+  }
+  .violation-2 span.label.label-info {
+    background-color: $orange;
+  }
+  .violation-3 span.label.label-info {
+    background-color: $red;
+  }
+}
+
 // using http://www.patternify.com/ to make these images
 .violation-1 {
   list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAE0lEQVQIW2P8/5/hPwMaYBzKggA71R3tPD4VZwAAAABJRU5ErkJggg==");
