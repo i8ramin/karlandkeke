@@ -13,60 +13,37 @@ html lang="en"
     = javascript_include_tag 'application'
   body
     #masthead
-      form.ui.form[action="/" method="get"]
-        .ui.stackable.menu
-          .header.item
-            .logo
-              a href="/" KARL<span>AND</span>KEKE
-          .item.search
-            .field
-              label(for="search")
-                | Search by daycare or Location
-              .ui.fluid.left.icon.input
-                input(type="search" id="search" name="q" placeholder="Search")
-                i.search.icon
-          .item.filter
-            .field
-              label
-                | Filter
-              .ui.fluid.floating.selection.labeled.icon.dropdown(id="filter")
-                input(type="hidden" name="filter")
-                / i.filter.icon
-                .text
-                  .ui.empty.circular.label
-                  | All Grades
-                .menu
-                  .item(data-value="All")
-                    .ui.empty.circular.label
-                    | All Grades
-                  .item(data-value="A")
-                    .ui.blue.empty.circular.label
-                    | A
-                  .item(data-value="B")
-                    .ui.green.empty.circular.label
-                    | B
-                  .item(data-value="C")
-                    .ui.yellow.empty.circular.label
-                    | C
-                  .item(data-value="D")
-                    .ui.orange.empty.circular.label
-                    | D
-                  .item(data-value="E")
-                    .ui.red.empty.circular.label
-                    | E
+      nav.navbar.navbar-full.bg-primary
+        a.navbar-brand[href="/"] KARL<span>AND</span>KEKE
 
-          javascript:
-            (function ($) {
-              var filterDropdownEl = $('#masthead .item.filter .ui.dropdown');
+        form.form-inline[action="/" method="get"]
+          .form-group
+            label.form-control-label.sr-only[for="search"]
+              | Search by Daycare or Location
+            .input-group
+              input.form-control[type="search" id="search" name="q" placeholder="Search" value=@query]
+              .input-group-addon
+                button.btn.fa.fa-search[type="submit"]
+          .form-group
+            .dropdown
+              button.btn.btn-secondary.dropdown-toggle[type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"]
+                = @grade_filter
+              .dropdown-menu
+                a.dropdown-item[href="/"]
+                  span All Grades
+                a.dropdown-item[href="/daycare/grade/A"]
+                  span.grade.grade-a A
+                a.dropdown-item[href="/daycare/grade/B"]
+                  span.grade.grade-b B
+                a.dropdown-item[href="/daycare/grade/C"]
+                  span.grade.grade-c C
+                a.dropdown-item[href="/daycare/grade/D"]
+                  span.grade.grade-d D
+                a.dropdown-item[href="/daycare/grade/E"]
+                  span.grade.grade-e E
+                a.dropdown-item[href="/daycare/grade/F"]
+                  span.grade.grade-f F
 
-              filterDropdownEl.dropdown('set selected', "#{@grade_filter}");
-
-              filterDropdownEl.dropdown({
-                onChange: function (val) {
-                  window.location = (val.toLowerCase() === 'all') ? "/" : "/daycare/grade/" + val;
-                }
-              });
-            })(window.jQuery);
     #content
       = yield
 

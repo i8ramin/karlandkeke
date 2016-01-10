@@ -1,2 +1,4 @@
-a.item href=url title=t('views.pagination.next')
-  i.right.arrow.icon
+li.page-item
+  a.page-link[href=url aria-label=t('views.pagination.next') title=t('views.pagination.next')]
+    span.fa.fa-angle-right[aria-hidden="true"]
+    span.sr-only=t('views.pagination.next')

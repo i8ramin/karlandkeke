@@ -3,8 +3,8 @@ class DaycareController < ApplicationController
   before_action :cdn_cache
 
   def index
-    query = params[:q]
-    @daycares = query.present? ? Daycare.fulltext_search(query) : Daycare.page(params[:page])
+    @query = params[:q]
+    @daycares = @query.present? ? Daycare.fulltext_search(@query) : Daycare.page(params[:page])
   end
 
   def show
@@ -18,6 +18,6 @@ class DaycareController < ApplicationController
 private
 
   def set_selected_grade_filter
-    @grade_filter = (params[:grade] || '').upcase || 'All'
+    @grade_filter = params[:grade].present? ? params[:grade].upcase : 'All Grades'
   end
 end

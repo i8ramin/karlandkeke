@@ -1,0 +1,98 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_self
+ */
+
+@import "font-awesome";
+@import "bootstrap_and_overrides";
+@import "mapbox/mapbox-gl_v0.12.2";
+
+#masthead {
+  a.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: white;
+
+    span {
+      font-weight: 300;
+    }
+  }
+
+  form.form-inline .input-group-addon {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  form.form-inline .input-group-addon .btn {
+    padding: 0;
+    background-color: transparent;
+  }
+
+  .form-group {
+    margin-right: 1rem;
+  }
+}
+
+.map-wrapper {
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+
+  #map {
+    position: fixed;
+    top: 81px;
+    bottom: 0;
+    right: 0;
+    width: calc(50vw - 20px);
+    height: calc(100vh - 81px);
+    overflow: hidden;
+  }
+}
+
+.grade {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: uppercase;
+
+  &-a {
+    background-color: $blue;
+  }
+
+  &-b {
+    background-color: $green;
+  }
+
+  &-c {
+    background-color: $yellow;
+  }
+
+  &-d {
+    background-color: $orange;
+  }
+
+  &-e {
+    background-color: $red;
+  }
+
+  &-f {
+    background-color: $black;
+  }
+}

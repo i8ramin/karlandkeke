@@ -1,53 +1,49 @@
 - details = details || nil
 
-.item.daycare[
+.media.daycare[
   data-lat=daycare.lat
   data-lon=daycare.lon
   data-center_name=daycare.center_name
   data-grade=daycare.grade
 ]
+  .media-body
+    .media-left.image
+      .grade class="grade-#{daycare.grade}"= daycare.grade
+    .media-right.content
+      .header
+        =link_to(daycare.center_name, "/daycare/#{daycare.permalink}")
+        span.show_map
+          | &nbsp;
+          i.map.icon
+      address
+        .street_address
+          small= daycare.address
+        .city_state_info
+          small="#{daycare.borough}, NY #{daycare.zipcode}"
+        .phone_number
+          small="#{daycare.phone}"
+      p.description
+        small
+          span="EST #{DateTime.now.year - daycare.years_operating} "
+          strong &middot;
+          span=" #{daycare.maximum_capacity} Capacity"
 
-  .image
-    .grade class="grade-#{daycare.grade}"= daycare.grade
-  .content
-    .header
-      =link_to(daycare.center_name, "/daycare/#{daycare.permalink}")
-      span.show_map
-        | &nbsp;
-        i.map.icon
-    .street_address
-      small= daycare.address
-    .city_state_info
-      small="#{daycare.borough}, NY #{daycare.zipcode}"
-    .phone_number
-      small="#{daycare.phone}"
-    p.description
-      small
-        span="EST #{DateTime.now.year - daycare.years_operating} "
-        strong &middot;
-        span=" #{daycare.maximum_capacity} Capacity"
-
-  - num_violations = 0
-  - num_violations = daycare.inspection.infractions.count if daycare.inspection
-  - if num_violations > 0
-    .violations
-      strong= "#{num_violations} violations"
-      .ui.list.violation-list
-        - daycare.inspection.infractions.each do |infraction|
-          .item.infraction[class="violation-#{infraction.multiplier}"]
-            - if infraction.short_description
-              = infraction.short_description
-            - else
-              = infraction.violation_summary
+      - num_violations = 0
+      - num_violations = daycare.inspection.infractions.count if daycare.inspection
+      - if num_violations > 0
+        .violations
+          strong= "#{num_violations} violations"
+          .ui.list.violation-list
+            - daycare.inspection.infractions.each do |infraction|
+              .item.infraction[class="violation-#{infraction.multiplier}"]
+                - if infraction.short_description
+                  = infraction.short_description
+                - else
+                  = infraction.violation_summary
 
   - if details
     .details
-      table.ui.definition.table
-        thead
-          tr
-            th
-            th
-            th
+      table.table
         tbody
           tr
             td Type

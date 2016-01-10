@@ -12,8 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require tether
+//= require bootstrap-sprockets
 
-//= require semantic_ui/semantic_ui
 //= require mapbox/mapbox-gl_v0.12.2
 //= require jquery/jquery.shorten
 //= require map

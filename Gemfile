@@ -1,10 +1,8 @@
 ruby '2.2.3'
 
-# source 'https://rails-assets.org' do
-#   # https://rails-assets.org/
-#   # gem 'rails-assets-foundation-sites'
-#   gem 'rails-assets-bootstrap'
-# end
+source 'https://rails-assets.org' do
+  gem 'rails-assets-tether', '>= 1.1.0'
+end
 
 source 'https://rubygems.org' do
   gem 'bundler', '>= 1.8.4'
@@ -12,7 +10,6 @@ source 'https://rubygems.org' do
   # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
   gem 'rails', '4.2.5'
 
-  gem 'pg'
   gem 'puma'
 
   gem 'mongoid', '~> 5.0.0'
@@ -20,9 +17,9 @@ source 'https://rubygems.org' do
 
   gem 'therubyracer'
 
-  # https://github.com/Semantic-Org/Semantic-UI-Rails-LESS
-  gem 'less-rails-semantic_ui', '~> 2.1.7'
-  gem 'autoprefixer-rails', '~> 6.2.1'
+  gem 'font-awesome-rails'
+  gem 'bootstrap', '~> 4.0.0.alpha3'
+  # gem 'autoprefixer-rails', '~> 6.2.1'
 
   # https://github.com/slim-template/slim-rails
   gem 'slim-rails'
@@ -60,7 +57,6 @@ source 'https://rubygems.org' do
   # https://github.com/amatsuda/kaminari
   gem 'kaminari'
   gem 'mongoid-pagination'
-
 
   group :production, :staging do
     gem 'rails_12factor'
