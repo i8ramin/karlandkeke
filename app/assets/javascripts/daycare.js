@@ -7,9 +7,5 @@ var _setup_map = function(points){
 };
 
 $(function(){
-  if (!mapboxgl.supported()) {
-    alert('Your browser does not support Mapbox GL');
-  } else {
-    _setup_map($(".daycare"));
-  }
+  _setup_map($(".daycare"));
 });

@@ -15,7 +15,8 @@
 
 @import "font-awesome";
 @import "bootstrap_and_overrides";
-@import "mapbox/mapbox-gl_v0.12.2";
+@import "mapbox/mapbox_v2.2.2";
+@import "leaflet/leaflet-locate";
 
 $masthead-height: 71px;
 $masthead-mobile-height: 179px;
