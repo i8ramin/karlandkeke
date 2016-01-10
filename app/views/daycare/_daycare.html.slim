@@ -38,6 +38,8 @@
           ul.violations-list
             - daycare.inspection.infractions.each do |infraction|
               li.violation[class="violation-#{infraction.multiplier}"]
+                span.label.label-info=infraction.oneword_category
+                span &nbsp;
                 - if infraction.short_description
                   = infraction.short_description
                 - else
