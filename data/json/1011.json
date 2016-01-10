@@ -1,28 +1,121 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "EAST HARLEM SCHOLARS ACADEMY PRESCHOOL ",
-  "permitHolder": "EAST HARLEM SCHOLARS ACADEMY CHARTER SCHOOL I I",
-  "address": "1573 Madison Avenue",
+  "type": "Child Care - Pre School",
+  "centerName": "EAST HARLEM BILINGUAL HEAD START ",
+  "permitHolder": "EAST HARLEM COUNCIL FOR HUMAN SERVICESINC",
+  "address": "440 EAST 116 STREET",
   "borough": "MANHATTAN",
   "zipCode": "10029",
-  "phone": "212-348-2518",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "phone": "212-427-9010",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4529",
+  "permitExpirationDate": " 10/26/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "maximumCapacity": "160",
+  "siteType": "ACS Head Start",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.793755834205,
-  "longitude": -73.949380406204
+  "numInspections": "12",
+  "pastInspections": [
+    {
+      "date": "01/12/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/07/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/06/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/01/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/24/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/01/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/09/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient number of toilets and sinks for the number of children in attendance",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.795576275712,
+  "longitude": -73.934433977815
 }

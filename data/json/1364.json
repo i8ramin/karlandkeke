@@ -1,14 +1,14 @@
 {
   "type": "Camp",
-  "centerName": "HAUP 21ST CENTURY HORIZONS YOUTH PROGRAM PS-241 ",
-  "permitHolder": "HAUP 21ST CENTURY HORIZONS YOUTH PROGRAM PS-241",
-  "address": "976 President Street",
-  "borough": "BROOKLYN",
-  "zipCode": "11225",
-  "phone": "917-480-0038",
+  "centerName": "HARLEM RBI REAL KIDS PS 38 ",
+  "permitHolder": "HARLEM RBI REAL KIDS PS 38",
+  "address": "232 EAST 103RD STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-722-1608",
   "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 01/15/2015",
+  "permitNumber": "34620",
+  "permitExpirationDate": " 05/31/2017",
   "ageRange": "",
   "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
@@ -16,7 +16,7 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/23/2013",
+    "date": "Inspection Date 07/31/2013",
     "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
     "numInfractions": "0",
     "infractions": [
@@ -24,7 +24,9 @@
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.669331834475,
-  "longitude": -73.960675297347
+  "pastInspections": [
+
+  ],
+  "latitude": 40.788944793319,
+  "longitude": -73.944537718596
 }

@@ -1,16 +1,16 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "LIL INVENTORS CHILD CARE ",
+  "type": "Universal Pre-K Half Day",
+  "centerName": "LIL INVENTORS ",
   "permitHolder": "2260 LITTLE SHEPHERDS LLC",
-  "address": "75 WEST 190 STREET",
+  "address": "2260 ANDREWS AVENUE",
   "borough": "BRONX",
   "zipCode": "10468",
-  "phone": "718-975-7225",
+  "phone": "718-295-2740",
   "permitStatus": " Permitted ",
-  "permitNumber": "96397",
-  "permitExpirationDate": " 09/04/2017",
+  "permitNumber": "94477",
+  "permitExpirationDate": " 08/06/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "52",
+  "maximumCapacity": "18",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.865042476209,
-  "longitude": -73.902820462101
+  "latitude": 40.860644231445,
+  "longitude": -73.908050886456
 }

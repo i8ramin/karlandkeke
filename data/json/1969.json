@@ -1,30 +1,312 @@
 {
-  "type": "Camp",
-  "centerName": "MORNINGSIDE CTR FOR TEACHING SOCIAL RESPONSIBILITY PS 24 ",
-  "permitHolder": "MORNINGSIDE CTR FOR TEACHING SOCIAL RESPONSIBILITY PS 24",
-  "address": "427 38TH ST",
-  "borough": "BROOKLYN",
-  "zipCode": "11232",
-  "phone": "718-832-9366",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 01/30/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "MORNINGSIDE DAY CARE ",
+  "permitHolder": "EPISCOPAL SOCIAL SERVICES",
+  "address": "2967 FREDERICK DOUGLAS BLVD",
+  "borough": "MANHATTAN",
+  "zipCode": "10039",
+  "phone": "212-281-4142",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6678",
+  "permitExpirationDate": " 04/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "55",
+  "siteType": "ACS Contracted Preschools",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "13 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 01/22/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "0",
+    "date": "Inspection Date 02/17/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4741 f",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.652694146506,
-  "longitude": -74.004742721725
+  "numInspections": "12",
+  "pastInspections": [
+    {
+      "date": "02/03/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "307",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/17/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service operating without a permit Permit expired",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4703 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "7",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service operating without a permit Permit expired",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4703 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Permittee failed to submit permit renewal application at least 90 days prior to permit expiration date",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4709 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service operating without a permit Permit expired",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4703 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Permittee failed to submit permit renewal application at least 90 days prior to permit expiration date",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4709 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4713 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4713 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/13/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.830254538561,
+  "longitude": -73.936484690286
 }

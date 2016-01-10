@@ -1,30 +1,133 @@
 {
-  "type": "Camp",
-  "centerName": "EDWARD BYRNE CENTER DAY CAMP ",
-  "permitHolder": "POLICE ATHLETIC LEAGUE INC",
-  "address": "116-25 Guy R Brewer Boulevard",
-  "borough": "QUEENS",
-  "zipCode": "11434",
-  "phone": "718-978-4655",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "33917",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "200",
-  "siteType": "Summer Day Camp",
+  "type": "Universal Pre-K Half Day",
+  "centerName": "EDUCATIONAL ALLIANCE HEAD START ",
+  "permitHolder": "THE EDUCATIONAL ALLIANCE INC",
+  "address": "333 EAST 4 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10009",
+  "phone": "646-395-4233",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7272",
+  "permitExpirationDate": " 02/26/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Head Start Direct Fed Funding",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
+  "yearsOperating": "9 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/31/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
-    "numInfractions": "0",
+    "date": "Inspection Date 02/19/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "4",
     "infractions": [
-
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4759 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4741 h",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4745 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "8121 a",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "4",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/29/2015 Result Initial Annual Inspection - Reinspection Required Fines pending /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required Fines pending/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateHealth Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4817p/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 08/06/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla2 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse2 idcollap2 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/24/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse2 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.686199618303,
-  "longitude": -73.784143967936
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "01/06/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4759 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4741 h",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4745 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/23/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4723 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/29/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4741 h",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.721901841855,
+  "longitude": -73.979263234815
 }

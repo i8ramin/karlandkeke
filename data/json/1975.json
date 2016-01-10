@@ -2,15 +2,15 @@
   "type": "School Based Child Care",
   "centerName": "MOSDOS CHASIDEI SQUARE ",
   "permitHolder": "MOSDOS CHASIDEI SQUARE",
-  "address": "105 HEYWARD STREET",
+  "address": "1373 43 STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11206",
-  "phone": "718-852-0502",
+  "zipCode": "11219",
+  "phone": "718-436-2550",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.701356408777,
-  "longitude": -73.956638656265
+  "latitude": 40.637501161911,
+  "longitude": -73.987155061813
 }

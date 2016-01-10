@@ -1,35 +1,349 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "BUMBLEBEES-R-US PRESCHOOL ",
-  "permitHolder": "BUMBLEBEES-R-US INC",
-  "address": "2734 VICTORY BLVD ",
+  "centerName": "BUMBLEBEES R US ",
+  "permitHolder": "BUMBLEBEES SI2 LLC",
+  "address": "443 TARGEE STREET",
   "borough": "STATEN ISLAND",
-  "zipCode": "10314",
-  "phone": "718-494-4448",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "8098",
-  "permitExpirationDate": " 12/07/2015",
+  "zipCode": "10304",
+  "phone": "718-727-2724",
+  "permitStatus": " Permitted ",
+  "permitNumber": "22037",
+  "permitExpirationDate": " 05/09/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "40",
+  "maximumCapacity": "35",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "6 ",
+  "yearsOperating": "4 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 06/25/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
-    "numInfractions": "1",
+    "date": "Inspection Date 11/25/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Not Required",
+    "numInfractions": "3",
     "infractions": [
       {
-        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "4759 b",
+        "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4761 f",
         " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4747 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4747 a",
+        " Status": "OPEN "
       }
     ]
   },
-  "numInspections": "9",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 06/02/2015 Result Initial Annual Inspection - Reinspection Required /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateFire extinguishers observed not to be inspected or maintained at time of inspection/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4759 b/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 05/26/2015 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result VISITnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla2 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse2 idcollap2 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 11/20/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse2 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla3 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse3 idcollap3 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 05/06/2014 Result Monitoring Inspection Non-Routine - Passed inspection with no violations /a /div div idcollapse3 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Monitoring Inspection Non-Routine - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla4 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse4 idcollap4 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 04/24/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse4 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla5 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse5 idcollap5 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 10/15/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse5 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla6 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse6 idcollap6 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 10/15/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse6 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result VISITnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla7 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse7 idcollap7 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 02/05/2013 Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection /a /div div idcollapse7 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateChild care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4719 c/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /div",
-  "latitude": 40.60897509781,
-  "longitude": -74.152683030677
+  "numInspections": "13",
+  "pastInspections": [
+    {
+      "date": "10/29/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4761 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4747 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4747 a",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "10/01/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4761 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4747 a",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "04/16/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/18/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Potentially hazardous foods observed out of required temperature ranges during periods of storage or display at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8109 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4723 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Outdoor play area was observed not maintained nor free of hazards or nuisances at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4747 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/31/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/19/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to submit a corrective action plan within five days when required corrective action plan not approved",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4721 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/09/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously closed program re-opened ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/07/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "8",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4713 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to submit a corrective action plan within five days when required corrective action plan not approved",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4721 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4713 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/07/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Program closed ",
+      "numViolations": "8",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4713 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to submit a corrective action plan within five days when required corrective action plan not approved",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4721 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4713 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.616132581468,
+  "longitude": -74.084738556153
 }

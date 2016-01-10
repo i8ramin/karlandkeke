@@ -1,28 +1,73 @@
 {
-  "type": "Camp",
-  "centerName": "GRYC/ PS/ IS 113 Q ",
-  "permitHolder": "THE GREATER RIDGEWOOD YOUTH COUNCIL",
-  "address": "78-23 87 STREET",
+  "type": "Child Care - Pre School",
+  "centerName": "GRYC LITTLE STARS PRE-SCHOOL ",
+  "permitHolder": "THE GREATER RIDGEWOOD YOUTH COUNCIL INC",
+  "address": "59-03 SUMMERFIELD STREET",
   "borough": "QUEENS",
   "zipCode": "11385",
   "phone": "718-456-5437",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "permitStatus": " Permitted ",
+  "permitNumber": "25877",
+  "permitExpirationDate": " 10/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "54",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "4 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 11/18/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.705508762502,
-  "longitude": -73.862207354104
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "01/13/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/10/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/13/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.699455407935,
+  "longitude": -73.897855076573
 }

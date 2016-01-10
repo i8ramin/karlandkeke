@@ -1,30 +1,85 @@
 {
-  "type": "Camp",
-  "centerName": "BEANSPROUTS DAY CAMP ",
-  "permitHolder": "BEANSPROUTS",
+  "type": "Child Care - Pre School",
+  "centerName": "BEANSPROUTS INC OF BROOKLYN ",
+  "permitHolder": "BEANSPROUTS INC OF BROOKLYN",
   "address": "506 6TH AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11215",
   "phone": "718-965-8573",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "86537",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7158",
+  "permitExpirationDate": " 09/29/2017",
+  "ageRange": "2 - 5",
   "maximumCapacity": "29",
-  "siteType": "Summer Day Camp",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "13 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/27/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 10/09/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Required smoke and carbon monoxide detectors not provided or maintained at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4759 g",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "09/04/2015",
+      "type": " Initial Annual Inspection",
+      "result": "No inspection conducted ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/28/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
   "latitude": 40.665717350644,
   "longitude": -73.985884393243
 }

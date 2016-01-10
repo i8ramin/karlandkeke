@@ -1,30 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "CATH CHARITIES COMM SERVS OF NY / ALIANZA DIVISION ",
-  "permitHolder": "CATH CHARITIES COMM SERVS OF NY / ALIANZA DIVISION",
-  "address": "515 W 182ND ST",
-  "borough": "MANHATTAN",
-  "zipCode": "10033",
-  "phone": "212-795-1490",
+  "centerName": "CASITA MARIA/MOTT HALL CHARTER SCHOOL ",
+  "permitHolder": "CASITA MARIA/MOTT HALL CHARTER SCHOOL",
+  "address": "1260 FRANKLIN AVE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 05/25/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 08/01/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "0",
-    "infractions": [
-
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
+  "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.848948557362,
-  "longitude": -73.931052149976
+  "latitude": 40.830988444133,
+  "longitude": -73.902704167174
 }

@@ -1,28 +1,57 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "BRIGHT START CHILD LEARNING CENTER INC ",
-  "permitHolder": "BRIGHT START CHILD LEARNING CENTER INC",
-  "address": "30-11 21 STREET ",
-  "borough": "QUEENS",
-  "zipCode": "11102",
-  "phone": "718-683-4502",
+  "centerName": "BRIGHT BEES DAY CARE CENTER INC ",
+  "permitHolder": "BRIGHT BEES DAY CARE CENTER INC",
+  "address": "335 PROSPECT AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-576-3919",
   "permitStatus": " Permitted ",
-  "permitNumber": "95897",
-  "permitExpirationDate": " 08/31/2017",
+  "permitNumber": "69737",
+  "permitExpirationDate": " 07/16/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "62",
+  "maximumCapacity": "12",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/03/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4741 f",
+        " Status": "CORRECTED"
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.769571395144,
-  "longitude": -73.928040668191
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "11/20/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/06/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.662160280097,
+  "longitude": -73.987265636095
 }

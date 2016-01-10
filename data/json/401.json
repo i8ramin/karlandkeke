@@ -1,16 +1,16 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BNOS YAKOV ",
+  "centerName": "BNOS YAKOV OF BOROUGH PARK ",
   "permitHolder": "YESHIVATH KEHILATH YAKOV",
-  "address": "274 KEAP STREET ",
+  "address": "1402 40TH STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11211",
+  "zipCode": "11218",
   "phone": "718-963-1212",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "176",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.706626122112,
-  "longitude": -73.955989594576
+  "latitude": 40.638502653751,
+  "longitude": -73.984315607733
 }

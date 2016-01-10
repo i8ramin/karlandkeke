@@ -1,28 +1,80 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "CONGREGATION MACHNA SHALVA ",
-  "permitHolder": "CONGREGATION MACHNA SHALVA",
-  "address": "4820 16 AVENUE",
+  "type": "Child Care - Pre School",
+  "centerName": "CONGREGATION BETH ELOHIM ECC ",
+  "permitHolder": "CONGREGATION BETH ELOHIM",
+  "address": "274 GARFIELD PLACE ",
   "borough": "BROOKLYN",
-  "zipCode": "11204",
-  "phone": "",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "zipCode": "11215",
+  "phone": "718-499-6208",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4892",
+  "permitExpirationDate": " 09/22/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "200",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "16 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 06/29/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.631432200158,
-  "longitude": -73.985109878483
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "11/07/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/03/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.670897445714,
+  "longitude": -73.974156620128
 }

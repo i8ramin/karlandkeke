@@ -1,30 +1,92 @@
 {
-  "type": "Camp",
-  "centerName": "OUR KIDS AFTERSCHOOL PROGRAM ",
-  "permitHolder": "JACOB A RIIS NEIGHBORHOOD SETTLEMENT HOUSE INC",
-  "address": "10-25 41ST AVE",
+  "type": "Child Care - Pre School",
+  "centerName": "OUR KIDS PLACE COUNTRY DAY INC ",
+  "permitHolder": "OUR KIDS PLACE COUNTRY DAY INC",
+  "address": "137-25 BROOKVILLE BLVD ",
   "borough": "QUEENS",
-  "zipCode": "11101",
-  "phone": "718-784-7447",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11422",
+  "phone": "718-276-3722",
+  "permitStatus": " Permitted ",
+  "permitNumber": "54337",
+  "permitExpirationDate": " 11/20/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "100",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "3 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/31/2014",
+    "date": "Inspection Date 08/18/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.75548110733,
-  "longitude": -73.945327287876
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "06/03/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/29/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/11/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8109 i",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8109 i",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/23/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.669139790502,
+  "longitude": -73.736428614177
 }

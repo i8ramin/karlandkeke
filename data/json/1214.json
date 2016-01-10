@@ -1,47 +1,45 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "GATEWAY CITY ACADEMY PRESCHOOL ",
-  "permitHolder": "NEW HOPE FELLOWSHIP INC",
-  "address": "257 BAY RIDGE AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11220",
-  "phone": "718-921-3737",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "GARDEN SCHOOL SUMMER PROGRAM ",
+  "permitHolder": "GARDEN SCHOOL INC",
+  "address": "33-16 79 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-335-6363",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34222",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "902",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 11/19/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
-    "numInfractions": "3",
+    "date": "Inspection Date 07/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4307",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4311 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "School-based child care program fails to maintain confidentiality of child records",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4317 e",
-        " Status": "CORRECTED"
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.636011048167,
-  "longitude": -74.026914316576
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.754783556409,
+  "longitude": -73.888082173494
 }

@@ -1,30 +1,80 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "BUTTERFLY CHILD CARE CENTER INC ",
-  "permitHolder": "BUTTERFLY CHILD CARE CENTER INC",
-  "address": "296 EAST 4 STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10009",
-  "phone": "212-477-1199",
+  "centerName": "BUSY BEACH DAY CARE CENTER - P/S ",
+  "permitHolder": "BUSY BEACH DAY CARE CENTER INC",
+  "address": "777 SEAVIEW AVENUE ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10305",
+  "phone": "718-667-2861",
   "permitStatus": " Permitted ",
-  "permitNumber": "96359",
-  "permitExpirationDate": " 09/03/2017",
+  "permitNumber": "5031",
+  "permitExpirationDate": " 11/06/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "57",
+  "maximumCapacity": "32",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "12 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/11/2015",
+    "date": "Inspection Date 11/19/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.72241258803,
-  "longitude": -73.980514939061
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "11/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/21/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/23/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/14/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.579494277339,
+  "longitude": -74.078251620154
 }

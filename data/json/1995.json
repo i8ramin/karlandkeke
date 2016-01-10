@@ -1,28 +1,59 @@
 {
-  "type": "Camp",
-  "centerName": "MS 80 ",
-  "permitHolder": "ABYSSINIAN DEVELOPMENT CORP",
-  "address": "149 EAST MOSHOLU PARKWAY NORTH",
+  "type": "Child Care - Pre School",
+  "centerName": "MS ELENAS SUNSHINE EARLY LEARNING CENTER ",
+  "permitHolder": "MS ELENAS SUNSHINE EARLY LEARNING CENTER INC",
+  "address": "3075 BAISLEY AVENUE",
   "borough": "BRONX",
-  "zipCode": "10467",
-  "phone": "",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10461",
+  "phone": "718-863-6470",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4806",
+  "permitExpirationDate": " 09/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "34 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 11/19/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.876292362148,
-  "longitude": -73.881530670472
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "04/14/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/03/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.836961185509,
+  "longitude": -73.826112894102
 }

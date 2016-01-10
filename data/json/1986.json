@@ -1,28 +1,59 @@
 {
-  "type": "Camp",
-  "centerName": "MOSHOLU-MONTEFIORE COMMUNITY CENTER INC ",
-  "permitHolder": "MOSHOLU-MONTEFIORE COMMUNITY CENTER INC",
-  "address": "3540 BIVONA STREET",
-  "borough": "BRONX",
-  "zipCode": "10475",
-  "phone": "",
-  "permitStatus": " Registered ",
+  "type": "School Based Child Care",
+  "centerName": "MOST HOLY REDEEMER CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "136-58 41 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11355",
+  "phone": "718-961-0246",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.883020147297,
-  "longitude": -73.833224826117
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "12/13/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/13/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.758657774754,
+  "longitude": -73.829054218898
 }

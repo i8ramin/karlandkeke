@@ -1,30 +1,91 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "COPO PRE-K ",
-  "permitHolder": "COUNCIL OF PEOPLES ORGANIZATION INC",
-  "address": "1083 CONEY ISLAND AVENUE",
+  "type": "School Based Child Care",
+  "centerName": "CONGREGATION OHR MENACHEM ",
+  "permitHolder": "CONGREGATION OHR MENACHEM",
+  "address": "1729 PRESIDENT STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11230",
-  "phone": "718-434-3266",
-  "permitStatus": " Permitted ",
-  "permitNumber": "72881",
-  "permitExpirationDate": " 09/03/2016",
+  "zipCode": "11213",
+  "phone": "718-778-8770",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "18",
+  "maximumCapacity": "0",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 03/27/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 06/04/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "9",
     "infractions": [
-
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "13105a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "13109d2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program fails to provide complete written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4321 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "513",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109e",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "OPEN "
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.631027511133,
-  "longitude": -73.96643348163
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "02/27/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.666931817162,
+  "longitude": -73.92971625137
 }

@@ -1,95 +1,243 @@
 {
-  "type": "Camp",
-  "centerName": "PIED PIPER SUMMER DAY CAMP ",
-  "permitHolder": "HARTLEY HOUSE",
-  "address": "413 WEST 46 STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10036",
-  "phone": "212-246-9885",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "33893",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "431",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "PLAY LEARN DAY CARE INC ",
+  "permitHolder": "PLAY AND LEARN DAY CARE INC",
+  "address": "66-06 70 ST",
+  "borough": "QUEENS",
+  "zipCode": "11379",
+  "phone": "718-894-0016",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7829",
+  "permitExpirationDate": " 01/15/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
+  "yearsOperating": "8 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/20/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
-    "numInfractions": "11",
+    "date": "Inspection Date 12/15/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "13105a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "307",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Facilty egress observed obstructed not protected from hazardous areas",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "4815a6",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "309",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Exits from areas with 15 or more persons or not readily visible are not identified by lighted signs and directional signs as required",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4815a15",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4815a16",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Camp equipment not maintained not of safe design or properly installed",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4815b",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Food service area in child care service not free of vermin and other pests Food prep area not free of pest harborage or conditions conducive to the presence of pests at time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "8123 a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Hand wash sink not provided in food prep area Hand wash sink observed not maintained at time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "8129 c",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "13109e",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "8119 ab",
-        " Status": "OPEN "
-      }
+
     ]
   },
-  "numInspections": "3",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 08/13/2014 Result Initial Annual Inspection - Reinspection Required /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateEach camper is not protected from unreasonable risk to health and safety physical and sexual abuse public health hazards/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4812ab1/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateEmergency lighting in halls stairs not provided where required/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4815a16/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateFloors in comercial building properly not constructed not maintained in good repair unclean/span/td td alignleft bgcolorFFFFFF idMinor violations General Violations titleThese are violations that do not pose a direct threat to children but must be corrected within a month by the day care provider to assure the optimal functioning of the child care service Child care services are expected to correct all violations The Department of Health and Mental Hygiene does not perform compliance inspections to determine if violations were corrected when there are no critical violations and fewer that six general violations observed at the time of an inspection stylecolor0088cc cursor pointer Minor violations General Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline13109e/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/24/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.761238585201,
-  "longitude": -73.991340119541
+  "numInspections": "15",
+  "pastInspections": [
+    {
+      "date": "10/08/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide separate adult lavatory facilities for staff Staff observed using lavatory facilities designated for childrens use",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/21/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide separate adult lavatory facilities for staff Staff observed using lavatory facilities designated for childrens use",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/26/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/11/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/11/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/24/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Food served is determined not to be from an approved source or in compliance with federal state and/or local requirements at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8107 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/15/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4723 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At the time child care service was providing care it has been determined that the child care service failed to limit areas used by children to their exclusive use Unauthorized children and/or adults allowed to inhabit child care service facilities during child care hours",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4739 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4723 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At the time child care service was providing care it has been determined that the child care service failed to limit areas used by children to their exclusive use Unauthorized children and/or adults allowed to inhabit child care service facilities during child care hours",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4739 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/28/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/09/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.71443800811,
+  "longitude": -73.885080412837
 }

@@ -1,22 +1,22 @@
 {
   "type": "Camp",
-  "centerName": "HARLEM CHILDRENS ZONE INC BEACON 54 ",
-  "permitHolder": "HARLEM CHILDRENS ZONE INC BEACON 54",
-  "address": "103 WEST 107TH ST",
+  "centerName": "HARLEM CHILDRENS ZONE AFTER-SCHOOL PS 242M ",
+  "permitHolder": "HARLEM CHILDRENS ZONE AFTER-SCHOOL PS 242M",
+  "address": "134 WEST 122ND STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10025",
-  "phone": "212-866-0700",
+  "zipCode": "10027",
+  "phone": "212-678-2908",
   "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitNumber": "33997",
+  "permitExpirationDate": " 10/10/2015",
   "ageRange": "",
-  "maximumCapacity": "",
+  "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/24/2013",
+    "date": "Inspection Date 07/12/2013",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
@@ -24,7 +24,9 @@
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.800112327894,
-  "longitude": -73.962837120948
+  "pastInspections": [
+
+  ],
+  "latitude": 40.806293234541,
+  "longitude": -73.948012632019
 }

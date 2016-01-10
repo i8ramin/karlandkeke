@@ -1,10 +1,10 @@
 {
   "type": "Camp",
-  "centerName": "OST PS 273 ",
-  "permitHolder": "CHILD CENTER OF NY",
-  "address": "88-07 102 STREET",
+  "centerName": "OST 96 DYCD ",
+  "permitHolder": "OST 96 DYCD",
+  "address": "130-01 ROCKAWAY BLVD",
   "borough": "QUEENS",
-  "zipCode": "11418",
+  "zipCode": "11420",
   "phone": "",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.693598668362,
-  "longitude": -73.844630608564
+  "latitude": 40.674983583399,
+  "longitude": -73.808370703052
 }

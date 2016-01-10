@@ -1,59 +1,59 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "KINGS BAY YM-YWHA INC ",
-  "permitHolder": "KINGS BAY YM-YWHA INC",
+  "type": "Camp",
+  "centerName": "KINGS BAY YM-YWHA WINDSOR TERRACE ",
+  "permitHolder": "KINGS BAY YM-YMHA INC",
   "address": "1224 PROSPECT AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11218",
   "phone": "718-407-6377",
-  "permitStatus": " Permitted ",
-  "permitNumber": "96378",
-  "permitExpirationDate": " 09/03/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "44",
-  "siteType": "Corporate",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33885",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "60",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 11/24/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "5",
+    "date": "Inspection Date 07/20/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4723 e",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4741 i",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection proper diaper changing area sanitary procedures are not being employed",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4743 h2",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined that child care service failed to maintain childrens daily attendance records",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4727 a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Appropriate sanitary receptacle and disinfectant not provided in diaper changing area at time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4743 h3",
-        " Status": "OPEN "
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "07/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
   "latitude": 40.653246216686,
   "longitude": -73.976192492136
 }

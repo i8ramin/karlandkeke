@@ -1,25 +1,31 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "KIDS CANVAS ",
-  "permitHolder": "KIDS CANVAS INC",
-  "address": "1433 DEKALB AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11237",
-  "phone": "718-406-4100",
+  "centerName": "KIDS TIME DCINC ",
+  "permitHolder": "ABC THERAPIES SLPOTPTPSYCHOLOGY CHIROPRACTIC PLLC/KIDS TIME DAY CARE INC",
+  "address": "42-75 65 PLACE",
+  "borough": "QUEENS",
+  "zipCode": "11377",
+  "phone": "718-429-2000",
   "permitStatus": " Permitted ",
-  "permitNumber": "85677",
-  "permitExpirationDate": " 04/17/2017",
+  "permitNumber": "10457",
+  "permitExpirationDate": " 12/22/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "31",
+  "maximumCapacity": "71",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "5 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 10/01/2015",
+    "date": "Inspection Date 11/30/2015",
     "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "2",
+    "numInfractions": "3",
     "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
       {
         "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
@@ -34,8 +40,135 @@
       }
     ]
   },
-  "numInspections": "3",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 09/17/2015 Result Initial Annual Inspection - Reinspection Not Required /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Not Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateAt time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep/span/td td alignleft bgcolorFFFFFF idMinor violations General Violations titleThese are violations that do not pose a direct threat to children but must be corrected within a month by the day care provider to assure the optimal functioning of the child care service Child care services are expected to correct all violations The Department of Health and Mental Hygiene does not perform compliance inspections to determine if violations were corrected when there are no critical violations and fewer that six general violations observed at the time of an inspection stylecolor0088cc cursor pointer Minor violations General Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline8109 i/a/td td alignleft bgcolorFFFFFF classcenterOPEN /td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 01/09/2014 Result /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.700347978119,
-  "longitude": -73.923131520572
+  "numInspections": "11",
+  "pastInspections": [
+    {
+      "date": "09/10/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/16/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737b2",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4713 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737b2",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/15/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.742203741049,
+  "longitude": -73.899323005985
 }

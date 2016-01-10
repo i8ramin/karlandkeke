@@ -1,28 +1,90 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "CLEVELAND EDUCATIONAL SERVICES ",
-  "permitHolder": "CLEVELAND EDUCATIONAL SERVICES",
-  "address": "2-08 ASTORIA BLVD",
-  "borough": "QUEENS",
-  "zipCode": "11102",
-  "phone": "917-832-6506",
+  "centerName": "CITY OF FAITH CHRISTIAN ACADEMY ",
+  "permitHolder": "CITY OF FAITH CHURCH OF GOD INC",
+  "address": "3453 WHITEPLAINS ROAD",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-798-3052",
   "permitStatus": " Permitted ",
-  "permitNumber": "73098",
-  "permitExpirationDate": " 09/08/2016",
+  "permitNumber": "6416",
+  "permitExpirationDate": " 08/30/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "59",
+  "maximumCapacity": "29",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": "false",
+  "yearsOperating": "13 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4737 b1",
+        " Status": "CORRECTED"
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.773663100302,
-  "longitude": -73.936087566188
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "04/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/05/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/20/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/22/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.87623804119,
+  "longitude": -73.866997827231
 }

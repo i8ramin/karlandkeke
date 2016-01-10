@@ -1,28 +1,94 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BRIGHT BEGINNINGS EARLY LEARNING CENTER ",
-  "permitHolder": "SIDI INC",
-  "address": "2160 EAST TREMONT AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10462",
-  "phone": "718-822-2586",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BRIGHT BEGINNINGS IN QUEENS VILLAGE INC ",
+  "permitHolder": "BRIGHT BEGINNINGS IN QUEENS VILLAGE INFANT TODDLER",
+  "address": "80-45 WINCHESTER BOULEVARD ",
+  "borough": "QUEENS",
+  "zipCode": "11427",
+  "phone": "718-264-3860",
   "permitStatus": " Permitted ",
-  "permitNumber": "98297",
-  "permitExpirationDate": " 10/08/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "57",
+  "permitNumber": "5890",
+  "permitExpirationDate": " 07/20/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "18",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": "false",
+  "yearsOperating": "23 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 05/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.842143537929,
-  "longitude": -73.856086318505
+  "numInspections": "10",
+  "pastInspections": [
+    {
+      "date": "04/21/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/19/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/26/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.737676960146,
+  "longitude": -73.734020206214
 }

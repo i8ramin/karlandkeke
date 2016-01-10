@@ -1,30 +1,136 @@
 {
-  "type": "Camp",
-  "centerName": "BUTTER BEANS FOOD GARDEN SUMMER CAMP ",
-  "permitHolder": "BUTTER BEANS WELLNESS INC",
-  "address": "324 WEST 15 STREET ",
-  "borough": "MANHATTAN",
-  "zipCode": "10011",
-  "phone": "646-469-6529",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "92458",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "25",
-  "siteType": "Summer Day Camp",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "type": "Child Care - Pre School",
+  "centerName": "BUSHWICK UNITED HEAD START ",
+  "permitHolder": "BUSHWICK UNITED HOUSING DEVELOPMENT FUND CORPORATION INC",
+  "address": "741 FLUSHING AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11206",
+  "phone": "347-497-3676",
+  "permitStatus": " Permitted ",
+  "permitNumber": "23718",
+  "permitExpirationDate": " 10/01/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "72",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "4 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/28/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 07/27/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Passed inspection Violations corrected at time of inspection",
+    "numInfractions": "2",
     "infractions": [
-
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sanitization equipment not properly maintained at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "8137 e",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.741616516946,
-  "longitude": -74.0048356853
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "07/10/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/16/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Designated outdoor play area was observed without fencing of appropriate height at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4747 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Sanitization equipment not properly maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8137 e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Designated outdoor play area was observed without fencing of appropriate height at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4747 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Inadequate temperature of final rinse observed resulting in lack of sanitization of required dishware",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8137 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.70059562892,
+  "longitude": -73.943003007023
 }

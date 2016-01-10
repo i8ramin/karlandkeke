@@ -1,47 +1,57 @@
 {
   "type": "Camp",
-  "centerName": "KIDS IN THE GAME SUMMER CAMP ",
+  "centerName": "KIDS IN THE GAME ",
   "permitHolder": "KIDS IN THE GAME LLC",
-  "address": "147 WEST 70TH STREET ",
+  "address": "620 ISHAM STREET ",
   "borough": "MANHATTAN",
-  "zipCode": "10023",
-  "phone": "917-536-7233",
+  "zipCode": "10034",
+  "phone": "347-289-8047",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "91543",
+  "permitNumber": "45077",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "100",
+  "maximumCapacity": "72",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/27/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
-    "numInfractions": "3",
+    "date": "Inspection Date 07/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "1",
     "infractions": [
       {
-        "Violation Summary ": "All windows except fire escape and emergency access windows not provided with guards in camps with children less than 10 years of age",
+        "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
         "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "4815d5",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "8109 i",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "8119 ab",
+        "Code Sub-Section": "4817p",
         " Status": "CORRECTED"
       }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.776558538009,
-  "longitude": -73.980813158391
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.869192341752,
+  "longitude": -73.920458854876
 }

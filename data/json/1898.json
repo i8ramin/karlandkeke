@@ -1,28 +1,38 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "MAVAKSHEI HASHEM ",
-  "permitHolder": "CONGMISHKAN YEIHESKEL",
-  "address": "3918 16TH AVENUE",
+  "type": "Camp",
+  "centerName": "MBBC ",
+  "permitHolder": "NASH JEW - NEW AMERICANS SELF HELP JEWICH EDUCATION WORLD INC",
+  "address": "330 NEPTUNE AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11218",
-  "phone": "718-435-8900",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "zipCode": "11235",
+  "phone": "718-891-1111",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "68397",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "80",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.636481796589,
-  "longitude": -73.979855554412
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.580833230095,
+  "longitude": -73.965177205976
 }

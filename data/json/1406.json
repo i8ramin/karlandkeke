@@ -1,30 +1,297 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "HIGHLAND ACADEMICS A DIVISON OF 82ND STREET ACADEMICS ",
-  "permitHolder": "82ND STREET ACADEMICS",
-  "address": "162-10 HIGHLAND AVENUE ",
-  "borough": "QUEENS",
-  "zipCode": "11432",
-  "phone": "718-457-0429",
+  "centerName": "HIGHBRIDGE ADVISORY COUNCIL MARSHALL ENGLAND EARLY LEARNING CENTER ",
+  "permitHolder": "HIGHBRIDGE ADVISORY COUNCIL FAMILY SERVICES INC",
+  "address": "800 CONCOURSE VILLAGE EAST",
+  "borough": "BRONX",
+  "zipCode": "10451",
+  "phone": "718-742-2367",
   "permitStatus": " Permitted ",
-  "permitNumber": "72986",
-  "permitExpirationDate": " 09/05/2016",
+  "permitNumber": "7381",
+  "permitExpirationDate": " 06/29/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "104",
-  "siteType": "Corporate",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "maximumCapacity": "165",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "12 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 09/22/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 08/17/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 02/23/2015 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.709870679933,
-  "longitude": -73.800872056548
+  "numInspections": "14",
+  "pastInspections": [
+    {
+      "date": "06/04/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4745 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4747 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/24/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4745 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4747 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/27/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/26/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/23/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/01/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4719 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/23/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/23/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/04/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4747 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4747 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.823873262548,
+  "longitude": -73.919378690884
 }

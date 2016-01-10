@@ -1,35 +1,94 @@
 {
-  "type": "Camp",
-  "centerName": "JUGUEMOS A CANTAR SUMMER CAMP ",
-  "permitHolder": "JUGUEMOS A CANTAR LLC",
-  "address": "299 NORTH 7 STREET ",
-  "borough": "BROOKLYN",
-  "zipCode": "11211",
-  "phone": "917-453-1187",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "92137",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "80",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "JUDIS NURSERY ",
+  "permitHolder": "JUDIS NURSERY",
+  "address": "70-11 150 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11367",
+  "phone": "718-520-1324",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6958",
+  "permitExpirationDate": " 07/06/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "110",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "13 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/23/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
-    "numInfractions": "1",
+    "date": "Inspection Date 10/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4809i",
-        " Status": "OPEN "
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.714872954726,
-  "longitude": -73.952964845493
+  "numInspections": "10",
+  "pastInspections": [
+    {
+      "date": "07/01/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/29/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/28/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/11/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/18/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.730362646041,
+  "longitude": -73.818768184387
 }

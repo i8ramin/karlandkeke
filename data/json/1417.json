@@ -1,28 +1,43 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "HOLY FAMILY SCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK CHURCH OF THE HOLY FAMILY",
-  "address": "2169 BLACKROCK AVENUE",
+  "type": "School Based Child Care",
+  "centerName": "HOLY CROSS SCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-HOLY CROSS CHURCH",
+  "address": "1846 RANDALL AVENUE",
   "borough": "BRONX",
-  "zipCode": "10472",
-  "phone": "718-863-7280",
+  "zipCode": "10473",
+  "phone": "718-842-4492",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "49",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 01/09/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Reinspection Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "513",
+        " Status": "CORRECTED"
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.828905279755,
-  "longitude": -73.851482583305
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "10/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.817298307301,
+  "longitude": -73.860688825649
 }

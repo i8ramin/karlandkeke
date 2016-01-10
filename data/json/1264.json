@@ -1,14 +1,14 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL PS 40 ",
-  "permitHolder": "GOODWILL PS 40",
-  "address": "109-20 UNION HALL ST",
-  "borough": "QUEENS",
-  "zipCode": "11433",
-  "phone": "718-523-0801",
+  "centerName": "GOOD SHEPHERD SERVICES PS 32 ",
+  "permitHolder": "GOOD SHEPHERD SERVICES PS 32",
+  "address": "317 HOYT ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11231",
+  "phone": "212-625-5876",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 12/27/2015",
+  "permitExpirationDate": " N/A",
   "ageRange": "",
   "maximumCapacity": "",
   "siteType": "Summer Day Camp",
@@ -16,7 +16,7 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/18/2013",
+    "date": "Inspection Date 07/05/2013",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
@@ -24,7 +24,9 @@
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.694116699381,
-  "longitude": -73.790674218597
+  "pastInspections": [
+
+  ],
+  "latitude": 40.68043817359,
+  "longitude": -73.991949148495
 }

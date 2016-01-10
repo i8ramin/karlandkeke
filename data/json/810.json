@@ -1,30 +1,187 @@
 {
-  "type": "Camp",
-  "centerName": "CHINESE-AMERICAN PLANNING COUNCIL PIKE STREET PS 2 ",
-  "permitHolder": "CHINESE-AMERICAN PLANNING COUNCIL PIKE STREET PS 2",
-  "address": "122 HENRY STREET",
+  "type": "Child Care - Pre School",
+  "centerName": "CHINATOWN DAY CARE CENTER ",
+  "permitHolder": "CHINATOWN DAY CARE CENTER INC",
+  "address": "35-37 1/2 DIVISION STREET",
   "borough": "MANHATTAN",
   "zipCode": "10002",
-  "phone": "212-587-0912",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 04/15/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "phone": "212-431-3845",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4914",
+  "permitExpirationDate": " 05/23/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "160",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "11 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/08/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "0",
+    "date": "Inspection Date 01/04/2016",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "3",
     "infractions": [
-
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide sufficient number of toilets and sinks for the number of children in attendance",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4743 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Designated outdoor play area was observed without fencing of appropriate height at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4747 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.71326560434,
-  "longitude": -73.991339161985
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "12/08/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient number of toilets and sinks for the number of children in attendance",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Designated outdoor play area was observed without fencing of appropriate height at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4747 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8119 ab",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Daily cleaning not conducted by child care service Wiping cloths not maintained sanitized at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8137 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8119 ab",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/11/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Windows excluding fire escape windows in a child care service observed without window guards in a child care service",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Outdoor play area was observed not maintained nor free of hazards or nuisances at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4747 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Sewage lines observed not maintained at time of inspection Food prep drains observed directly connected to sewer at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8121 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "11/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Windows excluding fire escape windows in a child care service observed without window guards in a child care service",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Outdoor play area was observed not maintained nor free of hazards or nuisances at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4747 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Sewage lines observed not maintained at time of inspection Food prep drains observed directly connected to sewer at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8121 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
 }

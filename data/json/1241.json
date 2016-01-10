@@ -1,30 +1,74 @@
 {
-  "type": "Camp",
-  "centerName": "GODDARD RIVERSIDE COMMUNITY CENTER SUMMER DAY CAMP ",
-  "permitHolder": "GODDARD RIVERSIDE COMMUNITY CENTER",
-  "address": "647 COLUMBUS AVENUE",
-  "borough": "MANHATTAN",
-  "zipCode": "10025",
-  "phone": "212-799-9400",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "33683",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "145",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "GLORIOUS AND GIFTED EARLY CHILDHOOD CENTER INC ",
+  "permitHolder": "GLORIOUS AND GIFTED EARLY CHILDHOOD CENTER INC",
+  "address": "421 THROOP AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-484-0954",
+  "permitStatus": " Permitted ",
+  "permitNumber": "91221",
+  "permitExpirationDate": " 06/24/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "24",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
+  "yearsOperating": "1",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/15/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 12/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4759 d",
+        " Status": "OPEN "
+      }
     ]
   },
-  "numInspections": "3",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/14/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateChild care service/camp fails to comply with terms of the permit/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline513/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 08/09/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateChild care service/camp fails to comply with terms of the permit/span/td td alignleft bgcolorFFFFFF idViolations requiring correction within two weeks Critical Violations titleWhile these violations do not pose an imminent risk to the health and safety of children they are serious and must be corrected by the provider within two weeks The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring correction within two weeks Critical Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline513/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /div",
-  "latitude": 40.789920330615,
-  "longitude": -73.969650224833
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "11/16/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4719 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection childrens medical files were not provided were incomplete or were not maintained",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4725 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.68845500309,
+  "longitude": -73.94201821487
 }

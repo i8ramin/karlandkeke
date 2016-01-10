@@ -24,7 +24,9 @@
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
+  "pastInspections": [
+
+  ],
   "latitude": 40.767797055683,
   "longitude": -73.773167148638
 }

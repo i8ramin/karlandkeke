@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF TRUST AT OUR LADY OF MIRACLES ",
+  "centerName": "OUR LADY OF TRUST CATHOLOIC ACADEMY ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "744 East 87 Street",
+  "address": "1696 CANARSIE ROAD",
   "borough": "BROOKLYN",
   "zipCode": "11236",
-  "phone": "",
+  "phone": "718-241-6633",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.639840236854,
-  "longitude": -73.909332788153
+  "latitude": 40.631867449624,
+  "longitude": -73.891337041068
 }

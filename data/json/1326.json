@@ -1,30 +1,139 @@
 {
-  "type": "Camp",
-  "centerName": "HANAC INC PS 212 ",
-  "permitHolder": "HANAC INC PS 212",
-  "address": "34-25 82ND STREET",
+  "type": "Child Care - Pre School",
+  "centerName": "HAN-I PRESCHOOL ",
+  "permitHolder": "HAN-I INC",
+  "address": "198-18 32ND ROAD",
   "borough": "QUEENS",
-  "zipCode": "11372",
-  "phone": "718-898-6973",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 04/02/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11358",
+  "phone": "718-358-3377",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7965",
+  "permitExpirationDate": " 11/26/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "23",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "8 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 06/20/2013",
+    "date": "Inspection Date 11/05/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.753070426963,
-  "longitude": -73.884905228704
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "03/10/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/23/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/20/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737b2",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/23/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4723 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4723 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.768453790533,
+  "longitude": -73.790898163608
 }

@@ -1,5 +1,5 @@
 {
-  "type": "Child Care - Pre School",
+  "type": "Child Care - Infants/Toddlers",
   "centerName": "KA OF STATEN ISLAND -GREAT KILLS ",
   "permitHolder": "BEGINNING STEPS TO SUCCESS INC",
   "address": "125 GREAVES LANE ",
@@ -7,25 +7,19 @@
   "zipCode": "10308",
   "phone": "718-984-1919",
   "permitStatus": " Permitted ",
-  "permitNumber": "95317",
+  "permitNumber": "95377",
   "permitExpirationDate": " 08/24/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "109",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
   "hasInspections": "true",
   "latestInspection": {
     "date": "Inspection Date 08/05/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
-    "numInfractions": "6",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "3",
     "infractions": [
-      {
-        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "4759 b",
-        " Status": "CORRECTED"
-      },
       {
         "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
@@ -43,23 +37,13 @@
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
         "Code Sub-Section": "4759 a",
         " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "8115 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4747 a",
-        " Status": "CORRECTED"
       }
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
+  "pastInspections": [
+
+  ],
   "latitude": 40.553974953115,
   "longitude": -74.144211819604
 }

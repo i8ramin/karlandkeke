@@ -1,28 +1,59 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "OHOLEI TORAH EDUCATIONAL INSTITUTE ",
-  "permitHolder": "OHOLEI TORAH",
-  "address": "667 EASTERN PKWY ",
+  "type": "Child Care - Pre School",
+  "centerName": "OKIE DOKIE INC ",
+  "permitHolder": "OKIE DOKIE INC",
+  "address": "1002 65 STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11213",
-  "phone": "718-778-3340",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "zipCode": "11219",
+  "phone": "718-680-2618",
+  "permitStatus": " Permitted ",
+  "permitNumber": "79377",
+  "permitExpirationDate": " 01/15/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "59",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 06/04/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.669627891448,
-  "longitude": -73.946227040005
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "05/19/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/05/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/22/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/12/2015",
+      "type": " ",
+      "result": "",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.629742118082,
+  "longitude": -74.007770911084
 }

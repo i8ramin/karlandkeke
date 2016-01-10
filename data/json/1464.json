@@ -1,30 +1,73 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "IDEAL MONTESSORI ",
-  "permitHolder": "IDEAL MONTESSORI",
-  "address": "87-41 165 STREET",
+  "type": "Child Care - Pre School",
+  "centerName": "ICCD ",
+  "permitHolder": "INTERDISCIPLINARY CENTER FOR CHILD DEVELOPMENT INC",
+  "address": "98-02 62 DRIVE",
   "borough": "QUEENS",
-  "zipCode": "11432",
-  "phone": "718-523-6237",
-  "permitStatus": " Active ",
-  "permitNumber": "5006",
-  "permitExpirationDate": " 11/19/2009",
+  "zipCode": "11374",
+  "phone": "718-263-1587",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5313",
+  "permitExpirationDate": " 08/31/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "36",
+  "maximumCapacity": "147",
   "siteType": "Private",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "12 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/07/2015",
+    "date": "Inspection Date 11/18/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.709473087311,
-  "longitude": -73.797962413565
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "03/04/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/09/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/21/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/03/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.733068608925,
+  "longitude": -73.859613536619
 }

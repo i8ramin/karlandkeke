@@ -1,30 +1,32 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "Harlem Link Preschool ",
-  "permitHolder": "HARLEM LINK CHARTER SCHOOL",
-  "address": "20 WEST 112 STREET",
+  "type": "Camp",
+  "centerName": "HARLEM CHILDRENS ZONE/PS 197 ",
+  "permitHolder": "HARLEM CHILDRENS ZONE/PS 197",
+  "address": "2230 FIFTH AVENUE",
   "borough": "MANHATTAN",
-  "zipCode": "10026",
-  "phone": "212-289-3249",
-  "permitStatus": " Active ",
+  "zipCode": "10037",
+  "phone": "212-234-6200",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "permitExpirationDate": " 07/06/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/02/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "date": "Inspection Date 07/24/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 11/13/2015 Result Initial Annual Inspection - Inspection pending /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Inspection pending/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.798504193657,
-  "longitude": -73.949250367964
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.813177209521,
+  "longitude": -73.937321114851
 }

@@ -1,53 +1,158 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "MARY QUEEN OF HEAVEN SCHOOL ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "1326 EAST 57 STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11234",
-  "phone": "718-763-2360",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "type": "Child Care - Pre School",
+  "centerName": "MARY WALTON CHILDRENS CENTER ",
+  "permitHolder": "BETHANY DAY NURSERY INC",
+  "address": "224 WEST 152 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10039",
+  "phone": "212-283-4242",
+  "permitStatus": " Permitted ",
+  "permitNumber": "1637",
+  "permitExpirationDate": " 01/23/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "",
-  "siteType": "Corporate",
+  "maximumCapacity": "60",
+  "siteType": "ACS Contracted Preschools",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "13 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/17/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 05/07/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
     "numInfractions": "4",
     "infractions": [
       {
-        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "13105a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "4313",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+        "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4317 a1",
-        " Status": "OPEN "
+        "Code Sub-Section": "4741 i",
+        " Status": "CORRECTED"
       },
       {
-        "Violation Summary ": "Children enrolled in school-based child care program have not received age appropriate immunizations",
+        "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4317 a2",
-        " Status": "OPEN "
+        "Code Sub-Section": "4749 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4757 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4759 a",
+        " Status": "CORRECTED"
       }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.620961543891,
-  "longitude": -73.920316343459
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "04/01/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "Adulterated food observed being served Food contact surfaces observed not manufactured as required Food is not protected from cross contamination at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8107 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4741 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/09/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.826376387479,
+  "longitude": -73.936788313298
 }

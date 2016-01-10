@@ -1,30 +1,32 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "EPISCOPAL SOCIAL SERVICES EARLY HEAD START ",
-  "permitHolder": "EPISCOPAL SOCIAL SERVICES",
-  "address": "500 BERGEN AVENUE ",
-  "borough": "BRONX",
-  "zipCode": "10455",
-  "phone": "718-401-5192",
-  "permitStatus": " Permitted ",
-  "permitNumber": "7637",
-  "permitExpirationDate": " 09/08/2016",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "36",
-  "siteType": "Head Start Direct Fed Funding",
-  "certifiedToAdministerMedication": "Yes",
-  "yearsOperating": "9 ",
+  "type": "School Based Child Care",
+  "centerName": "EPIPHANY LUTHERAN SCHOOL ",
+  "permitHolder": "EPIPHANY LUTHERAN SCHOOL",
+  "address": "721 LINCOLN PLACE",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "718-773-7200",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 09/18/2014",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 08/24/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "3",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 11/26/2013 Result Initial Annual Inspection - Reinspection Required /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result VISITnbsp-Initial Annual Inspection - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateChild care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4719 c/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateAt time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records/span/td td alignleft bgcolorFFFFFF idMinor violations General Violations titleThese are violations that do not pose a direct threat to children but must be corrected within a month by the day care provider to assure the optimal functioning of the child care service Child care services are expected to correct all violations The Department of Health and Mental Hygiene does not perform compliance inspections to determine if violations were corrected when there are no critical violations and fewer that six general violations observed at the time of an inspection stylecolor0088cc cursor pointer Minor violations General Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4737 b1/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 04/09/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateInfant toddler staff allows infants to sleep in other than safe sleep environment fail to move infant to safe sleep environment when required more than one infant observed sleeping in a single crib or bassinet/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4767f3/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /div",
-  "latitude": 40.814869693518,
-  "longitude": -73.918233572959
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.670854770373,
+  "longitude": -73.952347129155
 }

@@ -1,28 +1,106 @@
 {
-  "type": "Camp",
-  "centerName": "GREATER RIDGEWOOD YTH COUNCIL IS 93 ",
-  "permitHolder": "GREATER RIDGEWOOD YTH COUNCIL IS 93",
-  "address": "66-56 FOREST AVE",
-  "borough": "QUEENS",
-  "zipCode": "11385",
-  "phone": "718-456-5437",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "GREAT BEGINNINGS INFANT/TODDLER CENTER ",
+  "permitHolder": "BJB OF NEW YORK INC",
+  "address": "2221 RICHMOND AVENUE ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "718-983-0014",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5736",
+  "permitExpirationDate": " 06/20/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "24",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "11 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 06/02/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.706033254409,
-  "longitude": -73.902584279289
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "05/22/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/20/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/20/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/26/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/26/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.592640169393,
+  "longitude": -74.163123411322
 }

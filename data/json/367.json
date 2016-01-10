@@ -1,30 +1,146 @@
 {
-  "type": "Camp",
-  "centerName": "BKLYN CHINESE AMERICAN ASSOC PS 160 ",
-  "permitHolder": "BKLYN CHINESE AMERICAN ASSOC PS 160",
-  "address": "5105 FT HAMILTON PKWY",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "BLAKE-MILFORD DAY CARE CENTER-I/T ",
+  "permitHolder": "CHRISTINA DAY CARE INC",
+  "address": "334 MILFORD STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "718-438-0008",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 06/12/2015",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "zipCode": "11208",
+  "phone": "718-277-2003",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7709",
+  "permitExpirationDate": " 01/22/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "14",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "9 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 03/20/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 11/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.637315234233,
-  "longitude": -73.999214533329
+  "numInspections": "11",
+  "pastInspections": [
+    {
+      "date": "06/24/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/29/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Safe sleep environment not provided in infant toddler service safe sleep environment does not comply with US CPSC and ASTM standards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4767f1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service staff fails to place infant in supine position for sleep when required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4767f2",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/25/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/28/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/13/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.671053111373,
+  "longitude": -73.876233348513
 }

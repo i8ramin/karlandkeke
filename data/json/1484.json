@@ -1,28 +1,100 @@
 {
-  "type": "Camp",
-  "centerName": "IMMANUEL GENIUS SUMMER CAMP ",
-  "permitHolder": "IMMANUEL NY MISSION INC",
-  "address": "253-01 NORTHERN BLVD ",
+  "type": "Child Care - Pre School",
+  "centerName": "IMMANUEL GENIUS EDUCATIONAL CENTER ",
+  "permitHolder": "IMMANUEL INC",
+  "address": "213-03 NORTHERN BLVD ",
   "borough": "QUEENS",
-  "zipCode": "11362",
-  "phone": "718-877-3001",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "89397",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "35",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11361",
+  "phone": "718-819-0190",
+  "permitStatus": " Permitted ",
+  "permitNumber": "8192",
+  "permitExpirationDate": " 06/04/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "66",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": "false",
+  "yearsOperating": "6 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/30/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.770779379223,
-  "longitude": -73.735407434151
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "11/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/06/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/13/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/27/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/28/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/28/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.760116634552,
+  "longitude": -73.770125127455
 }

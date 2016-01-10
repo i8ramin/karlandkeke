@@ -1,28 +1,52 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "OUR LADY OF HELP OF CHRISTIAN PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF HELP OF CHRISTIANS",
-  "address": "7392 AMBOY ROAD",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10307",
-  "phone": "718-984-1360",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "type": "Camp",
+  "centerName": "OUR LADY OF HOPE ",
+  "permitHolder": "SENSATIONAL KIDS INC",
+  "address": "61-21 71 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11379",
+  "phone": "718-386-1962",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34531",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "189",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.510255911069,
-  "longitude": -74.24303405235
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.720719747057,
+  "longitude": -73.886793966287
 }

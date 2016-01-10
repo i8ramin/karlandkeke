@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF SORROWS ",
+  "centerName": "OUR LADY OF THE ANGELUS ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "35-34 105TH STREET",
+  "address": "98-05 63RD DRIVE",
   "borough": "QUEENS",
-  "zipCode": "11368",
-  "phone": "718-426-5517",
+  "zipCode": "11374",
+  "phone": "718-896-7220",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -14,22 +14,15 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 12/16/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
-    "numInfractions": "1",
-    "infractions": [
-      {
-        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "4313",
-        " Status": "OPEN "
-      }
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
+  "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.754869132837,
-  "longitude": -73.86320573576
+  "latitude": 40.731022543063,
+  "longitude": -73.858625622787
 }

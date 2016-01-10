@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF THE ANGELUS ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "98-05 63RD DRIVE",
-  "borough": "QUEENS",
-  "zipCode": "11374",
-  "phone": "718-896-7220",
+  "centerName": "OUR LADY OF THE ASSUMPTION ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF THE ASSUMPTION",
+  "address": "1617 PARKVIEW AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10461",
+  "phone": "718-829-1706",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -14,15 +14,36 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 03/31/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 c",
+        " Status": "OPEN "
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.731022543063,
-  "longitude": -73.858625622787
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.84546850211,
+  "longitude": -73.82701585206
 }

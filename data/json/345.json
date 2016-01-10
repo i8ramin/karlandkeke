@@ -1,28 +1,85 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "BIG APPLE ACADEMY ELEMENTARY SCHOOL ",
-  "permitHolder": "BIG APPLE INSTITUTE INC",
-  "address": "503 LAKE STREET ",
+  "type": "Child Care - Pre School",
+  "centerName": "BIG APPLE DAY CARE INC PRESCHOOL ",
+  "permitHolder": "BIG APPLE DAY CAREINC",
+  "address": "2020 AVENUE X ",
   "borough": "BROOKLYN",
-  "zipCode": "11223",
-  "phone": "718-333-1099",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "zipCode": "11235",
+  "phone": "718-332-2296",
+  "permitStatus": " Permitted ",
+  "permitNumber": "8207",
+  "permitExpirationDate": " 06/01/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "14",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "6 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 09/25/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.591502045016,
-  "longitude": -73.975001195851
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "09/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "OPEN "
+        }
+      ]
+    }
+  ],
+  "latitude": 40.592770114005,
+  "longitude": -73.949846608762
 }

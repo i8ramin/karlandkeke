@@ -1,30 +1,28 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "COLLEGIATE SCHOOL PRESCHOOL ",
-  "permitHolder": "COLLEGIATE SCHOOL",
-  "address": "260 WEST 78 STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10024",
-  "phone": "212-812-8543",
-  "permitStatus": " Active ",
-  "permitNumber": "7062",
-  "permitExpirationDate": " 11/08/2008",
+  "type": "Child Care - Pre School",
+  "centerName": "CLEVELAND EDUCATIONAL SERVICES ",
+  "permitHolder": "CLEVELAND EDUCATIONAL SERVICES",
+  "address": "2-08 ASTORIA BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "917-832-6506",
+  "permitStatus": " Permitted ",
+  "permitNumber": "73098",
+  "permitExpirationDate": " 09/08/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "43",
+  "maximumCapacity": "59",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "true",
+  "yearsOperating": "1",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 04/15/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
-    "infractions": [
-
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 03/06/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.783346336641,
-  "longitude": -73.980952023509
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.773663100302,
+  "longitude": -73.936087566188
 }

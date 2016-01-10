@@ -1,10 +1,10 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE IS 190 X ",
-  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE IS 190 X",
-  "address": "1550 CROTONA PARK EAST",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE MS 241X ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE MS 241X",
+  "address": "1595 Bathgate Avenue",
   "borough": "BRONX",
-  "zipCode": "10460",
+  "zipCode": "10457",
   "phone": "",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.836567935164,
-  "longitude": -73.892815592411
+  "latitude": 40.839237946651,
+  "longitude": -73.901315107107
 }

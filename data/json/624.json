@@ -1,35 +1,98 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "BUTTERFLY ",
-  "permitHolder": "BUTTERFLY 1 INC",
-  "address": "2770 EAST 16TH STREET",
+  "centerName": "BUSHWICK UNITED HOUSING DEVELOPMENT FUND CORPORATION ",
+  "permitHolder": "BUSHWICK UNITED HOUSING DEVELOPMENT FUND CORPORATION",
+  "address": "136 STANHOPE STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11235",
-  "phone": "718-646-6272",
+  "zipCode": "11221",
+  "phone": "718-443-0685",
   "permitStatus": " Permitted ",
-  "permitNumber": "7896",
-  "permitExpirationDate": " 07/22/2016",
+  "permitNumber": "7448",
+  "permitExpirationDate": " 09/19/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "47",
-  "siteType": "Private",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "7 ",
+  "maximumCapacity": "128",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "11 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/13/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 09/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
     "numInfractions": "1",
     "infractions": [
       {
-        "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4713 d",
-        " Status": "OPEN "
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
       }
     ]
   },
-  "numInspections": "5",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 02/26/2015 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 06/06/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla2 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse2 idcollap2 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 12/18/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse2 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla3 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse3 idcollap3 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 06/20/2013 Result Initial Annual Inspection - Reinspection Not Required /a /div div idcollapse3 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result VISITnbsp-Initial Annual Inspection - Reinspection Not Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateChild care service staff identified/acting as group teachers do not meet the required qualifications of the position/span/td td alignleft bgcolorFFFFFF idMinor violations General Violations titleThese are violations that do not pose a direct threat to children but must be corrected within a month by the day care provider to assure the optimal functioning of the child care service Child care services are expected to correct all violations The Department of Health and Mental Hygiene does not perform compliance inspections to determine if violations were corrected when there are no critical violations and fewer that six general violations observed at the time of an inspection stylecolor0088cc cursor pointer Minor violations General Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4713 d/a/td td alignleft bgcolorFFFFFF classcenterOPEN /td /tr /table /div /div /div",
-  "latitude": 40.584229551932,
-  "longitude": -73.952711593051
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "04/15/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/06/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/02/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service fails to store dry goods in insect/rodent proof containers at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4761 e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "06/07/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/15/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.698091670127,
+  "longitude": -73.922975452376
 }

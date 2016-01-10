@@ -1,28 +1,32 @@
 {
   "type": "School Based Child Care",
-  "centerName": "NOTRE DAME ACADEMY PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-NOTRE DAME ACADEMY ELEMENTARY",
-  "address": "78 HOWARD AVENUE",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10301",
-  "phone": "718-273-9096",
+  "centerName": "NOTRE DAME CATHOLIC ACADEMY OF RIDGEWOOD ",
+  "permitHolder": "ARCHDIOCESE OF BROOKLYN",
+  "address": "62-22 61 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11385",
+  "phone": "718-821-2221",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "44",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 04/30/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.629327032302,
-  "longitude": -74.08802295643
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.71211236538,
+  "longitude": -73.901929686201
 }

@@ -1,30 +1,159 @@
 {
-  "type": "Camp",
-  "centerName": "CPC QUEENS SCHOOL-AGE DCC PS20 ",
-  "permitHolder": "CPC QUEENS SCHOOL-AGE DCC PS20",
-  "address": "142-30 BARCLAY AVENUE",
-  "borough": "QUEENS",
-  "zipCode": "11355",
-  "phone": "718-358-8916",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 02/15/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "CORTELYOU EARLY CHILDHOOD CENTER INC ",
+  "permitHolder": "CORTELYOU EARLY CHILDHOOD CENTER INC",
+  "address": "386 MARLBOROUGH ROAD ",
+  "borough": "BROOKLYN",
+  "zipCode": "11226",
+  "phone": "718-856-2880",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6644",
+  "permitExpirationDate": " 04/19/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "11 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/23/2013",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 04/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
     "infractions": [
-
+      {
+        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4725 a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4725 a2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.75868159819,
-  "longitude": -73.824830860483
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "03/11/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/01/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/21/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection childrens medical files were not provided were incomplete or were not maintained",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4725 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Outdoor play area was observed not maintained nor free of hazards or nuisances at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4747 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.640581460443,
+  "longitude": -73.964320764359
 }

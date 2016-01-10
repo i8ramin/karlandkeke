@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF GOOD COUNSEL SCHOOL-PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF GOOD COUNSEL SCHOOL",
-  "address": "42 AUSTIN PLACE",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10304",
-  "phone": "718-447-7260",
+  "centerName": "OUR LADY OF GRACE ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "385 AVENUE W",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-375-2081",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.631425551205,
-  "longitude": -74.086044227566
+  "latitude": 40.592886596403,
+  "longitude": -73.968638323786
 }

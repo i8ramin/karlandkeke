@@ -1,30 +1,41 @@
 {
   "type": "Camp",
-  "centerName": "FAIRYTALE DAYCARE ",
-  "permitHolder": "FAIRYTALE DAYCARE INC",
-  "address": "99-17 63 ROAD ",
-  "borough": "QUEENS",
-  "zipCode": "11374",
-  "phone": "718-275-0204",
+  "centerName": "FACES OF THE FUTURE EARLY LEARNING CENTER ",
+  "permitHolder": "FACES OF THE FUTURE EARLY LEARNING CENTER LLC",
+  "address": "1080 UTICA AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11203",
+  "phone": "718-618-0061",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "90997",
+  "permitNumber": "68317",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "30",
+  "maximumCapacity": "115",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "2 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/04/2015",
+    "date": "Inspection Date 07/10/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Camp Operator fails to provide adequate supervision",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4812a",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.732562694582,
-  "longitude": -73.856684721458
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/13/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "MOSDOS BNOS FRIMA ",
-  "permitHolder": "MOSDOS BNOS FRIMA",
-  "address": "1377 42 STREET ",
+  "centerName": "MOSDOS CHASIDEI SQUARE ",
+  "permitHolder": "MOSDOS CHASIDEI SQUARE",
+  "address": "105 HEYWARD STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "718-972-7666",
+  "zipCode": "11206",
+  "phone": "718-852-0502",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -14,22 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 10/23/2013",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "1",
-    "infractions": [
-      {
-        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "513",
-        " Status": "CORRECTED"
-      }
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
+  "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.638025341132,
-  "longitude": -73.986510006223
+  "latitude": 40.701356408777,
+  "longitude": -73.956638656265
 }

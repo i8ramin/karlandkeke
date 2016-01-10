@@ -1,35 +1,82 @@
 {
-  "type": "Camp",
-  "centerName": "BRONX YMCA PS 127 ",
-  "permitHolder": "YMCA",
-  "address": "1560 PURDY STREET",
+  "type": "Child Care - Pre School",
+  "centerName": "BRONX WORKS INC ",
+  "permitHolder": "BRONX WORKS INC",
+  "address": "1472 MONTGOMERY AVENUE",
   "borough": "BRONX",
-  "zipCode": "10462",
-  "phone": "978-771-2981",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "69077",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "100",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10453",
+  "phone": "347-590-8955",
+  "permitStatus": " Permitted ",
+  "permitNumber": "51998",
+  "permitExpirationDate": " 09/16/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "55",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "3 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/11/2014",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
-    "numInfractions": "1",
+    "date": "Inspection Date 06/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "3",
     "infractions": [
       {
-        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
         "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "4815a8",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4713 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
         " Status": "CORRECTED"
       }
     ]
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/24/2014 Result Initial Annual Inspection - Reinspection Required Fines pending /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required Fines pending/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateFire extinguishers not provided have not been inspected and tagged prior to camp season/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4815a8/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /div",
-  "latitude": 40.837924376979,
-  "longitude": -73.853522334243
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "02/26/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/05/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Approved maximum child capacity not documented on permit",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4705 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.847273460217,
+  "longitude": -73.921251434744
 }

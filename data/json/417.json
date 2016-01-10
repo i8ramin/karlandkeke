@@ -1,30 +1,32 @@
 {
-  "type": "Camp",
-  "centerName": "BOYS AND GIRLS REPUBLIC ",
-  "permitHolder": "HENRY STREET SETTEMENT/BOYS AND GIRLS REPUBLIC",
-  "address": "888 East 6th Street",
-  "borough": "MANHATTAN",
-  "zipCode": "10009",
-  "phone": "212-686-8888",
-  "permitStatus": " Registered ",
-  "permitNumber": "34553",
-  "permitExpirationDate": " 03/31/2012",
-  "ageRange": "",
+  "type": "School Based Child Care",
+  "centerName": "BOYS YESHIVA ",
+  "permitHolder": "YESHIVA ATERET TORAH",
+  "address": "901 QUENTIN ROAD",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-375-7100",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
   "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/09/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 07/01/2015",
+    "result": "Inspection Result Initial Annual Inspection - No inspection conducted",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.72216747909,
-  "longitude": -73.976149738416
+  "pastInspections": [
+
+  ],
+  "latitude": 40.607646618706,
+  "longitude": -73.96375499868
 }

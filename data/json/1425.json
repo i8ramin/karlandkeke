@@ -1,17 +1,17 @@
 {
   "type": "School Based Child Care",
-  "centerName": "HOLY TRINITY CATHOLIC ACADEMY ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "14-45 143RD STREET",
-  "borough": "QUEENS",
-  "zipCode": "11357",
-  "phone": "718-746-1479",
+  "centerName": "HOLY ROSARY EARLY CHILDHOOD ACADEMY AT ST MARY STAR OF THE SEA ",
+  "permitHolder": "CATHOLIC SCHOOL REGION OF NORTHEAST-EAST BRONX",
+  "address": "580 MINNIEFORD AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10464",
+  "phone": "718-652-1211",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
   "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "false",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.785779888426,
-  "longitude": -73.826153188696
+  "latitude": 40.854205653635,
+  "longitude": -73.789561151463
 }

@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF GRACE ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "385 AVENUE W",
-  "borough": "BROOKLYN",
-  "zipCode": "11223",
-  "phone": "718-375-2081",
+  "centerName": "OUR LADY OF GRACE PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF GRACE SCHOOL",
+  "address": "3981 BRONXWOOD AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10466",
+  "phone": "718-547-9918",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -14,15 +14,25 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 05/05/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.592886596403,
-  "longitude": -73.968638323786
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "11/21/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.886202853353,
+  "longitude": -73.854598179543
 }

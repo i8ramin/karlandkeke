@@ -1,35 +1,45 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK SPORTS CLUB ",
-  "permitHolder": "TOWN SPORTS INTERNATIONAL LLC",
-  "address": "1637 3RD AVENUE",
+  "centerName": "NEW YORK UNIVERSITY SWIM CAMP ",
+  "permitHolder": "NEW YORK UNIVERSITY",
+  "address": "181 MERCER STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10128",
-  "phone": "212-987-7200",
+  "zipCode": "10012",
+  "phone": "917-553-0246",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "94598",
+  "permitNumber": "41417",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "15",
+  "maximumCapacity": "100",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/10/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
-    "numInfractions": "1",
+    "date": "Inspection Date 07/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4809i",
-        " Status": "OPEN "
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.782396161088,
-  "longitude": -73.951357037578
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.726127881543,
+  "longitude": -73.997337385736
 }

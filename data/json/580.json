@@ -1,28 +1,32 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "BROOKLYN SCHOOLHOUSE DAYCARE LLC ",
-  "permitHolder": "BROOKLYN SCHOOLHOUSE DAYCARE LLC",
-  "address": "156 GATES AVENUE",
+  "type": "School Based Child Care",
+  "centerName": "BROOKLYN HEIGHTS MONTESSORI SCHOOL ",
+  "permitHolder": "BROOKLYN HEIGHTS MONTESSORI SCHOOL",
+  "address": "185 COURT STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11238",
-  "phone": "718-395-5415",
-  "permitStatus": " Permitted ",
-  "permitNumber": "95618",
-  "permitExpirationDate": " 08/27/2017",
+  "zipCode": "11201",
+  "phone": "718-858-5100",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "18",
-  "siteType": "Corporate",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": "false",
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 10/01/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.68496903533,
-  "longitude": -73.961297027682
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.687895808134,
+  "longitude": -73.993217486831
 }

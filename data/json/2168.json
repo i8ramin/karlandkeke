@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF ANGELS PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF ANGELS",
-  "address": "2865 CLAFLIN AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10468",
-  "phone": "718-549-3503",
+  "centerName": "OUR LADY OF FATIMA ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "25-38 80TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11370",
+  "phone": "718-429-7031",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -14,22 +14,15 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 03/13/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "1",
-    "infractions": [
-      {
-        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4317 a1",
-        " Status": "OPEN "
-      }
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
+  "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.873232828955,
-  "longitude": -73.899720472795
+  "latitude": 40.762562660244,
+  "longitude": -73.888545553469
 }

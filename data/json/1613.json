@@ -1,30 +1,45 @@
 {
   "type": "Camp",
-  "centerName": "KIDD KARE HOLY FAMILY ",
-  "permitHolder": "KIDD KARE HOLY FAMILY",
-  "address": "2169 BLACKROCK AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10472",
-  "phone": "718-863-3986",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 01/06/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
+  "centerName": "KIDS CLUBHOUSE SUMMER CAMP PS 7 ",
+  "permitHolder": "CYPRESS HILLS LOCAL DEVELOPMENT CORP INC",
+  "address": "858 JAMAICA AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11208",
+  "phone": "718-235-2345",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33786",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "350",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/01/2013",
+    "date": "Inspection Date 07/09/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.828905279755,
-  "longitude": -73.851482583305
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.689675790255,
+  "longitude": -73.873137237247
 }

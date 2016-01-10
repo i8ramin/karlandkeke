@@ -1,14 +1,14 @@
 {
   "type": "School Based Child Care",
-  "centerName": "IMMACULATE CONCEPTION K4 COMBINED PRESCHOOL ",
+  "centerName": "IMMACULATE CONCEPTION 151ST PRESCHOOL ",
   "permitHolder": "ARCHDIOCESE OF NEW YORK-IMMACULATE CONCEPTION",
-  "address": "104 GORDON STREET",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10304",
-  "phone": "718-447-7018",
+  "address": "378 EAST 151 STREET",
+  "borough": "BRONX",
+  "zipCode": "10455",
+  "phone": "718-585-4843",
   "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitNumber": "5837",
+  "permitExpirationDate": " 11/03/2001",
   "ageRange": "2 - 5",
   "maximumCapacity": "0",
   "siteType": "Corporate",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.624255916503,
-  "longitude": -74.082666749846
+  "latitude": 40.817715795458,
+  "longitude": -73.917955484861
 }

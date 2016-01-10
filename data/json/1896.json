@@ -1,28 +1,80 @@
 {
-  "type": "Camp",
-  "centerName": "MASPETH TOWN HALL PS/IS 119 ",
-  "permitHolder": "MASPETH TOWN HALL PS/IS 119",
-  "address": "74-01 78TH AVENUE",
+  "type": "Child Care - Pre School",
+  "centerName": "MASPETH TOWN HALL PRE-SCHOOL ",
+  "permitHolder": "MASPETH TOWN HALL INC",
+  "address": "53-37 72 STREET ",
   "borough": "QUEENS",
-  "zipCode": "11385",
+  "zipCode": "11378",
   "phone": "718-335-6049",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 12/10/2014",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5144",
+  "permitExpirationDate": " 04/15/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "30 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 05/15/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.704398264031,
-  "longitude": -73.875182965191
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "05/04/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/18/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/26/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/07/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.730167112562,
+  "longitude": -73.892363194925
 }

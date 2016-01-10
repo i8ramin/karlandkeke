@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF HOPE SCHOOL ",
+  "centerName": "OUR LADY OF LOURDES ACADEMY ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "61-21 71 STREET ",
+  "address": "92-80 220 STREET",
   "borough": "QUEENS",
-  "zipCode": "11379",
-  "phone": "718-458-3535",
+  "zipCode": "11428",
+  "phone": "718-464-1480",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.720719747057,
-  "longitude": -73.886793966287
+  "latitude": 40.723327632209,
+  "longitude": -73.736559823103
 }

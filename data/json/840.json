@@ -1,30 +1,253 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "CITY OF FAITH CHRISTIAN ACADEMY I I ",
-  "permitHolder": "CITY OF FAITH COMMUNITY DEVELOPMENT CORP",
-  "address": "3445 WHITE PLAINS RD",
-  "borough": "BRONX",
-  "zipCode": "10467",
-  "phone": "718-798-3052",
-  "permitStatus": " Permitted ",
-  "permitNumber": "7831",
-  "permitExpirationDate": " 10/15/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "35",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "CISCO KIDS ",
+  "permitHolder": "SCALABRINI CENTER FOR MIGRANT FAMILIES",
+  "address": "181 SUYDAM STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-640-0091",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33823",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "81",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "8 ",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 09/14/2015",
+    "date": "Inspection Date 08/12/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "8",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/23/2015 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result VISITnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla1 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse1 idcollap1 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 12/23/2014 Result Compliance Inspection of Open Violations - Previously cited violations corrected /a /div div idcollapse1 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Compliance Inspection of Open Violations - Previously cited violations corrected/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateChild care service failed to maintain required staff to child supervision ratios at time of inspection/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4723 f/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla2 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse2 idcollap2 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 11/19/2014 Result Initial Annual Inspection - Reinspection Required /a /div div idcollapse2 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateChild care service failed to maintain required staff to child supervision ratios at time of inspection/span/td td alignleft bgcolorFFFFFF idViolations requiring immediate correction Public Health Hazards titleThe most serious type of violations which may present an imminent threat to the health and safety of children These violations must be immediately addressed and must be corrected within one business day by the child care provider The Department of Health and Mental Hygiene DOHMH will conduct a compliance visit to assure these violations have been corrected stylecolor0088cc cursor pointer Violations requiring immediate correction Public Health Hazards/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4723 f/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla3 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse3 idcollap3 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 01/08/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse3 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla4 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse4 idcollap4 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/19/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse4 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result VISITnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla5 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse5 idcollap5 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 02/27/2013 Result Compliance Inspection of Open Violations - Previously cited violations corrected /a /div div idcollapse5 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Compliance Inspection of Open Violations - Previously cited violations corrected/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateAt time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish/span/td td alignleft bgcolorFFFFFF idMinor violations General Violations titleThese are violations that do not pose a direct threat to children but must be corrected within a month by the day care provider to assure the optimal functioning of the child care service Child care services are expected to correct all violations The Department of Health and Mental Hygiene does not perform compliance inspections to determine if violations were corrected when there are no critical violations and fewer that six general violations observed at the time of an inspection stylecolor0088cc cursor pointer Minor violations General Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4741 j/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateAt time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children/span/td td alignleft bgcolorFFFFFF idMinor violations General Violations titleThese are violations that do not pose a direct threat to children but must be corrected within a month by the day care provider to assure the optimal functioning of the child care service Child care services are expected to correct all violations The Department of Health and Mental Hygiene does not perform compliance inspections to determine if violations were corrected when there are no critical violations and fewer that six general violations observed at the time of an inspection stylecolor0088cc cursor pointer Minor violations General Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4745 b/a/td td alignleft bgcolorFFFFFF classcenterCORRECTED/td /tr /table /div /div /divdiv classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla6 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse6 idcollap6 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 01/22/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse6 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result VISITnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.876833448963,
-  "longitude": -73.866826675293
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "08/13/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "13109d2",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/25/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Inspection pending ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "13109d2",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811a",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "07/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "All camper and staff injuries illness and conditions reportable pursuant to HC Article 11 were not reported Medical log not complete and/or updated",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817k",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "13109d2",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811a",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4821a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "07/22/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequately stocked first aid cabinet not provided and maintained first aid kit not provided for traveling camp",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817l",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/16/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequately stocked first aid cabinet not provided and maintained first aid kit not provided for traveling camp",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817l",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.699888691793,
+  "longitude": -73.925919841337
 }

@@ -1,28 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "HARLEM CHILDRENS ZONE INC PS 149 ",
-  "permitHolder": "HARLEM CHILDRENS ZONE INC PS 149",
-  "address": "41 WEST 117TH STREET",
+  "centerName": "HARLEM CHILDRENS ZONE CS 133 ",
+  "permitHolder": "HARLEM CHILDRENS ZONE CS 133",
+  "address": "2121 FIFTH AVE",
   "borough": "MANHATTAN",
-  "zipCode": "10026",
-  "phone": "212-534-0700",
+  "zipCode": "10037",
+  "phone": "646-620-4867",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 11/15/2015",
+  "permitExpirationDate": " 06/01/2016",
   "ageRange": "",
-  "maximumCapacity": "",
+  "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/23/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.802129369011,
-  "longitude": -73.947828071821
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.809665298592,
+  "longitude": -73.939871194572
 }

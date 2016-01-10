@@ -1,28 +1,38 @@
 {
   "type": "Camp",
-  "centerName": "GOOD SHEPHERD SERVICES MS 45 BEACON ",
-  "permitHolder": "GOOD SHEPHERD SERVICES MS 45 BEACON",
-  "address": "2502 LORILLARD PLACE",
+  "centerName": "GOOD SHEPHERD SERVICES ",
+  "permitHolder": "GOOD SHEPHERD SERVICES",
+  "address": "125 EAST 181ST STREET",
   "borough": "BRONX",
-  "zipCode": "10458",
-  "phone": "",
+  "zipCode": "10453",
+  "phone": "347-386-9286",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitExpirationDate": " 06/21/2016",
   "ageRange": "",
   "maximumCapacity": "0",
-  "siteType": "Private",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/07/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.859027941856,
-  "longitude": -73.886911918275
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.854871034021,
+  "longitude": -73.903453527288
 }

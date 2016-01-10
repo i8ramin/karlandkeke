@@ -1,28 +1,86 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "BEER HAGOLAH INSTITUTE ",
-  "permitHolder": "THE CENTER FOR RUSSIAN JEWRY-BEER HAGOLAH INSTITUTE",
-  "address": "671 LOUISIANA AVENUE",
+  "type": "Child Care - Pre School",
+  "centerName": "BEANSPROUTS ",
+  "permitHolder": "BEANSPROUTS INC OF BROOKLYN",
+  "address": "421 7TH STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11239",
-  "phone": "718-642-6800",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "zipCode": "11215",
+  "phone": "718-965-8573",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7724",
+  "permitExpirationDate": " 06/07/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "55",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "9 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 10/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.645630474319,
-  "longitude": -73.883642663652
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "10/09/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/28/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection Violations corrected at time of inspection ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Windows excluding fire escape windows in a child care service observed without window guards in a child care service",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.668892544007,
+  "longitude": -73.982192433634
 }
