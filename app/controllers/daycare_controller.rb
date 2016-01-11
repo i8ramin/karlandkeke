@@ -24,6 +24,10 @@ class DaycareController < ApplicationController
   	@daycare = Daycare.find_by(permalink: params[:id])
   end
 
+  def map
+    @daycares= Daycare.all  
+  end
+
 private
 
   def set_defaults

@@ -1,0 +1,21 @@
+= javascript_include_tag "daycare_map"
+
+/ <script>
+/   var daycares=[];
+/   // TODO: make this more efficient
+/   - @daycares.each do |daycare|
+/     - num_violations = 0
+/     - num_violations = daycare.inspection.infractions.count if daycare.inspection
+    
+/     daycares.push({
+/       lat: "#{daycare.location.to_hsh(:lon, :lat)[:lat]}",
+/       lon: "#{daycare.location.to_hsh(:lon, :lat)[:lon]}",
+/       center_name: "#{daycare.center_name}",
+/       grade: "#{daycare.grade}",
+/       num_violations: "#{num_violations}",
+/       permalink: '/daycare/#{daycare.permalink}"'
+/     ]
+/ </script>
+
+#all_daycares[data-daycare_json=@daycares.to_json]
+#map.full_width
