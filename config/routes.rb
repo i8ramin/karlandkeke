@@ -5,6 +5,7 @@ Rails.application.routes.draw do
     end
   end
 
+  get "/map" => "daycare#map"
   # get "/auth/auth0/callback" => "auth0#callback"
   # get "/auth/failure" => "auth0#failure"
 

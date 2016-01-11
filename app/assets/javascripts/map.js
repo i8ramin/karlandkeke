@@ -52,12 +52,13 @@ var setup_map = function(points, show_popup_on_load, interactive) {
   };
 
   $.each(points, function(index, point) {
-    var lat = $(point).data('lat');
-    var lon = $(point).data('lon');
-    var center_name = $(point).data('center_name');
-    var permalink   = $(point).data('permalink');
+    var lat = $(point).data('lat') || point.location[1];
+    var lon = $(point).data('lon') || point.location[0];
+    var center_name = $(point).data('center_name') || point.center_name;
+    var permalink   = $(point).data('permalink') || ('/daycare/' + point.permalink);
     var num_violations = $(point).data('num_violations');
-    var grade = $(point).data('grade');
+    num_violations = num_violations ? num_violations + ' violations' : '';
+    var grade = $(point).data('grade') || point.grade;
     var props = get_marker_for_grade(grade);
     if (!lat || !lon || lat === '0.0' || lon === '0.0') {
       return true;
@@ -72,7 +73,7 @@ var setup_map = function(points, show_popup_on_load, interactive) {
       "properties": {
         "title": center_name,
         "url": permalink,
-        "description": num_violations + ' violations',
+        "description": num_violations,
         "marker-symbol": props.symbol,
         "marker-color": props.color,
         "marker-size": "large",
@@ -115,6 +116,22 @@ var setup_map = function(points, show_popup_on_load, interactive) {
         marker.openPopup();
       }
       $daycare.addClass("hovering");
+    });
+  }
+
+  // Map view
+  if (window.location.pathname === '/map') {
+    // Add all-grades as a menu item in the dropdown list
+    $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' + 
+        '<span>All Grades</span>' + '</a>');
+    
+    $('a.dropdown-item').on('click', function() {
+      var filter = $(this).data('filter');
+      
+      markerLayer.setFilter(function(f) {
+        return (filter === 'all') ? true : f.properties["marker-symbol"] === filter;
+      });
+      return false;
     });
   }
 };

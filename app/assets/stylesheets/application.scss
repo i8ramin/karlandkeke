@@ -90,6 +90,10 @@ body {
   @include media-breakpoint-up(sm) {
     display: block;
   }
+
+  &.full_width {
+    width: 100%;
+  }
 }
 
 .grades-filter {

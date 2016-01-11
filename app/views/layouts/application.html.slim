@@ -33,17 +33,17 @@ html lang="en"
                   span.grade[class="grade-#{@grade_filter.downcase}"]=@grade_filter
               .dropdown-menu
                 - if @grade_filter != 'All Grades'
-                  a.dropdown-item[href="/?q=#{@query}&nearby=#{@nearby}"]
+                  a.dropdown-item[href="/?q=#{@query}&nearby=#{@nearby}" data-filter='all']
                     span All Grades
-                a.dropdown-item[href="/daycare/grade/A?q=#{@query}&nearby=#{@nearby}"]
+                a.dropdown-item[href="/daycare/grade/A?q=#{@query}&nearby=#{@nearby}" data-filter='a']
                   span.grade.grade-a A
-                a.dropdown-item[href="/daycare/grade/B?q=#{@query}&nearby=#{@nearby}"]
+                a.dropdown-item[href="/daycare/grade/B?q=#{@query}&nearby=#{@nearby}" data-filter='b']
                   span.grade.grade-b B
-                a.dropdown-item[href="/daycare/grade/C?q=#{@query}&nearby=#{@nearby}"]
+                a.dropdown-item[href="/daycare/grade/C?q=#{@query}&nearby=#{@nearby}" data-filter='c']
                   span.grade.grade-c C
-                a.dropdown-item[href="/daycare/grade/D?q=#{@query}&nearby=#{@nearby}"]
+                a.dropdown-item[href="/daycare/grade/D?q=#{@query}&nearby=#{@nearby}" data-filter='d']
                   span.grade.grade-d D
-                a.dropdown-item[href="/daycare/grade/E?q=#{@query}&nearby=#{@nearby}"]
+                a.dropdown-item[href="/daycare/grade/E?q=#{@query}&nearby=#{@nearby}" data-filter='e']
                   span.grade.grade-e E
     #content
       = yield
