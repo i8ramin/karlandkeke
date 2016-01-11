@@ -96,7 +96,9 @@ var setup_map = function(points, show_popup_on_load) {
   });
 
   markerLayer.setGeoJSON(geojson);
-  map.fitBounds(markerLayer.getBounds())
+  if (geojson.features.length > 0) {
+    map.fitBounds(markerLayer.getBounds());  
+  }
 };
 
 var fly = function(lat, lon, speed) {
