@@ -1,14 +1,14 @@
 class DaycareController < ApplicationController
   before_action :set_defaults
-  before_action :cdn_cache
+  # before_action :cdn_cache
 
   def index
     daycares = Daycare.all
-    
+
     if params['nearby']
       geom_point   = params[:nearby].split(",").map(&:to_f)
-      max_distance = (params[:max_distance] || 100).to_i 
-      min_distance = (params[:min_distance] || 0).to_i 
+      max_distance = (params[:max_distance] || 100).to_i
+      min_distance = (params[:min_distance] || 0).to_i
 
       daycares = Daycare.where(:location => {
         '$near' => geom_point,
