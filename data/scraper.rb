@@ -14,6 +14,7 @@ def scraper
 	# output.print("\n")
 
 	offset = 0
+	offset_limit = 999999999
 
 	# do initial pageview
 	form_data = {
@@ -33,9 +34,17 @@ def scraper
 	page = form.submit
 	agent1.cookie_jar.save_as 'data/cookies', :session => true, :format => :yaml
 
-	while offset < 2300 do #  < 10 for testing, 2300 at least for real
+	while offset < offset_limit do
 		puts "Offset: " + offset.to_s
 		page = agent1.post 'https://a816-healthpsi.nyc.gov/ChildCare/SearchAction2.do?pager.offset=' + offset.to_s, form_data
+
+		if offset == 0
+			puts "getting total pagecount"
+			pageCountText = page.search('span.PageText')[2].text
+			pageCount = pageCountText[/\d\d\d\d/].to_i - 10 # since 10 per page
+			puts "got page count!", pageCount
+			offset_limit = pageCount
+		end
 
 		links = page.search('tr.gradeX.odd a')
 		file_i = offset
