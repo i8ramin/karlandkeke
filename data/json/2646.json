@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SBCC ",
+  "permitHolder": "THE CATHEDRAL SCHOOL OF BROOKLYN",
+  "address": "1492 ST JOHNS PLACE",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "347-792-3243",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.670458399158,
+  "longitude": -73.928973525228
+}

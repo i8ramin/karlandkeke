@@ -1,0 +1,52 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ST DOMINICS HOME ",
+  "permitHolder": "ST DOMINICS HOME",
+  "address": "2340 ANDREWS AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-365-7238",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5900",
+  "permitExpirationDate": " 09/08/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "75",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/15/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "04/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/26/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.862276166853,
+  "longitude": -73.90658804223
+}

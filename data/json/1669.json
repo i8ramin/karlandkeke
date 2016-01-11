@@ -1,28 +1,45 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "KOCHAVIM ",
-  "permitHolder": "KOCHAVIM",
-  "address": "1670 OCEAN AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11230",
-  "phone": "917-607-7356",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "KISSENA PARK DAY CAMP ",
+  "permitHolder": "NYC DEPARTMENT OF PARKS AND RECREATION",
+  "address": "143-30 Rose Avenue",
+  "borough": "QUEENS",
+  "zipCode": "11355",
+  "phone": "718-358-7579",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33704",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "50",
+  "siteType": "Municipal Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/05/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.621548836374,
-  "longitude": -73.955617245606
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.747818366609,
+  "longitude": -73.811329148034
 }

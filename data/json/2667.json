@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SCAN NY MULLALY RECREATION CENTER ",
+  "permitHolder": "SCAN NY MULLALY RECREATION CENTER",
+  "address": "40 EAST 164TH STREET",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-590-5743",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 10/01/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.830499320325,
+  "longitude": -73.923768335078
+}

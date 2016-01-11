@@ -1,30 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "HARLEM RBI REAL KIDS PS 38 ",
-  "permitHolder": "HARLEM RBI REAL KIDS PS 38",
-  "address": "232 EAST 103RD STREET",
+  "centerName": "HARLEM PEACEMAKERS PS 149 ",
+  "permitHolder": "HARLEM CHILDRENS ZONE INC",
+  "address": "41 WEST 117 STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10029",
-  "phone": "212-722-1608",
+  "zipCode": "10026",
+  "phone": "646-672-9020",
   "permitStatus": " Registered ",
-  "permitNumber": "34620",
-  "permitExpirationDate": " 05/31/2017",
+  "permitNumber": "33837",
+  "permitExpirationDate": " 09/15/2013",
   "ageRange": "",
-  "maximumCapacity": "0",
+  "maximumCapacity": "140",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/31/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 08/07/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.788944793319,
-  "longitude": -73.944537718596
+  "pastInspections": [
+
+  ],
+  "latitude": 40.802129369011,
+  "longitude": -73.947828071821
 }

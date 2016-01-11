@@ -1,0 +1,106 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "WOODSIDE KINDERGARTEN ",
+  "permitHolder": "THE DWIGHT SCHOOL",
+  "address": "160 RIVERSIDE BOULEVARD",
+  "borough": "MANHATTAN",
+  "zipCode": "10069",
+  "phone": "212-362-2350",
+  "permitStatus": " Active ",
+  "permitNumber": "7466",
+  "permitExpirationDate": " 09/26/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "88",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "5",
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "13105a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4317 a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4319 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "10/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "307",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/11/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4319 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.777824916187,
+  "longitude": -73.988691318244
+}

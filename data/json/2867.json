@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST FRANCIS OF ASSISI PRESCHOOL ",
+  "permitHolder": "ST FRANCIS OF ASSISI PARISH",
+  "address": "21-18 46 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11105",
+  "phone": "718-726-9405",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "63",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.771716674222,
+  "longitude": -73.900772906226
+}

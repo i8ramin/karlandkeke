@@ -1,28 +1,172 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "INFINITY EDUCATIONAL CHILD CARE OF GERRITSEN BEACH ",
-  "permitHolder": "INFINITY EDUCATIONAL PROGRAMS INC",
-  "address": "2934-2936 GERRITSEN AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11229",
-  "phone": "718-336-2936",
-  "permitStatus": " Permitted ",
-  "permitNumber": "64697",
-  "permitExpirationDate": " 05/20/2016",
+  "type": "School Based Child Care",
+  "centerName": "INCARNATION PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-INCARNATION SCHOOL",
+  "address": "570 WEST 175 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10033",
+  "phone": "212-795-1030",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "29",
-  "siteType": "Private",
+  "maximumCapacity": "15",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2",
+  "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 01/13/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 11/19/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "4",
     "infractions": [
-
+      {
+        "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sufficient utility sinks not provided not of adequate size insufficent water provided in comercial buildings",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109d3",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": ""
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "01/15/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "8",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to maintain line of site supervision",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4309 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Sewage lines observed not maintained at time of inspection Food prep drains observed directly connected to sewer at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8121 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8109 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service fails to provide adequate ventilation in food prep area Indoor air quality nuisance allowed to exist in food prep area",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8119 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/19/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "9",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to maintain line of site supervision",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4309 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4323",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Sewage lines observed not maintained at time of inspection Food prep drains observed directly connected to sewer at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8121 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8109 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service fails to provide adequate ventilation in food prep area Indoor air quality nuisance allowed to exist in food prep area",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8119 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.845116948591,
+  "longitude": -73.935863232633
 }

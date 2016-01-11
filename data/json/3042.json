@@ -1,0 +1,160 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SUNSET PARK CHILDRENS SCHOOL ",
+  "permitHolder": "SUNSET PARK CHILDRENS SCHOOL INC",
+  "address": "4616 4 AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11220",
+  "phone": "718-439-3323",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5025",
+  "permitExpirationDate": " 05/04/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/30/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "05/05/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/20/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/13/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection lavatory facilities failed to be provided with child high/accessible toilets and sinks",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate space/arrangement to provide separate storage areas for childrens outer garments not provided or maintained at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection lavatory facilities failed to be provided with child high/accessible toilets and sinks",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate space/arrangement to provide separate storage areas for childrens outer garments not provided or maintained at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Beverages with added sweeteners observed being served to children at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4761 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/05/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection children were observed occupying space not previously approved by the Dept of Buildings FDNY and/or DOHMH",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.648557388301,
+  "longitude": -74.010407391983
+}

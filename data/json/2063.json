@@ -1,17 +1,17 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE ",
-  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE",
-  "address": "228 Avenue S",
-  "borough": "BROOKLYN",
-  "zipCode": "11223",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE IS 190 X ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE IS 190 X",
+  "address": "1550 CROTONA PARK EAST",
+  "borough": "BRONX",
+  "zipCode": "10460",
   "phone": "",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "",
+  "ageRange": "4 - 16",
   "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "false",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.601293110781,
-  "longitude": -73.976952916785
+  "latitude": 40.836567935164,
+  "longitude": -73.892815592411
 }

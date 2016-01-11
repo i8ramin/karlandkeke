@@ -1,30 +1,43 @@
 {
   "type": "Camp",
-  "centerName": "CYPRESS HILLS LEARNING CENTER PS 89 ",
-  "permitHolder": "CYPRESS HILLS LOCAL DEVELOPMENT CORPORATION",
-  "address": "265 WARWICK STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11207",
-  "phone": "718-964-1180",
+  "centerName": "CUNNINGHAM PARK DAY CAMP ",
+  "permitHolder": "NYC DEPARTMENT OF PARKS AND RECREATION",
+  "address": "196-10 Union Turnpike null Lewis Blvd",
+  "borough": "QUEENS",
+  "zipCode": "11366",
+  "phone": "718-740-1999",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "91722",
+  "permitNumber": "34361",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "400",
-  "siteType": "Summer Day Camp",
+  "maximumCapacity": "40",
+  "siteType": "Municipal Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/28/2015",
+    "date": "Inspection Date 08/17/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.677690065148,
-  "longitude": -73.886935790359
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/05/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
 }

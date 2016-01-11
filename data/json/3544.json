@@ -1,0 +1,69 @@
+{
+  "type": "Camp",
+  "centerName": "UNIVERSITY SETTLEMENT PS 133 ",
+  "permitHolder": "UNIVERSITY SETTLEMENT SOCIETY OF NEW YORK",
+  "address": "610 BALTIC STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11217",
+  "phone": "917-337-3211",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "68437",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "130",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/11/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4811b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4817b",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/31/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.680420327458,
+  "longitude": -73.98049120193
+}

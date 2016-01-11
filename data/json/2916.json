@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST MARY GATE OF HEAVEN CATHOLIC ACADEMY ",
+  "permitHolder": "ST MARY GATE OF HEAVEN CATHOLIC ACADEMY",
+  "address": "104-06 101 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11416",
+  "phone": "",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "30",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.686273155185,
+  "longitude": -73.838882197306
+}

@@ -1,0 +1,150 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "TOMER DEVORA ",
+  "permitHolder": "BABOVE WORLD WIDE INSTITUTE INC",
+  "address": "4500 9TH AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11220",
+  "phone": "718-805-2252",
+  "permitStatus": " Permitted ",
+  "permitNumber": "28277",
+  "permitExpirationDate": " 11/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "88",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/01/2015",
+    "result": "Inspection Result Initial Annual Inspection - No inspection conducted",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "02/11/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/08/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/08/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/11/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "At the time child care service was providing care it has been determined that the child care service failed to limit areas used by children to their exclusive use Unauthorized children and/or adults allowed to inhabit child care service facilities during child care hours",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4739 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4741 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection lavatory facilities failed to be provided with child high/accessible toilets and sinks",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "At the time child care service was providing care it has been determined that the child care service failed to limit areas used by children to their exclusive use Unauthorized children and/or adults allowed to inhabit child care service facilities during child care hours",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4739 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4741 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection lavatory facilities failed to be provided with child high/accessible toilets and sinks",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/14/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At the time child care service was providing care it has been determined that the child care service failed to limit areas used by children to their exclusive use Unauthorized children and/or adults allowed to inhabit child care service facilities during child care hours",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4739 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.642497377334,
+  "longitude": -73.998691987932
+}

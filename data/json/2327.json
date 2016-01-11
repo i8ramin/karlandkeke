@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "PRESCHOOL ",
+  "permitHolder": "THE LUTHERAN SCHOOL OF FLISHING AND BAYSIDE",
+  "address": "147-46 SANFORD AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11355",
+  "phone": "718-225-5502",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.760046023102,
+  "longitude": -73.81623249039
+}

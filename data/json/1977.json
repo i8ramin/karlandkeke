@@ -1,8 +1,8 @@
 {
   "type": "School Based Child Care",
-  "centerName": "MOSDOS SATMAR ",
-  "permitHolder": "MOSDOS SATMAR",
-  "address": "4423 15 AVENUE ",
+  "centerName": "MOSDOS SATMAR BP INC ",
+  "permitHolder": "MOSDOS SATMAR BP INC",
+  "address": "5901 13 AVENUE",
   "borough": "BROOKLYN",
   "zipCode": "11219",
   "phone": "718-508-4444",
@@ -16,56 +16,34 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 11/04/2015",
+    "date": "Inspection Date 02/21/2014",
     "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
-    "numInfractions": "7",
+    "numInfractions": "3",
     "infractions": [
       {
         "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
         "Category ": " Violations requiring immediate correction Public Health Hazards ",
         "Code Sub-Section": "13105a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "307",
         " Status": "OPEN "
       },
       {
-        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "13109d2",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4323",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Sufficient utility sinks not provided not of adequate size insufficent water provided in comercial buildings",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "13109d3",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "13109f",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care activity results in exposure to lime ashes or other nuisance materials",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "15303",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4311 c",
+        "Code Sub-Section": "309",
         " Status": "OPEN "
       }
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.634981185728,
-  "longitude": -73.984968569213
+  "pastInspections": [
+
+  ],
+  "latitude": 40.629325157586,
+  "longitude": -73.998022158821
 }

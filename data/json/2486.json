@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "RISING STARS ",
+  "permitHolder": "UNITED SETTLEMENT",
+  "address": "144 EAST 128 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.805946358913,
+  "longitude": -73.935178677842
+}

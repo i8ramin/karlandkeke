@@ -1,0 +1,49 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "SHELTERING ARMS CHILDREN AND FAMILY SERVICES INC ",
+  "permitHolder": "SHELTERING ARMS CHILDREN AND FAMILY SERVICES INC",
+  "address": "300 MANHATTAN AVENUE ",
+  "borough": "MANHATTAN",
+  "zipCode": "10026",
+  "phone": "212-665-2834",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96057",
+  "permitExpirationDate": " 09/01/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "26",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/16/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4749 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4759 d",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "8109 i",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.802852812019,
+  "longitude": -73.958407207532
+}

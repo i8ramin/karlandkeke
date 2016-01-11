@@ -1,0 +1,49 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SACRED HEART PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-SACRED HEART SCHOOL",
+  "address": "301 NORTH BURGHER AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10310",
+  "phone": "718-442-0347",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 01/15/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Food service observed in operation without required permit",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "8105 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4317 a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.633563757878,
+  "longitude": -74.114271778296
+}

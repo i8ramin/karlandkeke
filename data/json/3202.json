@@ -1,0 +1,86 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THE BROWNING PRESCHOOL ",
+  "permitHolder": "THE BROWNING SCHOOL",
+  "address": "52 EAST 62 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10065",
+  "phone": "212-838-6280",
+  "permitStatus": " Active ",
+  "permitNumber": "2214",
+  "permitExpirationDate": " 01/22/2010",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "36",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/16/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "13105a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Hand wash sink not provided in food prep area Hand wash sink observed not maintained at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "8129 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4319 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "8121 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "03/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Hand wash sink not provided in food prep area Hand wash sink observed not maintained at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8129 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4319 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.765214751883,
+  "longitude": -73.969477416116
+}

@@ -1,0 +1,90 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE GENERAL THEOLOGICAL SEMINARY OF THE PROTESTANT ESPISCOPAL CHURCH IN THE UNITED STATES ",
+  "permitHolder": "THE GENERAL THEOLOGICAL SEMINARY OF THE PROTESTANT ESPISCOPAL CHURCH IN THE UNITED STATES",
+  "address": "440 WEST 21 STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10011",
+  "phone": "646-717-9759",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6798",
+  "permitExpirationDate": " 05/15/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "14",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/12/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "01/14/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Training obtained by child care service was not found satisfactory by the Department",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.745714495321,
+  "longitude": -74.003511501738
+}

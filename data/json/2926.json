@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST PETER AND ST PAUL ELEMENTARY SCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK",
+  "address": "129 CLINTON AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10301",
+  "phone": "718-447-1796",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/02/2014",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.641258739257,
+  "longitude": -74.098001809283
+}

@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "POUCH DAY CAMP ",
+  "permitHolder": "GREATER NEW YORK COUNCILS BOY SCOUTS OF AMERICA",
+  "address": "1465 Manor Road ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "646-841-2587",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33861",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "82",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.590196429048,
+  "longitude": -74.126993491959
+}

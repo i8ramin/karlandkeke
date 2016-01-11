@@ -1,0 +1,73 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "WONDER LAND PA LLC ",
+  "permitHolder": "WONDER LAND PA LLC",
+  "address": "1018 AVENUE Y ",
+  "borough": "BROOKLYN",
+  "zipCode": "11235",
+  "phone": "718-332-0500",
+  "permitStatus": " Permitted ",
+  "permitNumber": "8269",
+  "permitExpirationDate": " 03/21/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "139",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "03/12/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/22/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.589466725109,
+  "longitude": -73.960236446541
+}

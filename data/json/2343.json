@@ -1,0 +1,161 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PRESCHOOL OF AMERICA ",
+  "permitHolder": "PRESCHOOL OF AMERICA INC",
+  "address": "2 SOUTH END AVENUE ",
+  "borough": "MANHATTAN",
+  "zipCode": "10280",
+  "phone": "212-786-1688",
+  "permitStatus": " Permitted ",
+  "permitNumber": "59657",
+  "permitExpirationDate": " 03/28/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "47",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "07/02/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/19/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/18/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "8",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service operating without a permit Permit expired",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4703 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a2",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to produce written safety plan with emergency procedures Safety plan not maintained or incomplete",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4729 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate child activity not provided by child care service unacceptable forms of discipline utilized by staff of child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4767 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection childrens medical files were not provided were incomplete or were not maintained",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4725 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Written behavior management policy not provided at time of inspection distributed to staff or made available to parents",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4767 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/06/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8119 ab",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/28/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4723 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8119 ab",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.708030296734,
+  "longitude": -74.017655751713
+}

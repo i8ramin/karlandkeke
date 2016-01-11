@@ -1,0 +1,83 @@
+{
+  "type": "Camp",
+  "centerName": "SASF FREDERICK ACADEMY ",
+  "permitHolder": "SPORTS AND ARTS IN SCHOOLS FOUNDATION INC",
+  "address": "2581 7 AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10039",
+  "phone": "646-685-9478",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33875",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "75",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/17/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a8",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a8",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.82431252338,
+  "longitude": -73.937119084751
+}

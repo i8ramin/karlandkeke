@@ -1,0 +1,37 @@
+{
+  "type": "Camp",
+  "centerName": "SANDRAS SUNFLOWER CHILD CARE INC ",
+  "permitHolder": "SANDRAS SUNFLOWER CHILD CARE INC",
+  "address": "121-17 SUTPHIN BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-848-1352",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "89437",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "25",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/28/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care/Camp permit not maintained on designated premises at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "515",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.6771460589,
+  "longitude": -73.790864689459
+}

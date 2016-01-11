@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "THE CHILDRENS AID SOCIETY PS 8 ",
+  "permitHolder": "THE CHILDRENS AID SOCIETY PS 8",
+  "address": "465 WEST 167TH ST",
+  "borough": "MANHATTAN",
+  "zipCode": "10032",
+  "phone": "212-740-8655",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/06/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/09/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.838947320842,
+  "longitude": -73.936837761204
+}

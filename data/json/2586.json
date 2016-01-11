@@ -1,0 +1,45 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT SEBASTIAN SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "39-76 58 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11377",
+  "phone": "718-429-1982",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "12/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.746323890157,
+  "longitude": -73.906101635387
+}

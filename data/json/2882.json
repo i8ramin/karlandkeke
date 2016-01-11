@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST JOHN EVANGELICAL LUTHERAN PRESCHOOL ",
+  "permitHolder": "ST JOHNS EVANGELICAL LUTHERAN SCHOOL",
+  "address": "88-24 MYRTLE AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11385",
+  "phone": "718-441-2120",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Out of Business",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.70286861053,
+  "longitude": -73.857971447789
+}

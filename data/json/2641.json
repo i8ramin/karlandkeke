@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SAYA AT TYWLS OF ASTORIA ",
+  "permitHolder": "SAYA AT TYWLS OF ASTORIA",
+  "address": "23-15 NEWTOWN AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11102",
+  "phone": "718-651-3484",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/02/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.771207800434,
+  "longitude": -73.924591026742
+}

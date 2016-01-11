@@ -1,0 +1,102 @@
+{
+  "type": "Camp",
+  "centerName": "TCR THE CLUB OF RIVERDALE TENNIS SPORT CAMP ",
+  "permitHolder": "TENNIS CLUB OF RIVERDALE INC",
+  "address": "2600 NETHERLAND AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-796-9099",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34206",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "126",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/02/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "All camper and staff injuries illness and conditions reportable pursuant to HC Article 11 were not reported Medical log not complete and/or updated",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817k",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Progressive Swim Instructor failed to assess the swim ability of all campers prior to participation in aquatic activity",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4813a2ii",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a5",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/01/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "All camper and staff injuries illness and conditions reportable pursuant to HC Article 11 were not reported Medical log not complete and/or updated",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817k",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Progressive Swim Instructor failed to assess the swim ability of all campers prior to participation in aquatic activity",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4813a2ii",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a5",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.878820883672,
+  "longitude": -73.916643051514
+}

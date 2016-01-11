@@ -1,41 +1,87 @@
 {
-  "type": "Camp",
-  "centerName": "PHIPPS NEIGHBORHOODS SOUNDVIEW CORNERSTONE ",
-  "permitHolder": "PHIPPS CORNERSTONE AT SOUNDVIEW",
-  "address": "1680 SEWARD AVENUE",
+  "type": "Child Care - Pre School",
+  "centerName": "PHIPPS NEIGHBORHOODS INC ",
+  "permitHolder": "PHIPPS NEIGHBORHOODS INC",
+  "address": "3952 THIRD AVENUE",
   "borough": "BRONX",
-  "zipCode": "10473",
-  "phone": "718-378-6246",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "91201",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "300",
-  "siteType": "Traveling Summer Day Camp",
+  "zipCode": "10457",
+  "phone": "917-522-6002",
+  "permitStatus": " Permitted ",
+  "permitNumber": "8388",
+  "permitExpirationDate": " 09/19/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "31",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "5 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/26/2015",
+    "date": "Inspection Date 10/06/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "2",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Aquatics Director is not certified in CPR for the Professional rescuer Certification is not current Cerification is not limited to one year validation period",
-        "Category ": " Violations requiring immediate correction Public Health Hazards ",
-        "Code Sub-Section": "4809f34gh",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Aquatics Director is not 21 years of age does not have 3 seasons of relative experience",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4809f12",
-        " Status": "CORRECTED"
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.818359291787,
-  "longitude": -73.868970980963
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "08/21/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/03/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/27/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/12/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.840515407754,
+  "longitude": -73.899484466055
 }

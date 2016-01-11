@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "TCR CAMPS CMSV ",
+  "permitHolder": "TCR TENNIS CLUB OF RIVERDALE INC",
+  "address": "6301 RIVERDALE AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10471",
+  "phone": "718-796-9099",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "95257",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "580",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.912822326386,
+  "longitude": -73.902504292365
+}

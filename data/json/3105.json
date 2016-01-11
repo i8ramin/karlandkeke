@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/NEW YORK JUNIOR TENNIS LEAGUE PS 071 X ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 071 X",
+  "address": "3040 ROBERTS AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10461",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.845780110579,
+  "longitude": -73.829827041783
+}

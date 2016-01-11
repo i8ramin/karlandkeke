@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "TALMUD TORAH DNITRA ",
+  "permitHolder": "TALMUD TORAH DNITRA",
+  "address": "1007 BEDFORD AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11205",
+  "phone": "718-596-6765",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.68960546083,
+  "longitude": -73.955142669229
+}

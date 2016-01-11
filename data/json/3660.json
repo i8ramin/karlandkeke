@@ -1,0 +1,85 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "YELED V YALDA EARLY CHILDHOOD CENTER INC ",
+  "permitHolder": "YELED V YALDA EARLY CHILDHOOD CENTER INC",
+  "address": "563 BEDFORD AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-384-1430",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5776",
+  "permitExpirationDate": " 05/30/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "50",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "13 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "03/11/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/29/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4751 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/22/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.704127490221,
+  "longitude": -73.961119954501
+}

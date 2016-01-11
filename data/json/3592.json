@@ -1,0 +1,85 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "WARBASSE NURSERY SCHOOL ",
+  "permitHolder": "WARBASSE NURSERY SCHOOL",
+  "address": "2785 WEST 5TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11224",
+  "phone": "718-266-5585",
+  "permitStatus": " Permitted ",
+  "permitNumber": "2062",
+  "permitExpirationDate": " 08/15/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "67",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/01/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Adequate space/arrangement to provide separate storage areas for childrens outer garments not provided or maintained at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4755 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "11/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/29/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/19/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/20/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.580393101965,
+  "longitude": -73.971635792761
+}

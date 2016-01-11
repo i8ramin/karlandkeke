@@ -1,0 +1,93 @@
+{
+  "type": "Camp",
+  "centerName": "ST LUKES COMMUNITY DAY CAMP ",
+  "permitHolder": "ST LUKES EPISOPAL CHURCH",
+  "address": "777 EAST 222 STREET",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-882-6882",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33711",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "62",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/06/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4811b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4817b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequately stocked first aid cabinet not provided and maintained first aid kit not provided for traveling camp",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4817l",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809i",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/10/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequately stocked first aid cabinet not provided and maintained first aid kit not provided for traveling camp",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817l",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.885037026625,
+  "longitude": -73.85956263256
+}

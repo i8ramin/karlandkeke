@@ -1,0 +1,190 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "TABERNACLE CHURCH OF GOD DAY CARE CENTER INC ",
+  "permitHolder": "TABERNACLE CHURCH OF GOD DAY CARE CENTER INC",
+  "address": "34-52 KOSCIUSZKO STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11205",
+  "phone": "718-638-3209",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4256",
+  "permitExpirationDate": " 11/11/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "56",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/28/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Permittee/applicant submitted incomplete written safety plan",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4711 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Appropriate outdoor play area not provided or maintained at the time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4747 a",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "08/18/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/09/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Children feeding bottles observed stored/used without being properly labeled with childs name and date of preparation at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4761 g",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Safe sleep environment not provided in infant toddler service safe sleep environment does not comply with US CPSC and ASTM standards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4767f1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection children observed with feeding bottles during periods of sleep Children less than two years of age observed drinking from styrofoam cups at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4761 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/05/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Safe sleep environment not provided in infant toddler service safe sleep environment does not comply with US CPSC and ASTM standards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4767f1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/20/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Safe sleep environment not provided in infant toddler service safe sleep environment does not comply with US CPSC and ASTM standards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4767f1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Infant toddler staff allows infants to sleep in other than safe sleep environment fail to move infant to safe sleep environment when required more than one infant observed sleeping in a single crib or bassinet",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4767f3",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/20/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "ROUND THE CLOCK NURSERY ",
+  "permitHolder": "URBAN CONCEPTS OF NEW YORK ROUND THE CLOCK NURSERY INC",
+  "address": "2380 MARION AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10458",
+  "phone": "718-329-6023",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "68519",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "150",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/27/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.858451412548,
+  "longitude": -73.895466198397
+}

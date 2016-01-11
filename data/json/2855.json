@@ -1,0 +1,151 @@
+{
+  "type": "Camp",
+  "centerName": "ST CHRISTOPHER-OTTILIE SUMMER ENRICHMENT PROGRAM ",
+  "permitHolder": "ST CHRISTOPHER OTTILIE",
+  "address": "990 DEKALB AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-602-6082",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33991",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "08/05/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "All camper and staff injuries illness and conditions reportable pursuant to HC Article 11 were not reported Medical log not complete and/or updated",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817k",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse Health Director not on site at time of operation",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4825b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp health program not maintained and/or supervised by physician Health records of campers and staff are not kept and maintained plan is not comprehensive and complete nutrition emergency and first aid plan accident reporting disaster search and rescue child observation food and facility maintenance not included",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/05/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Inspection pending ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "All camper and staff injuries illness and conditions reportable pursuant to HC Article 11 were not reported Medical log not complete and/or updated",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817k",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse Health Director not on site at time of operation",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4825b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp health program not maintained and/or supervised by physician Health records of campers and staff are not kept and maintained plan is not comprehensive and complete nutrition emergency and first aid plan accident reporting disaster search and rescue child observation food and facility maintenance not included",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "All camper and staff injuries illness and conditions reportable pursuant to HC Article 11 were not reported Medical log not complete and/or updated",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817k",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse Health Director not on site at time of operation",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4825b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp Operator fails to developed and implemented Written Safety Plan Plan not reviewd and updated annually Plan not approved by DOHMH does not comply with health code and 7-25 of State Sanitary Code",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp health program not maintained and/or supervised by physician Health records of campers and staff are not kept and maintained plan is not comprehensive and complete nutrition emergency and first aid plan accident reporting disaster search and rescue child observation food and facility maintenance not included",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.693153467566,
+  "longitude": -73.935764762534
+}

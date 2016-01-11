@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "RIDGEWOOD BUSHWICK BEACON PROGRAM JHS 296 ",
+  "permitHolder": "RIDGEWOOD BUSHWICK BEACON PROGRAM JHS 296",
+  "address": "125 COVERT ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11207",
+  "phone": "718-919-4453",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/17/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.688379658009,
+  "longitude": -73.910276164745
+}

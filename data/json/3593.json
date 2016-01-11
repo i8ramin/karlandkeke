@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "WARREN STREET CENTER FOR CHILDREN FAMILIES ",
+  "permitHolder": "WARREN STREET CENTER FOR CHILDREN FAMILIES",
+  "address": "343 WARREN STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "718-237-9578",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 08/07/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/22/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "02/19/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/22/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.685030050268,
+  "longitude": -73.990253938229
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA RABBI CHAIM BERLIN ",
+  "permitHolder": "YESHIVA RABBI CHAIM BERLIN",
+  "address": "1310 AVENUE I",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-377-0777",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.627373305723,
+  "longitude": -73.963495670542
+}

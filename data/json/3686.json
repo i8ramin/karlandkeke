@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA BNEI SHIMON YISROEL SOPRON ",
+  "permitHolder": "BNEI SHIMON YISROEL OF SOPRON",
+  "address": "18 WARSOFF PLACE",
+  "borough": "BROOKLYN",
+  "zipCode": "11205",
+  "phone": "718-855-4072",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.698574990301,
+  "longitude": -73.954159281401
+}

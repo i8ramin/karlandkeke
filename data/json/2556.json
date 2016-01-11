@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT ATHANASIUS SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "6120 BAY PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-236-4791",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.615958938987,
+  "longitude": -73.979238642776
+}

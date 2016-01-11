@@ -1,0 +1,52 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE LEARNING CURVE PRE-SCHOOL ",
+  "permitHolder": "THE LEARNING CURVE PRE-SCHOOL",
+  "address": "220-28 MERRICK BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11413",
+  "phone": "718-528-2020",
+  "permitStatus": " Permitted ",
+  "permitNumber": "72863",
+  "permitExpirationDate": " 09/03/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "22",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "03/11/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/24/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.678853970133,
+  "longitude": -73.748817634373
+}

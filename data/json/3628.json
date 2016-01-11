@@ -1,0 +1,263 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "WONDER WORLD LEADERS CENTER LLC ",
+  "permitHolder": "WONDER WORLD LEADERS CENTER LLC",
+  "address": "2723 CHURCH AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11226",
+  "phone": "718-940-1600",
+  "permitStatus": " Permitted ",
+  "permitNumber": "51037",
+  "permitExpirationDate": " 12/16/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "48",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/05/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "12",
+  "pastInspections": [
+    {
+      "date": "07/23/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/08/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/30/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/11/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/12/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Passed inspection Violations corrected at time of inspection ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+          "Category ": " ",
+          "Code Sub-Section": " ",
+          " Status ": ""
+        },
+        {
+          "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4741 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4735 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service/camp obstructed DOHMH staff from conducting duties of the Department at the time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "315",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4713 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate child activity not provided by child care service unacceptable forms of discipline utilized by staff of child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4767 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Daily schedule not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4767 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Passed inspection Violations corrected at time of inspection ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+          "Category ": " ",
+          "Code Sub-Section": " ",
+          " Status ": ""
+        },
+        {
+          "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4741 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4735 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/22/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/15/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Program closed ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was observed in the child care service that a bathroom/closet or other enclosed space has a locking mechanism solely operable from inside the space",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4741 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Program closed ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service/camp obstructed DOHMH staff from conducting duties of the Department at the time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "315",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4713 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate child activity not provided by child care service unacceptable forms of discipline utilized by staff of child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4767 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Daily schedule not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4767 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.650699606768,
+  "longitude": -73.951745333378
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/COALITION FOR HISPANIC FAMILY SERVICES PS 92 ",
+  "permitHolder": "COALITION FOR HISPANIC FAMILY SERVICES PS 92",
+  "address": "99-01 34TH AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11368",
+  "phone": "646-209-9841",
+  "permitStatus": " Registered ",
+  "permitNumber": "34301",
+  "permitExpirationDate": " 04/09/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/08/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.755411140764,
+  "longitude": -73.869015872875
+}

@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "TRINITY DAY CAMP ",
+  "permitHolder": "TRINITY EPISCOPAL SCHOOL CORP",
+  "address": "101 West 91 Street",
+  "borough": "MANHATTAN",
+  "zipCode": "10024",
+  "phone": "212-932-6983",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34167",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "300",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/22/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.789717296961,
+  "longitude": -73.96994644745
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SBCC/UPK ",
+  "permitHolder": "HELLENIC CLASSICAL CHARTER SCHOOL",
+  "address": "646 5 AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-499-0957",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.662638305727,
+  "longitude": -73.99208466905
+}

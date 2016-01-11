@@ -1,0 +1,76 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "YOUNG MENS CHRISTIAN ASSOCIATION OF GREATER NEW YORK ",
+  "permitHolder": "YOUNG MENS CHRISTIAN ASSOCIATION OF GREATER NEW YORK",
+  "address": "3939 RICHMOND AVENUE ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10312",
+  "phone": "718-227-3200",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "7543",
+  "permitExpirationDate": " 09/19/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "95",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/02/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "04/21/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/27/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/03/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.542097589697,
+  "longitude": -74.163075117497
+}

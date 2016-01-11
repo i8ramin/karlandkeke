@@ -1,8 +1,8 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF HELP CHRISTIANS SCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK",
-  "address": "23 SUMMIT STREET",
+  "centerName": "OUR LADY OF HELP OF CHRISTIAN PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF HELP OF CHRISTIANS",
+  "address": "7392 AMBOY ROAD",
   "borough": "STATEN ISLAND",
   "zipCode": "10307",
   "phone": "718-984-1360",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.509240142671,
-  "longitude": -74.243123845532
+  "latitude": 40.510255911069,
+  "longitude": -74.24303405235
 }

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST EPHRAIM SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "7415 FORT HAMILTON PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11228",
+  "phone": "718-833-1440",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.626151102175,
+  "longitude": -74.015894023197
+}

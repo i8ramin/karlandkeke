@@ -1,0 +1,87 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "SHIRLEY CHISHOLM DAY CARE CENTER 1 ",
+  "permitHolder": "SHIRLEY CHISHOLM DAY CARE CENTER INC",
+  "address": "2023 PACIFIC STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11233",
+  "phone": "718-756-1721",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4196",
+  "permitExpirationDate": " 07/06/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "8",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "05/20/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/05/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/21/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.676099413359,
+  "longitude": -73.921328154299
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "PROSPECT PARK YESHIVA ",
+  "permitHolder": "PROSPECT PARK YESHIVA",
+  "address": "1784 EAST 17TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-376-5959",
+  "permitStatus": " Active ",
+  "permitNumber": "7740",
+  "permitExpirationDate": " 04/03/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.606644784347,
+  "longitude": -73.95596212184
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA EITZ CHAIM DBORO PARK ",
+  "permitHolder": "YESHIVA EITZ CHAIM DBORO PARK",
+  "address": "2157 80 STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11214",
+  "phone": "718-682-2500",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.605933788144,
+  "longitude": -73.991288315009
+}

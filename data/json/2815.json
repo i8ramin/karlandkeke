@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SPORTS AND ARTS IN SCHOOLS FOUNDATION INC ",
+  "permitHolder": "SPORTS AND ARTS IN SCHOOLS FOUNDATION INC",
+  "address": "2545 GUNTHER AVE",
+  "borough": "BRONX",
+  "zipCode": "10469",
+  "phone": "718-379-7400",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 10/06/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.863728781721,
+  "longitude": -73.836068079632
+}

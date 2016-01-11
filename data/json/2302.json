@@ -1,0 +1,98 @@
+{
+  "type": "Camp",
+  "centerName": "POLY PREP SUMMER EXPERIENCE ",
+  "permitHolder": "POLYTECHNIC PREPARATORY COUNTRY DAY SCHOOL",
+  "address": "9216 7 Avenue",
+  "borough": "BROOKLYN",
+  "zipCode": "11228",
+  "phone": "718-836-9800",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33717",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "350",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/27/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Food storage preparation and service not conducted in accordance with Article 81 of the Health Code",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815f2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Food not prepared processed or packed with sanitary utensils and equipment",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815f3ii",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "07/16/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/26/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/05/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/21/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/11/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/11/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.61238191274,
+  "longitude": -74.02370283534
+}

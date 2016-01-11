@@ -1,0 +1,73 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "YELED V YALDA EARLY CHILDHOOD CENTER INC ",
+  "permitHolder": "YELED VYALDA EARLY CHILDHOOD CENTERINC",
+  "address": "6012 FARRAGUT ROAD ",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-209-1122",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6055",
+  "permitExpirationDate": " 11/08/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "80",
+  "siteType": "Head Start Direct Fed Funding",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "05/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/14/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/05/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/03/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.63751445271,
+  "longitude": -73.919053441977
+}

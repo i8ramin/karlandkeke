@@ -1,0 +1,62 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SCHOOL BASED CHILD CARE ",
+  "permitHolder": "SALVE REGINA CATHOLIC ACADEMY",
+  "address": "237 JEROME STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11207",
+  "phone": "718-277-6766",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/28/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "02/26/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care/Camp permit not maintained on designated premises at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "515",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Sewage lines observed not maintained at time of inspection Food prep drains observed directly connected to sewer at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8121 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.676211164393,
+  "longitude": -73.88747908284
+}

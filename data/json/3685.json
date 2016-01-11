@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA BETH HILLEL OF WILLIAMSBURG ",
+  "permitHolder": "YESHIVA BETH HILLEL OF WILLIAMSBURG",
+  "address": "35 HEWES STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11249",
+  "phone": "718-802-9567",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.70072705353,
+  "longitude": -73.962120945447
+}

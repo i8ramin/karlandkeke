@@ -1,30 +1,195 @@
 {
-  "type": "Camp",
-  "centerName": "CAMBA BOULEVARD CORNERSTONE A BETTER TOMORROW ",
-  "permitHolder": "CAMBA INC",
-  "address": "726 STANLEY AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11207",
-  "phone": "718-272-0050",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CPC JACOB RIIS CHILD CARE CENTER ",
+  "permitHolder": "CHINESE-AMERICAN PLANNING COUNCIL INC",
+  "address": "108 AVENUE D ",
+  "borough": "MANHATTAN",
+  "zipCode": "10009",
+  "phone": "212-533-9138",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "63917",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "150",
-  "siteType": "Summer Day Camp",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
+  "permitNumber": "6418",
+  "permitExpirationDate": " 07/01/2015",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "11 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/07/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 01/06/2016",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "2",
     "infractions": [
-
+      {
+        "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4751 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take appropriate action to keep facility free of pests or conditions conducive to pests Child care service fails to maintain extermination service log",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4751 b",
+        " Status": "OPEN "
+      }
     ]
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/31/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.660217169561,
-  "longitude": -73.881861826579
+  "numInspections": "10",
+  "pastInspections": [
+    {
+      "date": "07/23/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service fails to provide and/or maintain child illness/injury record",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4729 d",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "07/07/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/11/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Peeling lead-based paint or peeling paint of unknown lead content observed in child care facility at time of inspection At time of inspection it was determined that safe work practices were not employed during activity that potentially disturbed lead-based paint or paint of unknown lead content",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4763 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4751 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/13/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Peeling lead-based paint or peeling paint of unknown lead content observed in child care facility at time of inspection At time of inspection it was determined that safe work practices were not employed during activity that potentially disturbed lead-based paint or paint of unknown lead content",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4763 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service not free of pests or maintains pest harborage conditions at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4751 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/08/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take appropriate action to keep facility free of pests or conditions conducive to pests Child care service fails to maintain extermination service log",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4751 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/01/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take appropriate action to keep facility free of pests or conditions conducive to pests Child care service fails to maintain extermination service log",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4751 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/10/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/15/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.723484970184,
+  "longitude": -73.97616369604
 }

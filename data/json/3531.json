@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "UNITED TALMUDICAL PRESCHOOL ",
+  "permitHolder": "UNITED TALMUDICAL ACADEMY",
+  "address": "656 WILLOUGHBY AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11206",
+  "phone": "718-963-9260",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.694557181827,
+  "longitude": -73.943109161621
+}

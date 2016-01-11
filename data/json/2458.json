@@ -1,0 +1,73 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "REGO PARK DAY SCHOOL ",
+  "permitHolder": "REGO PARK DAY SCHOOL 2",
+  "address": "63-44 WETHEROLE STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11374",
+  "phone": "718-897-0693",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5977",
+  "permitExpirationDate": " 11/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "39",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "22 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "06/02/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/18/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/14/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.728268273538,
+  "longitude": -73.864397071327
+}

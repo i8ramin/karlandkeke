@@ -1,28 +1,84 @@
 {
-  "type": "Camp",
-  "centerName": "MONTEREY CORNERSTONE ",
-  "permitHolder": "GOOD SHEPHERD MONTEREY CORNERSTONE",
-  "address": "2100 MONTEREY AVE",
-  "borough": "BRONX",
-  "zipCode": "10457",
-  "phone": "",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "MONTESSORI FAMILY SCHOOL OF MANHATTAN ",
+  "permitHolder": "MONTESSORI FAMILY SCHOOL OF MANHATTAN",
+  "address": "323 EAST 47 STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10017",
+  "phone": "212-688-5950",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4730",
+  "permitExpirationDate": " 06/02/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "20",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "11 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/01/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Sufficient utility sinks not provided not of adequate size insufficent water provided in comercial buildings",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109d3",
+        " Status": "OPEN "
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.850283649963,
-  "longitude": -73.893097035428
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "07/01/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/01/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4741 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4745 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/22/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.752706813776,
+  "longitude": -73.969208860718
 }

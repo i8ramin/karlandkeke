@@ -1,0 +1,66 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "YELED V YALDA EARLY CHILDHOOD CENTER INC ",
+  "permitHolder": "YELED VYALDA EARLY CHILDHOOD CENTERINC",
+  "address": "2166 CONEY ISLAND AVE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-732-7770",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7646",
+  "permitExpirationDate": " 09/26/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "80",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/15/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "09/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.604192992985,
+  "longitude": -73.961653742607
+}

@@ -1,0 +1,72 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "QSAC ",
+  "permitHolder": "QSACINC",
+  "address": "245-37 60 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11362",
+  "phone": "718-728-8476",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7359",
+  "permitExpirationDate": " 03/16/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "137",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/28/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "06/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/28/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.757201741374,
+  "longitude": -73.732176854157
+}

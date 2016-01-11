@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST JOSEPHS SCHOOL PARISH DAY SCHOOL ",
+  "permitHolder": "ST JOSEPHS SCHOOL PARISH DAY SCHOOL",
+  "address": "217-55 100 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11429",
+  "phone": "718-464-8913",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.715193935506,
+  "longitude": -73.739766519648
+}

@@ -1,0 +1,38 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA OF BELL HARBOR ",
+  "permitHolder": "YESHIVA OF BELLE HARBOR PRE-SCHOOL",
+  "address": "134-01 ROCKAWAY BEACH BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11694",
+  "phone": "718-474-0045",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "48",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 01/06/2016",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/14/2014",
+      "type": " ",
+      "result": "",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.574257019679,
+  "longitude": -73.852101377381
+}

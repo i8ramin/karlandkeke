@@ -1,0 +1,32 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "THE FRIENDS OF CROWN HEIGHTS EDUCATIONAL CENTER INC ",
+  "permitHolder": "THE FRIENDS OF CROWN HEIGHTS EDUCATIONAL CENTER INC",
+  "address": "36 FORD STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-467-4270",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "4197",
+  "permitExpirationDate": " 03/11/2013",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/30/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.664897669219,
+  "longitude": -73.929282251828
+}

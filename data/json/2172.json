@@ -1,30 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF GRACE PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF GRACE SCHOOL",
-  "address": "3981 BRONXWOOD AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10466",
-  "phone": "718-547-9918",
+  "centerName": "OUR LADY OF GUADALUPE PRESCHOOL ",
+  "permitHolder": "OUR LADY OF GUADALUPE SCHOOL",
+  "address": "1514 72 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11228",
+  "phone": "718-331-2070",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
   "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 05/05/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
-    "infractions": [
-
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 11/21/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.886202853353,
-  "longitude": -73.854598179543
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.619054190975,
+  "longitude": -74.00075283234
 }

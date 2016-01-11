@@ -1,30 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "NYCHA MARINERS HARBOR COMM CTR ",
-  "permitHolder": "NYCHA MARINERS HARBOR COMM CTR",
-  "address": "157 BRABANT ST",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10303",
-  "phone": "718-761-3368",
+  "centerName": "NYCHA MURPHY COMMUNITY CENTER ",
+  "permitHolder": "NYCHA MURPHY COMMUNITY CENTER",
+  "address": "601 CROTONA PARK NORTH",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "718-466-6724",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "",
   "maximumCapacity": "",
-  "siteType": "Municipal Summer Day Camp",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/08/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 08/06/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.632013088802,
-  "longitude": -74.163890138237
+  "pastInspections": [
+
+  ],
+  "latitude": 40.842910590784,
+  "longitude": -73.895320843968
 }

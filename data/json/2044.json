@@ -1,28 +1,38 @@
 {
   "type": "Camp",
-  "centerName": "NEW SETTLEMENT APARTMENTS ",
-  "permitHolder": "NEW SETTLEMENT APARTMENTS",
-  "address": "1484 INWOOD AVENUE",
+  "centerName": "NEW SETTLEMENT MULTI-CULTURAL ASP ",
+  "permitHolder": "NEW SETTLEMENT MULTI-CULTURAL ASP",
+  "address": "1512 TOWNSEND AVENUE",
   "borough": "BRONX",
   "zipCode": "10452",
   "phone": "718-716-8000",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 09/26/2015",
+  "permitExpirationDate": " N/A",
   "ageRange": "",
-  "maximumCapacity": "0",
+  "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 09/10/2013",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.842544357637,
-  "longitude": -73.917451282888
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/07/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.842471143776,
+  "longitude": -73.91491419574
 }

@@ -1,33 +1,28 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "GREEN STAR AT WALLACE INC ",
-  "permitHolder": "GREEN STAR AT WALLACE INC",
-  "address": "2060-2064 WALLACE AVENUE ",
-  "borough": "BRONX",
-  "zipCode": "10462",
-  "phone": "718-409-9700",
-  "permitStatus": " Permitted ",
-  "permitNumber": "74478",
-  "permitExpirationDate": " 10/23/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "47",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "GREATER RIDGEWOOD YTH COUNCIL IS 93 ",
+  "permitHolder": "GREATER RIDGEWOOD YTH COUNCIL IS 93",
+  "address": "66-56 FOREST AVE",
+  "borough": "QUEENS",
+  "zipCode": "11385",
+  "phone": "718-456-5437",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": "true",
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 04/02/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "1",
-    "infractions": [
-      {
-        "Violation Summary ": "Restriction on milk service not complied with at time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4761 b3",
-        " Status": "CORRECTED"
-      }
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 02/18/2015 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result VISITnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div"
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.706033254409,
+  "longitude": -73.902584279289
 }

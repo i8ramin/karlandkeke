@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "SISDA SUMMER DAYCAMP ",
+  "permitHolder": "SIMPSON STREET DEVELOPMENT ASSOCIATION INC",
+  "address": "977 Fox Street",
+  "borough": "BRONX",
+  "zipCode": "10459",
+  "phone": "718-589-4844",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34218",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "175",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/21/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4821a",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.822436267843,
+  "longitude": -73.893900700602
+}

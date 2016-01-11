@@ -1,0 +1,86 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST BERNARDS KINDERGARTEN ",
+  "permitHolder": "ST BERNARDS SCHOOL",
+  "address": "4 EAST 98 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-289-2878",
+  "permitStatus": " Active ",
+  "permitNumber": "6621",
+  "permitExpirationDate": " 10/13/2008",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "50",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "13105a",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "03/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "numViolations": "7",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Hand wash sink not provided in food prep area Hand wash sink observed not maintained at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8129 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4319 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Individual not essential to food service observed in food prep area at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8113 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.789064459433,
+  "longitude": -73.954515647917
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "WELLSPRING UPK ",
+  "permitHolder": "WELLSPRING ELEMENTARY-NYC MUSLIM CENTER",
+  "address": "90-20 191 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11423",
+  "phone": "718-721-3523",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "72",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.713346890165,
+  "longitude": -73.769352784093
+}

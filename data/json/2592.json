@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT VINCENT FERRER SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "1603 BROOKLYN AVE",
+  "borough": "BROOKLYN",
+  "zipCode": "11210",
+  "phone": "718-859-3505",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.63374877151,
+  "longitude": -73.941936226192
+}

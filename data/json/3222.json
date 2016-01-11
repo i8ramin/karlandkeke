@@ -1,0 +1,106 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE CHILD STUDY CENTER OF NEW YORK ",
+  "permitHolder": "THE CHILD STUDY CENTER OF NEW YORK",
+  "address": "285 CLOVE ROAD ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10310",
+  "phone": "718-442-8588",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5102",
+  "permitExpirationDate": " 04/25/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "142",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "31 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/16/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "01/15/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+          "Category ": " ",
+          "Code Sub-Section": " ",
+          " Status ": ""
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4745 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+          "Category ": " ",
+          "Code Sub-Section": " ",
+          " Status ": ""
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4745 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.633225066511,
+  "longitude": -74.125782269443
+}

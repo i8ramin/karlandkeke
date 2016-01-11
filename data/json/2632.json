@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "SASF PS 24K ",
+  "permitHolder": "SPORTS AND ARTS IN SCHOOLS FOUNDATION INC",
+  "address": "427 38 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11232",
+  "phone": "646-286-9242",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34101",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/28/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.652694146506,
+  "longitude": -74.004742721725
+}

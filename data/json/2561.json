@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT BRIGID CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "438 GROVE STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11237",
+  "phone": "718-821-1477",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.701737315704,
+  "longitude": -73.91232828041
+}

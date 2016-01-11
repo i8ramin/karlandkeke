@@ -1,0 +1,61 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "VISITATION PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-VISITATION SCHOOL",
+  "address": "171 WEST 239 STREET",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-543-2250",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/23/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required",
+    "numInfractions": "5",
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "13105a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "13109d2",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Hand wash sink not provided in food prep area Hand wash sink observed not maintained at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "8129 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4319 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.885352383438,
+  "longitude": -73.898407394347
+}

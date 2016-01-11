@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "UNITY PLAZA CORNERSTONE PROGRAM ",
+  "permitHolder": "MEDGAR EVERS COLLEGE",
+  "address": "576 BLAKE AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11207",
+  "phone": "718-346-4807",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.667382628848,
+  "longitude": -73.897781822619
+}

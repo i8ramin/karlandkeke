@@ -1,0 +1,26 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "WORLD HARVEST DELIVERANCE CENTER ",
+  "permitHolder": "CHRISTIAN ACADEMY",
+  "address": "1521 CENTRAL AVENUE ",
+  "borough": "QUEENS",
+  "zipCode": "11691",
+  "phone": "718-337-5054",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
+}

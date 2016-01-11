@@ -1,0 +1,114 @@
+{
+  "type": "Camp",
+  "centerName": "REAL KIDS HARLEM RBI ",
+  "permitHolder": "HARLEM RBI INC",
+  "address": "502 MORRIS AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10451",
+  "phone": "646-630-2471",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "47498",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "252",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/28/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Fines pending",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a8",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809i",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/08/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a8",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "08/02/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Camp health program not maintained and/or supervised by physician Health records of campers and staff are not kept and maintained plan is not comprehensive and complete nutrition emergency and first aid plan accident reporting disaster search and rescue child observation food and facility maintenance not included",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817a",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "07/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Camp health program not maintained and/or supervised by physician Health records of campers and staff are not kept and maintained plan is not comprehensive and complete nutrition emergency and first aid plan accident reporting disaster search and rescue child observation food and facility maintenance not included",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817a",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "OPEN "
+        }
+      ]
+    }
+  ],
+  "latitude": 40.816448640968,
+  "longitude": -73.923253410995
+}

@@ -1,0 +1,98 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT SPYRIDON PAROCHIAL SCHOOL ",
+  "permitHolder": "SAINT SPYRIDON PAROCHIAL SCHOOL",
+  "address": "120 WADSWORTH AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10033",
+  "phone": "212-795-6870",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "13105a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that individual associated with child care service/camp involved in an act detrimental to health and safety",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "309",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "03/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that tools were improperly used Surfaces observed unsealed or in disrepair at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "17314 d3",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8119 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate plumbing not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.848611000368,
+  "longitude": -73.935870694297
+}

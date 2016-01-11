@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SASF PS 207Q ",
+  "permitHolder": "SPORTS AND ARTS IN SCHOOLS FOUNDATION INC",
+  "address": "159-15 88 Street",
+  "borough": "QUEENS",
+  "zipCode": "11414",
+  "phone": "718-848-2700",
+  "permitStatus": " Registered ",
+  "permitNumber": "34375",
+  "permitExpirationDate": " 03/31/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.658080942112,
+  "longitude": -73.844432522699
+}

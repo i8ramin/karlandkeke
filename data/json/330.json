@@ -1,28 +1,52 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "BETH CHANA SCHOOL ",
-  "permitHolder": "BETH CHANA SCHOOL",
-  "address": "204 KEAP STREET",
+  "type": "Camp",
+  "centerName": "BETH ELOHIM SUMMER DAY CAMP ",
+  "permitHolder": "CONGREGATION BETH ELOHIM",
+  "address": "274 GARFIELD PLACE ",
   "borough": "BROOKLYN",
-  "zipCode": "11211",
-  "phone": "718-387-7535",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "zipCode": "11215",
+  "phone": "718-768-3814",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34154",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "225",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.705325850596,
-  "longitude": -73.957988595082
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/14/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.670897445714,
+  "longitude": -73.974156620128
 }

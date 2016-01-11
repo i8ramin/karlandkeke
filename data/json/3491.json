@@ -1,0 +1,64 @@
+{
+  "type": "Camp",
+  "centerName": "UAU IS 2 BEACON ",
+  "permitHolder": "UNITED ACTIVITIES UNLIMITED INC",
+  "address": "333 MIDLAND AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10306",
+  "phone": "718-987-0351",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34376",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "500",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/11/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809i",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "07/30/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/31/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/18/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.576718189826,
+  "longitude": -74.100725372416
+}

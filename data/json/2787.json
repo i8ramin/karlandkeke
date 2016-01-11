@@ -1,0 +1,92 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SOLADE PRESCHOOL ",
+  "permitHolder": "SOLADE DAY CARE INC",
+  "address": "1111 EAST 89TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-763-1742",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7916",
+  "permitExpirationDate": " 09/10/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "15",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "8 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "07/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/13/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/01/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/09/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737b2",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "03/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.636184300854,
+  "longitude": -73.902780316515
+}

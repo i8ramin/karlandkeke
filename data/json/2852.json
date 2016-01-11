@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST CATHERINE OF SIENNA ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "118-34 RIVERTON STREET",
+  "borough": "QUEENS",
+  "zipCode": "11412",
+  "phone": "718-528-1857",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "24",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.689457171288,
+  "longitude": -73.763042480199
+}

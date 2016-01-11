@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF MOUNT CARAMEL PRESCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF MOUNT CARAMEL",
-  "address": "2465 BATHGATE AVENUE ",
-  "borough": "BRONX",
-  "zipCode": "10458",
-  "phone": "718-295-6080",
+  "centerName": "OUR LADY OF MOUNT CARAMEL ST BENEDICT PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF MOUNT CARMEL ST BENEDICT",
+  "address": "285 CLOVE ROAD ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10310",
+  "phone": "718-981-5131",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.858236430727,
-  "longitude": -73.888670196033
+  "latitude": 40.633225066511,
+  "longitude": -74.125782269443
 }

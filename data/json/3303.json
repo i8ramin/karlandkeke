@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE HAITIAN-AMERICAN UNITED FOR PROGRESS INC ",
+  "permitHolder": "THE HAITIAN-AMERICANS UNITED FOR PROGRESS INC",
+  "address": "197-25 HILLSIDE AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11423",
+  "phone": "718-749-5797",
+  "permitStatus": " Permitted ",
+  "permitNumber": "95917",
+  "permitExpirationDate": " 08/31/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "38",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.718525895543,
+  "longitude": -73.765103220495
+}

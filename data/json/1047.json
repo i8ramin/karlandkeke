@@ -1,47 +1,181 @@
 {
   "type": "Child Care - Infants/Toddlers",
-  "centerName": "ELEMENTS NURSERY ",
-  "permitHolder": "INDUS WORLD INC",
-  "address": "99 SUFFOLK STREET ",
-  "borough": "MANHATTAN",
-  "zipCode": "10002",
-  "phone": "212-982-4444",
+  "centerName": "ELADIAS KIDS ",
+  "permitHolder": "ELADIAS KIDS PARENTS LLC",
+  "address": "266 FLATBUSH AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11217",
+  "phone": "718-230-7560",
   "permitStatus": " Permitted ",
-  "permitNumber": "91419",
-  "permitExpirationDate": " 06/26/2017",
+  "permitNumber": "8186",
+  "permitExpirationDate": " 06/10/2016",
   "ageRange": "0 - 2",
-  "maximumCapacity": "18",
+  "maximumCapacity": "27",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "6 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/07/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "3",
+    "date": "Inspection Date 11/18/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "2",
     "infractions": [
       {
-        "Violation Summary ": "Permittee/applicant submitted incomplete written safety plan",
+        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4711 b",
-        " Status": "OPEN "
+        "Code Sub-Section": "4743 e",
+        " Status": "CORRECTED"
       },
       {
-        "Violation Summary ": "Children feeding bottles observed stored/used without being properly labeled with childs name and date of preparation at time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4761 g",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+        "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
         "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4735 b",
-        " Status": "OPEN "
+        "Code Sub-Section": "4745 b",
+        " Status": "CORRECTED"
       }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.718721703903,
-  "longitude": -73.986226656791
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "02/11/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4745 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Permittee failed to submit permit renewal application at least 90 days prior to permit expiration date",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4709 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/03/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737b2",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/26/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/20/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.679063082479,
+  "longitude": -73.973836175181
 }

@@ -1,14 +1,14 @@
 {
   "type": "Camp",
-  "centerName": "HARLEM CHILDRENS ZONE/PS 197 ",
-  "permitHolder": "HARLEM CHILDRENS ZONE/PS 197",
-  "address": "2230 FIFTH AVENUE",
+  "centerName": "HARLEM CHILDRENS ZONE CS 154 ",
+  "permitHolder": "HARLEM CHILDRENS ZONE CS 154",
+  "address": "250 WEST 127TH STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10037",
-  "phone": "212-234-6200",
+  "zipCode": "10027",
+  "phone": "646-261-9775",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 07/06/2015",
+  "permitExpirationDate": " N/A",
   "ageRange": "",
   "maximumCapacity": "",
   "siteType": "Summer Day Camp",
@@ -16,15 +16,17 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/24/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 07/16/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.813177209521,
-  "longitude": -73.937321114851
+  "pastInspections": [
+
+  ],
+  "latitude": 40.810921291483,
+  "longitude": -73.948937413822
 }

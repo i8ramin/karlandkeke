@@ -1,0 +1,62 @@
+{
+  "type": "Camp",
+  "centerName": "WYCKOFF GARDENS YOUTH PROGRAM ",
+  "permitHolder": "COLONY-SOUTH BROOKLYN HOUSES INC",
+  "address": "272 WYCKOFF STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11217",
+  "phone": "718-522-2431",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33710",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "29",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/04/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809i",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Provided sweetened beverage contains more than 10 calories per 8 ounces",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4828a",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/03/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.68341268705,
+  "longitude": -73.984081459407
+}

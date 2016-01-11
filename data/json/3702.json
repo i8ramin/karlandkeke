@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA KOLLEL ZICHRON YOSEF PRE-SCHOOL ",
+  "permitHolder": "YESHIVA KOLLEL ZICHRON YOSEF PRE-SCHOOL",
+  "address": "1524 EAST 17 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-338-6918",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.612554733871,
+  "longitude": -73.957081943801
+}

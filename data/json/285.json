@@ -2,15 +2,15 @@
   "type": "Camp",
   "centerName": "BEANSPROUTS DAY CAMP ",
   "permitHolder": "BEANSPROUTS",
-  "address": "421 7TH STREET ",
+  "address": "506 6TH AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11215",
   "phone": "718-965-8573",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "89719",
+  "permitNumber": "86537",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "60",
+  "maximumCapacity": "29",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1 or more",
@@ -24,7 +24,9 @@
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.668892544007,
-  "longitude": -73.982192433634
+  "pastInspections": [
+
+  ],
+  "latitude": 40.665717350644,
+  "longitude": -73.985884393243
 }

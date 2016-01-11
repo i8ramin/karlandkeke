@@ -1,0 +1,69 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "WILLIAMSBURG MONTESSORI ",
+  "permitHolder": "WMS OF NY LLC",
+  "address": "450 KENT AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11249",
+  "phone": "718-384-3400",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "55377",
+  "permitExpirationDate": " 12/19/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "87",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/21/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "06/18/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.708878201349,
+  "longitude": -73.968475333463
+}

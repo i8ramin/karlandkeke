@@ -1,30 +1,52 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "HOLY ROSARY SCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK HOLY ROSARY CHURCH",
-  "address": "1500 ARNOW AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10469",
-  "phone": "718-652-1838",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "58",
-  "siteType": "Corporate",
+  "type": "Camp",
+  "centerName": "HOLY MOUNTAIN SCHOOL ",
+  "permitHolder": "HOLY MOUNTAIN CHILD WORLD INC",
+  "address": "29-49 137 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11354",
+  "phone": "718-359-6080",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34571",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "45",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 10/22/2013",
+    "date": "Inspection Date 08/10/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.867564102988,
-  "longitude": -73.842624495597
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "08/20/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.771290046647,
+  "longitude": -73.831501972363
 }

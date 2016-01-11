@@ -1,0 +1,57 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "URBAN STRATEGIES EARLY LEARN ",
+  "permitHolder": "URBAN STRATEGIES INC",
+  "address": "1152 ELTON STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11208",
+  "phone": "718-348-9349",
+  "permitStatus": " Permitted ",
+  "permitNumber": "56557",
+  "permitExpirationDate": " 02/03/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/03/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "02/06/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/17/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/23/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.655113432524,
+  "longitude": -73.873051846171
+}

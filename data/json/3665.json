@@ -1,0 +1,59 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "YELED V YALDA ECC ",
+  "permitHolder": "YELED VYALDA EARLY CHILDHOOD CENTERINC",
+  "address": "667 EASTERN PARKWAY ",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-778-8654",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6086",
+  "permitExpirationDate": " 08/03/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "97",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "14 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/24/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "04/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.669627891448,
+  "longitude": -73.946227040005
+}

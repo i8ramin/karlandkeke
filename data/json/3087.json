@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/COALITION FOR HISPANIC FAMILY SERVICES Q877 ",
+  "permitHolder": "COALITION FOR HISPANIC FAMILY SERVICES Q877",
+  "address": "76-05 51ST AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11373",
+  "phone": "646-209-9841",
+  "permitStatus": " Registered ",
+  "permitNumber": "34302",
+  "permitExpirationDate": " 05/18/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.736782762828,
+  "longitude": -73.887437743503
+}

@@ -1,0 +1,125 @@
+{
+  "type": "Camp",
+  "centerName": "THE NEW TOWN DAY CAMP ",
+  "permitHolder": "EDUCATIONAL ALLIANCE INC",
+  "address": "344 EAST 14 STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10003",
+  "phone": "646-395-4345",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34471",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "160",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/30/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "5",
+    "infractions": [
+      {
+        "Violation Summary ": "Facilty egress observed obstructed not protected from hazardous areas",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a6",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "All windows except fire escape and emergency access windows not provided with guards in camps with children less than 10 years of age",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815d5",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815a16",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815a5",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Camp equipment not maintained not of safe design or properly installed",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815b",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Doors in an egres observed with locks do not operate with a single motion in direction of egress nooks eyes and other locking devises observed exit door less than 28 inches wide",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a13",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a16",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp equipment not maintained not of safe design or properly installed",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/15/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/22/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Facilty egress observed obstructed not protected from hazardous areas",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a6",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a16",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Buddy system or other accountability system has not been established System does not contains camper identity ability record of coming and goings buddy assignments 15 minute checks",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4813a3iv",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.731871568489,
+  "longitude": -73.983838914265
+}

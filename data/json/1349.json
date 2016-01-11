@@ -1,30 +1,118 @@
 {
-  "type": "Camp",
-  "centerName": "HARLEM CHILDRENS ZONE CS 133 ",
-  "permitHolder": "HARLEM CHILDRENS ZONE CS 133",
-  "address": "2121 FIFTH AVE",
-  "borough": "MANHATTAN",
-  "zipCode": "10037",
-  "phone": "646-620-4867",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 06/01/2016",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "HAPPY SCHOLARS ",
+  "permitHolder": "HAPPY SCHOLARS INC",
+  "address": "7806-08 NEW UTRECHT AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11214",
+  "phone": "718-256-0050",
+  "permitStatus": " Permitted ",
+  "permitNumber": "67778",
+  "permitExpirationDate": " 06/24/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "58",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "2",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/23/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "0",
+    "date": "Inspection Date 10/02/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "3",
     "infractions": [
-
+      {
+        "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+        "Category ": " ",
+        "Code Sub-Section": " ",
+        " Status": ""
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4749 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.809665298592,
-  "longitude": -73.939871194572
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "09/15/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4713 d",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4713 f",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/04/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/15/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
 }

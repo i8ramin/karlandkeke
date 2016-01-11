@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/THE BELL FOUNDATION INC BELL/OST AS-MS36 ",
+  "permitHolder": "THE BELL FOUNDATION INC BELL/OST AS-MS36",
+  "address": "123 MORNINGSIDE DRIVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10027",
+  "phone": "646-588-7900",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 11/28/2014",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/12/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.810263288753,
+  "longitude": -73.957481382095
+}

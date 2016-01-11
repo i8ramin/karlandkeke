@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SESAME SPROUT INC ",
+  "permitHolder": "SESAME SPROUT INC",
+  "address": "95-15 HORACE HARDING EXPRESSWAY ",
+  "borough": "QUEENS",
+  "zipCode": "11368",
+  "phone": "718-271-2294",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91583",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "80",
+  "siteType": "Childrens Overnight Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.734410811409,
+  "longitude": -73.864182455964
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVAH OHEL MOSHE PRESCHOOL ",
+  "permitHolder": "YESHIVAH OHEL MOSHE",
+  "address": "7914 BAY PARKWAY ",
+  "borough": "BROOKLYN",
+  "zipCode": "11214",
+  "phone": "718-236-4003",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.605747025611,
+  "longitude": -73.989865807054
+}

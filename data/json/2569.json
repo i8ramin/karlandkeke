@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT GREGORY THE GREAT SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "244-44 87 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11426",
+  "phone": "718-343-5053",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "50",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.730264110928,
+  "longitude": -73.722763706991
+}

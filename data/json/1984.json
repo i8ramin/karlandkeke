@@ -1,30 +1,45 @@
 {
   "type": "Camp",
-  "centerName": "MOSHOLU MONTEFIORE COMMUNITY CENTER EVANDER ",
-  "permitHolder": "MOSHOLU MONTEFIORE COMMUNITY CENTER EVANDER",
-  "address": "800 EAST GUNHILL ROAD",
+  "centerName": "MOSHOLU MONTEFIORE COMMUNITY CENTER TEEN CAMP ",
+  "permitHolder": "MOSHOLU MONTEFIORE COMMUNITY CENTER INC",
+  "address": "3450 DEKALB AVENUE ",
   "borough": "BRONX",
   "zipCode": "10467",
-  "phone": "347-631-9622",
+  "phone": "917-416-7353",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "93337",
+  "permitNumber": "34470",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "500",
-  "siteType": "Summer Day Camp",
+  "maximumCapacity": "150",
+  "siteType": "Traveling Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/05/2015",
+    "date": "Inspection Date 07/01/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.875946660917,
-  "longitude": -73.861968495806
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.881479579178,
+  "longitude": -73.881224851401
 }

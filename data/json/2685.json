@@ -1,0 +1,37 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SCHOOL BASED CHILD CARE ",
+  "permitHolder": "SALANTER AKIBA RIVERDALE ACADEMY",
+  "address": "655 WEST 254 STREET ",
+  "borough": "BRONX",
+  "zipCode": "10471",
+  "phone": "718-548-1717",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/19/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.903142647206,
+  "longitude": -73.910397519474
+}

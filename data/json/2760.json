@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "SHOLOM SUMMER CAMP ",
+  "permitHolder": "SHOLOM DAYCARE INC",
+  "address": "98-39 67 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11374",
+  "phone": "718-607-4563",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33760",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.725103040717,
+  "longitude": -73.8550015386
+}

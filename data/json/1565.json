@@ -1,30 +1,80 @@
 {
-  "type": "Camp",
-  "centerName": "JEWISH INSTITUE OF QUEENS COSTAR ",
-  "permitHolder": "JEWISH INSTITUE OF QUEENS COSTAR",
-  "address": "60-05 WOODHAVEN BLVD",
-  "borough": "QUEENS",
-  "zipCode": "11373",
-  "phone": "718-426-9369",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 05/10/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "type": "Universal Pre-K Half Day",
+  "centerName": "JEWISH COMMUNITY CENTER OF STATEN ISLAND INCORPORATED ",
+  "permitHolder": "JEWISH COMMUNITY CENTER OF STATEN ISLAND INCORPORATED",
+  "address": "3854 HYLAN BOULEVARD ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10308",
+  "phone": "718-948-0122",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7845",
+  "permitExpirationDate": " 09/01/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "11 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/06/2013",
+    "date": "Inspection Date 11/17/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.73124910255,
-  "longitude": -73.871560397697
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "10/14/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/25/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/05/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.545250867564,
+  "longitude": -74.142922797366
 }

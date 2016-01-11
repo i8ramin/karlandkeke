@@ -1,0 +1,160 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "PRESCHOOL OF AMERICA I/T ",
+  "permitHolder": "PRESCHOOL OF AMERICA LLC",
+  "address": "101 WEST END AVENUE ",
+  "borough": "MANHATTAN",
+  "zipCode": "10069",
+  "phone": "212-362-0135",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "7412",
+  "permitExpirationDate": " 10/12/2015",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "74",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "11 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/22/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4723 ab",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide separate adult lavatory facilities for staff Staff observed using lavatory facilities designated for childrens use",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4743 d",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection diaper changing counter not properly constructed Diaper changing area observed not to be adjacent to a hand wash sink with adequate hot and cold running water",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4743 h1",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "10",
+  "pastInspections": [
+    {
+      "date": "11/23/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection child care service failed to provide separate adult lavatory facilities for staff Staff observed using lavatory facilities designated for childrens use",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection diaper changing counter not properly constructed Diaper changing area observed not to be adjacent to a hand wash sink with adequate hot and cold running water",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 h1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737b2",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737c ",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/05/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Required smoke and carbon monoxide detectors not provided or maintained at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "11/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/21/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/14/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/23/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
+}

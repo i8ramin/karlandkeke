@@ -1,0 +1,26 @@
+{
+  "type": "Camp",
+  "centerName": "WILLIAMSBRIDGE OVAL ",
+  "permitHolder": "NYC DEPARTMENT OF PARKS AND RECREATION",
+  "address": " BAINBRIDGE AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-543-8672",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "70817",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Municipal Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
+}

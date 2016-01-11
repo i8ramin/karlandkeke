@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "YMCA STATEN ISLAND ASP PS 22 ",
+  "permitHolder": "YMCA STATEN ISLAND ASP PS 22",
+  "address": "1860 FOREST AVE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10303",
+  "phone": "718-556-0521",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/31/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.625361014185,
+  "longitude": -74.150969886077
+}

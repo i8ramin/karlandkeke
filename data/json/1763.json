@@ -1,28 +1,80 @@
 {
-  "type": "Camp",
-  "centerName": "LITTLE FLOWERS SCHOOL AGE PROGRAM II ",
-  "permitHolder": "LITTLE FLOWERS SCHOOL AGE PROGRAM II",
-  "address": "232-10 MERRICK BLVD",
+  "type": "Child Care - Pre School",
+  "centerName": "LITTLE FLOWERS EARLY CHILDHOOD CENTER INC ",
+  "permitHolder": "LITTLE FLOWERS EARLY CHILDHOOD CENTER INC",
+  "address": "234-10 MERRICK BOULEVARD ",
   "borough": "QUEENS",
-  "zipCode": "11413",
+  "zipCode": "11422",
   "phone": "718-712-1440",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 08/12/2014",
-  "ageRange": "",
-  "maximumCapacity": "",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6195",
+  "permitExpirationDate": " 07/14/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "26",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "21 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 09/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.675134365342,
-  "longitude": -73.737605338867
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "02/12/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/20/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.674389254529,
+  "longitude": -73.735856210315
 }

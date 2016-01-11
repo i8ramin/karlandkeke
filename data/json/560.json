@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BROOKLYN ARCHDIOSESE ",
-  "permitHolder": "BROOKLYN ARCHDIOCES",
-  "address": "26-25 97TH STREET",
-  "borough": "QUEENS",
-  "zipCode": "11369",
-  "phone": "",
+  "centerName": "BROOKLYN ARCHDIOCESE ",
+  "permitHolder": "VISITATION ACADEMY",
+  "address": "8902 RIDGE BLVD",
+  "borough": "BROOKLYN",
+  "zipCode": "11209",
+  "phone": "718-629-9330",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.761557554535,
-  "longitude": -73.872241737547
+  "latitude": 40.62185960526,
+  "longitude": -74.034667771895
 }

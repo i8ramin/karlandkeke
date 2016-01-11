@@ -1,0 +1,104 @@
+{
+  "type": "Camp",
+  "centerName": "THE WONDER YEARS ",
+  "permitHolder": "THE WONDER YEARS PRESCHOOL INC",
+  "address": "381 SEAVER AVENUE ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10305",
+  "phone": "718-987-7596",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34316",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "16",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/14/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "07/30/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/25/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/15/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.581223729679,
+  "longitude": -74.092642942806
+}

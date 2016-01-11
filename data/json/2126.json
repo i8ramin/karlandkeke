@@ -1,11 +1,11 @@
 {
   "type": "Camp",
-  "centerName": "NYCHA MURPHY COMMUNITY CENTER ",
-  "permitHolder": "NYCHA MURPHY COMMUNITY CENTER",
-  "address": "601 CROTONA PARK NORTH",
+  "centerName": "NYCHA PARKSIDE COMMUNITY CENTER ",
+  "permitHolder": "NYCHA PARKSIDE COMMUNITY CENTER",
+  "address": "2972 BRONX PARK EAST",
   "borough": "BRONX",
-  "zipCode": "10457",
-  "phone": "718-466-6724",
+  "zipCode": "10467",
+  "phone": "718-882-0787",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -16,15 +16,17 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/06/2013",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 08/15/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.842910590784,
-  "longitude": -73.895320843968
+  "pastInspections": [
+
+  ],
+  "latitude": 40.869374745308,
+  "longitude": -73.87051520597
 }

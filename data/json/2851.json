@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST CATHERINE OF GENOAST THERESA OF LISIEUX CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "4410 AVENUE D",
+  "borough": "BROOKLYN",
+  "zipCode": "11203",
+  "phone": "718-629-9330",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.641778981593,
+  "longitude": -73.934924394433
+}

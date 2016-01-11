@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "RENAISSANCE YOUTH CENTER ",
+  "permitHolder": "RENAISSANCE - EMS",
+  "address": "968 CAULDWELL AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-450-3466",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92377",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "3060",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.824919971215,
+  "longitude": -73.906185415253
+}

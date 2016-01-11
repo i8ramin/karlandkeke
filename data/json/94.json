@@ -16,15 +16,23 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/17/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 01/07/2016",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "12/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
   "latitude": 40.674606365107,
   "longitude": -73.804420613119
 }

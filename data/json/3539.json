@@ -1,0 +1,89 @@
+{
+  "type": "Camp",
+  "centerName": "UNIVERSITY SETTLEMENT ATLANTIC TERMINAL COMMUNITY CENTER ",
+  "permitHolder": "UNIVERSITY SETTLEMENT",
+  "address": "501 CARLTON AVE",
+  "borough": "BROOKLYN",
+  "zipCode": "11238",
+  "phone": "718-783-7329",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "69699",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "75",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/19/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8109 i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate methods to maintain food prep area free of pests was not provided or maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8123 c",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Nuisance garbage condition observed in food prep area at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8137 k",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "07/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Food service area in child care service not free of vermin and other pests Food prep area not free of pest harborage or conditions conducive to the presence of pests at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8123 a",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8109 i",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.682754064327,
+  "longitude": -73.970770027003
+}

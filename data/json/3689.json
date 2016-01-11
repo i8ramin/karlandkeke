@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA CONGREGATION TORAS YUFA ",
+  "permitHolder": "YESHIVA CONGREGATION TORAS YUFA",
+  "address": "1056 54 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-436-5683",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.635446039564,
+  "longitude": -74.000392722293
+}

@@ -1,0 +1,50 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SHARON BAPTIST HEAD START ",
+  "permitHolder": "SHARON BAPTIST BOARD OF DIRECTORS INC",
+  "address": "279-281 EAST BURNSIDE AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "718-466-1604",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6834",
+  "permitExpirationDate": " 12/01/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "109",
+  "siteType": "ACS Head Start",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 01/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "06/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
+}

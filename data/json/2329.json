@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "PRESCHOOL ",
+  "permitHolder": "YESHIVA DERECH HATORAH",
+  "address": "2810 NOSTRAND AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-258-4441",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.615716942724,
+  "longitude": -73.944775852051
+}

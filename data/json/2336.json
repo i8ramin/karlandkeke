@@ -1,0 +1,134 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "PRESCHOOL OF AMERICA ",
+  "permitHolder": "PRESCHOOL OF AMERICA USA INC",
+  "address": "2109 BROADWAY ",
+  "borough": "MANHATTAN",
+  "zipCode": "10023",
+  "phone": "212-877-1388",
+  "permitStatus": " Permitted ",
+  "permitNumber": "37637",
+  "permitExpirationDate": " 04/22/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4737c ",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "03/31/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/04/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4735 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/04/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4735 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Permittee/applicant submitted incomplete written safety plan",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4711 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection children observed with feeding bottles during periods of sleep Children less than two years of age observed drinking from styrofoam cups at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4761 i",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Permittee/applicant submitted incomplete written safety plan",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4711 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Required smoke and carbon monoxide detectors not provided or maintained at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4759 g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ROOSEVELT ISLAND DAY NURSERY ",
+  "permitHolder": "ROOSEVELT ISLAND DAY NURSERY",
+  "address": "405 MAIN STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10044",
+  "phone": "212-935-3747",
+  "permitStatus": " Permitted ",
+  "permitNumber": "8325",
+  "permitExpirationDate": " 09/24/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "15",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "6 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/01/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "05/13/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/06/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/22/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.757740935237,
+  "longitude": -73.953580576319
+}

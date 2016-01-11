@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "RENANIM MANHATTAN INC ",
+  "permitHolder": "RENANIM MANHATTAN INC",
+  "address": "141-29 84TH DRIVE",
+  "borough": "QUEENS",
+  "zipCode": "11435",
+  "phone": "718-206-4400",
+  "permitStatus": " Permitted ",
+  "permitNumber": "83258",
+  "permitExpirationDate": " 03/18/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "57",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.710428273342,
+  "longitude": -73.815897288354
+}

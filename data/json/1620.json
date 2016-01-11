@@ -1,28 +1,32 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "KIDDIE KOLLEGE ",
-  "permitHolder": "DAVID GRAYSON CHRISTIAN ACADEMY",
-  "address": "1237 EASTERN PARKWAY",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "KIDDIE CASTLE 2 THE NURSERY ",
+  "permitHolder": "1729 FLATBUSH CORP",
+  "address": "1729 FLATBUSH AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11213",
-  "phone": "718-774-4924",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "",
+  "zipCode": "11210",
+  "phone": "718-677-0311",
+  "permitStatus": " Permitted ",
+  "permitNumber": "92719",
+  "permitExpirationDate": " 07/13/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "24",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 11/18/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.66859362215,
-  "longitude": -73.927263259776
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.627660973544,
+  "longitude": -73.942197322985
 }

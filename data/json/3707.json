@@ -1,0 +1,86 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA OF BROOKLYN ",
+  "permitHolder": "YESHIVA OF BROOKLYN",
+  "address": "1470 OCEAN PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-376-3775",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/29/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received age appropriate immunizations",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4317 a2",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4323",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "10/23/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Children enrolled in school-based child care program have not received age appropriate immunizations",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4317 a2",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4323",
+          " Status ": "OPEN "
+        }
+      ]
+    }
+  ],
+  "latitude": 40.612970124134,
+  "longitude": -73.968362323463
+}

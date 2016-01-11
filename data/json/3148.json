@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/YWCA AFTER SCHOOL PS 188 ",
+  "permitHolder": "YWCA AFTER SCHOOL PS 188",
+  "address": "3314 NEPTUNE AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11224",
+  "phone": "212-735-9702",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 10/05/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.577209916662,
+  "longitude": -74.000194389375
+}

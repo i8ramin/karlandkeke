@@ -1,16 +1,16 @@
 {
-  "type": "Universal Pre-K Half Day",
-  "centerName": "BNOS SQUARE OF WILLIAMSBURG ",
-  "permitHolder": "BNOS SQUARE OF WILLIAMSBURG",
-  "address": "382 WILLOUGHBY AVENUE ",
+  "type": "School Based Child Care",
+  "centerName": "BNOS YAKOV ",
+  "permitHolder": "YESHIVATH KEHILATH YAKOV",
+  "address": "274 KEAP STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11205",
-  "phone": "718-797-9844",
+  "zipCode": "11211",
+  "phone": "718-963-1212",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "176",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.69302554493,
-  "longitude": -73.955389178969
+  "latitude": 40.706626122112,
+  "longitude": -73.955989594576
 }

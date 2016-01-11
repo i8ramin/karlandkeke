@@ -1,0 +1,65 @@
+{
+  "type": "Camp",
+  "centerName": "ST JOHNS RECREATION CENTER DAY CAMP ",
+  "permitHolder": "NYC DEPARTMENT OF PARKS AND RECREATION",
+  "address": "1251 Prospect Place",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-771-2787",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33696",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "1275",
+  "siteType": "Municipal Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/21/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "08/13/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "No Trip leader in caharge of campers during off camp tripsTrip leader does not have adequate experience and competency Trip leader not of required age Trip Leader not certified in responding to emergencies first aid or accompanied by certified individual",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4809e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4821a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/20/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/15/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.673481117019,
+  "longitude": -73.934799612003
+}

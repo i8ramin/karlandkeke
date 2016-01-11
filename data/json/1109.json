@@ -1,30 +1,63 @@
 {
-  "type": "Camp",
-  "centerName": "FIAO BEACON MARLBOROHOUSING ",
-  "permitHolder": "FIAO BEACON MARLBOROHOUSING",
-  "address": "2298 WEST 8TH STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11223",
-  "phone": "718-333-0575",
-  "permitStatus": " Registered ",
-  "permitNumber": "34062",
-  "permitExpirationDate": " 06/08/2015",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "FED KIDS CHILD CARE CENTER MANAGED BY BRIGHT HORIZONS ",
+  "permitHolder": "BRIGHT HORIZONS CHILDRENS CENTER L L C",
+  "address": "26 FEDERAL PLAZA ",
+  "borough": "MANHATTAN",
+  "zipCode": "10007",
+  "phone": "212-264-4277",
+  "permitStatus": " Permitted ",
+  "permitNumber": "8242",
+  "permitExpirationDate": " 11/01/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "51",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "6 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/13/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 09/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.592073665558,
-  "longitude": -73.978468366281
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "01/16/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/31/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+          "Category ": " ",
+          "Code Sub-Section": " ",
+          " Status ": ""
+        },
+        {
+          "Violation Summary ": "Adequate lighting not provided in food prep area at time of inspection Foods observed not protected from contamination from light fixture/bulb damage at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8119 ab",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,76 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "YOUNGERMUSIK ",
+  "permitHolder": "YOUNGERMUSIK CORP",
+  "address": "1529 BATH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11228",
+  "phone": "347-234-3813",
+  "permitStatus": " Permitted ",
+  "permitNumber": "52997",
+  "permitExpirationDate": " 10/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "24",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4713 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "04/08/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/19/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4713 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.607459583806,
+  "longitude": -74.012075630419
+}

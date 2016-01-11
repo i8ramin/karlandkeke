@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/QUEENS COMMUNITY HOUSE INC PS 86 ",
+  "permitHolder": "QUEENS COMMUNITY HOUSE INC PS 86",
+  "address": "87-41 PARSONS BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11432",
+  "phone": "718-206-0517",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 05/17/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/14/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.708890586926,
+  "longitude": -73.803937297128
+}

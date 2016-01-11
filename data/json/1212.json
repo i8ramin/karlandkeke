@@ -1,28 +1,57 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "GATEWAY ACADEMY ",
-  "permitHolder": "GATEWAY ACADEMY",
-  "address": "200 BOSCOMBE AVENUE ",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10309",
-  "phone": "718-966-8695",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "type": "Child Care - Pre School",
+  "centerName": "GARDEN SCHOOL ",
+  "permitHolder": "GARDEN SCHOOL",
+  "address": "78-02 NORTHERN BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-335-6363",
+  "permitStatus": " Permitted ",
+  "permitNumber": "73140",
+  "permitExpirationDate": " 09/09/2016",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "138",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 04/27/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4749 a",
+        " Status": "CORRECTED"
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.524591161095,
-  "longitude": -74.230184035914
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "01/20/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/05/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.755171394853,
+  "longitude": -73.888933352032
 }

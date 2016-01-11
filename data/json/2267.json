@@ -1,41 +1,66 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "PEOPLES DAY CARE ",
-  "permitHolder": "PEOPLES ELEMENTARY SCHOOL",
-  "address": "2 VAN SINDEREN AVENUE ",
+  "type": "Child Care - Pre School",
+  "centerName": "PERLAS DAYCARE CENTER INC ",
+  "permitHolder": "PERLAS DAYCARE CENTER INC",
+  "address": "2167 CONEY ISLAND AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11207",
-  "phone": "718-485-0100",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "zipCode": "11223",
+  "phone": "718-336-1044",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7820",
+  "permitExpirationDate": " 10/22/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "22",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "9 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 11/05/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
-    "numInfractions": "2",
+    "date": "Inspection Date 06/18/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4307",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "13109f",
-        " Status": "CORRECTED"
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.677748983303,
-  "longitude": -73.90333238374
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "05/13/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.604105150178,
+  "longitude": -73.96162498318
 }

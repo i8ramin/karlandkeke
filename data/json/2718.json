@@ -1,0 +1,137 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "SHALOM YELADIM EARLY CHILDHOOD CENTER ",
+  "permitHolder": "SHALOM YELADIM INC",
+  "address": "135 BENNETT AVENUE ",
+  "borough": "MANHATTAN",
+  "zipCode": "10040",
+  "phone": "212-960-8212",
+  "permitStatus": " Permitted ",
+  "permitNumber": "71037",
+  "permitExpirationDate": " 07/31/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "18",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/09/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Fines pending",
+    "numInfractions": "7",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4733 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection children were observed occupying space not previously approved by the Dept of Buildings FDNY and/or DOHMH",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4757 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection children were observed occupying space not previously approved by the Dept of Buildings FDNY and/or DOHMH",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4757 f",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "513",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "513",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4719 i",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4737c ",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "11/18/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "At time of inspection children were observed occupying space not previously approved by the Dept of Buildings FDNY and/or DOHMH",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection children were observed occupying space not previously approved by the Dept of Buildings FDNY and/or DOHMH",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4757 f",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4719 i",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737c ",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "08/24/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/26/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.854654164498,
+  "longitude": -73.934559874124
+}

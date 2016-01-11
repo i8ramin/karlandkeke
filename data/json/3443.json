@@ -1,0 +1,70 @@
+{
+  "type": "Camp",
+  "centerName": "TORAH ACADEMY FOR GIRLS CAMPS ATARA ",
+  "permitHolder": "TORAH ACADEMY FOR GIRLS",
+  "address": "444 BEACH 6 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11691",
+  "phone": "718-471-8444",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "64817",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "450",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/10/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a8",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a8",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a8",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "10/15/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/13/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.599555421588,
+  "longitude": -73.740766320557
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SPORTS ARTS IN SCHOOL FOUNDATION CS 134 ",
+  "permitHolder": "SPORTS ARTS IN SCHOOL FOUNDATION CS 134",
+  "address": "1330 BRISTOW STREET",
+  "borough": "BRONX",
+  "zipCode": "10459",
+  "phone": "718-328-3351",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/20/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.831313585813,
+  "longitude": -73.89479350521
+}

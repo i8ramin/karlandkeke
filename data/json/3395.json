@@ -1,0 +1,79 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE STUDIO SCHOOL ",
+  "permitHolder": "THE STUDIO SCHOOL",
+  "address": "117 WEST 95TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10025",
+  "phone": "212-678-2416",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "7835",
+  "permitExpirationDate": " 12/01/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "51",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "9 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/18/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "10/15/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/27/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/13/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.79250290239,
+  "longitude": -73.968760616522
+}

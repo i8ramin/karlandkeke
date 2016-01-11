@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/NYJ TENNIS LEAGUE INC PS127Q ",
+  "permitHolder": "NYJ TENNIS LEAGUE INC PS127Q",
+  "address": "98-01 25TH AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11369",
+  "phone": "718-446-4700",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/16/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/07/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.764639249527,
+  "longitude": -73.871640157253
+}

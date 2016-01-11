@@ -1,0 +1,62 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "YESHIVA CHAIM V SHULEM ",
+  "permitHolder": "YESHIVA CHAIM VSHULOM",
+  "address": "5202 13 AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-436-6868",
+  "permitStatus": " Permitted ",
+  "permitNumber": "78498",
+  "permitExpirationDate": " 01/05/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "26",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/10/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4761 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "04/29/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4761 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4741 j",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.633252800234,
+  "longitude": -73.993968849274
+}

@@ -1,30 +1,45 @@
 {
   "type": "Camp",
-  "centerName": "COUNTEE CULLEN COMMUNITY CENTER DAY CAMP ",
-  "permitHolder": "HARLEM CHILDRENS ZONE INC",
-  "address": "242 WEST 144 STREET",
-  "borough": "MANHATTAN",
-  "zipCode": "10030",
-  "phone": "212-234-4500",
-  "permitStatus": " Registered ",
-  "permitNumber": "34400",
-  "permitExpirationDate": " 09/15/2012",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "centerName": "CORTELYOU DAY CAMP ",
+  "permitHolder": "CORTELYOU EARLY CHILDHOOD CENTER INC",
+  "address": "1110 CORTELYOU ROAD ",
+  "borough": "BROOKLYN",
+  "zipCode": "11218",
+  "phone": "718-282-6077",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34236",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "24",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/17/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "date": "Inspection Date 08/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.8215121496,
-  "longitude": -73.940901013051
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/01/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.63972335176,
+  "longitude": -73.967719032111
 }

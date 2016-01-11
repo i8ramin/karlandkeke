@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SCHOOL BASED CHILD CARE ",
+  "permitHolder": "TOMER DVORA",
+  "address": "1600 55TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-633-4802",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.627441690759,
+  "longitude": -73.988648449876
+}

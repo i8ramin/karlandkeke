@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SASF 242X ",
+  "permitHolder": "SPORTS AND ARTS FOUNDATION",
+  "address": "1551 EAST 172 STREET",
+  "borough": "BRONX",
+  "zipCode": "10472",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.831333030082,
+  "longitude": -73.878347943417
+}

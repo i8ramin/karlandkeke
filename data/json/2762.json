@@ -1,0 +1,66 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SHOREFRONT YM-YWHA OF BRIGHTON-MANHATTAN BEACH INC ",
+  "permitHolder": "SHOREFRONT YM-YWHA OF BRIGHTON-MANHATTAN BEACHINC",
+  "address": "3300 CONEY ISLAND AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11235",
+  "phone": "718-646-1444",
+  "permitStatus": " Permitted ",
+  "permitNumber": "1935",
+  "permitExpirationDate": " 08/30/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "93",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "02/19/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/13/2014",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.575599780661,
+  "longitude": -73.959463595232
+}

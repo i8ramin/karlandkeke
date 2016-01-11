@@ -1,0 +1,59 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "RIVERDALE COUNTRY SCHOOL INFANT TODDLER CENTER ",
+  "permitHolder": "RIVERDALE COUNTRY SCHOOL",
+  "address": "5250 FIELDSTON ROAD ",
+  "borough": "BRONX",
+  "zipCode": "10471",
+  "phone": "718-549-8810",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7180",
+  "permitExpirationDate": " 10/15/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "14",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "13 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "03/04/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.899902034656,
+  "longitude": -73.901430878074
+}

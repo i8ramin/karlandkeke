@@ -1,30 +1,38 @@
 {
-  "type": "Camp",
-  "centerName": "HARLEM CHILDRENS ZONE CS 154 ",
-  "permitHolder": "HARLEM CHILDRENS ZONE CS 154",
-  "address": "250 WEST 127TH STREET",
+  "type": "School Based Child Care",
+  "centerName": "HARLEM CHILDRENS ZONE ",
+  "permitHolder": "HARLEM GEMS UPK",
+  "address": "41 WEST 117TH STREET ",
   "borough": "MANHATTAN",
-  "zipCode": "10027",
-  "phone": "646-261-9775",
-  "permitStatus": " Registered ",
+  "zipCode": "10026",
+  "phone": "212-876-0633",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/16/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "date": "Inspection Date 03/04/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.810921291483,
-  "longitude": -73.948937413822
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "01/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.802129369011,
+  "longitude": -73.947828071821
 }

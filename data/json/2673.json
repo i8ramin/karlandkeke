@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SCAN-SEEDS FOR THE FUTURE PS 55 ",
+  "permitHolder": "SCAN-SEEDS FOR THE FUTURE PS 55",
+  "address": "450 ST PAULS PLACE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-681-6227",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 09/26/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.836397513755,
+  "longitude": -73.90501272556
+}

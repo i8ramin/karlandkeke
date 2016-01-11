@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT FRANCES CABRINI SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "181 SUYDAM STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-386-9277",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/13/2014",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.699888691793,
+  "longitude": -73.925919841337
+}

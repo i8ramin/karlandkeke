@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA ADAS YOSEF ELANDA ",
+  "permitHolder": "YESHIVA SHAAREI HATZLUCHA",
+  "address": "1825 59 STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-837-9177",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.622187875882,
+  "longitude": -73.985954872506
+}

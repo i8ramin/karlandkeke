@@ -1,30 +1,28 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL INDUSTRIES OF GREATER NEW YORK INC BEACON 265 ",
-  "permitHolder": "GOODWILL INDUSTRIES OF GREATER NEW YORK INC BEACON 265",
-  "address": "101 Park Avenue",
-  "borough": "BROOKLYN",
-  "zipCode": "11205",
-  "phone": "718-237-0852",
+  "centerName": "GOODWILL BEACON IS 141 ",
+  "permitHolder": "GOODWILL BEACON IS 141",
+  "address": "37-11 21ST AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11105",
+  "phone": "718-777-9200",
   "permitStatus": " Registered ",
-  "permitNumber": "34121",
-  "permitExpirationDate": " 07/06/2016",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 08/14/2015",
   "ageRange": "",
   "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 07/29/2013",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
-    "infractions": [
-
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
+  "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.696317159196,
-  "longitude": -73.975780364268
+  "latitude": 40.775582197022,
+  "longitude": -73.905088976774
 }

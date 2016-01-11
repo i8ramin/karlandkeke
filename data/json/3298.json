@@ -1,0 +1,72 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "THE GODDARD SCHOOL ",
+  "permitHolder": "2495 BROADWAY CENTER LLC",
+  "address": "2495 BROADWAY ",
+  "borough": "MANHATTAN",
+  "zipCode": "10025",
+  "phone": "212-712-2727",
+  "permitStatus": " Permitted ",
+  "permitNumber": "49237",
+  "permitExpirationDate": " 07/31/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "08/05/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4719 i",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/30/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.7925809008,
+  "longitude": -73.973300227474
+}

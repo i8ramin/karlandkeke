@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/MASPETH TOWN HALL IS 49 ",
+  "permitHolder": "MASPETH TOWN HALL IS 49",
+  "address": "79-15 PENELOPE AVE",
+  "borough": "QUEENS",
+  "zipCode": "11379",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.719063857146,
+  "longitude": -73.875436778912
+}

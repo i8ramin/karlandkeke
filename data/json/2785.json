@@ -1,0 +1,32 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SOCIETY OF THE THIRD STREET MUSIC SCHOOL SETTLEMENT SWING SPACE ",
+  "permitHolder": "SOCIETY OF THE THIRD STREET MUSIC SCHOOL SETTLEMENT",
+  "address": "44 EAST 2ND STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10003",
+  "phone": "212-600-2010",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "5050SW",
+  "permitExpirationDate": " 10/01/2015",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "50",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Out of Business",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.724829211638,
+  "longitude": -73.990110998723
+}

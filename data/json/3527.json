@@ -1,0 +1,90 @@
+{
+  "type": "Camp",
+  "centerName": "UNITED NATIONS INTERNATIONAL SUMMER CAMP ",
+  "permitHolder": "UNITED NATIONS INTERNATIONAL SCHOOL",
+  "address": "2450 FDR Drive ",
+  "borough": "MANHATTAN",
+  "zipCode": "10010",
+  "phone": "212-584-3083",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34284",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "Doors in an egres observed with locks do not operate with a single motion in direction of egress nooks eyes and other locking devises observed exit door less than 28 inches wide",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a13",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Water system not designed and/or installed to provide adequate water supply to all fixtures",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "14102b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits from areas with 15 or more persons or not readily visible are not identified by lighted signs and directional signs as required",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815a15",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sufficient utility sinks not provided not of adequate size insufficent water provided in comercial buildings",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109d3",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Gasoline kerosene and other inflamables is not properly labeled stored and used",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a4",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All windows except fire escape and emergency access windows not provided with guards in camps with children less than 10 years of age",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815d5",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Potentially hazardous foods observed out of required temperature ranges during periods of storage or display at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8109 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Water system not designed and/or installed to provide adequate water supply to all fixtures",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "14102b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits from areas with 15 or more persons or not readily visible are not identified by lighted signs and directional signs as required",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a15",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ]
+}

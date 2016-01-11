@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SARATOGA BROWNSTONE FUTURELINK SCHOOL ",
+  "permitHolder": "SARATOGA BROWNSTONE FUTURELINK SCHOOL",
+  "address": "175-15 ROCKAWAY BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-244-0670",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 10/09/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/24/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.657777920037,
+  "longitude": -73.770309738656
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "THE BELL FOUNDATION INC ",
+  "permitHolder": "THE BELL FOUNDATION INC",
+  "address": "980 MACE AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10469",
+  "phone": "646-387-2955",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/11/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.863048786511,
+  "longitude": -73.859385094195
+}

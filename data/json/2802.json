@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SPORTS ARTS IN SCHOOL FOUNDATION ",
+  "permitHolder": "SPORTS ARTS IN SCHOOL FOUNDATION",
+  "address": "3441 STEENWICK AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10475",
+  "phone": "718-786-7110",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/16/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.882790676628,
+  "longitude": -73.830216542896
+}

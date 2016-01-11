@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SHAAREI ZION OHEL BRACHA ",
+  "permitHolder": "SHA AREI ZION OHEL BRACHA",
+  "address": "75-24 GRAND CENTRAL PARKWAY",
+  "borough": "QUEENS",
+  "zipCode": "11375",
+  "phone": "718-897-6771",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/09/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.718910406922,
+  "longitude": -73.834412676705
+}

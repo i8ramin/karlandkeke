@@ -1,0 +1,81 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST FRANCES DE CHANTAL PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST FRANCES DE CHANTAL",
+  "address": "2962 HARDING AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10465",
+  "phone": "718-892-5359",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/24/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "02/10/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "7",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Food service observed in operation without required permit",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8105 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4323",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4311 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4311 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.816438064602,
+  "longitude": -73.81344966599
+}

@@ -1,0 +1,74 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST ALOYSIUS PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST ALOYSIUS",
+  "address": "223 WEST 132ND STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10027",
+  "phone": "212-283-0921",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received age appropriate immunizations",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4317 a2",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4317 d",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "02/26/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Children enrolled in school-based child care program have not received age appropriate immunizations",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4317 a2",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4311 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4317 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.813774493878,
+  "longitude": -73.946023421373
+}

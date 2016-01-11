@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "PRESCHOOL ",
+  "permitHolder": "BAIS YAAKOV FAIGEH SCHONBERGER OF ADAS YEREIM",
+  "address": "1169 43 STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-435-5111",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.640273814085,
+  "longitude": -73.991741423202
+}

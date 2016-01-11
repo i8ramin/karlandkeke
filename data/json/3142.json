@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/WOODSIDE ON THE MOVE AFTER SCHOOL PROGRAM PS 11 ",
+  "permitHolder": "WOODSIDE ON THE MOVE AFTER SCHOOL PROGRAM PS 11",
+  "address": "54-25 SKILLMAN AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11377",
+  "phone": "347-624-7103",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 10/27/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.745236331777,
+  "longitude": -73.908719640567
+}

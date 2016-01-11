@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/SESAME FLYERS INTERNATIONAL INC BILDERSEE BEACON JHS 68 ",
+  "permitHolder": "SESAME FLYERS INTERNATIONAL INC BILDERSEE BEACON JHS 68",
+  "address": "956 E 82ND ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-241-3847",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 07/19/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.635545795348,
+  "longitude": -73.910790639898
+}

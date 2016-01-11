@@ -1,0 +1,50 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SUNSET BAY COMMUNITY SERVICES INC ",
+  "permitHolder": "SUNSET BAY COMMUNITY SERVICES INC",
+  "address": "199 14TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-788-2668",
+  "permitStatus": " Permitted ",
+  "permitNumber": "81379",
+  "permitExpirationDate": " 02/20/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/18/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4759 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "11/24/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/09/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.666958461374,
+  "longitude": -73.99044763623
+}

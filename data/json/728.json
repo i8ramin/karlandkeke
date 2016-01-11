@@ -1,28 +1,52 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "CHSAN SOFER PRESCHOOL ",
-  "permitHolder": "YESHIVA CHSAN SOFER",
-  "address": "1705 49TH STREET ",
-  "borough": "BROOKLYN",
-  "zipCode": "11204",
-  "phone": "718-853-8100",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "CENTRAL QUEENS YS EXPLORE DAY CAMP ",
+  "permitHolder": "CENTRAL QUEENS YM NULL INC",
+  "address": "67-09 108 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11375",
+  "phone": "718-268-5011",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33807",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "201",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/28/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.62946662768,
-  "longitude": -73.982905507425
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.728694335426,
+  "longitude": -73.847413237595
 }

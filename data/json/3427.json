@@ -1,0 +1,66 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "THURSDAYS CHILD INC I /T ",
+  "permitHolder": "THURSDAYS CHILD INC",
+  "address": "7616 13TH AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11228",
+  "phone": "718-630-5100",
+  "permitStatus": " Permitted ",
+  "permitNumber": "17759",
+  "permitExpirationDate": " 06/05/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "4",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "4 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 02/05/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "01/28/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/11/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.619550704685,
+  "longitude": -74.008216379866
+}

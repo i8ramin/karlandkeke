@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "SASF PS 86X ",
+  "permitHolder": "SPORTS AND ARTS IN SCHOOLS FOUNDATION INC",
+  "address": "2756 Reservoir Avenue ",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "347-714-1223",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34128",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/06/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.869828505433,
+  "longitude": -73.898738538317
+}

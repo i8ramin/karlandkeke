@@ -1,30 +1,65 @@
 {
   "type": "Camp",
-  "centerName": "CAMBA BREVOORT CORNERSTONE ",
-  "permitHolder": "CAMBA INC",
-  "address": "280 RALPH AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11233",
-  "phone": "347-563-1735",
+  "centerName": "CACAJ DAY CAMP ",
+  "permitHolder": "COUNCIL OF AID FOR CENTRAL ASIA JEWS - CACAJ",
+  "address": "75-02 113 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11375",
+  "phone": "718-520-1275",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "92480",
+  "permitNumber": "34508",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
   "maximumCapacity": "200",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/20/2015",
+    "date": "Inspection Date 08/03/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/02/2015 Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.679786211761,
-  "longitude": -73.922153021721
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/23/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/13/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Camp is not supervised by a Camp Director Director on site is not qualified is not of required age or does not have the required experience",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4809b12",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8115 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.719200820717,
+  "longitude": -73.835952358483
 }

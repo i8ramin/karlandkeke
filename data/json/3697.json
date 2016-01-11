@@ -1,0 +1,26 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA KTANA ",
+  "permitHolder": "MIRRER YESHIVA KTANA CENTRAL INSTITUTE",
+  "address": "1791-1781 OCEAN PARKWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-645-0536",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
+}

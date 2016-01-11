@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SUNNY SKIES PROSPECT CORP ",
+  "permitHolder": "SUNNY SKIES PROSPECT CORP",
+  "address": "720 WASHINGTON AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11238",
+  "phone": "718-438-7040",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96877",
+  "permitExpirationDate": " 09/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "114",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.676299010507,
+  "longitude": -73.963494023542
+}

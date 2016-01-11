@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SCHOLARTECH DAYCARE INC ",
+  "permitHolder": "SCHOLARTECH DAYCARE INC",
+  "address": "9402 AVENUE L",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "917-344-9774",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96937",
+  "permitExpirationDate": " 09/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "22",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.637258359158,
+  "longitude": -73.897457029912
+}

@@ -1,30 +1,52 @@
 {
-  "type": "Camp",
-  "centerName": "FAITH SUMMER DAY CAMP ",
-  "permitHolder": "FAITH BIBLE INC",
-  "address": "154-02 41ST AVENUE",
+  "type": "Child Care - Pre School",
+  "centerName": "FAIRYTALE DAY CARE ",
+  "permitHolder": "FAIRYTALE DAY CARE INC",
+  "address": "99-13 63 ROAD",
   "borough": "QUEENS",
-  "zipCode": "11354",
-  "phone": "718-886-9911",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "91204",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "100",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11374",
+  "phone": "718-275-0204",
+  "permitStatus": " Permitted ",
+  "permitNumber": "71897",
+  "permitExpirationDate": " 08/11/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "77",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "1",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/11/2015",
+    "date": "Inspection Date 06/09/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.763012957894,
-  "longitude": -73.811065736547
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "05/29/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/28/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.732562699089,
+  "longitude": -73.856688329681
 }

@@ -1,0 +1,68 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THE ALLEN STEVENSON PRESCHOOL ",
+  "permitHolder": "THE ALLEN STEVENSON SCHOOL",
+  "address": "132 EAST 78 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10075",
+  "phone": "212-288-6710",
+  "permitStatus": " Active ",
+  "permitNumber": "5452",
+  "permitExpirationDate": " 11/03/2008",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "47",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4319 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "04/01/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4311 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4311 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4319 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.774464370576,
+  "longitude": -73.959876431049
+}

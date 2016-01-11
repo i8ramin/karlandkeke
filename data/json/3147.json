@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/YMCA VIRTUAL Y PS 194 ",
+  "permitHolder": "YMCA VIRTUAL Y PS 194",
+  "address": "3117 AVE W",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-469-8100",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/28/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/14/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/03/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.59674996154,
+  "longitude": -73.933499297301
+}

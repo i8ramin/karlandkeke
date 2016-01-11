@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST AUGUSTINES PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST AUGUSTINES SCHOOL",
+  "address": "1176 FRANKLIN AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-542-3633",
+  "permitStatus": " Active ",
+  "permitNumber": "4200",
+  "permitExpirationDate": " 03/11/2007",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/07/2014",
+    "result": "Inspection Result Initial Annual Inspection - Out of Business",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.829441876969,
+  "longitude": -73.904451759963
+}

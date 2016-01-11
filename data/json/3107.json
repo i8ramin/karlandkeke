@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/NEW YORK JUNIOR TENNIS LEAGUE PS 250 ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 250",
+  "address": "108 MONTROSE AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11206",
+  "phone": "347-417-8171",
+  "permitStatus": " Registered ",
+  "permitNumber": "33888",
+  "permitExpirationDate": " 04/26/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/18/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.707096449911,
+  "longitude": -73.945475329775
+}

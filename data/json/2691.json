@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SCIENCE LANGUAGE AND ARTS ",
+  "permitHolder": "BROOKLYN MUSIC SCHOOL",
+  "address": "126 ST FELIX STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11217",
+  "phone": "347-770-0205",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.686046509348,
+  "longitude": -73.977204755483
+}

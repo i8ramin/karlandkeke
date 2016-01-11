@@ -1,30 +1,116 @@
 {
-  "type": "Camp",
-  "centerName": "COOL CREATIONS ",
-  "permitHolder": "THE MANDELL ACADEMY LLC",
-  "address": "795 COLUMBUS AVENUE ",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CONGREGATION OF THE MOTHERS OF THE HELPLESS INC ",
+  "permitHolder": "CONGREGATION OF THE MOTHERS OF THE HELPLESS INC",
+  "address": "432 WEST 20 STREET ",
   "borough": "MANHATTAN",
-  "zipCode": "10025",
-  "phone": "212-222-2925",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "91210",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "100",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10011",
+  "phone": "212-929-0839",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6880",
+  "permitExpirationDate": " 09/18/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "8",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "12 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/02/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 11/06/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
     "infractions": [
-
+      {
+        "Violation Summary ": "Child care service failed to notify DOHMH within 24 hours of child with vaccine preventable illness meningitis or TB or incidence of disease outbreak",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4727 e",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to exclude a child with a communicable disease Child care service failed to obtain physicians certificate of recovery for a child returning after an illness with a communicable disease",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4727 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4737b2",
+        " Status": "OPEN "
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.794799500655,
-  "longitude": -73.966090551436
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "11/02/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/22/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/22/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/05/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4723 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service teaching staff in an infant/toddler program do not meet staff qualification requirements",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4715 ab",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.745058488847,
+  "longitude": -74.003774917279
 }

@@ -14,15 +14,36 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/30/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4743 e",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4757 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4735 b",
+        " Status": "OPEN "
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
   "latitude": 40.720352606133,
   "longitude": -74.008524675072
 }

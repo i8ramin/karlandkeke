@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "SHALOM DAY CAMP INC ",
+  "permitHolder": "SHALOM DAY CAMP INC",
+  "address": "60 WEST END AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11235",
+  "phone": "917-544-0704",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "66098",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "300",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/30/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.580387197785,
+  "longitude": -73.953567518298
+}

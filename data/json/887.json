@@ -1,10 +1,10 @@
 {
   "type": "School Based Child Care",
-  "centerName": "CONGREGATION MACHNA SHALVA ",
-  "permitHolder": "CONGREGATION MACHNA SHALVA",
-  "address": "1362 49 STREET ",
+  "centerName": "CONG MACHNA SHALVA ",
+  "permitHolder": "CONG MACHNA SHALVA",
+  "address": "5815 20 AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
+  "zipCode": "11204",
   "phone": "718-436-2122",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.634224244173,
-  "longitude": -73.990819834749
+  "latitude": 40.620372993985,
+  "longitude": -73.981834407574
 }

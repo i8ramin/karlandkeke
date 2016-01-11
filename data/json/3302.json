@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "THE GREATER RIDGEWOOD YOUTH COUNCILS OST PS 153 ",
+  "permitHolder": "THE GREATER RIDGEWOOD YOUTH COUNCILS OST PS 153",
+  "address": "60-02 60 Lane",
+  "borough": "QUEENS",
+  "zipCode": "11378",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/02/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.716601539267,
+  "longitude": -73.903669019038
+}

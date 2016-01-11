@@ -1,0 +1,71 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE PURPLE CRAYON ",
+  "permitHolder": "KIDDIEPRISE LLC",
+  "address": "1520 86TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11228",
+  "phone": "718-232-1936",
+  "permitStatus": " Permitted ",
+  "permitNumber": "73738",
+  "permitExpirationDate": " 09/25/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "04/08/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Restriction on milk service not complied with at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4761 b3",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "03/26/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4743 e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Restriction on milk service not complied with at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4761 b3",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.611099450168,
+  "longitude": -74.009032907458
+}

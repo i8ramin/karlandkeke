@@ -1,28 +1,114 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "FABIANA ACADEMY ",
-  "permitHolder": "FABIANA DAY CARE ACADEMY INC",
-  "address": "937 TELLER AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10451",
-  "phone": "718-588-4545",
-  "permitStatus": " Permitted ",
-  "permitNumber": "73182",
-  "permitExpirationDate": " 09/10/2016",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "25",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "EXPRESSIONS EDUCATIONAL CULTURAL CENTER ",
+  "permitHolder": "EXPRESSIONS EDUCATIONAL CULTURAL CENTER INC",
+  "address": "1068 EAST 54 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11234",
+  "phone": "718-251-3662",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33869",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "51",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": "false",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/07/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.826112973557,
-  "longitude": -73.915560298528
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/02/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "6",
+      "violations": [
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "In addition to Health Director camp fails to provide one staff member per 50 campers currently certified in standard first aid and personal safety in addition to waterfront supervisor camp fails to provide one staff member per 100 campers certified in CPR",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817b",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4821a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Windows and skylights do not have a minimum casement area of 10 of floor space 40 of windows unopenable",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4815d2",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Floor and floor covering observed not made of appropriate materials Floors not clean and maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/08/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4821a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Windows and skylights do not have a minimum casement area of 10 of floor space 40 of windows unopenable",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4815d2",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Floor and floor covering observed not made of appropriate materials Floors not clean and maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8121 e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.631981865675,
+  "longitude": -73.924381470564
 }

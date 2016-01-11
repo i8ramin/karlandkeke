@@ -1,0 +1,26 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT RAPHAEL SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "48-25 37TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11101",
+  "phone": "",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST ANNS PRESCHOOL ",
+  "permitHolder": "ST ANNS PRE-SCHOOL",
+  "address": "26 WILLOW PLACE",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "718-624-2837",
+  "permitStatus": " Active ",
+  "permitNumber": "5262",
+  "permitExpirationDate": " 01/04/2010",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "70",
+  "siteType": "No Permit Required",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.693105568604,
+  "longitude": -73.997854379651
+}

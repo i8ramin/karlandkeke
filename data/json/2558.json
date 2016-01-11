@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "Saint Bartholomew Catholic Academy ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "44-15 JUDGE STREET",
+  "borough": "QUEENS",
+  "zipCode": "11373",
+  "phone": "718-446-7575",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 01/06/2016",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.742956484595,
+  "longitude": -73.877448950397
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Camp",
+  "centerName": "THE EDUCATIONAL ALLIANCE PS 140 AFTER 3 PROGRAM ",
+  "permitHolder": "THE EDUCATIONAL ALLIANCE PS 140 AFTER 3 PROGRAM",
+  "address": "123 RIDGE STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "646-214-1069",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/16/2016",
+  "ageRange": "",
+  "maximumCapacity": "173",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/09/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "09/15/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.719242785118,
+  "longitude": -73.983055552399
+}

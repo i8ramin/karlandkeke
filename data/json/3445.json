@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "TORAH VODAATH PRESCHOOL ",
+  "permitHolder": "YESHIVA TORAH VODAATH",
+  "address": "452 EAST 9 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11218",
+  "phone": "718-941-8000",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.637640573202,
+  "longitude": -73.969586436906
+}

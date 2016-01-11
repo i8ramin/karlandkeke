@@ -1,30 +1,139 @@
 {
   "type": "Camp",
-  "centerName": "KIPS BOYS AND GIRLS CLUB HELP MORRIS ",
+  "centerName": "KIPS BAY BOYS NULL CLUB DAY CAMP ",
   "permitHolder": "KIPS BAY BOYS AND GIRLS CLUB INC",
-  "address": "285 EAST 171 STREET ",
+  "address": "1930 RANDALL AVENUE",
   "borough": "BRONX",
-  "zipCode": "10457",
-  "phone": "718-583-0174",
+  "zipCode": "10473",
+  "phone": "718-893-8600",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "34469",
+  "permitNumber": "34346",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "39",
-  "siteType": "Summer Day Camp",
+  "maximumCapacity": "1294",
+  "siteType": "Traveling Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "2 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/22/2014",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 08/06/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Reinspection Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/18/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.838852812152,
-  "longitude": -73.910296513552
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "08/05/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+          "Category ": " ",
+          "Code Sub-Section": " ",
+          " Status ": ""
+        },
+        {
+          "Violation Summary ": "Bathing establishment not maintained to be free of hazards at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "16511 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Bathing establishment fails to provide/maintain lighting ventilation and heating where required",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "16547",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/05/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
+          "Category ": " ",
+          "Code Sub-Section": " ",
+          " Status ": ""
+        },
+        {
+          "Violation Summary ": "Bathing establishment not maintained to be free of hazards at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "16511 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Bathing establishment fails to provide/maintain lighting ventilation and heating where required",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "16547",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Bathing establishment not maintained to be free of hazards at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "16511 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Bathing establishment fails to provide/maintain lighting ventilation and heating where required",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "16547",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.817834118534,
+  "longitude": -73.856702699581
 }

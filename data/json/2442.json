@@ -1,0 +1,80 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "READY SET GROW ",
+  "permitHolder": "READY SET GROW CHILD CARE CENTER LLC",
+  "address": "136-16 31 ROAD ",
+  "borough": "QUEENS",
+  "zipCode": "11354",
+  "phone": "718-888-7871",
+  "permitStatus": " Permitted ",
+  "permitNumber": "8285",
+  "permitExpirationDate": " 03/28/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "8",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "5 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/02/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "02/12/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/11/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.769465565216,
+  "longitude": -73.832037311841
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "T R LITTLE PEOPLE LTD ",
+  "permitHolder": "T R LITTLE PEOPLE LTD",
+  "address": "127 EAST 90TH STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10128",
+  "phone": "212-860-8116",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7794",
+  "permitExpirationDate": " 08/28/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "8",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "9 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/26/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "06/25/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.782276573912,
+  "longitude": -73.954231427999
+}

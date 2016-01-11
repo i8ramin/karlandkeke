@@ -1,0 +1,100 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE JOY OF LEARNING DAY CARE CENTER ",
+  "permitHolder": "JOY OF LEARNING CHILD DEVELOPMENT CORP",
+  "address": "992 GATES AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-443-6463",
+  "permitStatus": " Permitted ",
+  "permitNumber": "8016",
+  "permitExpirationDate": " 06/01/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "75",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "7 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/02/2015",
+    "result": "Inspection Result Initial Annual Inspection - No inspection conducted",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "05/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/23/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4761 f",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/10/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/27/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/30/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/14/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.689292399799,
+  "longitude": -73.923685196693
+}

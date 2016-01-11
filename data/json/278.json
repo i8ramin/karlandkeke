@@ -1,30 +1,80 @@
 {
-  "type": "Camp",
-  "centerName": "BCS GARY KLINSKY CHILDREN SERVICES CENTER PS 21 ",
-  "permitHolder": "BCS GARY KLINSKY CHILDREN SERVICES CENTER PS 21",
-  "address": "180 CHAUNCEY STREET",
+  "type": "Child Care - Pre School",
+  "centerName": "BEANSPROUTS ",
+  "permitHolder": "BEANSPROUTS INC OF BROOKLYN",
+  "address": "410 6 AVENUE",
   "borough": "BROOKLYN",
-  "zipCode": "11233",
-  "phone": "718-493-9681",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 10/08/2014",
-  "ageRange": "",
-  "maximumCapacity": "0",
-  "siteType": "Summer Day Camp",
+  "zipCode": "11215",
+  "phone": "718-788-7059",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5215",
+  "permitExpirationDate": " 05/23/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "49",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "30 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 06/28/2013",
+    "date": "Inspection Date 10/14/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.680719623243,
-  "longitude": -73.926597402906
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "10/09/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/16/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/01/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.668837812454,
+  "longitude": -73.983281088116
 }

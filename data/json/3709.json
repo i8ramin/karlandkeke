@@ -1,0 +1,28 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "YESHIVA OF KINGS BAY PRESCHOOL ",
+  "permitHolder": "YESHIVA OF KINGS BAY",
+  "address": "2611 AVENUE Z",
+  "borough": "BROOKLYN",
+  "zipCode": "11235",
+  "phone": "718-646-8500",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.589171437517,
+  "longitude": -73.943404514259
+}

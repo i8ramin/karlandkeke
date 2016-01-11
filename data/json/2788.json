@@ -1,0 +1,104 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SOLOMON PRESCHOOL ",
+  "permitHolder": "SOLOMON INSTITUTE CORP",
+  "address": "35-20 147 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11354",
+  "phone": "718-961-5977",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7260",
+  "permitExpirationDate": " 02/02/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "24",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/03/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "3",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4713 f",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4737b2",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "11/09/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/01/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/23/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/26/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/26/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.765958146584,
+  "longitude": -73.819631224013
+}

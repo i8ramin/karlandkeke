@@ -1,0 +1,89 @@
+{
+  "type": "Camp",
+  "centerName": "VIC HANSON SUMMER DAY CAMP ",
+  "permitHolder": "NYC DEPARTMENT OF PARKS AND RECREATION",
+  "address": "133-39 Guy R Brewer Boulevard",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-978-1536",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33802",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "60",
+  "siteType": "Municipal Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/13/2014",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Camp fails to provides one Lifeguard for 25 campers when using off site facility lifeguard observed supervising more than 3400 ft of pool surface 50 yards of shoreline",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4813a4iii",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4821a",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "08/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Camp fails to provides one Lifeguard for 25 campers when using off site facility lifeguard observed supervising more than 3400 ft of pool surface 50 yards of shoreline",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4813a4iii",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4821a",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "08/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Camp fails to provides one Lifeguard for 25 campers when using off site facility lifeguard observed supervising more than 3400 ft of pool surface 50 yards of shoreline",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4813a4iii",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Adequate insurance coverage was not obtained prior to camping season Does not includes workers compensation comprehensive liability and/or motor vehicle insurance",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4821a",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "07/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.673744505945,
+  "longitude": -73.775936091079
+}

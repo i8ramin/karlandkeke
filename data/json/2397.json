@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "QUEEN OF ALL SAINTS SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "300 VANDERBILT AVE",
+  "borough": "BROOKLYN",
+  "zipCode": "11205",
+  "phone": "",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.68844349253,
+  "longitude": -73.968910519991
+}

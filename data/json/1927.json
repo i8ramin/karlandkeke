@@ -1,47 +1,52 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "MIDWOOD CATHOLIC ACADEMY ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "1501 HENDRICKSON STREET",
+  "type": "Camp",
+  "centerName": "MIDWOOD DEVELOPMENT CORP PS 193 ",
+  "permitHolder": "MIDWOOD DEVELOPMENT CORP PS 193",
+  "address": "2515 AVENUE L",
   "borough": "BROOKLYN",
-  "zipCode": "11234",
-  "phone": "718-377-1800",
-  "permitStatus": " Active ",
+  "zipCode": "11210",
+  "phone": "718-338-9011",
+  "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "permitExpirationDate": " 10/16/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 10/27/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
-    "numInfractions": "3",
+    "date": "Inspection Date 07/24/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4307",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4317 a1",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4317 d",
-        " Status": "CORRECTED"
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.620469013014,
-  "longitude": -73.935867400083
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.621500065952,
+  "longitude": -73.950473334224
 }

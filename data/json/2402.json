@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "QUEENS COMMUNITY HOUSE ",
+  "permitHolder": "QUEENS COMMUNITY HOUSE AT PS 117",
+  "address": "85-15 143 Street",
+  "borough": "QUEENS",
+  "zipCode": "11435",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/29/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.709455290443,
+  "longitude": -73.813375099533
+}

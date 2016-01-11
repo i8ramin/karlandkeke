@@ -1,0 +1,50 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "YESHIVATH KEHILATH YAKOV ",
+  "permitHolder": "YESHIVATH KEHILATH YAKOV INC",
+  "address": "206 WILSON STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-486-3055",
+  "permitStatus": " Permitted ",
+  "permitNumber": "57319",
+  "permitExpirationDate": " 02/20/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "59",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/12/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection hallways and other means of egress were observed obstructed and impassable",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4741 f",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "02/19/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.706970676271,
+  "longitude": -73.95996770851
+}

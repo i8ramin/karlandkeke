@@ -1,0 +1,38 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THE GILLEN BREWER SCHOOL ",
+  "permitHolder": "THE GILLEN BREWER SCHOOL",
+  "address": "410 EAST 92 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10128",
+  "phone": "212-831-3667",
+  "permitStatus": " Active ",
+  "permitNumber": "7464",
+  "permitExpirationDate": " 09/26/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "24",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/02/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "01/31/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.780480728887,
+  "longitude": -73.94611912008
+}

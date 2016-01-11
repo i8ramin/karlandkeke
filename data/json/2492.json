@@ -1,0 +1,59 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "RIVERALE NURSERY SCHOOL AND FAMILY CENTER ",
+  "permitHolder": "RIVERDALE NURSERY SCHOOL AND FAMILY CENTER",
+  "address": "3816 WALDO AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-884-3950",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7674",
+  "permitExpirationDate": " 01/03/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "69",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/19/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "12/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/27/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.887736544803,
+  "longitude": -73.903618996934
+}

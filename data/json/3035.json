@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SUNNYSIDE COMMUNITY SERVICES PS 150 ",
+  "permitHolder": "SUNNYSIDE COMMUNITY SERVICES PS 150",
+  "address": "40-01 43RD AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11104",
+  "phone": "718-784-6173",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 06/30/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/11/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.745530032869,
+  "longitude": -73.923775712759
+}

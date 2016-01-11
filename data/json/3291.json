@@ -1,0 +1,259 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THE GARVEY SCHOOL ",
+  "permitHolder": "THE GARVEY SCHOOL",
+  "address": "4120 HUTCHINSON RIVER PARKWAY",
+  "borough": "BRONX",
+  "zipCode": "10475",
+  "phone": "347-913-4201",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "06/12/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Not Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Food service observed in operation without required permit",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8105 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate natural or arrtificial ventilation not provided Commercial building not free of harmful heat dust fumes vapors or gases",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "13109b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8115 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "05/12/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Food service observed in operation without required permit",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8105 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate natural or arrtificial ventilation not provided Commercial building not free of harmful heat dust fumes vapors or gases",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "13109b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8115 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/28/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/17/2014",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "9",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care program failed to maintain line of site supervision",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4309 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Food service observed in operation without required permit",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8105 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8115 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate lighting not provided in commercial building at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4317 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that school-based child care program fails to provide area of isolation for sick children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4319 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/28/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/26/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "7",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Food service observed in operation without required permit",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8105 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "8115 a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Adequate lighting not provided in commercial building at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4317 d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.863767541377,
+  "longitude": -73.825120609503
+}

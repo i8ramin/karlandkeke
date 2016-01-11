@@ -1,30 +1,37 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK RED BULLS SUNY MARITIME ",
-  "permitHolder": "RBNY ACADEMY INC",
-  "address": "6 PENNYFIELD AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10465",
-  "phone": "215-303-9894",
+  "centerName": "NEW YORK SPORTS CLUB ",
+  "permitHolder": "TOWN SPORTS INTERNATIONAL LLC",
+  "address": "1637 3RD AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10128",
+  "phone": "212-987-7200",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "92019",
+  "permitNumber": "94598",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "90",
-  "siteType": "Childrens Overnight Camp",
+  "maximumCapacity": "15",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/07/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 08/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809i",
+        " Status": "OPEN "
+      }
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.809371532232,
-  "longitude": -73.802672034666
+  "pastInspections": [
+
+  ],
+  "latitude": 40.782396161088,
+  "longitude": -73.951357037578
 }

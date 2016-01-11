@@ -1,30 +1,77 @@
 {
-  "type": "Camp",
-  "centerName": "EAST SIDE HOUSE SETTLEMENT PATTERSON COM ",
-  "permitHolder": "EAST SIDE HOUSE SETTLEMENT PATTERSON COM",
-  "address": "340 MORRIS AVE",
-  "borough": "BRONX",
-  "zipCode": "10451",
-  "phone": "718-993-2744",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 06/26/2014",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Pre School",
+  "centerName": "EAST RIVER CHILD DEVELOPMENT CENTER ",
+  "permitHolder": "EAST RIVER CHILD DEVELOPMENT CENTER",
+  "address": "577 GRAND STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-254-7300",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4149",
+  "permitExpirationDate": " 07/18/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "13 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/06/2013",
+    "date": "Inspection Date 11/10/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "numInfractions": "1",
     "infractions": [
-
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "CORRECTED"
+      }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.813710688746,
-  "longitude": -73.925229085192
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "07/29/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/26/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4749 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109f",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "11/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.713683972568,
+  "longitude": -73.979078226822
 }

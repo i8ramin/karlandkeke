@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "THE CYBER CAMP ",
+  "permitHolder": "THE AFRICAN ISLAMIC MISSION INC",
+  "address": "1368 Fulton Street",
+  "borough": "BROOKLYN",
+  "zipCode": "11216",
+  "phone": "347-245-2524",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "46578",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "43",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/07/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.680167593748,
+  "longitude": -73.945717360417
+}

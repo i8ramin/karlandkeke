@@ -1,30 +1,80 @@
 {
   "type": "Camp",
-  "centerName": "CAMPED UP ",
-  "permitHolder": "CAMPED UP LLC",
-  "address": "180 AMSTERDAM AVENUE",
+  "centerName": "CAMP HENRY DAY CAMP ",
+  "permitHolder": "HENRY STREET SETTLEMENT",
+  "address": "301 HENRY STREET ",
   "borough": "MANHATTAN",
-  "zipCode": "10023",
-  "phone": "201-638-7240",
+  "zipCode": "10002",
+  "phone": "212-254-3100",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "69277",
-  "permitExpirationDate": " 09/15/2015",
+  "permitNumber": "34171",
+  "permitExpirationDate": " 09/15/2014",
   "ageRange": "4 - 16",
-  "maximumCapacity": "45",
+  "maximumCapacity": "114",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/22/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
+    "date": "Inspection Date 08/06/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "2",
     "infractions": [
-
+      {
+        "Violation Summary ": "Facilty egress observed obstructed not protected from hazardous areas",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a6",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "All windows except fire escape and emergency access windows not provided with guards in camps with children less than 10 years of age",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815d5",
+        " Status": "CORRECTED"
+      }
     ]
   },
   "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 07/24/2014 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.776138999334,
-  "longitude": -73.983438184859
+  "pastInspections": [
+    {
+      "date": "07/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Facilty egress observed obstructed not protected from hazardous areas",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a6",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All windows except fire escape and emergency access windows not provided with guards in camps with children less than 10 years of age",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815d5",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a16",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Non overnight camps not provided with 1 toilet 30 females 1 toilet 1 urinal 60 males 1 lavatory 40 campers",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815g2",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.714046900234,
+  "longitude": -73.982797158388
 }

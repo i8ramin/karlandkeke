@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/THE CHILD CENTER OF NEW YORK IS 237 ",
+  "permitHolder": "THE CHILD CENTER OF NEW YORK IS 237",
+  "address": "46-21 Colden Street",
+  "borough": "QUEENS",
+  "zipCode": "11355",
+  "phone": "718-353-6464",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/10/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/06/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.749537284817,
+  "longitude": -73.822072336725
+}

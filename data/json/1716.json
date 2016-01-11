@@ -1,28 +1,61 @@
 {
-  "type": "Camp",
-  "centerName": "LEINAD CHILD CARE SERVICES ",
-  "permitHolder": "LEINAD CHILD CARE SERVICES",
-  "address": "1031 FLUSHING AVENUE",
+  "type": "School Based Child Care",
+  "centerName": "LEIF ERICSON DAY SCHOOL ",
+  "permitHolder": "LEIF ERICSON DAY SCHOOL",
+  "address": "1037 72 STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11237",
-  "phone": "",
-  "permitStatus": " Registered ",
+  "zipCode": "11228",
+  "phone": "718-748-9023",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "5",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4317 a1",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program fails to provide complete written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4321 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 c",
+        " Status": "OPEN "
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.703825133547,
-  "longitude": -73.931022491887
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.625473682028,
+  "longitude": -74.011340406867
 }

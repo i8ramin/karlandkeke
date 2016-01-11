@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT AGATHA SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "736 48 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11220",
+  "phone": "718-435-3137",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.643010594021,
+  "longitude": -74.003855602532
+}

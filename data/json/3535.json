@@ -1,0 +1,80 @@
+{
+  "type": "Camp",
+  "centerName": "UNIVERSITY SETTLEMENT ",
+  "permitHolder": "UNIVERSITY SETTLEMENT SOCIETY OF NEW YORK",
+  "address": "184 ELDRIDGE STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-475-7160",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34247",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "206",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "Two means of egress not provided from each floor of a multi-story building Dead end cooridor observed in post Sept 1 1978 buildings exit way and passageways not properly constructed",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a12",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Exits from areas with 15 or more persons or not readily visible are not identified by lighted signs and directional signs as required",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815a15",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815a16",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815a5",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "The owner or agent tenant or manager fails to maintain building in safe manner Structural integrety not maintained Building not free of pests Adequate heat ventilation and lighting not provided Not free of nuisances/hazards",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "13105a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Exits from areas with 15 or more persons or not readily visible are not identified by lighted signs and directional signs as required",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a15",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a5",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.720646233925,
+  "longitude": -73.990674404347
+}

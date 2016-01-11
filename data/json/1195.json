@@ -1,28 +1,45 @@
 {
   "type": "Camp",
-  "centerName": "FUTURE MINDS ",
-  "permitHolder": "FUTURE MINDS MENTORING INC",
-  "address": "74-30 COMMONWEALTH BLVD",
-  "borough": "QUEENS",
-  "zipCode": "11426",
-  "phone": "",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "0",
+  "centerName": "FUN STATION DAY CAMP ",
+  "permitHolder": "CAMP FOR FUN CORP",
+  "address": "3555 VICTORY BLVD",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "718-370-0077",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34209",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "90",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.745939795378,
-  "longitude": -73.72745484981
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/23/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/07/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.601115596831,
+  "longitude": -74.176410664865
 }

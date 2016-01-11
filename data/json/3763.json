@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "YOUNG PEOPLES DAY CAMP OF QUEENS ",
+  "permitHolder": "YOUNG CHILDRENS DAY CAMP LTD",
+  "address": "158-11 JEWEL AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11365",
+  "phone": "631-209-2041",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92837",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.732283680637,
+  "longitude": -73.810095992272
+}

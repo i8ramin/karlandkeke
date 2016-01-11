@@ -1,28 +1,55 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "CONGREGATION KINDERSHPIEL ",
-  "permitHolder": "CONGREGATION KINDERSHPIEL",
-  "address": "4511 14 AVENUE ",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CONG MACHNE CHAIM INC ",
+  "permitHolder": "CONG MACHNE CHAIM INC",
+  "address": "6101 16TH AVENUE ",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "347-675-9194",
+  "zipCode": "11204",
+  "phone": "718-871-7571",
   "permitStatus": " Permitted ",
-  "permitNumber": "97277",
-  "permitExpirationDate": " 09/17/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "27",
+  "permitNumber": "96157",
+  "permitExpirationDate": " 09/02/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "50",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "Permittee/applicant submitted incomplete written safety plan",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4711 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection diaper changing counter not properly constructed Diaper changing area observed not to be adjacent to a hand wash sink with adequate hot and cold running water",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4743 h1",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4749 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4741 j",
+        " Status": "OPEN "
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.635802201865,
-  "longitude": -73.987703042472
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.62417846838,
+  "longitude": -73.992629599614
 }

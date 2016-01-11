@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF FATIMA ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "25-38 80TH STREET",
-  "borough": "QUEENS",
-  "zipCode": "11370",
-  "phone": "718-429-7031",
+  "centerName": "OUR LADY OF GOOD COUNSEL SCHOOL-PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-OUR LADY OF GOOD COUNSEL SCHOOL",
+  "address": "42 AUSTIN PLACE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10304",
+  "phone": "718-447-7260",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.762562660244,
-  "longitude": -73.888545553469
+  "latitude": 40.631425551205,
+  "longitude": -74.086044227566
 }

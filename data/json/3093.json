@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/GOOD SHEPHERDS MS 206B ",
+  "permitHolder": "GOOD SHEPHERDS MS 206B",
+  "address": "2280 AQUEDUCT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-584-1570",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 11/17/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.859679574684,
+  "longitude": -73.906494094213
+}

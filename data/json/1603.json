@@ -1,8 +1,8 @@
 {
   "type": "School Based Child Care",
-  "centerName": "KESSER MALKA ",
-  "permitHolder": "KESSER MALKA",
-  "address": "1031 46 STREET",
+  "centerName": "KESSAR MALKA ",
+  "permitHolder": "KESSAR MALKA",
+  "address": "1019 46 STREET ",
   "borough": "BROOKLYN",
   "zipCode": "11219",
   "phone": "718-854-7778",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.640263071365,
-  "longitude": -73.996252653372
+  "latitude": 40.640381103287,
+  "longitude": -73.996450824055
 }

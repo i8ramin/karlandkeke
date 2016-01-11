@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "YOUNG ISRAEL OF STATEN ISLAND DAY CAMP ",
+  "permitHolder": "YOUNG ISRAEL OF STATEN ISLANDINC",
+  "address": "835 FOREST HILL ROAD ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "718-494-6700",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34233",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "212",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/07/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/19/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.602271628127,
+  "longitude": -74.140355259489
+}

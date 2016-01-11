@@ -1,28 +1,78 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "GOOD FOUNDATION INC ",
-  "permitHolder": "GOOD FOUNDATION INC",
-  "address": "196-08 LINDEN BOULEVARD",
-  "borough": "QUEENS",
-  "zipCode": "11412",
-  "phone": "718-712-1500",
+  "type": "Child Care - Pre School",
+  "centerName": "GOLD MATERIAL MONTESSORI SCHOOL ",
+  "permitHolder": "CHILD CARE WORKERS CORPORATION",
+  "address": "484 SECOND AVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10016",
+  "phone": "212-545-0061",
   "permitStatus": " Permitted ",
-  "permitNumber": "99719",
-  "permitExpirationDate": " 11/10/2017",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "18",
-  "siteType": "Corporate",
+  "permitNumber": "11437",
+  "permitExpirationDate": " 01/30/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "66",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
-  "hasInspections": "false",
+  "yearsOperating": "4 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 04/30/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.693441164139,
-  "longitude": -73.755819639663
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "03/16/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4723 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4755 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection children observed with feeding bottles during periods of sleep Children less than two years of age observed drinking from styrofoam cups at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4761 i",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.740574418045,
+  "longitude": -73.978925403729
 }

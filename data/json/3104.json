@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/NEW YORK JUNIOR TENNIS LEAGUE PS 289K ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 289K",
+  "address": "900 ST MARKS AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-493-3824",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/02/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/24/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/23/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.67478633314,
+  "longitude": -73.942639404381
+}

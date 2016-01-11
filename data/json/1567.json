@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "JEWISH INSTITUTE OF QUEENS PRESCHOOL ",
+  "centerName": "Jewish Institute ",
   "permitHolder": "JEWISH INSTITUTE OF QUEENS",
-  "address": "64-41 UTOPIA PKWY",
+  "address": "60-05 WOODHAVEN BLVD ",
   "borough": "QUEENS",
-  "zipCode": "11365",
-  "phone": "718-480-0100",
+  "zipCode": "11373",
+  "phone": "718-426-9369",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -16,15 +16,23 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/16/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "date": "Inspection Date 02/19/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.737230439825,
-  "longitude": -73.793035326407
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "12/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.73124910255,
+  "longitude": -73.871560397697
 }

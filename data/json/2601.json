@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SAMUEL FIELD Y PS/IS 266 ",
+  "permitHolder": "SAMUEL FIELD Y PS/IS 266",
+  "address": "74-10 COMMONWEALTH BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11426",
+  "phone": "718-479-3920",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/05/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/26/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.74622288156,
+  "longitude": -73.727612482733
+}

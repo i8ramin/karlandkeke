@@ -1,0 +1,61 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SUGAR HILL EARLY CHILDHOOD CENTER ",
+  "permitHolder": "BROADWAY HOUSING COMMUNITIES",
+  "address": "400 WEST 155TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10032",
+  "phone": "212-862-7155",
+  "permitStatus": " Permitted ",
+  "permitNumber": "73017",
+  "permitExpirationDate": " 09/05/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "56",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/21/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4759 b",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4741 h",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4749 a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4735 b",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "04/02/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.830509207714,
+  "longitude": -73.940506339776
+}

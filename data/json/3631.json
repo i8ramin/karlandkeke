@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "WONDERLAND DAY CAMP ",
+  "permitHolder": "WONDER LAND PA LLC",
+  "address": "1018 AVENUE Y ",
+  "borough": "BROOKLYN",
+  "zipCode": "11235",
+  "phone": "718-332-0500",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33763",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "150",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/28/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.589466725109,
+  "longitude": -73.960236446541
+}

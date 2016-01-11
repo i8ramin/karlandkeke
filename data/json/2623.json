@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "SASF FLUSHING HIGH SCHOOL ",
+  "permitHolder": "SPORTS ARTS IN SCHOOLS FOUNDATION INC",
+  "address": "35-01 UNION STREET",
+  "borough": "QUEENS",
+  "zipCode": "11354",
+  "phone": "718-888-7500",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "69239",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "75",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/07/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/09/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.765158378239,
+  "longitude": -73.827889487092
+}

@@ -1,14 +1,14 @@
 {
   "type": "Camp",
-  "centerName": "CHILDRENS ARTS SCIENCE WORKSHOPS INC ",
-  "permitHolder": "CHILDRENS ARTS SCIENCE WORKSHOPS INC",
-  "address": "1619 EAST 174TH STREET",
-  "borough": "BRONX",
-  "zipCode": "10472",
-  "phone": "718-589-0553",
+  "centerName": "CHILDRENS AID SOCIETY SUMMER CAMP PS 152 ",
+  "permitHolder": "THE CHILDRENS AID SOCIETY INC",
+  "address": "93 NAGLE AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10040",
+  "phone": "212-544-0221",
   "permitStatus": " Registered ",
-  "permitNumber": "34496",
-  "permitExpirationDate": " 06/13/2012",
+  "permitNumber": "33962",
+  "permitExpirationDate": " 09/15/2012",
   "ageRange": "",
   "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
@@ -16,15 +16,17 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/08/2013",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 07/26/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.833943671107,
-  "longitude": -73.876145990905
+  "pastInspections": [
+
+  ],
+  "latitude": 40.86040590356,
+  "longitude": -73.927934776093
 }

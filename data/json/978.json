@@ -1,28 +1,87 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "DREAM CHARTER SCHOOL ",
-  "permitHolder": "DREAM CHARTER SCHOOL",
-  "address": "433 EAST 100 STREET ",
-  "borough": "MANHATTAN",
-  "zipCode": "10029",
-  "phone": "212-722-0232",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "type": "Child Care - Pre School",
+  "centerName": "DOLLY FRANK RUSSO SR FIRST STEP EARLY CHILDHOOD CENTER ",
+  "permitHolder": "HEARTSHARE HUMAN SERVICES OF NEW YORK",
+  "address": "118-03 101 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11419",
+  "phone": "718-805-7117",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6413",
+  "permitExpirationDate": " 06/04/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "22",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "22 ",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 10/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.785251606955,
-  "longitude": -73.941525542316
+  "numInspections": "9",
+  "pastInspections": [
+    {
+      "date": "04/29/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/24/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/24/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/23/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.689749516991,
+  "longitude": -73.826718245407
 }

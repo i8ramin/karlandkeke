@@ -1,28 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "CAMBRIA HEIGHTS COMMUNITY CHURCH ASP ",
-  "permitHolder": "CAMBRIA HEIGHTS COMMUNITY CHURCH ASP",
-  "address": "116-02 220TH STREET",
-  "borough": "QUEENS",
-  "zipCode": "11411",
-  "phone": "718-276-2686",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 04/19/2015",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Private",
+  "centerName": "CAMBA KIDS UNITE SUMMER CAMP ",
+  "permitHolder": "CAMBA",
+  "address": "7002 4TH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11209",
+  "phone": "347-623-3969",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92697",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "50",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.696517658657,
-  "longitude": -73.739424976033
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.633582574163,
+  "longitude": -74.023948182923
 }

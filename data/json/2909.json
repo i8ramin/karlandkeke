@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST MARK DAY CARE SERVICE ",
+  "permitHolder": "ST MARK DAY SCHOOL",
+  "address": "1435 UNION STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11213",
+  "phone": "718-756-6607",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.66855081211,
+  "longitude": -73.943877612953
+}

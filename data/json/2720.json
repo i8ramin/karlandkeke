@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SHALSHELES BAIS YAAKOV ",
+  "permitHolder": "SHALSHELES BAIS YAAKOV",
+  "address": "4421 15 AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-436-1122",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.634989419129,
+  "longitude": -73.984961361487
+}

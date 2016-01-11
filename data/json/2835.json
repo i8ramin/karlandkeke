@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "ST ALBANS VACATION BIBLE SCHOOL ",
+  "permitHolder": "THE PRESBYTERIAN CHURCH OF ST ALBANS",
+  "address": "190-04 119 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11412",
+  "phone": "718-528-2495",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34594",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "31",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/21/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/01/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.688989047627,
+  "longitude": -73.759679869177
+}

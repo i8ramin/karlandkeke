@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THE CHURCH OF ST TERESA OF THE INFANT JESUS ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK- THE CHURCH OF ST TERESA OF THE INFANT JESUS",
+  "address": "1632 VICTORY BLVD",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "718-448-9650",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.613435384117,
+  "longitude": -74.117824549812
+}

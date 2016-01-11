@@ -1,35 +1,38 @@
 {
   "type": "Camp",
-  "centerName": "PAL JHS 118 ",
-  "permitHolder": "PAL JHS 118",
-  "address": "577 EAST 179TH STREET",
-  "borough": "BRONX",
-  "zipCode": "10457",
-  "phone": "718-584-2330",
+  "centerName": "PAL PS 48 ",
+  "permitHolder": "POLICE ATHLETIC LEAGUE INC",
+  "address": "1050 TARGEE ST",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10304",
+  "phone": "718-556-4440",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "93179",
+  "permitNumber": "65377",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "500",
+  "maximumCapacity": "300",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "2 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/06/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "1",
+    "date": "Inspection Date 08/07/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4815a5",
-        " Status": "OPEN "
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.848332125766,
-  "longitude": -73.893078496669
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.603476864138,
+  "longitude": -74.091237050728
 }

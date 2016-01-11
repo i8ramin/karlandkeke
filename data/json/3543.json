@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "UNIVERSITY SETTLEMENT OST PS 19 ",
+  "permitHolder": "UNIVERSITY SETTLEMENT OST PS 19",
+  "address": "185 FIRST AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10003",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.729629092263,
+  "longitude": -73.983817811798
+}

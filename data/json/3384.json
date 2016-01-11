@@ -1,0 +1,35 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE SALVATION ARMY ",
+  "permitHolder": "THE SALVATION ARMY",
+  "address": "132-136 WEST 14TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10011",
+  "phone": "212-337-7479",
+  "permitStatus": " Permitted ",
+  "permitNumber": "72790",
+  "permitExpirationDate": " 08/29/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 05/12/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection required hand wash signs were not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4735 b",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ]
+}

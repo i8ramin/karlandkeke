@@ -1,0 +1,90 @@
+{
+  "type": "Camp",
+  "centerName": "ST ADALBERTS SUMMER CAMP ",
+  "permitHolder": "ST ADALBERT ROMAN CATHOLIC CHURCH",
+  "address": "52-17 83 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11373",
+  "phone": "347-261-4807",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34520",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/09/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Written Safety Plan incomplete provisions do not address staff facility fire safety medical requirements general and activity specific safety staff training and camper orientation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4811b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815a5",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4809i",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.732862379233,
+  "longitude": -73.883825319254
+}
