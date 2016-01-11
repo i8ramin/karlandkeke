@@ -1,11 +1,14 @@
 - details = details || nil
 - location= daycare.location.to_hsh(:lon, :lat)
+- num_violations = 0
+- num_violations = daycare.inspection.infractions.count if daycare.inspection
 
 .media.daycare[
   data-lat=location[:lat]
   data-lon=location[:lon]
   data-center_name=daycare.center_name
   data-grade=daycare.grade
+  data-num_violations = num_violations
   data-permalink="/daycare/#{daycare.permalink}"
 ]
   .media-body
@@ -31,8 +34,6 @@
           strong &middot;
           span.capacity=" #{daycare.maximum_capacity} Capacity"
 
-      - num_violations = 0
-      - num_violations = daycare.inspection.infractions.count if daycare.inspection
       - if num_violations > 0
         .violations
           strong= "#{num_violations} violations"

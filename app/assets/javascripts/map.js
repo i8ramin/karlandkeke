@@ -56,6 +56,7 @@ var setup_map = function(points, show_popup_on_load, interactive) {
     var lon = $(point).data('lon');
     var center_name = $(point).data('center_name');
     var permalink   = $(point).data('permalink');
+    var num_violations = $(point).data('num_violations');
     var grade = $(point).data('grade');
     var props = get_marker_for_grade(grade);
     if (!lat || !lon || lat === '0.0' || lon === '0.0') {
@@ -71,7 +72,7 @@ var setup_map = function(points, show_popup_on_load, interactive) {
       "properties": {
         "title": center_name,
         "url": permalink,
-        "description": "<div class=\"image table-cell\"><span class=\"grade grade-"+grade+"\">"+grade+"</span></div>",
+        "description": num_violations + ' violations',
         "marker-symbol": props.symbol,
         "marker-color": props.color,
         "marker-size": "large",
@@ -85,10 +86,12 @@ var setup_map = function(points, show_popup_on_load, interactive) {
         feature = marker.feature;
 
     // Create custom popup content
-    var popupContent =  '<a target="_blank" class="popup" href="' + feature.properties.url + '">' +
-                            // feature.properties.description +
-                            feature.properties.title
-                        '</a>';
+    var popupContent =  '<a href="' + feature.properties.url + '">' +
+                            '<strong>' + feature.properties.title + '</strong>' +
+                        '</a>' +
+                        '<div>' +
+                          feature.properties.description +
+                        '</div>';
 
     marker.bindPopup(popupContent);
     if (show_popup_on_load) {
