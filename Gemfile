@@ -13,8 +13,11 @@ source 'https://rubygems.org' do
   gem 'puma'
 
   gem 'mongoid', '~> 5.0.0'
-  gem 'mongoid_search'#, github: 'mauriciozaffari/mongoid_search', branch: 'master'
   gem 'mongoid-geospatial'
+
+  # TODO: pointing to the master branch fails deployment,
+  # so loading lates version
+  gem 'mongoid_search'#, github: 'mauriciozaffari/mongoid_search', branch: 'master'
 
   gem 'therubyracer'
 

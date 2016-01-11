@@ -41,7 +41,7 @@ namespace :mongo do
 
     # create geospatial indexes
     Daycare.create_indexes
-    
+
     puts "#{counter} records imported"
     puts "#{fails.size} failed to import"
     puts "END   import JSON --> Mongo"
@@ -50,5 +50,24 @@ namespace :mongo do
   desc "index Daycare data for full text search"
   task index: :environment do
     Daycare.update_ngram_index
+  end
+end
+
+# TODO: since the master branch of the mongoid_search gem fails to install
+# on Heroku, copying over the index rake task from the repo so we can use it
+namespace :mongoid_search do
+  desc 'Goes through all documents with search enabled and indexes the keywords.'
+  task :index => :environment do
+    ::Rails.application.eager_load!
+    if Mongoid::Search.classes.blank?
+      Mongoid::Search::Log.log "No model to index keywords.\n"
+    else
+      Mongoid::Search.classes.each do |klass|
+        Mongoid::Search::Log.silent = ENV['SILENT']
+        Mongoid::Search::Log.log "\nIndexing documents for #{klass.name}:\n"
+        klass.index_keywords!
+      end
+      Mongoid::Search::Log.log "\n\nDone.\n"
+    end
   end
 end
