@@ -120,18 +120,11 @@ GEM
       mongo (~> 2.1)
       origin (~> 2.1)
       tzinfo (>= 0.3.37)
-    mongoid-compatibility (0.3.1)
-      activesupport
-      mongoid (>= 2.0)
     mongoid-geospatial (5.0.0)
       mongoid (>= 5.0.0.beta)
     mongoid-pagination (0.2.0)
       activesupport
       mongoid
-    mongoid_fulltext (0.7.1)
-      mongoid (>= 3.0)
-      mongoid-compatibility
-      unicode_utils
     net-http-digest_auth (1.4)
     net-http-persistent (2.9.4)
     nokogiri (1.6.6.4)
@@ -227,7 +220,6 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.1)
-    unicode_utils (1.4.0)
     web-console (2.2.1)
       activemodel (>= 4.0)
       binding_of_caller (>= 0.7.2)
@@ -254,7 +246,6 @@ DEPENDENCIES
   mongoid (~> 5.0.0)!
   mongoid-geospatial!
   mongoid-pagination!
-  mongoid_fulltext!
   mongoid_search!
   pry-byebug!
   puma!
