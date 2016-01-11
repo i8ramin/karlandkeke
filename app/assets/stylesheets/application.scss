@@ -148,6 +148,10 @@ body {
 .daycare {
   border-bottom: 1px solid $gray-lighter;
 
+  &.hovering {
+    background: $gray-lighter;
+  }
+
   &:last-of-type {
     border-bottom: 0;
   }

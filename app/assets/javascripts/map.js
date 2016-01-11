@@ -1,6 +1,6 @@
 var map;
 
-var setup_map = function(points, show_popup_on_load) {
+var setup_map = function(points, show_popup_on_load, interactive) {
   
   // setup map
   L.mapbox.accessToken = 'pk.eyJ1IjoiaGsyMyIsImEiOiJjaWg2dDRmOXAwNmNpdWtrdDRvdW1xdzI2In0.F9uULd8DhCkRGltilPPZbg';
@@ -16,6 +16,7 @@ var setup_map = function(points, show_popup_on_load) {
   });
 
   var markerLayer = L.mapbox.featureLayer().addTo(map);
+  var markers = [];
 
   var geojson= {
     "type": "FeatureCollection",
@@ -93,11 +94,25 @@ var setup_map = function(points, show_popup_on_load) {
     if (show_popup_on_load) {
       marker.openPopup();
     }
+    markers[feature.properties.url] = marker;
   });
 
   markerLayer.setGeoJSON(geojson);
   if (geojson.features.length > 0) {
     map.fitBounds(markerLayer.getBounds());  
+  }
+
+  if (interactive) {
+    $(".daycare").on("mouseover", function(e) {
+      $('.daycare').removeClass("hovering");
+      var $daycare  = $(e.currentTarget);
+      var permalink = $daycare.data('permalink');
+      var marker    = markers[permalink];
+      if (marker) {
+        marker.openPopup();
+      }
+      $daycare.addClass("hovering");
+    });
   }
 };
 

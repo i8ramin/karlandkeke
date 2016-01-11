@@ -1,3 +1,3 @@
 $(function(){
-  setup_map($(".daycare"));
+  setup_map($(".daycare"), null, true);
 });
