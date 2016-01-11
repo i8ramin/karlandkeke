@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "WESTHAB INC ",
+  "permitHolder": "WESTHAB INC",
+  "address": "1535 STORY AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10473",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.821768820265,
+  "longitude": -73.876916647403
+}

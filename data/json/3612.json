@@ -1,0 +1,56 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "WILLIAMSBRIDGE N A A C P EARLY CHILDHOOD EDUCATION CENTER ",
+  "permitHolder": "WILLIAMSBRIDGE N A A C P EARLY CHILDHOOD EDUCATION CENTERINC",
+  "address": "670-680 EAST 219 STREET",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-798-1262",
+  "permitStatus": " Permitted ",
+  "permitNumber": "3067",
+  "permitExpirationDate": " 06/28/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "165",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/16/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "06/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4725 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "06/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
+}

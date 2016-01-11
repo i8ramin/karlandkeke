@@ -1,0 +1,61 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THE GARVEY PRESCHOOL ",
+  "permitHolder": "THE GARVEY SCHOOL",
+  "address": "100 DREISER LOOP",
+  "borough": "BRONX",
+  "zipCode": "10475",
+  "phone": "718-379-7900",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 02/26/2015",
+    "result": "Inspection Result Initial Annual Inspection - Out of Business",
+    "numInfractions": "5",
+    "infractions": [
+      {
+        "Violation Summary ": "Food service observed in operation without required permit",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "8105 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4323",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4317 d",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.878148981524,
+  "longitude": -73.828127449048
+}

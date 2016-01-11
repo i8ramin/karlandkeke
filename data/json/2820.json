@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "SQPA NYCHA BEACON SATELLITE ",
+  "permitHolder": "SQPA NYCHA BEACON SATELLITE",
+  "address": "109-04 160TH ST",
+  "borough": "QUEENS",
+  "zipCode": "11433",
+  "phone": "718-297-7237",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 07/19/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/31/2013",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/24/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/20/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.693948985093,
+  "longitude": -73.792027049946
+}

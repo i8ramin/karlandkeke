@@ -1,28 +1,38 @@
 {
   "type": "School Based Child Care",
-  "centerName": "MOST HOLY REDEEMER CATHOLIC ACADEMY ",
+  "centerName": "Most Precious ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "146-28 JASMINE AVENUE",
+  "address": "32-52 37 STREET",
   "borough": "QUEENS",
-  "zipCode": "11355",
-  "phone": "718-359-1800",
+  "zipCode": "11103",
+  "phone": "718-278-4081",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "66",
-  "siteType": "Corporate",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Out of Business",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.752955581927,
-  "longitude": -73.814086519046
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "05/16/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.759301332272,
+  "longitude": -73.920947948933
 }

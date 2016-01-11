@@ -1,0 +1,57 @@
+{
+  "type": "Camp",
+  "centerName": "SASF JHS 88K ",
+  "permitHolder": "SPORTS AND ARTS IN SCHOOLS FOUNDATION INC",
+  "address": "544 7 AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "347-417-8179",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34491",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "110",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/05/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Camp operator fails to maintains staff records application qualifications certifications not on file or available for inspection employees education experience training and references not verified",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4809i",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "08/03/2015",
+      "type": " Initial Annual Inspection",
+      "result": "No inspection conducted ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.660016648774,
+  "longitude": -73.987637288658
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "YWCA-NYC AFTER SCHOOL PS 327 ",
+  "permitHolder": "YWCA-NYC AFTER SCHOOL PS 327",
+  "address": "111 BRISTOL ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11212",
+  "phone": "212-735-9780",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 10/10/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/23/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.668467906116,
+  "longitude": -73.912350550857
+}

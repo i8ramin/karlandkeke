@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YEHIVAT OHEL TORAH ",
+  "permitHolder": "YEHIVAT OHEL TORAH",
+  "address": "1760 53 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11204",
+  "phone": "718-431-0915",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.626628718376,
+  "longitude": -73.984278781618
+}

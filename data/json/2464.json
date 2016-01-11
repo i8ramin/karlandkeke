@@ -1,0 +1,49 @@
+{
+  "type": "Camp",
+  "centerName": "RENAISSANCE YOUTH CENTER ",
+  "permitHolder": "RENAISSANCE EMS",
+  "address": "3485 THIRD AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-450-3466",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91524",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "160",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/24/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a8",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4815a16",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "04/15/2014",
+      "type": " ",
+      "result": "",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.830217360913,
+  "longitude": -73.906232120445
+}

@@ -1,30 +1,43 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "EUREKA NURSERY DAY CARE CORP ",
-  "permitHolder": "EUREKA NURSERY DAY CARE CORP",
-  "address": "2502 CLARENDON ROAD ",
-  "borough": "BROOKLYN",
-  "zipCode": "11226",
-  "phone": "718-284-2155",
-  "permitStatus": " Permitted ",
-  "permitNumber": "96137",
-  "permitExpirationDate": " 09/02/2017",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "24",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "ESF CAMP RIVERDALE ",
+  "permitHolder": "ESF CAMP RIVERDALE",
+  "address": "5240-5250 FIELDSTON ROAD ",
+  "borough": "BRONX",
+  "zipCode": "10471",
+  "phone": "718-432-1013",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "37417",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "268",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 11/17/2015",
+    "date": "Inspection Date 06/16/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.642940796118,
-  "longitude": -73.953401306598
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
 }

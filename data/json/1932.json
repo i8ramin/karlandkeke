@@ -1,28 +1,38 @@
 {
   "type": "Camp",
-  "centerName": "MILLENNIUM DEVELOPMENT PS 115 ",
-  "permitHolder": "MILLENNIUM DEVELOPMENT PS 115",
-  "address": "1500 EAST 92ND STREET",
+  "centerName": "MILLENNIUM DEVELOPMENT PS 236 ",
+  "permitHolder": "MILLENNIUM DEVELOPMENT PS 236",
+  "address": "6302 Avenue U",
   "borough": "BROOKLYN",
-  "zipCode": "11236",
-  "phone": "718-444-0101",
+  "zipCode": "11234",
+  "phone": "",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 03/19/2016",
+  "permitExpirationDate": " N/A",
   "ageRange": "",
   "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/22/2013",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.6350074617,
-  "longitude": -73.897262340549
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.615990893054,
+  "longitude": -73.91298882272
 }

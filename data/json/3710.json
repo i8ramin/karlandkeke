@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVA OHR SHRAGA DVERETSKY ",
+  "permitHolder": "CONGREGATION OHR SHRAGA DVERETZKY",
+  "address": "1102 AVENUE L",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-252-7777",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 02/28/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.619987282966,
+  "longitude": -73.964101279449
+}

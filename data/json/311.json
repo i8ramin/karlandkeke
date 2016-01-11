@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BEIKVEI HATZOIN SCHOOL ",
-  "permitHolder": "BEIKVEI HATZOIN",
-  "address": "31 DIVISION AVENUE",
+  "centerName": "BEIS CHAYA MUSKA SCHOOL ",
+  "permitHolder": "CONGREGATION YESHIVA BEIS CHAYA MUSHKA INC",
+  "address": "1505 CARROLL STREET ",
   "borough": "BROOKLYN",
-  "zipCode": "11249",
-  "phone": "718-486-6363",
+  "zipCode": "11213",
+  "phone": "718-756-0770",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -14,15 +14,19 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/26/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.706910035193,
-  "longitude": -73.967877533294
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.666464251842,
+  "longitude": -73.937549628229
 }

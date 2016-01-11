@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "QUEEN OF THE ROSARY CATHOLIC ACADEMY ",
+  "permitHolder": "ROMAN CATHOLIC DIOCESE OF BROOKLYN",
+  "address": "11 CATHERINE STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-388-7992",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.713257072467,
+  "longitude": -73.937386580758
+}

@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "STS SPORTS ",
+  "permitHolder": "M N ULTIMATE SPORTS INC",
+  "address": "660 WEST 237 STREET",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "347-275-3116",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34547",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "62",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/13/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.888331761588,
+  "longitude": -73.913484535786
+}

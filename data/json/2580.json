@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT PANCRAS SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "68-20 MYRTLE AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11385",
+  "phone": "718-456-5437",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.70167909285,
+  "longitude": -73.883876263491
+}

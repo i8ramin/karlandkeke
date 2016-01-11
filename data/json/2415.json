@@ -1,0 +1,28 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "RABBI JACOB JOSEPH PRESCHOOL ",
+  "permitHolder": "RABBI JACOB JOSEPH YESHIVA MERKAZ HATORAH FOR GIRLS",
+  "address": "400 CASWELL AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "718-982-8745",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.615112909483,
+  "longitude": -74.150258664098
+}

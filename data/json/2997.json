@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "STEVE KATES CAMP ",
+  "permitHolder": "STEVE KATES CAMP LLC",
+  "address": "44 EAST 2ND STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10003",
+  "phone": "347-756-4481",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91381",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "250",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/08/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.724829211638,
+  "longitude": -73.990110998723
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "RICHARD H MANGUM EARLY LEARNING CENTER ",
+  "permitHolder": "HIGHBRIDGE ADVISORY COUNCIL",
+  "address": "383 EAST 162 STREET",
+  "borough": "BRONX",
+  "zipCode": "10451",
+  "phone": "718-742-2369",
+  "permitStatus": " Permitted ",
+  "permitNumber": "59317",
+  "permitExpirationDate": " 03/24/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "90",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "2",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 05/05/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4759 d",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.824945258001,
+  "longitude": -73.913943046178
+}

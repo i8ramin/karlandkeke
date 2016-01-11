@@ -1,0 +1,73 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "RAINBOW CHRISTIAN PRESCHOOL AND KINDERGARTEN ",
+  "permitHolder": "ST JACOBUS EVANGICAL LUTHERAN CHURCH OF THE UNALTERED AUGSBURG CONFESSION",
+  "address": "72-01 43 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11377",
+  "phone": "718-335-3361",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5268",
+  "permitExpirationDate": " 05/07/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "88",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "05/05/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/20/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/31/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.742049346191,
+  "longitude": -73.892513535594
+}

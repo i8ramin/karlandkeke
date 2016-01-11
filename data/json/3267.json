@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "THE EAST SIDE HOUSE ",
+  "permitHolder": "THE EAST SIDE HOUSE",
+  "address": "468 EAST 140TH STREET",
+  "borough": "BRONX",
+  "zipCode": "10454",
+  "phone": "718-292-2237",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/14/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/12/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.809526848971,
+  "longitude": -73.919901874411
+}

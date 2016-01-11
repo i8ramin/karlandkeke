@@ -1,0 +1,50 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE BARCLAY STREET SCHOOL LTD ",
+  "permitHolder": "THE BARCLAY STREET SCHOOL LTD",
+  "address": "6-10 BARCLAY ST",
+  "borough": "MANHATTAN",
+  "zipCode": "10007",
+  "phone": "212-571-2715",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7945",
+  "permitExpirationDate": " 09/12/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "42",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "8 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/30/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "11/13/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/13/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
+}

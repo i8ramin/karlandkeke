@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "TALMUD TORAH CROWN HEIGHTS PRESCHOOL ",
+  "permitHolder": "TALMUD TORAH CROWN HEIGHTS YESHIVA",
+  "address": "6363 AVENUE U ",
+  "borough": "BROOKLYN",
+  "zipCode": "11234",
+  "phone": "718-444-5800",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.616202019321,
+  "longitude": -73.912696791268
+}

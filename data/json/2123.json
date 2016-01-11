@@ -1,30 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "NYCHA FORT INDEPENDENCE CC ",
-  "permitHolder": "NYCHA FORT INDEPENDENCE CC",
-  "address": "3350 BAILEY AVE",
-  "borough": "BRONX",
-  "zipCode": "10463",
-  "phone": "718-884-7050",
+  "centerName": "NYCHA HERBERT H LEHMAN ",
+  "permitHolder": "NYCHA HERBERT H LEHMAN",
+  "address": "1589 MADISON AVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-876-6480",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitExpirationDate": " 05/02/2015",
   "ageRange": "",
   "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "siteType": "Municipal Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/07/2013",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 07/30/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.880087295812,
-  "longitude": -73.900740730697
+  "pastInspections": [
+
+  ],
+  "latitude": 40.794304606622,
+  "longitude": -73.94897910105
 }

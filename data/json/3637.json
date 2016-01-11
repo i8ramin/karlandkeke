@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "WOODYCREST CENTER SUMMER CAMP ",
+  "permitHolder": "WOODYCREST CENTER FOR HUMAN DEVELOPMENT INC",
+  "address": "175 WEST 166 STREET",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-538-4708",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/31/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.835777641442,
+  "longitude": -73.928322940947
+}

@@ -1,0 +1,63 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THE CAEDMON SCHOOL PRE-SCHOOL ",
+  "permitHolder": "THE CAEDMON SCHOOL",
+  "address": "416 EAST 80TH STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10075",
+  "phone": "212-879-2296",
+  "permitStatus": " Active ",
+  "permitNumber": "4273",
+  "permitExpirationDate": " 02/02/2009",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "150",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "05/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Food service observed in operation without required permit",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "8105 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp maintains the existence of a nuisance at the time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "309",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program fails to conduct daily health assessment of attending children",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4319 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.772633047764,
+  "longitude": -73.951306429881
+}

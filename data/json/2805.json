@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SPORTS ARTS IN SCHOOLS FOUNDATION PS 97X ",
+  "permitHolder": "SPORTS ARTS IN SCHOOLS FOUNDATION PS 97X",
+  "address": "1375 MACE AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10469",
+  "phone": "718-655-4446",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/19/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.862832321885,
+  "longitude": -73.846789749321
+}

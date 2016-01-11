@@ -1,28 +1,45 @@
 {
   "type": "Camp",
-  "centerName": "POLICE ATHLETIC LEAGUE PS 196 ",
-  "permitHolder": "POLICE ATHLETIC LEAGUE INC",
-  "address": "1250 WARD AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10472",
-  "phone": "718-409-4164",
+  "centerName": "POLICE ATHLETIC LEAGUE SUMMER DAY CAMP-PS 14178 SI ",
+  "permitHolder": "POLICE ATHLETIC LEAGUE",
+  "address": "100 TOMPKINS AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10304",
+  "phone": "718-981-3976",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "93338",
+  "permitNumber": "68438",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "180",
+  "maximumCapacity": "100",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": "false",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.830080635711,
-  "longitude": -73.877602239207
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/11/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.622447285086,
+  "longitude": -74.078507500084
 }

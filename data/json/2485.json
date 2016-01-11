@@ -1,0 +1,38 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "RISE UP ",
+  "permitHolder": "SUNSHINE DAYCARE OF EAST HARLEM LLC",
+  "address": "1325 FIFTH AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-444-1177",
+  "permitStatus": " Permitted ",
+  "permitNumber": "75937",
+  "permitExpirationDate": " 11/24/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "39",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "05/28/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.797699696507,
+  "longitude": -73.948608088055
+}

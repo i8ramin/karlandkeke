@@ -1,0 +1,64 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "YELED V YALDA EARLY CHILDHOOD CENTER INC ",
+  "permitHolder": "YELED V YALDA EARLY CHILDHOOD CENTERINC",
+  "address": "1257-1263 38TH STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11218",
+  "phone": "718-514-8601",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7792",
+  "permitExpirationDate": " 08/31/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "40",
+  "siteType": "Head Start Direct Fed Funding",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "9 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/07/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "06/11/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/21/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/07/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
+}

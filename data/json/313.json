@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "BEIS CHAYA MUSKA SCHOOL ",
-  "permitHolder": "CONGREGATION YESHIVA BEIS CHAYA MUSHKA INC",
-  "address": "1505 CARROLL STREET ",
-  "borough": "BROOKLYN",
-  "zipCode": "11213",
-  "phone": "718-756-0770",
+  "centerName": "BEIT RABBAN DAY SCHOOL ",
+  "permitHolder": "GAN AT BEIT RABBAN SPEYER LEGACY SCHOOL",
+  "address": "15 WEST 86 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10024",
+  "phone": "212-595-1386",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -14,17 +14,15 @@
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 07/26/2013",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
-    "infractions": [
-
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
+  "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.666464251842,
-  "longitude": -73.937549628229
+  "latitude": 40.785591959373,
+  "longitude": -73.970038594562
 }

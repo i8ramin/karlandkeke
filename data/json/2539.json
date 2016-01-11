@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SACC ",
+  "permitHolder": "BLUEBERRY CHILDREN CORPORATION",
+  "address": "218-12 HARTLAND AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11364",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.736168937579,
+  "longitude": -73.753158196912
+}

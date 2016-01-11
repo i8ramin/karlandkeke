@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "RISING STARS ",
+  "permitHolder": "UNITED SETTLEMENT",
+  "address": "535 East 119 Street",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.796661163837,
+  "longitude": -73.930965656969
+}

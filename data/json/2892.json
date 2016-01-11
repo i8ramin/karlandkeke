@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST JOSEPH PAROCHIAL PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST JOSEPH PAROCHIAL SCHOOL",
+  "address": "139 ST MARYS AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10305",
+  "phone": "718-447-7686",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.614365520188,
+  "longitude": -74.071845404597
+}

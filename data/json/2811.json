@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SPORTS ARTS IN SCHOOLS FOUNDATION PS 175 ",
+  "permitHolder": "SPORTS ARTS IN SCHOOLS FOUNDATION PS 175",
+  "address": "200 CITY ISLAND AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10464",
+  "phone": "718-885-9607",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 12/27/2014",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.843866408662,
+  "longitude": -73.785217068637
+}

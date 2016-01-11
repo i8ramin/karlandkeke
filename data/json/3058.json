@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "SUNSHINE LC OF 3RD AVE LLC ",
+  "permitHolder": "SUNSHINE LC OF 3RD AVE LLC",
+  "address": "2205 THIRD AVENUE ",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "646-757-3168",
+  "permitStatus": " Permitted ",
+  "permitNumber": "91438",
+  "permitExpirationDate": " 06/26/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "55",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.800642335343,
+  "longitude": -73.938030066433
+}

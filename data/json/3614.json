@@ -1,0 +1,78 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "WILLIAMSBURG Y HEAD START ",
+  "permitHolder": "YOUNG MENS AND YOUNG WOMENS HEBREW ASSOCIATION OF WILLIAMSBURG INC",
+  "address": "64 DIVISION AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11249",
+  "phone": "718-387-0229",
+  "permitStatus": " Permitted ",
+  "permitNumber": "4953",
+  "permitExpirationDate": " 02/07/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "198",
+  "siteType": "Head Start Direct Fed Funding",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "32 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/18/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "10/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection childrens medical files were not provided were incomplete or were not maintained",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4725 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/20/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.707192245244,
+  "longitude": -73.966135288298
+}

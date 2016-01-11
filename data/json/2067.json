@@ -1,10 +1,10 @@
 {
   "type": "Camp",
-  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE PS 422 X ",
-  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 422 X",
-  "address": "1500 PELHAM PARKWAY SOUTH",
+  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE PS 717X ICAHN ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 717X ICAHN",
+  "address": "1506 BROOK AVENUE",
   "borough": "BRONX",
-  "zipCode": "10461",
+  "zipCode": "10457",
   "phone": "",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.857019517729,
-  "longitude": -73.843123109285
+  "latitude": 40.838554908737,
+  "longitude": -73.9050493874
 }

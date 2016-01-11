@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/DIRECTIONS FOR OUR YOUTH INC ",
+  "permitHolder": "DIRECTIONS FOR OUR YOUTH INC",
+  "address": "1449 SHAKESPEARE AVE",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "646-592-0766",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 05/08/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/14/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.842936303386,
+  "longitude": -73.920562654798
+}

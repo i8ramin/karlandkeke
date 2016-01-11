@@ -1,0 +1,71 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "YEARLING NURSERY SCHOOL ",
+  "permitHolder": "YEARLING NURSERY SCHOOL INC",
+  "address": "604 WEST 227 STREET ",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-549-1606",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5965",
+  "permitExpirationDate": " 05/20/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "10",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 01/30/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "03/18/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "numViolations": "3",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737c ",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service Assistant Teacher staff have failed to take required 15 hours of training every 24 months",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737d",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/21/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.880299515818,
+  "longitude": -73.915581620919
+}

@@ -1,59 +1,80 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "CHABAD OF WASHINGTON HEIGHTS INC ",
-  "permitHolder": "CHABAD OF WASHINGTON HEIGHTS INC",
-  "address": "50 OVERLOOK TERRACE",
-  "borough": "MANHATTAN",
-  "zipCode": "10033",
-  "phone": "718-913-7900",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "CHABAD LUBAVITCH OF BROOKLYN HEIGHTS ",
+  "permitHolder": "CHABAD LUBAVITCH OF BROOKLYN HEIGHTS",
+  "address": "166 MONTAGUE STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "718-596-4840",
   "permitStatus": " Permitted ",
-  "permitNumber": "97877",
-  "permitExpirationDate": " 10/01/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "27",
+  "permitNumber": "8076",
+  "permitExpirationDate": " 09/14/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "37",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "7 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 03/30/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
-    "numInfractions": "5",
+    "date": "Inspection Date 07/02/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
     "infractions": [
-      {
-        "Violation Summary ": "There were no new violations observed at the time of this inspection/visit",
-        "Category ": " ",
-        "Code Sub-Section": " ",
-        " Status": ""
-      },
-      {
-        "Violation Summary ": "At time of inspection lavatory facilities were observed to be inconveniently located in respect to the location of the children",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4743 c",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection play equipment was observed not to be maintained or not free of other hazards",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4747 g",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4749 a",
-        " Status": "CORRECTED"
-      },
-      {
-        "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4741 j",
-        " Status": "CORRECTED"
-      }
+
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.854306538532,
-  "longitude": -73.936259201246
+  "numInspections": "8",
+  "pastInspections": [
+    {
+      "date": "06/12/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/28/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/23/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.694337759786,
+  "longitude": -73.992708361616
 }

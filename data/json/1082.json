@@ -1,28 +1,43 @@
 {
-  "type": "Camp",
-  "centerName": "EWING SUMMER ARTS ",
-  "permitHolder": "EAGLES WING YOUTH INTERVENTION INC",
-  "address": "160 BEACH 29 STREET",
-  "borough": "QUEENS",
-  "zipCode": "11691",
-  "phone": "718-600-2018",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "92858",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "20",
-  "siteType": "Summer Day Camp",
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "EUREKA NURSERY DAY CARE CORP ",
+  "permitHolder": "EUREKA NURSERY DAY CARE CORP",
+  "address": "2502 CLARENDON ROAD ",
+  "borough": "BROOKLYN",
+  "zipCode": "11226",
+  "phone": "718-284-2155",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96137",
+  "permitExpirationDate": " 09/02/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "24",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": "false",
+  "yearsOperating": "1",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/23/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4759 b",
+        " Status": "OPEN "
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.593825942496,
-  "longitude": -73.761741222247
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "11/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.642940796118,
+  "longitude": -73.953401306598
 }

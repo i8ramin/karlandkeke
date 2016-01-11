@@ -1,0 +1,37 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SACRED HEART SCHOOL ",
+  "permitHolder": "SACRED HEART CATHOLIC ACADEMY",
+  "address": "115-50 221 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11411",
+  "phone": "718-527-0123",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "26",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.698705824692,
+  "longitude": -73.737270579685
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "TRINITY PARISH PRESCHOOL NURSERY ",
+  "permitHolder": "TRINITY CHURCH INC",
+  "address": "100 CHURCH STREET ",
+  "borough": "MANHATTAN",
+  "zipCode": "10007",
+  "phone": "212-602-0829",
+  "permitStatus": " Permitted ",
+  "permitNumber": "72784",
+  "permitExpirationDate": " 08/29/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "48",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 05/18/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.712960869325,
+  "longitude": -74.00949044575
+}

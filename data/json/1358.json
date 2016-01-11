@@ -1,30 +1,38 @@
 {
-  "type": "Camp",
-  "centerName": "HARLEM PEACEMAKERS PS 149 ",
-  "permitHolder": "HARLEM CHILDRENS ZONE INC",
-  "address": "41 WEST 117 STREET",
+  "type": "School Based Child Care",
+  "centerName": "HARLEM GEMS 76 ",
+  "permitHolder": "HARLEM CHILDRENS ZONE-PROMISE ACADEMY II",
+  "address": "23 WEST 124 STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10026",
-  "phone": "646-672-9020",
-  "permitStatus": " Registered ",
-  "permitNumber": "33837",
-  "permitExpirationDate": " 09/15/2013",
-  "ageRange": "",
-  "maximumCapacity": "140",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10027",
+  "phone": "646-545-3935",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/07/2013",
+    "date": "Inspection Date 03/12/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.802129369011,
-  "longitude": -73.947828071821
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "03/05/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.806104512279,
+  "longitude": -73.943605858304
 }

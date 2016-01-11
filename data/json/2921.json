@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "ST NICK ALLIANCE CORP GREENPOINT BEACON JHS 126 ",
+  "permitHolder": "ST NICK ALLIANCE CORP GREENPOINT BEACON JHS 126",
+  "address": "424 LEONARD ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11222",
+  "phone": "718-388-5585",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/22/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.719811676174,
+  "longitude": -73.948625088698
+}

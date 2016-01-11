@@ -1,0 +1,79 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THE SALVATION ARMY BRONX CITADEL DAY CARE CENTER ",
+  "permitHolder": "THE SALVATION ARMY",
+  "address": "425 EAST 159TH STREET",
+  "borough": "BRONX",
+  "zipCode": "10451",
+  "phone": "718-742-2346",
+  "permitStatus": " Permitted ",
+  "permitNumber": "3093",
+  "permitExpirationDate": " 10/25/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "45",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/27/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "08/11/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to submit a corrective action plan within five days when required corrective action plan not approved",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4721 a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "09/09/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/22/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/06/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.822686125553,
+  "longitude": -73.913664154467
+}

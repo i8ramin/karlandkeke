@@ -1,0 +1,74 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THE LEARNING TREE CULTURAL CENTER ",
+  "permitHolder": "THE LEARNING TREE CULTURAL CENTER",
+  "address": "801 BARTHOLDI STREET",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-944-0958",
+  "permitStatus": " Active ",
+  "permitNumber": "7613",
+  "permitExpirationDate": " 06/16/2010",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/20/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 c",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "03/13/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4317 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4311 c",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Attendance records not provided or maintained by school-based child care program at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4319 a",
+          " Status ": "OPEN "
+        }
+      ]
+    }
+  ],
+  "latitude": 40.873820276973,
+  "longitude": -73.862620178045
+}

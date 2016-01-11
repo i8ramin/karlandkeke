@@ -1,0 +1,136 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST LUKES PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST LUKE SCHOOL",
+  "address": "608 EAST 139 STREET",
+  "borough": "BRONX",
+  "zipCode": "10454",
+  "phone": "718-585-0380",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 04/23/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Not Required",
+    "numInfractions": "8",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4313",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adulterated food observed being served Food contact surfaces observed not manufactured as required Food is not protected from cross contamination at time of inspection",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "8107 a",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4307",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "School-based child care program determined to maintain a lead based hazard Safe work practices not employed during activity that may disturb lead paint or paint of unknown lead content School-based child care program failed to test soil for lead content School-based child care program failed to conduct annual lead paint survey",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4323",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Sewage lines observed not maintained at time of inspection Food prep drains observed directly connected to sewer at time of inspection",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "8121 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Adequate lighting not provided in commercial building at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109a",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 c",
+        " Status": "OPEN "
+      },
+      {
+        "Violation Summary ": "Child care service fails to provide adequate ventilation in food prep area Indoor air quality nuisance allowed to exist in food prep area",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "8119 c",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "02/25/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Adequate lighting not provided in commercial building at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109a",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4311 c",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "01/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4311 c",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain child medical records at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4317 d",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Equipment observed improperly constructed not cleanable or not maintained at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "8133",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.806916300238,
+  "longitude": -73.915656991462
+}

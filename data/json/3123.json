@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/SAMUEL FIELD Y / TASC PS 115Q ",
+  "permitHolder": "SAMUEL FIELD Y / TASC PS 115Q",
+  "address": "80-51 261ST ST",
+  "borough": "QUEENS",
+  "zipCode": "11004",
+  "phone": "718-225-6750",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/26/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.744090546659,
+  "longitude": -73.709843922781
+}

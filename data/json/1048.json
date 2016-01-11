@@ -1,47 +1,84 @@
 {
   "type": "Child Care - Pre School",
-  "centerName": "ELEMENTS NURSERY ",
-  "permitHolder": "INDUS WORLD INC",
-  "address": "99 SUFFOLK STREET ",
-  "borough": "MANHATTAN",
-  "zipCode": "10002",
-  "phone": "212-982-4444",
+  "centerName": "ELADIAS KIDS ",
+  "permitHolder": "ELADIAS KIDS PARENT LLC",
+  "address": "175 VANDERBILT AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11205",
+  "phone": "718-522-6361",
   "permitStatus": " Permitted ",
-  "permitNumber": "91420",
-  "permitExpirationDate": " 06/26/2017",
+  "permitNumber": "43777",
+  "permitExpirationDate": " 06/14/2017",
   "ageRange": "2 - 5",
-  "maximumCapacity": "31",
+  "maximumCapacity": "35",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "3 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/07/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "3",
+    "date": "Inspection Date 12/11/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "1",
     "infractions": [
       {
-        "Violation Summary ": "At time of inspection child care service failed to provide sufficient number of toilets and sinks for the number of children in attendance",
+        "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4743 b",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4759 a",
-        " Status": "OPEN "
-      },
-      {
-        "Violation Summary ": "Child care service fails to maintain required postings at time of inspection",
-        "Category ": " Minor violations General Violations ",
-        "Code Sub-Section": "4773 b",
-        " Status": "OPEN "
+        "Code Sub-Section": "4761 f",
+        " Status": "CORRECTED"
       }
     ]
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 01/05/2015 Result /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.718721703903,
-  "longitude": -73.986226656791
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "04/01/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/24/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/11/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.692607529717,
+  "longitude": -73.969716327833
 }

@@ -1,0 +1,76 @@
+{
+  "type": "Camp",
+  "centerName": "SUNY MARITIME COLLEGE ",
+  "permitHolder": "STATE OF NEW YORK COMPTROLLERS OFFICE",
+  "address": "6 Pennyfield Avenue",
+  "borough": "BRONX",
+  "zipCode": "10465",
+  "phone": "718-409-2447",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34480",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "38",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/07/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Counselor to camper ratio not maintained",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4812c ",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp operated contrary to FDNY statement of compliance contrary to fire prevention regulations and applicable law",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4819b2",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp health program not maintained and/or supervised by physician Health records of campers and staff are not kept and maintained plan is not comprehensive and complete nutrition emergency and first aid plan accident reporting disaster search and rescue child observation food and facility maintenance not included",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817a",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "All camp staff have not had recent medical exam including TB testing as required by the Dept",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817g",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Parental authorization for camp to respond to emergencies as appropriate in absence of parental contact not on file",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4817i",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.809371532232,
+  "longitude": -73.802672034666
+}

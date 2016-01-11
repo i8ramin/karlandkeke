@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESODE HATORAH CENTER ",
+  "permitHolder": "YESODE HATORAH CENTER",
+  "address": "1350 50 STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-851-6462",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.633779648603,
+  "longitude": -73.991590909579
+}

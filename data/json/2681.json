@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SCHOOL BASED CHILD CARE ",
+  "permitHolder": "YESHIVAT OHEL TORAH",
+  "address": "2600 OCEAN AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-332-260",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.598150476767,
+  "longitude": -73.951185701366
+}

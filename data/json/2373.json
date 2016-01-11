@@ -1,0 +1,32 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PRODIGY PRESCHOOL/ STATEN ISLAND SKATING PAVILION ",
+  "permitHolder": "STATEN ISLAND SKATING PAVILION INC",
+  "address": "3080 ARTHUR KILL ROAD",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10309",
+  "phone": "718-948-4800",
+  "permitStatus": " Permitted ",
+  "permitNumber": "94157",
+  "permitExpirationDate": " 07/31/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "25",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/30/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.544251889206,
+  "longitude": -74.233036898641
+}

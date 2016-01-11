@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SALVATION ARMY BROWNSVILLE DAY CAMP ",
+  "permitHolder": "SALVATION ARMY",
+  "address": "280 RIVERDALE AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11212",
+  "phone": "718-345-7050",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34159",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "500",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.661356741038,
+  "longitude": -73.906124381523
+}

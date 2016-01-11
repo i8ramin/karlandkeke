@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "POPE JOHN PAUL II FAMILY ACADEMY ",
+  "permitHolder": "ROMAN CATHOLIC DIOCESE OF BROOKLYN",
+  "address": "139 MENAHAN STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-455-4060",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.695709545109,
+  "longitude": -73.919472961894
+}

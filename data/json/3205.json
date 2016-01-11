@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "THE CAS IS 218 ",
+  "permitHolder": "THE CAS IS 218",
+  "address": "4600 BROADWAY",
+  "borough": "MANHATTAN",
+  "zipCode": "10040",
+  "phone": "212-569-2880",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/30/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.860783614785,
+  "longitude": -73.930671081251
+}

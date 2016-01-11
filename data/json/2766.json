@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SHULAMITH SCHOOL FOR GIRLS OF BROOKLYN ",
+  "permitHolder": "SHULAMITH SCHOOL FOR GIRLS OF BROOKLYN",
+  "address": "1277 EAST 14 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-338-4000",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.618473913461,
+  "longitude": -73.961061976836
+}

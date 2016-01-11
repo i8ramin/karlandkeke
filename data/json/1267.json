@@ -1,28 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL INDUSTRIES / BEACON PS 149 ",
-  "permitHolder": "GOODWILL INDUSTRIES / BEACON PS 149",
-  "address": "93-11 34TH AVE",
+  "centerName": "GOODWILL PS 40 ",
+  "permitHolder": "GOODWILL PS 40",
+  "address": "109-20 UNION HALL ST",
   "borough": "QUEENS",
-  "zipCode": "11372",
-  "phone": "718-426-0888",
+  "zipCode": "11433",
+  "phone": "718-523-0801",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 05/17/2015",
+  "permitExpirationDate": " 12/27/2015",
   "ageRange": "",
   "maximumCapacity": "",
-  "siteType": "Private",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/18/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.754830004627,
-  "longitude": -73.874604437564
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.694116699381,
+  "longitude": -73.790674218597
 }

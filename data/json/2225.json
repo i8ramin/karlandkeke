@@ -1,28 +1,115 @@
 {
   "type": "Camp",
-  "centerName": "PAL GOLDIE MAPLE ACADEMY BEACON AT PS 183Q ",
+  "centerName": "PAL HARLEM CENTER DAY CAMP ",
   "permitHolder": "POLICE ATHLETIC LEAGUE INC",
-  "address": "2-45 BEACH 79 STREET",
-  "borough": "QUEENS",
-  "zipCode": "11693",
-  "phone": "347-658-2530",
+  "address": "441 MANHATTAN AVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10026",
+  "phone": "212-665-8699",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "93938",
+  "permitNumber": "34411",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "100",
+  "maximumCapacity": "320",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/13/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 07/31/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": ""
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "07/16/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Each camper is not under immediate visual observation and verbal contact with counselors during all activities",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4812ab2",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Sufficient handwash sinks with hot and cold running water liquid soap drying devices not provided in comercial buildings",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "13109d2",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Camp equipment not maintained not of safe design or properly installed",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4815b",
+          " Status ": "OPEN "
+        },
+        {
+          "Violation Summary ": "Camp drinking water facilities not in compliance with Article 141 of Health Code Common drinking utensils observed Drinking fountains not in compliance with NYS Fire Prevention and Building Code",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4819e",
+          " Status ": "OPEN "
+        }
+      ]
+    },
+    {
+      "date": "08/13/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "Facilty egress observed obstructed not protected from hazardous areas",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a6",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4815a8",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Health Director not qualified MD Nurse EMT Health Director not on site at overnight camp not available to summer day and traveling camps Assistant was not designated where required",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4817p",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Floors in comercial building properly not constructed not maintained in good repair unclean",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "13109e",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp premises not in compliance with NYC Building Code and Zoning regulations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4819a",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/14/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/15/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.806647765029,
+  "longitude": -73.955648672401
 }

@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "RESURRECTION ASCENSION SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "85-25 61 ROAD",
+  "borough": "QUEENS",
+  "zipCode": "11374",
+  "phone": "718-426-7963",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 01/07/2016",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.727539057511,
+  "longitude": -73.872350502994
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Camp",
+  "centerName": "THE CHILDREN VILLAGE-POLO GROUNDS COMMUNITY CENTER ",
+  "permitHolder": "THE CHILDRENS VILLAGE INC",
+  "address": "3005 Frederick Douglas Boulevard",
+  "borough": "MANHATTAN",
+  "zipCode": "10039",
+  "phone": "212-491-6127",
+  "permitStatus": " Registered ",
+  "permitNumber": "34569",
+  "permitExpirationDate": " 09/15/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/16/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ]
+}

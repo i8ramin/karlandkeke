@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "QUEENS LIBRARY UNIVERSAL PRE-KINDERGARTEN PROGRAM RAVENSWOOD ",
+  "permitHolder": "QUEENS BOROUGH PUBLIC LIBRARY",
+  "address": "35-32 21 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11106",
+  "phone": "718-990-8596",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96717",
+  "permitExpirationDate": " 09/08/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "36",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.760927265442,
+  "longitude": -73.935800223028
+}

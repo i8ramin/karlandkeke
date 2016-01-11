@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "THE LEARNING EXPERIENCE ",
+  "permitHolder": "RIVERDALE CHILDCARE EXPERIENCE LLC",
+  "address": "3217 IRWIN AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-708-5884",
+  "permitStatus": " Permitted ",
+  "permitNumber": "97739",
+  "permitExpirationDate": " 09/28/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "28",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.882887026627,
+  "longitude": -73.907455843459
+}

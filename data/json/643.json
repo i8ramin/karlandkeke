@@ -1,28 +1,38 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "CAMBRIA CENTER FOR THE GIFTED CHILD ",
-  "permitHolder": "CAMBRIA CENTER FOR THE GIFTED CHILD",
-  "address": "233-10 LINDEN BLVD ",
-  "borough": "QUEENS",
-  "zipCode": "11411",
-  "phone": "718-341-1991",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "CAMBA BREVOORT CORNERSTONE ",
+  "permitHolder": "CAMBA INC",
+  "address": "280 RALPH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11233",
+  "phone": "347-563-1735",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92480",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.691028382901,
-  "longitude": -73.728898994497
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/02/2015",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.679786211761,
+  "longitude": -73.922153021721
 }

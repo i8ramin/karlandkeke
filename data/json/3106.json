@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/NEW YORK JUNIOR TENNIS LEAGUE PS-146 ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS-146",
+  "address": "968 CAULDWELL AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10456",
+  "phone": "718-378-9664",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/16/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/12/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/18/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/13/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.824919971215,
+  "longitude": -73.906185415253
+}

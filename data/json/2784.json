@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SOCAPA-SCHOOL OF CREATIVE AND PERFORMING ARTS ",
+  "permitHolder": "SOCAPA INC",
+  "address": "101 JOHNSON STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "646-828-3558",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "86177",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "508",
+  "siteType": "Childrens Overnight Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/03/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.694932799087,
+  "longitude": -73.986386655989
+}

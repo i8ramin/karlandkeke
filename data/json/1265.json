@@ -1,28 +1,38 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL BEACON IS 141 ",
-  "permitHolder": "GOODWILL BEACON IS 141",
-  "address": "37-11 21ST AVENUE",
-  "borough": "QUEENS",
-  "zipCode": "11105",
-  "phone": "718-777-9200",
+  "centerName": "GOOD SHEPHERD SERVICES PS 676 ",
+  "permitHolder": "GOOD SHEPHERD SERVICES PS 676",
+  "address": "27 HUNTINGTON ST",
+  "borough": "BROOKLYN",
+  "zipCode": "11231",
+  "phone": "718-222-9561",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
-  "permitExpirationDate": " 08/14/2015",
+  "permitExpirationDate": " 05/24/2016",
   "ageRange": "",
-  "maximumCapacity": "0",
+  "maximumCapacity": "",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/22/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.775582197022,
-  "longitude": -73.905088976774
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.677556325649,
+  "longitude": -74.00516630978
 }

@@ -1,0 +1,59 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "RING AROUND THE ROSIE PRESCHOOL II ",
+  "permitHolder": "RING AROUND THE ROSIE PRESCHOOLINC",
+  "address": "7106 13TH AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11228",
+  "phone": "718-492-7464",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7924",
+  "permitExpirationDate": " 09/23/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "29",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "8 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 02/06/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "10/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/19/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.622471332923,
+  "longitude": -74.005176438619
+}

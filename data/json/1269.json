@@ -1,28 +1,38 @@
 {
   "type": "Camp",
-  "centerName": "GOODWILL INDUSTRIES OF GREATER NEW YORK OST PROGRAM IS 145 ",
-  "permitHolder": "GOODWILL INDUSTRIES OF GREATER NEW YORK OST PROGRAM IS 145",
-  "address": "33-34 80TH ST",
+  "centerName": "GOODWILL BEACON JHS 109 ",
+  "permitHolder": "GOODWILL BEACON JHS 109",
+  "address": "213-10 92ND AVE",
   "borough": "QUEENS",
-  "zipCode": "11372",
-  "phone": "646-659-1894",
+  "zipCode": "11428",
+  "phone": "347-659-2712",
   "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 01/31/2015",
+  "permitNumber": "34266",
+  "permitExpirationDate": " 03/31/2015",
   "ageRange": "",
-  "maximumCapacity": "",
+  "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/04/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.754653601729,
-  "longitude": -73.88711145537
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.720705169686,
+  "longitude": -73.746999799323
 }

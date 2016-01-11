@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "QUEENS COMMUNITY HOUSE JHS 157 ",
+  "permitHolder": "QUEENS COMMUNITY HOUSE JHS 157",
+  "address": "63-55 102ND STREET",
+  "borough": "QUEENS",
+  "zipCode": "11374",
+  "phone": "718-830-4910",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 06/17/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/01/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.732281863231,
+  "longitude": -73.853824011026
+}

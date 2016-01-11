@@ -1,30 +1,86 @@
 {
-  "type": "Camp",
-  "centerName": "HIGHBRIDGE GARDENS CORNERSTONE ",
-  "permitHolder": "CATHOLIC CHARITIES COMMUNITY SERVICES OF NEW YORK",
-  "address": "1155 UNIVERSITY AVENUE ",
+  "type": "Child Care - Pre School",
+  "centerName": "HIGHBRIDGE ADVISORY COUNCIL ECC 3 ",
+  "permitHolder": "HIGHBRIDGE ADVISORY COUNCIL FAMILY SERVICES INC",
+  "address": "1399 OGDEN AVENUE",
   "borough": "BRONX",
   "zipCode": "10452",
-  "phone": "718-992-7797",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "67898",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "100",
-  "siteType": "Summer Day Camp",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "phone": "718-293-9196",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6683",
+  "permitExpirationDate": " 12/02/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "132",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "13 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/26/2015",
+    "date": "Inspection Date 10/16/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.836823516658,
-  "longitude": -73.928531416337
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "10/02/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/08/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/07/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4733 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "01/17/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.842285562735,
+  "longitude": -73.924275222168
 }

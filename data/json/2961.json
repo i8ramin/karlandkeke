@@ -1,0 +1,52 @@
+{
+  "type": "Camp",
+  "centerName": "STATEN ISLAND COMMUNITY CENTER ",
+  "permitHolder": "SICC INC",
+  "address": "219 JEFFERSON AVENUE ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10306",
+  "phone": "718-979-5331",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33740",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "38",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/12/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/30/2015",
+      "type": " Initial Annual Inspection",
+      "result": "No inspection conducted ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/30/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.58179459381,
+  "longitude": -74.099253435928
+}

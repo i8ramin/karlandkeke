@@ -1,11 +1,11 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF THE BLESSED SACRAMENT PAROCHIAL SCHOOL ",
-  "permitHolder": "ROMAN CATHOLIC CHURCH BOROUGH OF QUEENS",
-  "address": "34-45 202 STREET",
+  "centerName": "OUR LADY OF THE SNOWS SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "79-33 258 STREET",
   "borough": "QUEENS",
-  "zipCode": "11361",
-  "phone": "718-229-4434",
+  "zipCode": "11004",
+  "phone": "718-343-1436",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -14,15 +14,19 @@
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 12/09/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.766489805922,
-  "longitude": -73.785633631046
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.745490815861,
+  "longitude": -73.713291566564
 }

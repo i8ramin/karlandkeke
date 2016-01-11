@@ -1,28 +1,45 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "MT MORIAH CHRISTIAN ACADEMY ",
-  "permitHolder": "MT MORIAH CHURCH OF GOD IN CHRIST",
-  "address": "1149 EASTERN PARKWAY",
-  "borough": "BROOKLYN",
-  "zipCode": "11213",
-  "phone": "718-953-4383",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "type": "Camp",
+  "centerName": "MT SINAI/BARTON DAY CAMP ",
+  "permitHolder": "THE BARTON CENTER FOR DIABETES EDUCATION INC",
+  "address": "1 Gustave Levy Place",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "857-373-9027",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34394",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "31",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 07/13/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.668746372315,
-  "longitude": -73.93013608928
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/31/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.790436546276,
+  "longitude": -73.953792431443
 }

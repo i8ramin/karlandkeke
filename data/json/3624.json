@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "WIZARD OF OZ CAMP ",
+  "permitHolder": "WIZARD OF OZ DAYCARE LLC",
+  "address": "622 FOSTER AVENUE ",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-775-3012",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "64377",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "145",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/19/2015",
+    "result": "Inspection Result Initial Annual Inspection - Out of Business",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.630243750931,
+  "longitude": -73.971002069387
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "UNITED ACADEMY INC ",
+  "permitHolder": "UNITED ACADEMY INC",
+  "address": "177 HARRISON AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11206",
+  "phone": "718-935-9848",
+  "permitStatus": " Permitted ",
+  "permitNumber": "99617",
+  "permitExpirationDate": " 11/09/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "52",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.701336553387,
+  "longitude": -73.948455447899
+}

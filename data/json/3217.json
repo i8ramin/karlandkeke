@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "THE CHILD CENTER OF NEW YORK PS 56 ",
+  "permitHolder": "THE CHILD CENTER OF NEW YORK PS 56",
+  "address": "86-10 114TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11418",
+  "phone": "718-591-6750",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 08/19/2014",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/02/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.699182242091,
+  "longitude": -73.835298555059
+}

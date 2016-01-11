@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "QUEENS POINTE TALENT INC ",
+  "permitHolder": "QUEENS POINTE TALENT INC",
+  "address": "90-02 QUEENS BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11373",
+  "phone": "718-803-2300",
+  "permitStatus": " Permitted ",
+  "permitNumber": "99138",
+  "permitExpirationDate": " 10/27/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "182",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.734060685012,
+  "longitude": -73.872402910974
+}

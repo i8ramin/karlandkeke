@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SCHOOL BASED CHILD CARE ",
+  "permitHolder": "UNITED TALMUDICAL ACADEMY",
+  "address": "241 KEAP STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-963-9292",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.706233860525,
+  "longitude": -73.956621044197
+}

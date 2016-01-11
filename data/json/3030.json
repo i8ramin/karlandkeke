@@ -1,0 +1,38 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SUNHINE DAYCARE ",
+  "permitHolder": "SUNSHINE LC OF LEXINGTON LLC",
+  "address": "1595 LEXINGTON AVENUE ",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-444-2026",
+  "permitStatus": " Permitted ",
+  "permitNumber": "86518",
+  "permitExpirationDate": " 04/28/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "72",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 05/27/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "05/19/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.78928420739,
+  "longitude": -73.948419598114
+}

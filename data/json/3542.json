@@ -1,0 +1,96 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "UNIVERSITY SETTLEMENT EARLY HEAD START ",
+  "permitHolder": "UNIVERSITY SETTLEMENT SOCIETY OF NEW YORK",
+  "address": "89 CATHERINE STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "212-227-3149",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "8331",
+  "permitExpirationDate": " 10/28/2014",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "8",
+  "siteType": "Head Start Direct Fed Funding",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "6 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/05/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "513",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "10/08/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/22/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "4",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4719 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "513",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4733 c",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737c ",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "02/24/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection Violations corrected at time of inspection ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/24/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.710510130463,
+  "longitude": -73.996526430282
+}

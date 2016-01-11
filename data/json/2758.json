@@ -1,0 +1,45 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "SHOLOM SHOLOM INC ",
+  "permitHolder": "SHOLOM SHOLOM INC",
+  "address": "84-15 BEVERLY ROAD ",
+  "borough": "QUEENS",
+  "zipCode": "11415",
+  "phone": "718-850-2934",
+  "permitStatus": " Permitted ",
+  "permitNumber": "72997",
+  "permitExpirationDate": " 09/05/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "101",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/31/2015",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/23/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.707494817751,
+  "longitude": -73.830603430496
+}

@@ -1,0 +1,74 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST STEPHENS OF HUNGARY PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST STEPHENS OF HUNGARY",
+  "address": "408 EAST 82 STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10028",
+  "phone": "212-288-1989",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "12",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 05/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care program failed to submit Notice of Filing",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4305",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "05/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "numViolations": "5",
+      "violations": [
+        {
+          "Violation Summary ": "School-based child care determined to have failed to clear staff and conduct pre-employment verification School-based program fails to take required action in response to clearance findings",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4313",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "School-based child care program failed to provide/maintain written safety plan at time of inspection",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4307",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Children enrolled in school-based child care program have not received appropriate medical examination",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4317 a1",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Children enrolled in school-based child care program have not received age appropriate immunizations",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4317 a2",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Children enrolled in school-based child care program have not received periodic medical examination",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4317 c",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.774082062722,
+  "longitude": -73.950799898071
+}

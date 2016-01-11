@@ -2,15 +2,15 @@
   "type": "Camp",
   "centerName": "BEANSPROUTS DAY CAMP ",
   "permitHolder": "BEANSPROUTS",
-  "address": "339 8TH STREET ",
+  "address": "454-456 6 AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11215",
   "phone": "718-965-8573",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "89718",
+  "permitNumber": "89717",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "60",
+  "maximumCapacity": "29",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1 or more",
@@ -23,8 +23,14 @@
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.668953206548,
-  "longitude": -73.9840777141
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/17/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Inspection pending ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
 }

@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "THE ACTION CENTER ",
+  "permitHolder": "THE ACTION CENTER FOR EDUCATION COMMUNITY DEVELOPMENT INC",
+  "address": "81-14 ROCKAWAY BEACH BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11693",
+  "phone": "347-619-9040",
+  "permitStatus": " Registered ",
+  "permitNumber": "69477",
+  "permitExpirationDate": " 09/15/2014",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "80",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/14/2014",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a8",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/12/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.587961635396,
+  "longitude": -73.807685277106
+}

@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT ELIZABETH SETON SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "751 KNICKERBOCKER AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11221",
+  "phone": "718-386-4050",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/15/2015",
+    "result": "Inspection Result Initial Annual Inspection - Inspection pending",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.693549890611,
+  "longitude": -73.909104406559
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "THE CHILDRENS AID SOCIETY PS 50 ",
+  "permitHolder": "THE CHILDRENS AID SOCIETY PS 50",
+  "address": "433 EAST 100TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-860-0299",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 07/27/2014",
+  "ageRange": "",
+  "maximumCapacity": "180",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.785251606955,
+  "longitude": -73.941525542316
+}

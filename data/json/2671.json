@@ -1,0 +1,30 @@
+{
+  "type": "Camp",
+  "centerName": "SCAN-NY JOHNSON CORNERSTONE ",
+  "permitHolder": "SCAN-NY JOHNSON CORNERSTONE",
+  "address": "1829-39 LEXINGTON AVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-289-8819",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "110",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/08/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ]
+}

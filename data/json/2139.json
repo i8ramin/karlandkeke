@@ -1,30 +1,45 @@
 {
   "type": "Camp",
-  "centerName": "OASIS BEACON CENTER IS 323 ",
-  "permitHolder": "OASIS BEACON CENTER IS 323",
-  "address": "210 CHESTER STREET",
-  "borough": "BROOKLYN",
-  "zipCode": "11212",
-  "phone": "718-498-7030",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 07/08/2015",
-  "ageRange": "",
-  "maximumCapacity": "0",
+  "centerName": "OASIS IN BAYSIDE ",
+  "permitHolder": "OASIS CHILDRENS SERVICES LLC",
+  "address": "222-05 56 Avenue",
+  "borough": "QUEENS",
+  "zipCode": "11364",
+  "phone": "646-205-7780",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33665",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "270",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/12/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 08/19/2015",
+    "result": "Inspection Result Initial Annual Inspection - Out of Business",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.666537211104,
-  "longitude": -73.910904030569
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/05/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.753482206774,
+  "longitude": -73.757955628517
 }

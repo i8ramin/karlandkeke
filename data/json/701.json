@@ -1,30 +1,26 @@
 {
   "type": "Camp",
-  "centerName": "CATHOLIC SPORTS CAMP ",
-  "permitHolder": "CATHOLIC SPORTS CAMP/NANCY HIRTEN",
-  "address": "35-27 82 STREET ",
-  "borough": "QUEENS",
-  "zipCode": "11372",
-  "phone": "631-943-0820",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "68717",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "30",
-  "siteType": "Childrens Overnight Camp",
+  "centerName": "CATHOLIC CHARITIES COMMIMNITY SERVICES RANGAL HOUSES ",
+  "permitHolder": "CATHOLIC CHARITIES COMMIMNITY SERVICES/ALIANZA DOMINICANA",
+  "address": "15936 HARLEM RIVER DRIVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10039",
+  "phone": "",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": "true",
+  "yearsOperating": "",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 07/08/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
-    "infractions": [
-
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.751442488252,
-  "longitude": -73.884612093061
+  "numInspections": "0",
+  "pastInspections": ""
 }

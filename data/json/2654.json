@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SBCC ",
+  "permitHolder": "MOSDOS SOTMAR",
+  "address": "4420 15 AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-508-4444",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/04/2015",
+    "result": "Inspection Result Initial Annual Inspection - Out of Business",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.635000400622,
+  "longitude": -73.984979373666
+}

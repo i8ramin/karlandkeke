@@ -1,0 +1,37 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT FRANCIS DESALES ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "219 BEACH 129TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11694",
+  "phone": "",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care staff observed caring for children while unhealthy Staff medical certificate of fitness not provided",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 b",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.576475334116,
+  "longitude": -73.848305889848
+}

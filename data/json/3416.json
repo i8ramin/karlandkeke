@@ -1,0 +1,32 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "THERACARE OF NEW YORK ",
+  "permitHolder": "THERACARE OF NEW YORK INC",
+  "address": "197 EAST BROADWAY ",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "646-765-5372",
+  "permitStatus": " Permitted ",
+  "permitNumber": "87337",
+  "permitExpirationDate": " 05/05/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "12",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/03/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.714212271492,
+  "longitude": -73.988218783719
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SCAN-NY VOLUNTEER PARENT ASSOC JHS 45 ",
+  "permitHolder": "SCAN-NY VOLUNTEER PARENT ASSOC JHS 45",
+  "address": "2351 FIRST AVE",
+  "borough": "MANHATTAN",
+  "zipCode": "10035",
+  "phone": "212-426-2000",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/12/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/24/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.798841899999,
+  "longitude": -73.933343586419
+}

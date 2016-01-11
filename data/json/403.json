@@ -2,10 +2,10 @@
   "type": "School Based Child Care",
   "centerName": "BNOS ZION OF BOBOV ",
   "permitHolder": "BNOS ZION OF BOBOV",
-  "address": "1368 50 STREET",
+  "address": "5000 14 AVENUE ",
   "borough": "BROOKLYN",
   "zipCode": "11219",
-  "phone": "",
+  "phone": "718-438-3080",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.633609450833,
-  "longitude": -73.991306305382
+  "latitude": 40.633049458811,
+  "longitude": -73.990593018879
 }

@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/SPORTS AND ARTS IN SCHOOLS FOUNDATION PS 70 ",
+  "permitHolder": "SPORTS AND ARTS IN SCHOOLS FOUNDATION PS 70",
+  "address": "30-45 42ND STREET",
+  "borough": "QUEENS",
+  "zipCode": "11103",
+  "phone": "718-728-4646",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 03/13/2016",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.762096160315,
+  "longitude": -73.914226714478
+}

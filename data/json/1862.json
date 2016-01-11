@@ -1,28 +1,38 @@
 {
   "type": "School Based Child Care",
-  "centerName": "MANHATTAN CHRISTIAN ACADEMY PRESCHOOL ",
-  "permitHolder": "MANHATTAN CHRISTIAN ACADEMY",
-  "address": "401 WEST 205 STREET",
+  "centerName": "MANHATTAN COUNTRY SCHOOL ",
+  "permitHolder": "MANHATTAN COUNTRY SCHOOL",
+  "address": "7 EAST 96 STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10034",
-  "phone": "212-567-5521",
+  "zipCode": "10129",
+  "phone": "212-348-0952",
   "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "permitNumber": "4246",
+  "permitExpirationDate": " 01/09/2009",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "32",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 04/21/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.862512891927,
-  "longitude": -73.918286844216
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "04/09/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.7877473191,
+  "longitude": -73.955383246616
 }

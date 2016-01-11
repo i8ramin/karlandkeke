@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST XAVIER ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST FRANCIS XAVIER",
+  "address": "1711 HAIGHT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10461",
+  "phone": "718-863-0531",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "10",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.848517453295,
+  "longitude": -73.852259127657
+}

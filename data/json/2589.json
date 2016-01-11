@@ -1,0 +1,28 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "SAINT STANISLAUS KOSTKA SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "61-17 GRAND AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11378",
+  "phone": "718-326-1585",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "88",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.721992568261,
+  "longitude": -73.90402917757
+}

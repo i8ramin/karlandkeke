@@ -1,30 +1,73 @@
 {
-  "type": "Child Care - Infants/Toddlers",
-  "centerName": "KIDDIE CASTLE 2 THE NURSERY ",
-  "permitHolder": "1729 FLATBUSH CORP",
-  "address": "1729 FLATBUSH AVENUE",
-  "borough": "BROOKLYN",
-  "zipCode": "11210",
-  "phone": "718-677-0311",
+  "type": "Child Care - Pre School",
+  "centerName": "KIDDIE ACADEMY OF WHITESTONE ",
+  "permitHolder": "KA OF WHITESTONE INC",
+  "address": "7-05 152ND STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11357",
+  "phone": "718-747-5555",
   "permitStatus": " Permitted ",
-  "permitNumber": "92719",
-  "permitExpirationDate": " 07/13/2017",
-  "ageRange": "0 - 2",
-  "maximumCapacity": "24",
+  "permitNumber": "8085",
+  "permitExpirationDate": " 10/17/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "146",
   "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "7 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 11/18/2015",
+    "date": "Inspection Date 10/15/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.627660973544,
-  "longitude": -73.942197322985
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "04/20/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "10/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/06/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/19/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/04/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.794782466805,
+  "longitude": -73.810404589372
 }

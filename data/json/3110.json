@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/NEW YORK JUNIOR TENNIS LEAGUE INCPS-215K ",
+  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE INCPS-215K",
+  "address": "415 AVENUE S",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-339-2464",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 05/18/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/03/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.602076512419,
+  "longitude": -73.970013230631
+}

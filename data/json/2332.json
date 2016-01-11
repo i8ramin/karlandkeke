@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "PRESCHOOL ANNEX ",
+  "permitHolder": "JEWISH FOUNDATION SCHOOL",
+  "address": "835 FOREST HILL ROAD ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "718-494-7477",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.602271628127,
+  "longitude": -74.140355259489
+}

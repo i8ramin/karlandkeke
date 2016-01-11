@@ -1,30 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "NYCHA DEWITT CLINTON COMM CTR ",
-  "permitHolder": "NYCHA DEWITT CLINTON COMM CTR",
-  "address": "120 EAST 110TH ST",
-  "borough": "MANHATTAN",
-  "zipCode": "10029",
-  "phone": "212-876-1240",
+  "centerName": "NYCHA FORT INDEPENDENCE CC ",
+  "permitHolder": "NYCHA FORT INDEPENDENCE CC",
+  "address": "3350 BAILEY AVE",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-884-7050",
   "permitStatus": " Registered ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "",
   "maximumCapacity": "",
-  "siteType": "Municipal Summer Day Camp",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
     "date": "Inspection Date 08/07/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.795112563323,
-  "longitude": -73.945193488972
+  "pastInspections": [
+
+  ],
+  "latitude": 40.880087295812,
+  "longitude": -73.900740730697
 }

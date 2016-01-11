@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "TIFERES BNOS ",
+  "permitHolder": "CONG AHAVAS SHULEM",
+  "address": "1012 AVENUE I",
+  "borough": "BROOKLYN",
+  "zipCode": "11230",
+  "phone": "718-447-5681",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.627055795311,
+  "longitude": -73.966385051815
+}

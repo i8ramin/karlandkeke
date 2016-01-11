@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "QUEENS COMMUNITY HOUSE PS 82 ",
+  "permitHolder": "QUEENS COMMUNITY HOUSE PS 82",
+  "address": "88-02 144TH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11435",
+  "phone": "718-297-0562",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/26/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/01/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.704064671767,
+  "longitude": -73.811770845866
+}

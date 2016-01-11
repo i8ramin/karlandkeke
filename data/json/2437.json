@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "REACH ONE TEACH ALL EXTENDED DAY ",
+  "permitHolder": "CHILDRENS CHOICE FAMILY SERVICES CCFS",
+  "address": "211 THROOP AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11206",
+  "phone": "718-552-2923",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.696808170752,
+  "longitude": -73.943666207822
+}

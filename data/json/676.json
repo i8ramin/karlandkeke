@@ -1,30 +1,52 @@
 {
-  "type": "Child Care - Pre School",
-  "centerName": "CARDINAL MCCLOSKEY COMMUNITY SERVICES ",
-  "permitHolder": "CARDINAL MCCLOSKEY SCHOOL AND HOME FOR CHILDREN",
-  "address": "1960 UNIVERSITY AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10453",
-  "phone": "718-731-8439",
-  "permitStatus": " Permitted ",
-  "permitNumber": "95517",
-  "permitExpirationDate": " 08/26/2017",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "215",
-  "siteType": "ACS Contracted Preschools",
+  "type": "Camp",
+  "centerName": "CAMPUS DAY CAMP ",
+  "permitHolder": "CAMPUS ASP INC",
+  "address": "2901 CAMPUS ROAD ",
+  "borough": "BROOKLYN",
+  "zipCode": "11210",
+  "phone": "718-421-7575",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33887",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "228",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 09/01/2015",
+    "date": "Inspection Date 06/30/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.853168446549,
-  "longitude": -73.912680972765
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/29/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/24/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.631978862625,
+  "longitude": -73.948682156753
 }

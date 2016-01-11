@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/THE CHILD CENTER OF NY MS 185 ",
+  "permitHolder": "THE CHILD CENTER OF NY MS 185",
+  "address": "147-26 25TH DRIVE",
+  "borough": "QUEENS",
+  "zipCode": "11354",
+  "phone": "347-245-4946",
+  "permitStatus": " Registered ",
+  "permitNumber": "33771",
+  "permitExpirationDate": " 03/10/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.775245971754,
+  "longitude": -73.819346010069
+}

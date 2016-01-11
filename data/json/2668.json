@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SCAN-NEW YORK VOLUNTEER PARENT-AIDES ASSOCIATION INC ",
+  "permitHolder": "SCAN-NEW YORK VOLUNTEER PARENT-AIDES ASSOCIATION INC",
+  "address": "1020 Anderson Avenue",
+  "borough": "BRONX",
+  "zipCode": "10452",
+  "phone": "718-681-6776",
+  "permitStatus": " Registered ",
+  "permitNumber": "34179",
+  "permitExpirationDate": " 01/30/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/07/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.832699852538,
+  "longitude": -73.926837432915
+}

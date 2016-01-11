@@ -1,28 +1,38 @@
 {
-  "type": "Camp",
-  "centerName": "KIPS BAY BOYS GIRLS CLUB - CASTLE HILL UNIT PS 138 ",
-  "permitHolder": "KIPS BAY BOYS GIRLS CLUB - CASTLE HILL UNIT PS 138",
-  "address": "2060 LAFAYETTE AVENUE",
+  "type": "School Based Child Care",
+  "centerName": "KINNERET DAY SCHOOL ",
+  "permitHolder": "KINNERET DAY SCHOOL INC",
+  "address": "2600 NETHERLAND AVENUE ",
   "borough": "BRONX",
-  "zipCode": "10473",
-  "phone": "718-822-5325",
-  "permitStatus": " In-Renewal ",
-  "permitNumber": "93017",
-  "permitExpirationDate": " 09/15/2015",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "300",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10463",
+  "phone": "718-548-0900",
+  "permitStatus": " Active ",
+  "permitNumber": "4508",
+  "permitExpirationDate": " 04/02/2012",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "67",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
-  "hasInspections": "false",
+  "yearsOperating": "",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 02/04/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.822657914017,
-  "longitude": -73.853364572451
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "02/24/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.878820883672,
+  "longitude": -73.916643051514
 }

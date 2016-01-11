@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "Y - AFTER SCHOOL PS 134Q ",
+  "permitHolder": "Y - AFTER SCHOOL PS 134Q",
+  "address": "203-06 109TH AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11412",
+  "phone": "718-551-9320",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/25/2016",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/01/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.70798728072,
+  "longitude": -73.755243148837
+}

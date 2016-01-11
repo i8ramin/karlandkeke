@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SPORTS AND ARTS IN SCHOOL FOUNDATION INC ",
+  "permitHolder": "SPORTS AND ARTS IN SCHOOL FOUNDATION INC",
+  "address": "850 BAYCHESTER AVE",
+  "borough": "BRONX",
+  "zipCode": "10475",
+  "phone": "347-417-8179",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/28/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.875887519224,
+  "longitude": -73.833861128989
+}

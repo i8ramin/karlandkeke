@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "UNITED TALMUDICAL ACADEMY ",
+  "permitHolder": "UNITED TALMUDICAL ACADEMY OF WILLIAMSBURG-YESHIVA TORAH VYIRAH",
+  "address": "590 BEDFORD AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11249",
+  "phone": "",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.703534399051,
+  "longitude": -73.960474711158
+}

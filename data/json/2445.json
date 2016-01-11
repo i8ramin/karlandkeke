@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "REAL KIDS BRONXPS18 ",
+  "permitHolder": "REAL KIDS BRONXPS18",
+  "address": "502 MORRIS AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10451",
+  "phone": "646-342-0502",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 10/24/2015",
+  "ageRange": "",
+  "maximumCapacity": "",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/23/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.816448640968,
+  "longitude": -73.923253410995
+}

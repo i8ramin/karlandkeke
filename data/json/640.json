@@ -1,30 +1,38 @@
 {
   "type": "Camp",
-  "centerName": "CAMBA KIDS UNITE SUMMER CAMP ",
-  "permitHolder": "CAMBA",
-  "address": "7002 4TH AVENUE",
+  "centerName": "CAMBA BEACON - CAMP I AM IS 271 ",
+  "permitHolder": "CAMBA INC",
+  "address": "1137 Herkimer Street",
   "borough": "BROOKLYN",
-  "zipCode": "11209",
-  "phone": "347-623-3969",
+  "zipCode": "11233",
+  "phone": "718-345-5904",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "92697",
+  "permitNumber": "34136",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "50",
+  "maximumCapacity": "78",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "1 or more",
+  "yearsOperating": "2 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/17/2015",
+    "date": "Inspection Date 07/16/2015",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.633582574163,
-  "longitude": -74.023948182923
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/25/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.677797278525,
+  "longitude": -73.91584255044
 }

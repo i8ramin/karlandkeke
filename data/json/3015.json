@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SUCCESS ACADEMY COBBLE HILL PRESCHOOL ",
+  "permitHolder": "SUCCESS ACADEMY CHARTER SCHOOL- COBBLE HILL",
+  "address": "284 Baltic Street",
+  "borough": "BROOKLYN",
+  "zipCode": "11201",
+  "phone": "718-704-1460",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.685411795395,
+  "longitude": -73.993351150141
+}

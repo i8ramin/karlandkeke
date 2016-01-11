@@ -1,0 +1,38 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "READY SET LEARN ",
+  "permitHolder": "NP READY SET LEARN LLC",
+  "address": "830 FOX STREET ",
+  "borough": "BRONX",
+  "zipCode": "10459",
+  "phone": "718-484-8210",
+  "permitStatus": " Permitted ",
+  "permitNumber": "62338",
+  "permitExpirationDate": " 04/28/2016",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "8",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "2",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/20/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "03/02/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.817569220656,
+  "longitude": -73.896231557452
+}

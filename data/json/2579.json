@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT NICHOLAS OF TOLENTINE CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "80-22 PARSONS BOULEVARD",
+  "borough": "QUEENS",
+  "zipCode": "11432",
+  "phone": "718-380-1900",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "32",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/22/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.719419705047,
+  "longitude": -73.808909837576
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST JOHN CHRYSOSTOM PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST JOHN CHRYSOSTOM SCHOOL",
+  "address": "1144 HOE AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10459",
+  "phone": "718-328-7226",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.827321831707,
+  "longitude": -73.890886540511
+}

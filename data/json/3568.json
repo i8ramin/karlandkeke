@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "VANDERBILT YMCA ",
+  "permitHolder": "VANDERBILT YMCA",
+  "address": "224 EAST 47TH ST",
+  "borough": "MANHATTAN",
+  "zipCode": "10017",
+  "phone": "212-912-2522",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 07/15/2015",
+  "ageRange": "",
+  "maximumCapacity": "55",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/24/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/14/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/09/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.75362687985,
+  "longitude": -73.971417370519
+}

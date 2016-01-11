@@ -1,30 +1,32 @@
 {
-  "type": "Camp",
-  "centerName": "INWOOD COMM IS 52 ",
-  "permitHolder": "INWOOD COMM IS 52",
-  "address": "650 ACADEMY ST",
+  "type": "Child Care - Pre School",
+  "centerName": "INVENTORS GATE PRESCHOOL ",
+  "permitHolder": "IG WEST 82INC",
+  "address": "160 WEST 82 STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10034",
-  "phone": "212-942-0043",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 04/04/2016",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10024",
+  "phone": "212-787-8200",
+  "permitStatus": " Permitted ",
+  "permitNumber": "79577",
+  "permitExpirationDate": " 01/21/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "90",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "1",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/16/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "date": "Inspection Date 05/27/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.866047082177,
-  "longitude": -73.924833771191
+  "pastInspections": [
+
+  ],
+  "latitude": 40.78457774074,
+  "longitude": -73.975708413757
 }

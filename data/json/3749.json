@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "YOUNG ACHIEVERS SUMMER DAY CAMP ",
+  "permitHolder": "MOSHOLU MONTEFIORE COMMUNITY CENTER INC",
+  "address": "715 EAST 225 STREET",
+  "borough": "BRONX",
+  "zipCode": "10466",
+  "phone": "917-570-3561",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "33833",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "300",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/31/2013",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.887576102293,
+  "longitude": -73.859730848576
+}

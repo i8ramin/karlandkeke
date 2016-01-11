@@ -1,35 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "HOLY CROSS SCHOOL ",
-  "permitHolder": "ARCHDIOCESE OF NEW YORK-HOLY CROSS CHURCH",
-  "address": "1846 RANDALL AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10473",
-  "phone": "718-842-4492",
+  "centerName": "HOLY CHILD JESUS CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "111-02 86 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11418",
+  "phone": "718-849-3988",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "49",
+  "maximumCapacity": "0",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 01/09/2015",
-    "result": "Inspection Result Monitoring Inspection Non-Routine - Reinspection Required",
-    "numInfractions": "1",
-    "infractions": [
-      {
-        "Violation Summary ": "Child care service/camp fails to comply with terms of the permit",
-        "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "513",
-        " Status": "CORRECTED"
-      }
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 10/29/2014 Result Initial Annual Inspection - Reinspection Not Required /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Reinspection Not Required/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateSchool-based child care staff determined not to be properly immunized at time of inspection/span/td td alignleft bgcolorFFFFFF idMinor violations General Violations titleThese are violations that do not pose a direct threat to children but must be corrected within a month by the day care provider to assure the optimal functioning of the child care service Child care services are expected to correct all violations The Department of Health and Mental Hygiene does not perform compliance inspections to determine if violations were corrected when there are no critical violations and fewer that six general violations observed at the time of an inspection stylecolor0088cc cursor pointer Minor violations General Violations/td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline4311 c/a/td td alignleft bgcolorFFFFFF classcenterOPEN /td /tr /table /div /div /div",
-  "latitude": 40.817298307301,
-  "longitude": -73.860688825649
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.698716592689,
+  "longitude": -73.837899921087
 }

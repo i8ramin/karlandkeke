@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVAT LEV TORAH ",
+  "permitHolder": "YESHIVAT LEV TORAH",
+  "address": "3300 KINGS HIGHWAY",
+  "borough": "BROOKLYN",
+  "zipCode": "11234",
+  "phone": "718-891-8644",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.618713023285,
+  "longitude": -73.942291550678
+}

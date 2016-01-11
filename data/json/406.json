@@ -1,28 +1,59 @@
 {
-  "type": "School Based Child Care",
-  "centerName": "BOBOVER YESHIVA BNEI ZION ",
-  "permitHolder": "BOBOVER YESHIVA BNEI ZION",
-  "address": "4206 15 AVENUE ",
+  "type": "Camp",
+  "centerName": "BONJOUR NY FRENCH SUMMER CAMP ",
+  "permitHolder": "BONJOUR NY ABC LLC",
+  "address": "330 SMITH STREET",
   "borough": "BROOKLYN",
-  "zipCode": "11219",
-  "phone": "718-851-4000",
-  "permitStatus": " Active ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "2 - 5",
-  "maximumCapacity": "0",
-  "siteType": "Private",
+  "zipCode": "11231",
+  "phone": "646-588-5069",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34622",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "200",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 06/30/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.636175000757,
-  "longitude": -73.983757692484
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "07/11/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/12/2013",
+      "type": " Monitoring Inspection Non-Routine",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.680141908829,
+  "longitude": -73.994938045189
 }

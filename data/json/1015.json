@@ -1,30 +1,28 @@
 {
-  "type": "Camp",
-  "centerName": "EAST SIDE HOUSE MITCHEL COMM CTR ",
-  "permitHolder": "EAST SIDE HOUSE MITCHEL COMM CTR",
-  "address": "210 ALEXANDER AVE",
-  "borough": "BRONX",
-  "zipCode": "10454",
-  "phone": "718-993-3245",
-  "permitStatus": " Registered ",
+  "type": "School Based Child Care",
+  "centerName": "EAST HARLEM SCHOLARS ACADEMY PRESCHOOL ",
+  "permitHolder": "EAST HARLEM SCHOLARS ACADEMY CHARTER SCHOOL I I",
+  "address": "1573 Madison Avenue",
+  "borough": "MANHATTAN",
+  "zipCode": "10029",
+  "phone": "212-348-2518",
+  "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 08/06/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
-    "numInfractions": "0",
-    "infractions": [
-
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
+  "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.80916574437,
-  "longitude": -73.925776070432
+  "latitude": 40.793755834205,
+  "longitude": -73.949380406204
 }

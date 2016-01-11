@@ -1,0 +1,59 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "UNIVERSITY PLAZA NURSERY SCHOOL ",
+  "permitHolder": "UNIVERSITY PLAZA NURSERY SCHOOL",
+  "address": "110 BLEECKER STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10012",
+  "phone": "212-677-3916",
+  "permitStatus": " Permitted ",
+  "permitNumber": "6016",
+  "permitExpirationDate": " 04/11/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "39",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "11 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/27/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "01/05/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/04/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.727412439091,
+  "longitude": -73.997658441605
+}

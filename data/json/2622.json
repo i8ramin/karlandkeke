@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "SASF BRONX HIGH SCHOOL OF BUSINESS ",
+  "permitHolder": "SPORTS ARTS IN SCHOOL FOUNDATION INC",
+  "address": "240 EAST 172ND STREET",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "718-410-4060",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "68019",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "75",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "2 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4815a8",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "No inspection conducted ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.840415044423,
+  "longitude": -73.910908796301
+}

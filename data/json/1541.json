@@ -1,14 +1,14 @@
 {
   "type": "Camp",
-  "centerName": "JACOB A RIIS SETTLEMENT HOUSE PS 166 ",
-  "permitHolder": "JACOB A RIIS SETTLEMENT HOUSE PS 166",
-  "address": "33-09 35TH AVENUE",
+  "centerName": "JACOB A RIIS AFTERSCHOOL PROGRAM ",
+  "permitHolder": "JACOB A RIIS AFTERSCHOOL PROGRAM",
+  "address": "35-40 21ST STREET",
   "borough": "QUEENS",
   "zipCode": "11106",
-  "phone": "718-361-2341",
+  "phone": "718-784-7447",
   "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 11/16/2014",
+  "permitNumber": "34535",
+  "permitExpirationDate": " 08/24/2016",
   "ageRange": "",
   "maximumCapacity": "0",
   "siteType": "Summer Day Camp",
@@ -16,15 +16,17 @@
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 07/23/2014",
+    "date": "Inspection Date 07/31/2014",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "2",
-  "pastInspections": "div classaccordion-group stylepadding-top 8px padding-bottom 8px div classaccordion-heading idcolla0 styledisplay inlineheight 100padding-top 8px padding-bottom 8px a classaccordion-toggle data-togglecollapse data-parentaccordion199 hrefcollapse0 idcollap0 styledisplayinlinepadding-left0pxtext-decorationunderline Inspection Date 08/07/2013 Result Initial Annual Inspection - Passed inspection with no violations /a /div div idcollapse0 classaccordion-body collapse div classaccordion-inner stylebackground-colorCCCCCC-- Inspection Result INSPECTIONnbsp-Initial Annual Inspection - Passed inspection with no violations/td -- table cellpadding4 cellspacing1 border0 classdisplay width100 tr classodd gradeX th alignleftViolation Summary a hrefGlossarydoViolationSummaryimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCategory a hrefGlossarydoViolationTypesimg srcimages/infpng stylewidth15pxheight15pxmargin-top-1px/a/th th alignleftCode Sub-Section/th th alignleft classcenter Status /th /tr tr classeven gradeC td alignleft bgcolorFFFFFFspan classnotranslateThere were no new violations observed at the time of this inspection/visit/span/td td alignleft bgcolorFFFFFF id title stylecolor0088cc cursor pointer /td td alignleft bgcolorFFFFFFa hrefhttp//wwwnycgov/html/doh/html/about/health-codeshtml target_top styletext-decorationunderline /a/td td alignleft bgcolorFFFFFF classcenter/td /tr /table /div /div /div",
-  "latitude": 40.757301496743,
-  "longitude": -73.926732870283
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.760801073172,
+  "longitude": -73.935919467367
 }

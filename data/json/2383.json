@@ -1,0 +1,85 @@
+{
+  "type": "Camp",
+  "centerName": "PROSPECT PARK YMCA PARK SLOPE ARMORY ",
+  "permitHolder": "YMCA OF GREATER NEW YORK",
+  "address": "361 15TH STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "212-912-2582",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34556",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "260",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/14/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "07/01/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Progressive Swim Instructor failed to assess the swim ability of all campers prior to participation in aquatic activity",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4813a2ii",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Record of child medical exam within one year of admision not on file Record incomplete fails to contain medical history recommendations for special conditions current immunization contact information for each child",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4817e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/18/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Progressive Swim Instructor failed to assess the swim ability of all campers prior to participation in aquatic activity",
+          "Category ": " Violations requiring correction within two weeks Critical Violations",
+          "Code Sub-Section": "4813a2ii",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Camp failed to arrange for purchase of 100000 accident and 30000 illness insurance for staff and campers",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4821e",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "08/08/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.662887203932,
+  "longitude": -73.983765580923
+}

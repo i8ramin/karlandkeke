@@ -1,0 +1,26 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "UNITED CEREBRAL PALSY OF NEW YORK CITY INC ",
+  "permitHolder": "UNITED CEREBRAL PALSY OF NEW YORK CITY INC",
+  "address": "80 WEST END AVENUE",
+  "borough": "MANHATTAN",
+  "zipCode": "10023",
+  "phone": "646-740-2525",
+  "permitStatus": " Permitted ",
+  "permitNumber": "96377",
+  "permitExpirationDate": " 09/03/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "165",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
+}

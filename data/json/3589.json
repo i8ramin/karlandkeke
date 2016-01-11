@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "WAKEFIELD GRACE SUMMER CAMP ",
+  "permitHolder": "WAKEFIELD GRACE UNITED METHODIST CHURCH",
+  "address": "4750 WHITE PLAINS ROAD",
+  "borough": "BRONX",
+  "zipCode": "10470",
+  "phone": "347-668-5435",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "92577",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "22",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.904827626561,
+  "longitude": -73.849622839299
+}

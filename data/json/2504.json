@@ -1,0 +1,66 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "RIVERDALE NEIGHBORHOOD HOUSE ",
+  "permitHolder": "RIVERDALE NEIGHBORHOOD HOUSE INC",
+  "address": "5555 MOSHOLU AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10471",
+  "phone": "718-549-8100",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5718",
+  "permitExpirationDate": " 05/28/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "84",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "12 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/31/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "6",
+  "pastInspections": [
+    {
+      "date": "05/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "05/01/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "11/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/15/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/10/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.903318247105,
+  "longitude": -73.903534815709
+}

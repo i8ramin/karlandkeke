@@ -1,0 +1,37 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "RENAISSANCE UPK ",
+  "permitHolder": "THE RENAISSANCE CHARTER SCHOOL",
+  "address": "35-59 81ST STREET",
+  "borough": "QUEENS",
+  "zipCode": "11372",
+  "phone": "718-803-0060",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 12/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service/camp obstructed DOHMH staff from conducting duties of the Department at the time of inspection",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "315",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.751303427413,
+  "longitude": -73.885532693684
+}

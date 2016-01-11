@@ -1,0 +1,52 @@
+{
+  "type": "Camp",
+  "centerName": "PORT RICHMOND CENTER AT NEW WORLD PREP ",
+  "permitHolder": "POLICE ATHLETIC LEAGUE",
+  "address": "26 SHARPE AVENUE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10302",
+  "phone": "718-720-8718",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "46697",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "90",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "08/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "No inspection conducted ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/13/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/31/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.639690236225,
+  "longitude": -74.136712171735
+}

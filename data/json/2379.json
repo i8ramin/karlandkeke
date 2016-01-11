@@ -1,0 +1,59 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "PROSPECT FAMILY INN ",
+  "permitHolder": "HOMES FOR THE HOMELESS INC",
+  "address": "730 KELLY STREET",
+  "borough": "BRONX",
+  "zipCode": "10455",
+  "phone": "718-617-6100",
+  "permitStatus": " Permitted ",
+  "permitNumber": "5886",
+  "permitExpirationDate": " 08/20/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "15 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/17/2014",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "09/27/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/12/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "06/10/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/03/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.816510099391,
+  "longitude": -73.899715954111
+}

@@ -1,22 +1,22 @@
 {
   "type": "School Based Child Care",
-  "centerName": "IMMACULATE CONCEPTION PRESCHOOL ",
-  "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "179-14 DALNY ROAD",
-  "borough": "QUEENS",
-  "zipCode": "11432",
-  "phone": "718-739-5933",
+  "centerName": "IMMACULATE CONCEPTION GUNHILL PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-IMMACUALTE CONCEPTION SCHOOL",
+  "address": "760 EAST GUNHILL ROAD",
+  "borough": "BRONX",
+  "zipCode": "10467",
+  "phone": "718-547-3346",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "19",
+  "maximumCapacity": "0",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/07/2015",
+    "date": "Inspection Date 11/21/2013",
     "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
@@ -24,7 +24,9 @@
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.716064867796,
-  "longitude": -73.785233689682
+  "pastInspections": [
+
+  ],
+  "latitude": 40.876627161685,
+  "longitude": -73.864111413531
 }

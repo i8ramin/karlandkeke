@@ -1,28 +1,68 @@
 {
-  "type": "Camp",
-  "centerName": "CASITA MARIA/MOTT HALL CHARTER SCHOOL ",
-  "permitHolder": "CASITA MARIA/MOTT HALL CHARTER SCHOOL",
-  "address": "1260 FRANKLIN AVE",
+  "type": "Universal Pre-K Half Day",
+  "centerName": "CARDINAL MCCLOSKEY COMMUNITY SERVICES ",
+  "permitHolder": "CARDINAL MCCLOSKEY SCHOOL AND HOME FOR CHILDREN",
+  "address": "560 CONCORD AVENUE",
   "borough": "BRONX",
-  "zipCode": "10456",
-  "phone": "",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "0",
-  "siteType": "Corporate",
-  "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "zipCode": "10455",
+  "phone": "718-292-8564",
+  "permitStatus": " Permitted ",
+  "permitNumber": "56137",
+  "permitExpirationDate": " 01/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "120",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "Yes",
+  "yearsOperating": "2",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 10/29/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "4",
+    "infractions": [
+      {
+        "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4719 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4733 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4733 c",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4737b2",
+        " Status": "CORRECTED"
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.830988444133,
-  "longitude": -73.902704167174
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "10/16/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.813445658289,
+  "longitude": -73.907993517627
 }

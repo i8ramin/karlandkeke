@@ -1,0 +1,59 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "ST NICHOLAS PRESCHOOL ",
+  "permitHolder": "ST NICHOLAS CHURCH",
+  "address": "43-09 196 STREET ",
+  "borough": "QUEENS",
+  "zipCode": "11358",
+  "phone": "718-357-0800",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7645",
+  "permitExpirationDate": " 09/22/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "74",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "10 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 11/19/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "5",
+  "pastInspections": [
+    {
+      "date": "03/04/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "09/10/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "04/22/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "12/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.757690070953,
+  "longitude": -73.785625964057
+}

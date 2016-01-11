@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "YESHIVAT OHEL SIMCHA ",
+  "permitHolder": "YESHIVAT OHEL SIMCHA",
+  "address": "141-41 72 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11367",
+  "phone": "718-261-0101",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.726457341784,
+  "longitude": -73.822603224088
+}

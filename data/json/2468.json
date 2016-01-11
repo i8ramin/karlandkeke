@@ -1,0 +1,28 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "RENANIM MANHATTAN INC ",
+  "permitHolder": "RENANIM MANHATTAN INC",
+  "address": "2975 INDEPENDENCE AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10463",
+  "phone": "718-601-1300",
+  "permitStatus": " Permitted ",
+  "permitNumber": "87977",
+  "permitExpirationDate": " 05/13/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "26",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.882746404744,
+  "longitude": -73.917426488517
+}

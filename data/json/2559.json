@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT BERNADETTE SCHOOL ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "1313 83 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11228",
+  "phone": "718-236-1560",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.615490872205,
+  "longitude": -74.011630456308
+}

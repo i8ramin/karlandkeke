@@ -1,0 +1,65 @@
+{
+  "type": "Child Care - Infants/Toddlers",
+  "centerName": "ST JEMUEL GROUP FAMILY DAY CARE INC ",
+  "permitHolder": "ST JEMUEL GROUP FAMILY DAY CARE INC",
+  "address": "2836 WEBB AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-601-9753",
+  "permitStatus": " Permitted ",
+  "permitNumber": "45357",
+  "permitExpirationDate": " 06/27/2017",
+  "ageRange": "0 - 2",
+  "maximumCapacity": "17",
+  "siteType": "ACS Contracted Preschools",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 ",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 05/27/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "05/07/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Not Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Child care service teaching staff in an infant/toddler program do not meet staff qualification requirements",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4715 ab",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4737 b1",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "04/03/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "02/03/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.872983937806,
+  "longitude": -73.900733295939
+}

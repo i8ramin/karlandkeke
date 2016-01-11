@@ -1,0 +1,32 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "STBRIGID EARLY CHILDHOOD ACADEMY ",
+  "permitHolder": "STBRIGID EARLY CHILDHOOD ACADEMY",
+  "address": "185 AVENUE D",
+  "borough": "MANHATTAN",
+  "zipCode": "10009",
+  "phone": "212-677-5210",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 09/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.726317127379,
+  "longitude": -73.974124221931
+}

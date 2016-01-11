@@ -1,0 +1,37 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST MARGARET MARY PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST MARGARET MARY SCHOOL",
+  "address": "121 EAST 177 STREET",
+  "borough": "BRONX",
+  "zipCode": "10453",
+  "phone": "718-731-5905",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/12/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "School-based child care staff determined not to be properly immunized at time of inspection",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4311 c",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.849574297136,
+  "longitude": -73.90752044308
+}

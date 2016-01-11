@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SESAME FLYERS SONYC IS 211 ",
+  "permitHolder": "SESAME FLYERS INTERNATIONAL INC",
+  "address": "1001 EAST 100 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "718-251-2051",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91819",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "150",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/14/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.643271058518,
+  "longitude": -73.896211793411
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "THREE HIERARCHS AND FREE GREEK COMMUNITY OF THE THREE IERARCHES INC ",
+  "permitHolder": "ARISTOTLE ACADEMY",
+  "address": "1724 AVENUE P",
+  "borough": "BROOKLYN",
+  "zipCode": "11229",
+  "phone": "718-399-0280",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "34",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.610630379602,
+  "longitude": -73.956395277685
+}

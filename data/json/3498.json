@@ -1,0 +1,45 @@
+{
+  "type": "Camp",
+  "centerName": "UAU-UNITED ACTIVITIES UNLIMITED PS 20 ",
+  "permitHolder": "UAU-UNITED ACTIVITIES UNLIMITED PS 20",
+  "address": "161 PARK AVE",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10302",
+  "phone": "718-987-8111",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 01/13/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 03/17/2014",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "02/07/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/25/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.636590348413,
+  "longitude": -74.132919019228
+}

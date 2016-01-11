@@ -1,30 +1,73 @@
 {
-  "type": "Camp",
-  "centerName": "EASTSIDE HOUSES-MILBROOK CC ",
-  "permitHolder": "EASTSIDE HOUSES-MILBROOK CC",
-  "address": "201 ST ANNS AVE",
+  "type": "Child Care - Pre School",
+  "centerName": "EAST SIDE SETTLEMENT HOUSE HEAD START/ DAY CARE ",
+  "permitHolder": "EAST SIDE HOUSE SETTLEMENT",
+  "address": "414 MORRIS AVENUE",
   "borough": "BRONX",
-  "zipCode": "10454",
-  "phone": "718-585-1254",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 07/15/2014",
-  "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "zipCode": "10451",
+  "phone": "718-401-4242",
+  "permitStatus": " Permitted ",
+  "permitNumber": "7400",
+  "permitExpirationDate": " 06/28/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "60",
+  "siteType": "ACS Contracted Preschools",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
+  "yearsOperating": "11 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/12/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 03/17/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.805735180346,
-  "longitude": -73.918237613054
+  "numInspections": "7",
+  "pastInspections": [
+    {
+      "date": "07/02/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/24/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "03/19/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/31/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "01/15/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.815521362643,
+  "longitude": -73.923922842219
 }

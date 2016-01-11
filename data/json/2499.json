@@ -1,0 +1,26 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "RIVERDALE COUNTRY SCHOOL ",
+  "permitHolder": "RIVERDALE COUNTRY SCHOOL",
+  "address": "4900 PALISADES AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10471",
+  "phone": "718-549-7780",
+  "permitStatus": " Active ",
+  "permitNumber": "1690",
+  "permitExpirationDate": " 07/17/2010",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": ""
+}

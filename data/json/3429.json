@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "TIFERES BNOS ",
+  "permitHolder": "CONGREGATION AHAVAS SHULEM DNADVERNA",
+  "address": "49 AVENUE T ",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "718-744-5681",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.598159684662,
+  "longitude": -73.98342848753
+}

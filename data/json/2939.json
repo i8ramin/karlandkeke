@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST SYLVESTER PRESCHOOL ",
+  "permitHolder": "ARCHDIOCESE OF NEW YORK-ST SYLVESTER SCHOOL",
+  "address": "884 TARGEE STREET",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10304",
+  "phone": "718-442-4938",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.606867463883,
+  "longitude": -74.090244111519
+}

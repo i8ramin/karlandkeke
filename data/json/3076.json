@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE LEAP AFTERSCHOOL AT PS 163 ",
+  "permitHolder": "LEARNING THROUGH AN EXPANDED ARTS PROGRAM INC",
+  "address": "163 W WEST 97TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10025",
+  "phone": "718-292-2683",
+  "permitStatus": " Registered ",
+  "permitNumber": "34325",
+  "permitExpirationDate": " 09/15/2012",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.794256782719,
+  "longitude": -73.968705616559
+}

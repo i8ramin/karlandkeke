@@ -1,0 +1,78 @@
+{
+  "type": "Camp",
+  "centerName": "SEPHARDIC COMMUNITY CENTER DAY CAMP ",
+  "permitHolder": "SEPHARDIC COMMUNITY YOUTH CENTER INC",
+  "address": "1901 OCEAN PARKWAY ",
+  "borough": "BROOKLYN",
+  "zipCode": "11223",
+  "phone": "917-589-2781",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34290",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "595",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/06/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "08/01/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Bathing establishment fails to adequately maintain pool water chemistry and clarity Determined at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "16523",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Buddy system or other accountability system has not been established System does not contains camper identity ability record of coming and goings buddy assignments 15 minute checks",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4813a3iv",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Bathing establishment fails to adequately maintain pool water chemistry and clarity Determined at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "16523",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Buddy system or other accountability system has not been established System does not contains camper identity ability record of coming and goings buddy assignments 15 minute checks",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4813a3iv",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "07/29/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.602102924425,
+  "longitude": -73.966289628798
+}

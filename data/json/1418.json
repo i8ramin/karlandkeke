@@ -1,17 +1,17 @@
 {
   "type": "School Based Child Care",
-  "centerName": "HOLY MARTYRS ",
-  "permitHolder": "HOLY MARTYRS ARMENIAN DAY SCHOOL",
-  "address": "209-15 HORACE HARDING EXPRESSWAY",
+  "centerName": "HOLY FAMILY CATHOLIC ACADEMY ",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "74-15 175TH STREET",
   "borough": "QUEENS",
-  "zipCode": "11364",
-  "phone": "718-225-4826",
+  "zipCode": "11366",
+  "phone": "718-969-2124",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "38",
-  "siteType": "Private",
+  "maximumCapacity": "",
+  "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "false",
@@ -23,6 +23,6 @@
   },
   "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.746102295327,
-  "longitude": -73.767625732483
+  "latitude": 40.728689354763,
+  "longitude": -73.794923697678
 }

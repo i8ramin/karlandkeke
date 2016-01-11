@@ -1,30 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "CPC CONFUCIUS PLAZA DAY CARE - PS124 ",
-  "permitHolder": "CPC CONFUCIUS PLAZA DAY CARE - PS124",
-  "address": "40 DIVISION ST",
+  "centerName": "COUNTEE CULLEN COMMUNITY CENTER DAY CAMP ",
+  "permitHolder": "HARLEM CHILDRENS ZONE INC",
+  "address": "242 WEST 144 STREET",
   "borough": "MANHATTAN",
-  "zipCode": "10002",
-  "phone": "212-925-4325",
+  "zipCode": "10030",
+  "phone": "212-234-4500",
   "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " 04/15/2016",
+  "permitNumber": "34400",
+  "permitExpirationDate": " 09/15/2012",
   "ageRange": "",
-  "maximumCapacity": "",
-  "siteType": "Summer Day Camp",
+  "maximumCapacity": "0",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/09/2013",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "Inspection Date 07/17/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.71419355802,
-  "longitude": -73.995086952844
+  "pastInspections": [
+
+  ],
+  "latitude": 40.8215121496,
+  "longitude": -73.940901013051
 }

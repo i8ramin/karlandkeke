@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "TIFERES BNOS PRESCHOOL ",
+  "permitHolder": "CONGREGATION AHAVAS SHULEM DNADVERNA",
+  "address": "575 BEDFORD AVENUE",
+  "borough": "BROOKLYN",
+  "zipCode": "11211",
+  "phone": "718-855-1888",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.703869381126,
+  "longitude": -73.96082435872
+}

@@ -1,0 +1,50 @@
+{
+  "type": "Child Care - Pre School",
+  "centerName": "RISING STARS LEARNING CENTER ",
+  "permitHolder": "CHRISTINA ROMANO",
+  "address": "25-38 37 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11103",
+  "phone": "718-440-8943",
+  "permitStatus": " Permitted ",
+  "permitNumber": "90958",
+  "permitExpirationDate": " 06/23/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "20",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 10/20/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4759 d",
+        " Status": "CORRECTED"
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "10/06/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/13/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.767591145598,
+  "longitude": -73.914197949404
+}

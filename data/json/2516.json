@@ -1,0 +1,38 @@
+{
+  "type": "Camp",
+  "centerName": "ROCKAWAY YMCA SUMMER CAMP ",
+  "permitHolder": "YMCA OF GREATER NY",
+  "address": "207 BEACH 73 STREET",
+  "borough": "QUEENS",
+  "zipCode": "11692",
+  "phone": "718-215-6950",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "71297",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "100",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/04/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "08/15/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.589437996783,
+  "longitude": -73.801063337774
+}

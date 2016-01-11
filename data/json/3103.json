@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/NEW YORK CITY MISSION SOCIETY ",
+  "permitHolder": "NEW YORK CITY MISSION SOCIETY",
+  "address": "2424 JEROME AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10468",
+  "phone": "718-584-3926",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 11/08/2014",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 06/21/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.861843962411,
+  "longitude": -73.901758648828
+}

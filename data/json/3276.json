@@ -1,0 +1,28 @@
+{
+  "type": "Universal Pre-K Half Day",
+  "centerName": "THE EDUCATIONAL ALLIANCE INC ",
+  "permitHolder": "THE EDUCATIONAL ALLIANCE INC",
+  "address": "123 RIDGE STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10002",
+  "phone": "646-395-4233",
+  "permitStatus": " Permitted ",
+  "permitNumber": "93217",
+  "permitExpirationDate": " 07/17/2017",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "42",
+  "siteType": "Head Start Direct Fed Funding",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.719242785118,
+  "longitude": -73.983055552399
+}

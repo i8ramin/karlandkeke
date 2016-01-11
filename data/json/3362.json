@@ -1,0 +1,50 @@
+{
+  "type": "Camp",
+  "centerName": "THE PARK SLOPE DAY CAMP AT HOLY NAME SCHOOL ",
+  "permitHolder": "THE PARK SLOPE DAY CAMP INC",
+  "address": "241 PROSPECT PARK WEST ",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-788-7732",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34526",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "666",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/06/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Walls and ceiling in comercial building not properly constructed not maintained in good repair unclean",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "13109f",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "08/14/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "08/05/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.659447596562,
+  "longitude": -73.981153334017
+}

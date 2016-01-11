@@ -1,0 +1,52 @@
+{
+  "type": "Camp",
+  "centerName": "WAKE-EDEN BAPTIST COMMUNITY CHURCH DAY CAMP ",
+  "permitHolder": "WAKE-EDEN COMMUNITY BAPTIST CHURCH",
+  "address": "2074 STRANG AVENUE ",
+  "borough": "BRONX",
+  "zipCode": "10466",
+  "phone": "718-325-8056",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "34153",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "32",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "3 or more",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/01/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "4",
+  "pastInspections": [
+    {
+      "date": "07/17/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/16/2013",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/01/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.890766876593,
+  "longitude": -73.839798842115
+}

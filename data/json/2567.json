@@ -1,0 +1,37 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "SAINT FRANCIS XAVIER ",
+  "permitHolder": "BROOKLYN ARCHDIOCES",
+  "address": "763 President Street ",
+  "borough": "BROOKLYN",
+  "zipCode": "11215",
+  "phone": "718-857-2559",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 02/28/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "numInfractions": "1",
+    "infractions": [
+      {
+        "Violation Summary ": "Children enrolled in school-based child care program have not received periodic medical examination",
+        "Category ": " Minor violations General Violations ",
+        "Code Sub-Section": "4317 c",
+        " Status": "OPEN "
+      }
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.674458125642,
+  "longitude": -73.977497137373
+}

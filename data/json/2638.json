@@ -1,0 +1,28 @@
+{
+  "type": "Camp",
+  "centerName": "SASFASPIRATIONS ",
+  "permitHolder": "SPORTS ARTS IN SCHOOLS FOUNDATION INC",
+  "address": "1495 HERKIMER STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11233",
+  "phone": "347-600-2094",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91437",
+  "permitExpirationDate": " 09/15/2015",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "60",
+  "siteType": "Childrens Overnight Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "1 or more",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.677142909548,
+  "longitude": -73.903953363528
+}

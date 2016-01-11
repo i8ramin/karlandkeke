@@ -1,30 +1,28 @@
 {
   "type": "School Based Child Care",
-  "centerName": "OUR LADY OF THE SNOWS SCHOOL ",
+  "centerName": "OUR LADY OF TRUST AT OUR LADY OF MIRACLES ",
   "permitHolder": "BROOKLYN ARCHDIOCESE",
-  "address": "79-33 258 STREET",
-  "borough": "QUEENS",
-  "zipCode": "11004",
-  "phone": "718-343-1436",
+  "address": "744 East 87 Street",
+  "borough": "BROOKLYN",
+  "zipCode": "11236",
+  "phone": "",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "",
+  "maximumCapacity": "0",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "true",
+  "hasInspections": "false",
   "latestInspection": {
-    "date": "Inspection Date 12/09/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
-    "numInfractions": "0",
-    "infractions": [
-
-    ]
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
   },
-  "numInspections": "1",
+  "numInspections": "0",
   "pastInspections": "",
-  "latitude": 40.745490815861,
-  "longitude": -73.713291566564
+  "latitude": 40.639840236854,
+  "longitude": -73.909332788153
 }

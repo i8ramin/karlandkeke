@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ROCHDALE EARLY ADVANTAGE CHARTER SCHOOL ",
+  "permitHolder": "THE ROCHDALE EARLY ADVANTAGE CHARTER SCHOOL",
+  "address": "122-05 SMITH STREET",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-978-0075",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.67999958053,
+  "longitude": -73.778611821571
+}

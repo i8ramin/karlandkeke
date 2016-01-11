@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "THE CHILDRENS AID SOCIETY ",
+  "permitHolder": "THE CHILDRENS AID SOCIETY",
+  "address": "1919 PROSPECT AVENUE",
+  "borough": "BRONX",
+  "zipCode": "10457",
+  "phone": "718-901-0436",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/11/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/16/2014",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.843539418706,
+  "longitude": -73.889753869434
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "ST JOHNS EV LUTHERAN PRESCHOOL ",
+  "permitHolder": "ST JOHNS EV LUTHERAN SCHOOL",
+  "address": "663 MANOR ROAD ",
+  "borough": "STATEN ISLAND",
+  "zipCode": "10314",
+  "phone": "718-761-1858",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.611073497271,
+  "longitude": -74.121756957298
+}

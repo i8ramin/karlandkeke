@@ -1,0 +1,43 @@
+{
+  "type": "Camp",
+  "centerName": "SWING SPACE/BERGEN BEACH YOUTH ORGANIZATION PS 119 ",
+  "permitHolder": "BERGEN BEACH YOUTH ORGANIZATION PS 119",
+  "address": "38-29 Avenue K",
+  "borough": "BROOKLYN",
+  "zipCode": "11210",
+  "phone": "646-523-1987",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 02/22/2016",
+  "ageRange": "4 - 16",
+  "maximumCapacity": "0",
+  "siteType": "Corporate",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 08/19/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/22/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    },
+    {
+      "date": "07/18/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ]
+}

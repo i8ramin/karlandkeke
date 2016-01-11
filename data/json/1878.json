@@ -1,35 +1,43 @@
 {
   "type": "Camp",
-  "centerName": "Mariners Harbor Conerstone ",
-  "permitHolder": "UNITED ACTIVITIES UNLIMITED INC",
-  "address": "157 BRABANT STREET",
-  "borough": "STATEN ISLAND",
-  "zipCode": "10303",
-  "phone": "718-761-3368",
+  "centerName": "MARKS JCH KIBBUTZNIK DAY CAMP ",
+  "permitHolder": "MARKS JCH OF BENSONHURST",
+  "address": "342 SMITH STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11231",
+  "phone": "718-943-6345",
   "permitStatus": " In-Renewal ",
-  "permitNumber": "94119",
+  "permitNumber": "91725",
   "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "40",
+  "maximumCapacity": "88",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "1 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/11/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "Inspection Date 08/10/2015",
+    "result": "Inspection Result Compliance Inspection of Open Violations - Reinspection Required Violations corrected at time of inspection",
     "numInfractions": "1",
     "infractions": [
       {
-        "Violation Summary ": "Fire drills are not conducted within first 48 hours of session and periodically thereafter Drill log not maintained and available for inspection",
+        "Violation Summary ": "Swimming activities not supervised by Aquatics Director Aquatics Director not present during all swimming and water activity",
         "Category ": " Violations requiring correction within two weeks Critical Violations ",
-        "Code Sub-Section": "4815a5",
+        "Code Sub-Section": "4813a2i",
         " Status": "CORRECTED"
       }
     ]
   },
-  "numInspections": "1",
-  "pastInspections": "",
-  "latitude": 40.632013088802,
-  "longitude": -74.163890138237
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "07/13/2015",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required Fines pending ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.679771374729,
+  "longitude": -73.995183237958
 }

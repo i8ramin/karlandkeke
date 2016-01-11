@@ -1,28 +1,38 @@
 {
   "type": "School Based Child Care",
   "centerName": "BROOKLYN ARCHDIOCESE ",
-  "permitHolder": "VISITATION ACADEMY",
-  "address": "8902 RIDGE BLVD",
-  "borough": "BROOKLYN",
-  "zipCode": "11209",
-  "phone": "718-629-9330",
+  "permitHolder": "BROOKLYN ARCHDIOCESE",
+  "address": "84-05 78 AVENUE",
+  "borough": "QUEENS",
+  "zipCode": "11385",
+  "phone": "718-456-6636",
   "permitStatus": " Active ",
   "permitNumber": "N/A",
   "permitExpirationDate": " N/A",
   "ageRange": "2 - 5",
-  "maximumCapacity": "0",
+  "maximumCapacity": "42",
   "siteType": "Corporate",
   "certifiedToAdministerMedication": "No",
   "yearsOperating": "",
-  "hasInspections": "false",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 09/16/2015",
+    "result": "Inspection Result Monitoring Inspection Non-Routine - Inspection pending",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.62185960526,
-  "longitude": -74.034667771895
+  "numInspections": "2",
+  "pastInspections": [
+    {
+      "date": "09/26/2013",
+      "type": " Initial Annual Inspection",
+      "result": "Passed inspection with no violations ",
+      "violations": "",
+      "numViolations": "0"
+    }
+  ],
+  "latitude": 40.705676658808,
+  "longitude": -73.864904870939
 }

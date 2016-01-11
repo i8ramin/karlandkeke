@@ -1,28 +1,32 @@
 {
   "type": "Camp",
-  "centerName": "PELHAM WALLACE MIDDLE SCHOOL ",
-  "permitHolder": "BRONX HOUSE",
-  "address": "2441 WALLACE AVE",
-  "borough": "BRONX",
-  "zipCode": "10467",
-  "phone": "",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
+  "centerName": "PENINA ",
+  "permitHolder": "YESHIVA OF KINGBAY",
+  "address": "1256 EAST 21 STREET ",
+  "borough": "BROOKLYN",
+  "zipCode": "11210",
+  "phone": "718-646-8500",
+  "permitStatus": " In-Renewal ",
+  "permitNumber": "91447",
+  "permitExpirationDate": " 09/15/2015",
   "ageRange": "4 - 16",
-  "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "maximumCapacity": "300",
+  "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "1 or more",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/03/2015",
+    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.862102596482,
-  "longitude": -73.86457504084
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.622588772529,
+  "longitude": -73.954755611154
 }

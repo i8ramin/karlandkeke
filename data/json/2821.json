@@ -1,0 +1,32 @@
+{
+  "type": "Camp",
+  "centerName": "SQPA ROY WILKINS FAMILY CENTER ",
+  "permitHolder": "SQPA ROY WILKINS FAMILY CENTER",
+  "address": "177-01 BAISLEY BLVD",
+  "borough": "QUEENS",
+  "zipCode": "11434",
+  "phone": "718-276-4630",
+  "permitStatus": " Registered ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " 04/15/2015",
+  "ageRange": "",
+  "maximumCapacity": "0",
+  "siteType": "Summer Day Camp",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "true",
+  "latestInspection": {
+    "date": "Inspection Date 07/26/2013",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "numInfractions": "0",
+    "infractions": [
+
+    ]
+  },
+  "numInspections": "1",
+  "pastInspections": [
+
+  ],
+  "latitude": 40.686276048521,
+  "longitude": -73.768455206985
+}

@@ -1,0 +1,28 @@
+{
+  "type": "School Based Child Care",
+  "centerName": "VIZNITZER CHAIDER TIFERES YISROEL ",
+  "permitHolder": "VIZNITZER CHAIDER TIFERES YISROEL",
+  "address": "1424 43 STREET",
+  "borough": "BROOKLYN",
+  "zipCode": "11219",
+  "phone": "718-633-5543",
+  "permitStatus": " Active ",
+  "permitNumber": "N/A",
+  "permitExpirationDate": " N/A",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "0",
+  "siteType": "Private",
+  "certifiedToAdministerMedication": "No",
+  "yearsOperating": "",
+  "hasInspections": "false",
+  "latestInspection": {
+    "date": "",
+    "result": "",
+    "infractions": "",
+    "numInfractions": ""
+  },
+  "numInspections": "0",
+  "pastInspections": "",
+  "latitude": 40.636614427066,
+  "longitude": -73.985717628103
+}

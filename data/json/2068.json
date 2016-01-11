@@ -1,28 +1,82 @@
 {
-  "type": "Camp",
-  "centerName": "NEW YORK JUNIOR TENNIS LEAGUE PS 717X ICAHN ",
-  "permitHolder": "NEW YORK JUNIOR TENNIS LEAGUE PS 717X ICAHN",
-  "address": "1506 BROOK AVENUE",
-  "borough": "BRONX",
-  "zipCode": "10457",
-  "phone": "",
-  "permitStatus": " Registered ",
-  "permitNumber": "N/A",
-  "permitExpirationDate": " N/A",
-  "ageRange": "4 - 16",
-  "maximumCapacity": "0",
-  "siteType": "Corporate",
+  "type": "Child Care - Pre School",
+  "centerName": "NEW YORK KIDS CLUB ",
+  "permitHolder": "67TH STREET CLUB LLC",
+  "address": "219 EAST 67TH STREET",
+  "borough": "MANHATTAN",
+  "zipCode": "10065",
+  "phone": "212-991-6700",
+  "permitStatus": " Permitted ",
+  "permitNumber": "63837",
+  "permitExpirationDate": " 05/08/2016",
+  "ageRange": "2 - 5",
+  "maximumCapacity": "9",
+  "siteType": "Private",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "",
-  "hasInspections": "false",
+  "yearsOperating": "2",
+  "hasInspections": "true",
   "latestInspection": {
-    "date": "",
-    "result": "",
-    "infractions": "",
-    "numInfractions": ""
+    "date": "Inspection Date 08/10/2015",
+    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Violations corrected at time of inspection",
+    "numInfractions": "2",
+    "infractions": [
+      {
+        "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+        "Category ": " Violations requiring immediate correction Public Health Hazards ",
+        "Code Sub-Section": "4759 b",
+        " Status": "CORRECTED"
+      },
+      {
+        "Violation Summary ": "At time of inspection child care service failed to provide separate adult lavatory facilities for staff Staff observed using lavatory facilities designated for childrens use",
+        "Category ": " Violations requiring correction within two weeks Critical Violations ",
+        "Code Sub-Section": "4743 d",
+        " Status": "CORRECTED"
+      }
+    ]
   },
-  "numInspections": "0",
-  "pastInspections": "",
-  "latitude": 40.838554908737,
-  "longitude": -73.9050493874
+  "numInspections": "3",
+  "pastInspections": [
+    {
+      "date": "07/16/2014",
+      "type": " Compliance Inspection of Open Violations",
+      "result": "Previously cited violations corrected ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4759 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service fails to maintain required postings at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4773 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    },
+    {
+      "date": "06/18/2014",
+      "type": " Initial Annual Inspection",
+      "result": "Reinspection Required ",
+      "numViolations": "2",
+      "violations": [
+        {
+          "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+          "Category ": " Violations requiring immediate correction Public Health Hazards",
+          "Code Sub-Section": "4759 b",
+          " Status ": "CORRECTED"
+        },
+        {
+          "Violation Summary ": "Child care service fails to maintain required postings at time of inspection",
+          "Category ": " Minor violations General Violations",
+          "Code Sub-Section": "4773 b",
+          " Status ": "CORRECTED"
+        }
+      ]
+    }
+  ],
+  "latitude": 40.766296797809,
+  "longitude": -73.962300112893
 }
