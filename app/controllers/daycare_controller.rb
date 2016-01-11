@@ -1,6 +1,6 @@
 class DaycareController < ApplicationController
   before_action :set_defaults
-  # before_action :cdn_cache
+  before_action :cdn_cache
 
   def index
     if @nearby.present?
@@ -25,7 +25,7 @@ class DaycareController < ApplicationController
   end
 
   def map
-    @daycares= Daycare.all  
+    @daycares= Daycare.all
   end
 
 private

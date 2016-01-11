@@ -7,7 +7,7 @@ private
 
   def cdn_cache
     disable_session
-    expires_in 1.week, public: true
+    expires_in 1.day, public: true
   end
 
   def disable_session
