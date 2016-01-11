@@ -57,7 +57,7 @@ var setup_map = function(points, show_popup_on_load) {
     var permalink   = $(point).data('permalink');
     var grade = $(point).data('grade');
     var props = get_marker_for_grade(grade);
-    if (!lat || !lon) {
+    if (!lat || !lon || lat === '0.0' || lon === '0.0') {
       return true;
     }
 
@@ -96,6 +96,7 @@ var setup_map = function(points, show_popup_on_load) {
   });
 
   markerLayer.setGeoJSON(geojson);
+  map.fitBounds(markerLayer.getBounds())
 };
 
 var fly = function(lat, lon, speed) {
