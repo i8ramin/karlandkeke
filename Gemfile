@@ -14,6 +14,10 @@ source 'https://rubygems.org' do
 
   gem 'mongoid', '~> 5.0.0'
   gem 'mongoid_fulltext'
+
+  # gem 'elasticsearch-model'
+  # gem 'elasticsearch-rails'
+
   gem 'mongoid-elasticsearch'
 
   gem 'therubyracer'

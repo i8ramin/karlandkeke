@@ -2,7 +2,7 @@ class Daycare
   include Mongoid::Document
   include Mongoid::Timestamps
   include Mongoid::Pagination
-  include Mongoid::FullTextSearch
+  # include Mongoid::FullTextSearch
   include Mongoid::Elasticsearch
 
   elasticsearch!
@@ -31,7 +31,7 @@ class Daycare
   field :has_inspections, type: Boolean
   field :grade, type: String
 
-  fulltext_search_in :center_name, :address, :borough, :zipcode, :phone
+  # fulltext_search_in :center_name, :address, :borough, :zipcode, :phone
 
   def name; center_name end
 
