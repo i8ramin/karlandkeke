@@ -4,6 +4,10 @@
   .container-fluid
     .row
       .col-md-6
+        .results-count
+          = page_entries_info @daycares
+        br
+
         .results-list
           - @daycares.each do |daycare|
             = render "daycare", daycare: daycare, details: false

@@ -2,7 +2,7 @@ class Daycare
   include Mongoid::Document
   include Mongoid::Timestamps
   include Mongoid::Pagination
-  include Mongoid::FullTextSearch
+  include Mongoid::Search
   include Mongoid::Geospatial
 
   has_one :inspection
@@ -32,7 +32,8 @@ class Daycare
   # query by location
   spatial_scope :location
 
-  fulltext_search_in :center_name, :zipcode
+  search_in :center_name, :zipcode
+
 
   def name; center_name end
 
@@ -48,7 +49,7 @@ class Daycare
     d.address = payload["address"]
     d.borough = payload["borough"]
     d.zipcode = payload["zipCode"]
-    
+
     d.permalink  = d.center_name.downcase.gsub(" ", "-")
     d.permalink += "-" + d.id if Daycare.where(permalink: d.permalink).count > 0
 

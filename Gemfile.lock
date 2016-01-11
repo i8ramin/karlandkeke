@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/mauriciozaffari/mongoid_search.git
+  revision: 3f3a997d53ad91df5b01a07cbb9d59d64d9ae5d3
+  branch: master
+  specs:
+    mongoid_search (0.3.2)
+      fast-stemmer (~> 1.0.0)
+      mongoid (>= 3.0.0)
+
 GEM
   remote: https://rails-assets.org/
   remote: https://rubygems.org/
@@ -67,6 +76,7 @@ GEM
     erubis (2.7.0)
     eventmachine (1.0.8)
     execjs (2.6.0)
+    fast-stemmer (1.0.2)
     font-awesome-rails (4.5.0.0)
       railties (>= 3.2, < 5.0)
     globalid (0.3.6)
@@ -245,6 +255,7 @@ DEPENDENCIES
   mongoid-geospatial!
   mongoid-pagination!
   mongoid_fulltext!
+  mongoid_search!
   pry-byebug!
   puma!
   quiet_assets!
