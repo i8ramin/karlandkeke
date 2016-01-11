@@ -22,14 +22,20 @@ $masthead-height: 71px;
 $masthead-mobile-height: 179px;
 
 body {
-  padding-top: $masthead-mobile-height;
-
   @include media-breakpoint-up(sm) {
     padding-top: $masthead-height;
   }
 }
 
 #masthead {
+  @include media-breakpoint-up(sm) {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1010;
+  }
+
   a.navbar-brand {
     font-weight: 700;
     letter-spacing: 2px;
@@ -56,12 +62,19 @@ body {
   }
 
   .form-group {
-    margin-right: 1rem;
+    @include media-breakpoint-up(sm) {
+      margin-right: 1rem;
+    }
   }
 }
 
 #results {
   padding: 1rem 0;
+
+  .results-more {
+    margin: 1rem 0;
+    text-align: center;
+  }
 }
 
 #map {
@@ -135,9 +148,14 @@ body {
 .daycare {
   border-bottom: 1px solid $gray-lighter;
 
+  &:last-of-type {
+    border-bottom: 0;
+  }
+
   .header {
     font-weight: bold;
   }
+
   .description {
     color: $gray-light;
   }

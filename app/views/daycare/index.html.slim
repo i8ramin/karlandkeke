@@ -11,6 +11,7 @@
         .results-list
           - @daycares.each do |daycare|
             = render "daycare", daycare: daycare, details: false
-        - if !@daycares.is_a?(Array)
-          = paginate @daycares
+
+          .results-more
+            = paginate @daycares
 #map
