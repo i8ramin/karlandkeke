@@ -17,7 +17,8 @@
   "hasInspections": "true",
   "latestInspection": {
     "date": "Inspection Date 10/28/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "type": " Initial Annual Inspection",
+    "result": "Reinspection Required",
     "numInfractions": "4",
     "infractions": [
       {
@@ -52,8 +53,8 @@
       "date": "10/15/2015",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required Fines pending ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -84,36 +85,36 @@
       "date": "08/18/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "08/18/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "08/18/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "12/05/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "05/08/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "5",
-      "violations": [
+      "numInfractions": "5",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -150,8 +151,8 @@
       "date": "01/31/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.827917136116,
