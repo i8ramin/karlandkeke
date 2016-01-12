@@ -61,9 +61,7 @@ def pagescrape(page)
 		latestInspectionData = latestInspectionInfo.search('tr')
 		daycare['latestInspection']['date'] = latestInspectionData[0].search('td')[0].text
 		daycare['latestInspection']['type'], daycare['latestInspection']['result'] = latestInspectionData[1].search('td')[0].text.split(" - ")
-		puts "original inspection type: #{ daycare['latestInspection']['type']}"
 		daycare['latestInspection']['type'] = daycare['latestInspection']['type'].gsub("Inspection Result: ", "")
-		puts "after inspection type: #{ daycare['latestInspection']['type']} \n"
 
 		tableHeaders = infractionTable.search('table tr.odd th')
 		headers = []
