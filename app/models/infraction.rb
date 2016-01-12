@@ -15,8 +15,9 @@ class Infraction
   field :extra_notes, type: String
 
   MINOR    = " Minor violations General Violations "
-  MAJOR    = " Violations requiring immediate correction Public Health Hazards "
-  CRITICAL = " Violations requiring correction within two weeks Critical Violations "
+  MAJOR    = " Violations requiring correction within two weeks Critical Violations "
+  SEVERE   = " Violations requiring immediate correction Public Health Hazards "
+  
 
   def self.from_json(payload)
       i = Infraction.new
@@ -25,11 +26,11 @@ class Infraction
       when MINOR 
         i.oneword_category = 'minor'
         i.multiplier = 1
-      when CRITICAL
-        i.oneword_category = 'critical'
-        i.multiplier = 2
       when MAJOR
         i.oneword_category = 'major'
+        i.multiplier = 2
+      when SEVERE
+        i.oneword_category = 'severe'
         i.multiplier = 3
       end
       i.code_subsection = payload["Code Sub-Section"]
