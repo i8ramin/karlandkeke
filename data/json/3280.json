@@ -23,7 +23,7 @@
 
     ]
   },
-  "numInspections": "7",
+  "numInspections": "6",
   "pastInspections": [
     {
       "date": "05/12/2015",
@@ -78,26 +78,6 @@
       "result": "Passed inspection with no violations ",
       "violations": "",
       "numViolations": "0"
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Compliance Inspection of Open Violations",
-      "result": "Previously cited violations corrected ",
-      "numViolations": "2",
-      "violations": [
-        {
-          "Violation Summary ": "Adequate space/arrangement to provide separate storage areas for childrens outer garments not provided or maintained at time of inspection",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4755 c",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4757 b",
-          " Status ": "CORRECTED"
-        }
-      ]
     }
   ],
   "latitude": 40.805539082617,

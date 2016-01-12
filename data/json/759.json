@@ -28,7 +28,7 @@
       }
     ]
   },
-  "numInspections": "7",
+  "numInspections": "6",
   "pastInspections": [
     {
       "date": "02/18/2015",
@@ -134,32 +134,6 @@
       "result": "Passed inspection with no violations ",
       "violations": "",
       "numViolations": "0"
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Not Required ",
-      "numViolations": "3",
-      "violations": [
-        {
-          "Violation Summary ": "At time of inspection child care service failed to provide sufficient number of toilets and sinks for the number of children in attendance",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4743 b",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4759 d",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4741 j",
-          " Status ": "CORRECTED"
-        }
-      ]
     }
   ],
   "latitude": 40.747234220623,

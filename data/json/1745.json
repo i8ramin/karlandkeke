@@ -40,7 +40,7 @@
       }
     ]
   },
-  "numInspections": "8",
+  "numInspections": "7",
   "pastInspections": [
     {
       "date": "05/13/2015",
@@ -96,32 +96,6 @@
       "result": "Reinspection Required ",
       "numViolations": "2",
       "violations": [
-        {
-          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4749 a",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4741 j",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Required ",
-      "numViolations": "3",
-      "violations": [
-        {
-          "Violation Summary ": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
-          "Category ": " Violations requiring immediate correction Public Health Hazards",
-          "Code Sub-Section": "4761 d",
-          " Status ": "CORRECTED"
-        },
         {
           "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
           "Category ": " Violations requiring correction within two weeks Critical Violations",

@@ -34,7 +34,7 @@
       }
     ]
   },
-  "numInspections": "22",
+  "numInspections": "21",
   "pastInspections": [
     {
       "date": "10/05/2015",
@@ -336,38 +336,6 @@
     },
     {
       "date": "02/07/2013",
-      "type": " Compliance Inspection of Open Violations",
-      "result": "Reinspection Required Fines pending ",
-      "numViolations": "4",
-      "violations": [
-        {
-          "Violation Summary ": "At time of inspection child care service failed to provide sufficient number of toilets and sinks for the number of children in attendance",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4743 b",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4749 a",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Individual certified in food protection not on site during periods of food preparation",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "8115 a",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4741 j",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Fines pending ",
       "numViolations": "4",

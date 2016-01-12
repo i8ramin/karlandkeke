@@ -40,7 +40,7 @@
       }
     ]
   },
-  "numInspections": "11",
+  "numInspections": "10",
   "pastInspections": [
     {
       "date": "11/18/2015",
@@ -256,44 +256,6 @@
           "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
           "Category ": " Minor violations General Violations",
           "Code Sub-Section": "4733 c",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Compliance Inspection of Open Violations",
-      "result": "Previously cited violations corrected ",
-      "numViolations": "5",
-      "violations": [
-        {
-          "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
-          "Category ": " Violations requiring immediate correction Public Health Hazards",
-          "Code Sub-Section": "4759 b",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Climbing and other elevated equipment observed not provided with approved resilient ground cover at time of inspection",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4747 f",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4757 b",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Required smoke and carbon monoxide detectors not provided or maintained at time of inspection",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4759 g",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4741 j",
           " Status ": "CORRECTED"
         }
       ]

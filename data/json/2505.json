@@ -23,7 +23,7 @@
 
     ]
   },
-  "numInspections": "10",
+  "numInspections": "9",
   "pastInspections": [
     {
       "date": "05/29/2014",
@@ -80,26 +80,6 @@
       "result": "Passed inspection with no violations ",
       "violations": "",
       "numViolations": "0"
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Passed inspection with no violations ",
-      "numViolations": "2",
-      "violations": [
-        {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards",
-          "Code Sub-Section": "4719 c",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4733 c",
-          " Status ": "CORRECTED"
-        }
-      ]
     }
   ],
   "latitude": 40.903032975727,

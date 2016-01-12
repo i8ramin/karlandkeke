@@ -40,7 +40,7 @@
       }
     ]
   },
-  "numInspections": "13",
+  "numInspections": "12",
   "pastInspections": [
     {
       "date": "10/06/2015",
@@ -227,32 +227,6 @@
           "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
           "Category ": " Minor violations General Violations",
           "Code Sub-Section": "4745 b",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Required ",
-      "numViolations": "3",
-      "violations": [
-        {
-          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4749 a",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4755 b",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4741 j",
           " Status ": "CORRECTED"
         }
       ]

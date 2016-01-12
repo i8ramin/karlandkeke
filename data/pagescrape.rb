@@ -124,17 +124,17 @@ def pagescrape(page)
 
 			violationNodes = node.search('tr.even.gradeC')
 			if violationNodes.length == 1
-				inspection['violations'] = nil
-				inspection['numViolations'] = 0
+				inspection['infractions'] = nil
+				inspection['numInfractions'] = 0
 			else
-				inspection['numViolations'] = violationNodes.length 
+				inspection['numInfractions'] = violationNodes.length 
 				# have to be non-DRY with above because there's always at least tr with that class
 				tableHeaders = node.search('tr.odd th')
 				headers = []
 				tableHeaders.each do |name|
 					headers.push(name.text)
 				end
-				inspection["violations"] = []
+				inspection["infractions"] = []
 				violationNodes.each do |violation|
 					data = {}
 					i = 0

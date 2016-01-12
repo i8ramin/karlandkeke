@@ -28,7 +28,7 @@
       }
     ]
   },
-  "numInspections": "9",
+  "numInspections": "8",
   "pastInspections": [
     {
       "date": "04/15/2015",
@@ -168,26 +168,6 @@
           "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
           "Category ": " Minor violations General Violations",
           "Code Sub-Section": "4741 j",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
-        {
-          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4749 a",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4749 c",
           " Status ": "CORRECTED"
         }
       ]

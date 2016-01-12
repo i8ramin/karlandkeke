@@ -46,7 +46,7 @@
       }
     ]
   },
-  "numInspections": "17",
+  "numInspections": "16",
   "pastInspections": [
     {
       "date": "10/05/2015",
@@ -216,13 +216,6 @@
           " Status ": "CORRECTED"
         }
       ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
     }
   ],
   "latitude": 40.736558784505,
