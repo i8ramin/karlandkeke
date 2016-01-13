@@ -85,7 +85,7 @@ class Daycare
 
 
   def get_latest_inspection
-    return self.inspections.order("date DESC").first or nil
+    return self.inspections.last
   end
 
   def get_grade
