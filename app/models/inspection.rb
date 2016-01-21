@@ -5,7 +5,7 @@ class Inspection
   belongs_to :daycare
   has_many :infractions
 
-  field :date, type: DateTime
+  field :date, type: Date
   field :result, type: String
   field :number_of_infractions, type: Integer
 

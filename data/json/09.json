@@ -16,8 +16,9 @@
   "yearsOperating": "6 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 10/26/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "10/26/2015",
+    "type": " Initial Annual Inspection",
+    "result": "Reinspection Required",
     "numInfractions": "5",
     "infractions": [
       {
@@ -58,43 +59,43 @@
       "date": "09/14/2015",
       "type": " Monitoring Inspection Non-Routine",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "07/17/2015",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Not Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "05/28/2015",
       "type": " Monitoring Inspection Non-Routine",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "05/22/2015",
       "type": " Monitoring Inspection Non-Routine",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "05/13/2015",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "04/27/2015",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -113,8 +114,8 @@
       "date": "03/25/2015",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required Fines pending ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -133,8 +134,8 @@
       "date": "07/23/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -165,8 +166,8 @@
       "date": "06/10/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Fines pending ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -185,8 +186,8 @@
       "date": "05/15/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -205,8 +206,8 @@
       "date": "04/17/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "8",
-      "violations": [
+      "numInfractions": "8",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -261,8 +262,8 @@
       "date": "03/07/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
           "Category ": " Violations requiring correction within two weeks Critical Violations",

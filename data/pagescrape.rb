@@ -59,7 +59,7 @@ def pagescrape(page)
 		infractionTable = latestSections[1]
 
 		latestInspectionData = latestInspectionInfo.search('tr')
-		daycare['latestInspection']['date'] = latestInspectionData[0].search('td')[0].text
+		daycare['latestInspection']['date'] = latestInspectionData[0].search('td')[0].text[/\d\d\/\d\d\/\d\d\d\d/]
 		daycare['latestInspection']['type'], daycare['latestInspection']['result'] = latestInspectionData[1].search('td')[0].text.split(" - ")
 		daycare['latestInspection']['type'] = daycare['latestInspection']['type'].gsub("Inspection Result: ", "")
 
@@ -88,7 +88,9 @@ def pagescrape(page)
 			end
 			daycare['latestInspection']['infractions'].push(data)
 		end
-
+		if daycare['latestInspection']['infractions'].empty?
+			daycare['latestInspection']['infractions'] = nil
+		end
 		# puts "daycare has #{ daycare['latestInspection']['numInfractions'] } violations"
 
 	else
@@ -151,12 +153,12 @@ def pagescrape(page)
 
 		end
 
-		daycare['pastInspections'] = inspections
+		daycare['pastInspections'] = inspections || []
 
 
 	else
 		daycare['numInspections'] = 0
-		daycare['pastInspections'] = nil
+		daycare['pastInspections'] = []
 	end
 
 	# end older inspections

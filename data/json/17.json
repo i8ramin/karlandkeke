@@ -16,8 +16,9 @@
   "yearsOperating": "1",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 11/23/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "11/23/2015",
+    "type": " Initial Annual Inspection",
+    "result": "Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 

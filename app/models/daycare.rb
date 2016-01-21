@@ -71,11 +71,14 @@ class Daycare
     # i.daycare = d
     # i.save
 
-    (payload["pastInspections"] << payload["latestInspection"]).each do |inspectResult|
-      i = Inspection.from_json(inspectResult)
-      d.inspections << i
-      i.daycare = d
-      i.save
+    inspections = payload["pastInspections"] << payload["latestInspection"]
+    if inspections.length >= 1
+      payload["pastInspections"].each do |inspectResult|
+        i = Inspection.from_json(inspectResult)
+        d.inspections << i
+        i.daycare = d
+        i.save
+      end
     end
 
     d.grade = d.get_grade

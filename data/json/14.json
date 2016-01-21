@@ -16,8 +16,9 @@
   "yearsOperating": "12 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 11/09/2015",
-    "result": "Inspection Result Monitoring Inspection Non-Routine - Passed inspection with no violations",
+    "date": "11/09/2015",
+    "type": " Monitoring Inspection Non-Routine",
+    "result": "Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
@@ -29,43 +30,43 @@
       "date": "10/27/2015",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "10/16/2015",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "09/11/2015",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "09/11/2015",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "12/23/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "06/16/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "numViolations": "3",
-      "violations": [
+      "numInfractions": "3",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -90,8 +91,8 @@
       "date": "05/28/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "3",
-      "violations": [
+      "numInfractions": "3",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -116,29 +117,29 @@
       "date": "05/07/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "11/13/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "10/08/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "04/24/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.751695801742,

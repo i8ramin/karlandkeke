@@ -16,8 +16,9 @@
   "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 06/17/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "06/17/2015",
+    "type": " Initial Annual Inspection",
+    "result": "Reinspection Required",
     "numInfractions": "1",
     "infractions": [
       {
@@ -34,15 +35,15 @@
       "date": "07/08/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "06/26/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
