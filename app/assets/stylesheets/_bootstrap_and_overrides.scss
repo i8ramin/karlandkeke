@@ -1,6 +1,8 @@
 // $primaryColor: #644098;
 // $secondaryColor: #7a5eaa;
 
+$font-family-sans-serif: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 $border-radius: 0;
 $border-radius-lg: 0;
 $border-radius-sm: 0;
@@ -23,6 +25,8 @@ $grey             : #767676;
 $black            : #1B1C1D;
 
 $brand-primary: #644098;
+
+$jumbotron-bg: $brand-primary;
 
 // // Core variables and mixins
 @import "bootstrap/variables";

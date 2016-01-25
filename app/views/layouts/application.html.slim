@@ -7,14 +7,15 @@ html lang="en"
 
     title Karl and Keke - Daycare ratings
 
-    = stylesheet_link_tag 'https://fonts.googleapis.com/css?family=Roboto:400,300,700', media: 'all'
+    = stylesheet_link_tag 'https://fonts.googleapis.com/css?family=Open+Sans:400,300,700', media: 'all'
     = stylesheet_link_tag 'application', media: 'all'
     = csrf_meta_tags
     = javascript_include_tag 'application'
   body
-    #masthead
+    / #masthead
       nav.navbar.navbar-full.bg-primary
-        a.navbar-brand[href="/"] KARL<span>AND</span>KEKE
+        a.navbar-brand[href="/"]
+          .kk-logo KARL<span>AND</span>KEKE
 
         form.form-inline[method="get", action="/"]
           .form-group.search
@@ -27,10 +28,12 @@ html lang="en"
           .form-group
             .grades-filter.dropdown
               button.btn.btn-secondary.dropdown-toggle[type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"]
-                - if @grade_filter == 'All Grades'
-                  = @grade_filter
+                - if (@grade_filter == 'All Grades')
+                  span
+                    =@grade_filter
                 - else
-                  span.grade[class="grade-#{@grade_filter.downcase}"]=@grade_filter
+                  span.grade[class="grade-#{(@grade_filter || '').downcase}"]
+                    =@grade_filter
               .dropdown-menu
                 - if @grade_filter != 'All Grades'
                   a.dropdown-item[href="/?q=#{@query}&nearby=#{@nearby}" data-filter='all']

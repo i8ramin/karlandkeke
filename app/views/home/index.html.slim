@@ -1,0 +1,14 @@
+.jumbotron.text-sm-center
+  h1.kk-logo
+    | KARL<span>AND</span>KEKE
+    small.text-muted
+      | NYC Daycare Search &amp; Ratings
+
+  form.form-inline.kk-search[method="get", action="/"]
+    .form-group.search
+      label.form-control-label.sr-only[for="search"]
+        | Search by Daycare or Location
+      .input-group
+        input.form-control[type="search" id="search" name="q" placeholder="Search" value=@query]
+        .input-group-addon
+          button.btn.fa.fa-search[type="submit"]

@@ -22,9 +22,9 @@ $masthead-height: 71px;
 $masthead-mobile-height: 179px;
 
 body {
-  @include media-breakpoint-up(sm) {
-    padding-top: $masthead-height;
-  }
+  // @include media-breakpoint-up(sm) {
+  //   padding-top: $masthead-height;
+  // }
 }
 
 #masthead {
@@ -37,28 +37,10 @@ body {
   }
 
   a.navbar-brand {
-    font-weight: 700;
-    letter-spacing: 2px;
-    color: white;
-
-    span {
-      font-weight: 300;
-    }
-
     @include media-breakpoint-down(sm) {
       display: block;
       float: none;
     }
-  }
-
-  form.form-inline .input-group-addon {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-
-  form.form-inline .input-group-addon .btn {
-    padding: 0;
-    background-color: transparent;
   }
 
   .form-group {
@@ -94,6 +76,35 @@ body {
   &.full_width {
     width: 100%;
   }
+}
+
+.kk-logo {
+  display: inline-block;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: white;
+
+  span {
+    font-weight: 300;
+  }
+
+  small {
+    display: block;
+    color: white;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 300;
+  }
+}
+
+form.form-inline.kk-search .input-group-addon {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+form.form-inline.kk-search .input-group-addon .btn {
+  padding: 0;
+  background-color: transparent;
 }
 
 .grades-filter {

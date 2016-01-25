@@ -31,10 +31,10 @@ class DaycareController < ApplicationController
 private
 
   def set_defaults
-    @query = params[:q]
-    @nearby= params[:nearby]
-    @page = params[:page] || 1
-    @grade = params[:grade]
+    @query  = params[:q]
+    @nearby = params[:nearby]
+    @page   = params[:page] || 1
+    @grade  = params[:grade]
     @grade_filter = @grade.present? ? @grade.upcase : 'All Grades'
   end
 end

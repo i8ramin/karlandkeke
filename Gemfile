@@ -62,6 +62,9 @@ source 'https://rubygems.org' do
   gem 'kaminari'
   gem 'mongoid-pagination'
 
+  # https://github.com/sferik/rails_admin
+  gem 'rails_admin'
+
   group :production, :staging do
     gem 'rails_12factor'
     gem 'rack-timeout'
