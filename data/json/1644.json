@@ -28,7 +28,7 @@
       }
     ]
   },
-  "numInspections": "9",
+  "numInspections": "8",
   "pastInspections": [
     {
       "date": "06/10/2015",
@@ -120,50 +120,6 @@
           "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
           "Category ": " Minor violations General Violations",
           "Code Sub-Section": "8109 i",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Required ",
-      "numViolations": "6",
-      "violations": [
-        {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards",
-          "Code Sub-Section": "4719 c",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4733 b",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4713 f",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4719 i",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection childrens medical files were not provided were incomplete or were not maintained",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4725 d",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4733 c",
           " Status ": "CORRECTED"
         }
       ]

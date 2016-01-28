@@ -16,8 +16,9 @@
   "yearsOperating": "5 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 05/12/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "date": "05/12/2015",
+    "type": " Compliance Inspection of Open Violations",
+    "result": "Previously cited violations corrected",
     "numInfractions": "1",
     "infractions": [
       {
@@ -34,36 +35,36 @@
       "date": "04/29/2015",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "03/03/2015",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "10/06/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "03/06/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "03/05/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -82,8 +83,8 @@
       "date": "09/19/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Not Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.693604204113,

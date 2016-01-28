@@ -28,7 +28,7 @@
       }
     ]
   },
-  "numInspections": "10",
+  "numInspections": "9",
   "pastInspections": [
     {
       "date": "10/20/2015",
@@ -85,26 +85,6 @@
       "result": "Passed inspection with no violations ",
       "violations": "",
       "numViolations": "0"
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
-        {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards",
-          "Code Sub-Section": "4719 c",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4733 b",
-          " Status ": "CORRECTED"
-        }
-      ]
     }
   ]
 }

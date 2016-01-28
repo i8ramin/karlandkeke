@@ -16,21 +16,22 @@
   "yearsOperating": "12 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 05/05/2015",
-    "result": "Inspection Result Compliance Inspection of Open Violations - Previously cited violations corrected",
+    "date": "05/05/2015",
+    "type": " Compliance Inspection of Open Violations",
+    "result": "Previously cited violations corrected",
     "numInfractions": "0",
     "infractions": [
 
     ]
   },
-  "numInspections": "10",
+  "numInspections": "9",
   "pastInspections": [
     {
       "date": "03/11/2015",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Not Required ",
-      "numViolations": "6",
-      "violations": [
+      "numInfractions": "6",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -73,8 +74,8 @@
       "date": "03/02/2015",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Fines pending ",
-      "numViolations": "6",
-      "violations": [
+      "numInfractions": "6",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -117,15 +118,15 @@
       "date": "01/22/2015",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "01/05/2015",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "numViolations": "5",
-      "violations": [
+      "numInfractions": "5",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -162,15 +163,15 @@
       "date": "12/18/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "12/04/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -201,8 +202,8 @@
       "date": "04/10/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "6",
-      "violations": [
+      "numInfractions": "6",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -245,46 +246,8 @@
       "date": "09/18/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Not Required ",
-      "violations": "",
-      "numViolations": "0"
-    },
-    {
-      "date": "01/11/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Required ",
-      "numViolations": "5",
-      "violations": [
-        {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards",
-          "Code Sub-Section": "4719 c",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4733 b",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4733 c",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4737 b1",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4737b2",
-          " Status ": "CORRECTED"
-        }
-      ]
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.833140412839,

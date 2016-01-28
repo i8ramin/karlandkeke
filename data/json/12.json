@@ -16,8 +16,9 @@
   "yearsOperating": "12 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 04/01/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Not Required",
+    "date": "04/01/2015",
+    "type": " Initial Annual Inspection",
+    "result": "Reinspection Not Required",
     "numInfractions": "2",
     "infractions": [
       {
@@ -40,22 +41,22 @@
       "date": "04/01/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "03/27/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "12/17/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Not Required ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -86,8 +87,8 @@
       "date": "01/31/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Not Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -106,8 +107,8 @@
       "date": "01/17/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.760083236996,

@@ -5,7 +5,7 @@ class Daycare
   include Mongoid::Search
   include Mongoid::Geospatial
 
-  has_one :inspection
+  has_many :inspections
 
   field :type, type: String
   field :center_name, type: String
@@ -66,21 +66,38 @@ class Daycare
     d.years_operating = years_operating
     d.has_inspections = payload["hasInspections"]
 
-    i = Inspection.from_json(payload["latestInspection"])
-    d.inspection = i
+    # i = Inspection.from_json(payload["latestInspection"])
+    # d.inspections << i
+    # i.daycare = d
+    # i.save
+
+    inspections = payload["pastInspections"] << payload["latestInspection"]
+    if inspections.length >= 1
+      payload["pastInspections"].each do |inspectResult|
+        i = Inspection.from_json(inspectResult)
+        d.inspections << i
+        i.daycare = d
+        i.save
+      end
+    end
+
     d.grade = d.get_grade
-    i.daycare = d
     d.save
-    i.save
     return d
+  end
+
+
+  def get_latest_inspection
+    return self.inspections.last
   end
 
   def get_grade
     score = 0
     score += 1 if self.certified_to_administer_medication?
     score += 2 if self.has_inspections?
-    if self.inspection && self.inspection.number_of_infractions > 0
-      self.inspection.infractions.each do |inf|
+    last_inspection = self.get_latest_inspection
+    if last_inspection && last_inspection.number_of_infractions > 0
+      last_inspection.infractions.each do |inf|
         score -= inf.multiplier
       end
     end

@@ -70,10 +70,10 @@ def scraper
 				# puts "lat: #{daycare['latitude']} lon: #{daycare['longitude']}"
 			}
 
-			filename = file_i.to_s.rjust(2, "0")
-			File.open("data/json/#{ filename }.json","w") do |f|
-			  f.write(JSON.pretty_generate(daycare))
-			end
+			# filename = file_i.to_s.rjust(2, "0")
+			# File.open("data/json/#{ filename }.json","w") do |f|
+			#   f.write(JSON.pretty_generate(daycare))
+			# end
 
 			daycares.push(daycare)
 			file_i += 1

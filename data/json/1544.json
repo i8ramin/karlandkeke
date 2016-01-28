@@ -52,7 +52,7 @@
       }
     ]
   },
-  "numInspections": "11",
+  "numInspections": "10",
   "pastInspections": [
     {
       "date": "09/02/2015",
@@ -221,13 +221,6 @@
           " Status ": "CORRECTED"
         }
       ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Compliance Inspection of Open Violations",
-      "result": "Previously cited violations corrected ",
-      "violations": "",
-      "numViolations": "0"
     }
   ],
   "latitude": 40.86014754236,

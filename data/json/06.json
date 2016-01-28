@@ -16,8 +16,9 @@
   "yearsOperating": "13 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 09/11/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required Fines pending",
+    "date": "09/11/2015",
+    "type": " Initial Annual Inspection",
+    "result": "Reinspection Required Fines pending",
     "numInfractions": "2",
     "infractions": [
       {
@@ -40,8 +41,8 @@
       "date": "07/10/2015",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Violations corrected at time of inspection ",
-      "numViolations": "3",
-      "violations": [
+      "numInfractions": "3",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -66,8 +67,8 @@
       "date": "06/23/2015",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "3",
-      "violations": [
+      "numInfractions": "3",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -92,8 +93,8 @@
       "date": "01/07/2015",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Violations corrected at time of inspection ",
-      "numViolations": "3",
-      "violations": [
+      "numInfractions": "3",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -118,8 +119,8 @@
       "date": "12/11/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "7",
-      "violations": [
+      "numInfractions": "7",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -168,8 +169,8 @@
       "date": "11/25/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "6",
-      "violations": [
+      "numInfractions": "6",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -212,8 +213,8 @@
       "date": "10/30/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -232,8 +233,8 @@
       "date": "09/16/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Not Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Child care service fails to provide and/or maintain child illness/injury record",
           "Category ": " Minor violations General Violations",
@@ -252,8 +253,8 @@
       "date": "05/07/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Violations corrected at time of inspection ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -284,8 +285,8 @@
       "date": "04/16/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Fines pending ",
-      "numViolations": "5",
-      "violations": [
+      "numInfractions": "5",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -322,8 +323,8 @@
       "date": "03/21/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Fines pending ",
-      "numViolations": "5",
-      "violations": [
+      "numInfractions": "5",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -360,8 +361,8 @@
       "date": "03/07/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Fines pending ",
-      "numViolations": "6",
-      "violations": [
+      "numInfractions": "6",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -404,8 +405,8 @@
       "date": "02/20/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Fines pending ",
-      "numViolations": "6",
-      "violations": [
+      "numInfractions": "6",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -448,8 +449,8 @@
       "date": "01/16/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "3",
-      "violations": [
+      "numInfractions": "3",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
@@ -474,22 +475,22 @@
       "date": "07/10/2013",
       "type": " Monitoring Inspection Non-Routine",
       "result": "Inspection pending ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "06/11/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Violations corrected at time of inspection ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "05/17/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Not Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -508,15 +509,15 @@
       "date": "05/17/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required Violations corrected at time of inspection ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "04/09/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -535,8 +536,8 @@
       "date": "03/21/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -567,15 +568,15 @@
       "date": "03/21/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "02/21/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -606,8 +607,8 @@
       "date": "02/21/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.67387317405,

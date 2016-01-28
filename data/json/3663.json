@@ -23,7 +23,7 @@
 
     ]
   },
-  "numInspections": "6",
+  "numInspections": "5",
   "pastInspections": [
     {
       "date": "09/10/2014",
@@ -50,13 +50,6 @@
       "date": "10/17/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Not Required ",
       "violations": "",
       "numViolations": "0"
     }

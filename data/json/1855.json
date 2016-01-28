@@ -23,7 +23,7 @@
 
     ]
   },
-  "numInspections": "12",
+  "numInspections": "11",
   "pastInspections": [
     {
       "date": "09/29/2015",
@@ -271,26 +271,6 @@
           "Violation Summary ": "At time of inspection it was determined that child care service failed to provide meals at regularly scheduled times",
           "Category ": " Minor violations General Violations",
           "Code Sub-Section": "4761 j",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Compliance Inspection of Open Violations",
-      "result": "Previously cited violations corrected ",
-      "numViolations": "2",
-      "violations": [
-        {
-          "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4759 a",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4741 j",
           " Status ": "CORRECTED"
         }
       ]

@@ -16,8 +16,9 @@
   "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 08/05/2014",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "08/05/2014",
+    "type": " Initial Annual Inspection",
+    "result": "Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
@@ -29,8 +30,8 @@
       "date": "07/30/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.690135217642,

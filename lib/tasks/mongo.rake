@@ -27,14 +27,14 @@ namespace :mongo do
     venues = JSON.parse(file)
     puts venues.size
     venues.each do |daycare|
+        counter += 1
         begin
         d = Daycare.from_json(daycare)
-        counter += 1
         rescue Exception => e
             fails << daycare
-            puts "FAILED TO PARSE DAYCARE"
-            puts e.to_s
-            puts daycare.inspect
+            puts "FAILED TO PARSE DAYCARE #{ counter }"
+            puts e.backtrace
+            puts "\n\n"
         end
 
     end

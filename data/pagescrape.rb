@@ -59,8 +59,9 @@ def pagescrape(page)
 		infractionTable = latestSections[1]
 
 		latestInspectionData = latestInspectionInfo.search('tr')
-		daycare['latestInspection']['date'] = latestInspectionData[0].search('td')[0].text
-		daycare['latestInspection']['result'] = latestInspectionData[1].search('td')[0].text
+		daycare['latestInspection']['date'] = latestInspectionData[0].search('td')[0].text[/\d\d\/\d\d\/\d\d\d\d/]
+		daycare['latestInspection']['type'], daycare['latestInspection']['result'] = latestInspectionData[1].search('td')[0].text.split(" - ")
+		daycare['latestInspection']['type'] = daycare['latestInspection']['type'].gsub("Inspection Result: ", "")
 
 		tableHeaders = infractionTable.search('table tr.odd th')
 		headers = []
@@ -87,7 +88,9 @@ def pagescrape(page)
 			end
 			daycare['latestInspection']['infractions'].push(data)
 		end
-
+		if daycare['latestInspection']['infractions'].empty?
+			daycare['latestInspection']['infractions'] = nil
+		end
 		# puts "daycare has #{ daycare['latestInspection']['numInfractions'] } violations"
 
 	else
@@ -124,17 +127,17 @@ def pagescrape(page)
 
 			violationNodes = node.search('tr.even.gradeC')
 			if violationNodes.length == 1
-				inspection['violations'] = nil
-				inspection['numViolations'] = 0
+				inspection['infractions'] = nil
+				inspection['numInfractions'] = 0
 			else
-				inspection['numViolations'] = violationNodes.length 
+				inspection['numInfractions'] = violationNodes.length 
 				# have to be non-DRY with above because there's always at least tr with that class
 				tableHeaders = node.search('tr.odd th')
 				headers = []
 				tableHeaders.each do |name|
 					headers.push(name.text)
 				end
-				inspection["violations"] = []
+				inspection["infractions"] = []
 				violationNodes.each do |violation|
 					data = {}
 					i = 0
@@ -142,7 +145,7 @@ def pagescrape(page)
 						data[headers[i]] = val.text
 						i += 1
 					end
-					inspection["violations"].push(data)
+					inspection["infractions"].push(data)
 				end
 			end
 
@@ -150,12 +153,12 @@ def pagescrape(page)
 
 		end
 
-		daycare['pastInspections'] = inspections
+		daycare['pastInspections'] = inspections || []
 
 
 	else
 		daycare['numInspections'] = 0
-		daycare['pastInspections'] = nil
+		daycare['pastInspections'] = []
 	end
 
 	# end older inspections

@@ -16,8 +16,9 @@
   "yearsOperating": "12 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 09/17/2015",
-    "result": "Inspection Result Initial Annual Inspection - Passed inspection with no violations",
+    "date": "09/17/2015",
+    "type": " Initial Annual Inspection",
+    "result": "Passed inspection with no violations",
     "numInfractions": "0",
     "infractions": [
 
@@ -29,8 +30,8 @@
       "date": "07/08/2015",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Not Required ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
           "Category ": " Minor violations General Violations",
@@ -61,15 +62,15 @@
       "date": "10/20/2014",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "10/02/2014",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -88,15 +89,15 @@
       "date": "12/18/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "07/05/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "4",
-      "violations": [
+      "numInfractions": "4",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -127,15 +128,15 @@
       "date": "04/26/2013",
       "type": " Initial Annual Inspection",
       "result": "Inspection pending ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "02/06/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.862946767385,

@@ -46,7 +46,7 @@
       }
     ]
   },
-  "numInspections": "11",
+  "numInspections": "10",
   "pastInspections": [
     {
       "date": "10/26/2015",
@@ -197,13 +197,6 @@
       "date": "08/26/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Monitoring Inspection Non-Routine",
-      "result": "Inspection pending ",
       "violations": "",
       "numViolations": "0"
     }

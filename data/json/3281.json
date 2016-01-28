@@ -23,7 +23,7 @@
 
     ]
   },
-  "numInspections": "6",
+  "numInspections": "5",
   "pastInspections": [
     {
       "date": "05/12/2015",
@@ -75,13 +75,6 @@
       "date": "01/22/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Compliance Inspection of Open Violations",
-      "result": "Previously cited violations corrected ",
       "violations": "",
       "numViolations": "0"
     }

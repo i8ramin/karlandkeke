@@ -60,4 +60,9 @@
             .desc= "#{daycare.certified_to_administer_medication ? 'Is' : 'Not'} certified to administer medication"
           li.list-group-item
             strong Inspections
-            .desc= "#{daycare.has_inspections ? 'Has' : 'No'} regular inspections"
+            - if daycare.has_inspections
+              ul
+              - @daycare.past_inspections.each do |inspection|
+                li.desc inspection.date | inspection.result
+            - else
+                .desc No Regular Inspections

@@ -28,7 +28,7 @@
       }
     ]
   },
-  "numInspections": "5",
+  "numInspections": "4",
   "pastInspections": [
     {
       "date": "01/23/2015",
@@ -115,26 +115,6 @@
           "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
           "Category ": " Minor violations General Violations",
           "Code Sub-Section": "4737b2",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Required Violations corrected at time of inspection ",
-      "numViolations": "2",
-      "violations": [
-        {
-          "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4749 c",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4755 b",
           " Status ": "CORRECTED"
         }
       ]

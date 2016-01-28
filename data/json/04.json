@@ -16,8 +16,9 @@
   "yearsOperating": "4 ",
   "hasInspections": "true",
   "latestInspection": {
-    "date": "Inspection Date 12/08/2015",
-    "result": "Inspection Result Initial Annual Inspection - Reinspection Required",
+    "date": "12/08/2015",
+    "type": " Initial Annual Inspection",
+    "result": "Reinspection Required",
     "numInfractions": "3",
     "infractions": [
       {
@@ -46,29 +47,29 @@
       "date": "05/05/2015",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "11/20/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "02/04/2014",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "12/03/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "numViolations": "2",
-      "violations": [
+      "numInfractions": "2",
+      "infractions": [
         {
           "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
           "Category ": " Violations requiring immediate correction Public Health Hazards",
@@ -87,22 +88,22 @@
       "date": "08/29/2013",
       "type": " Compliance Inspection of Open Violations",
       "result": "Previously cited violations corrected ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "08/13/2013",
       "type": " Initial Annual Inspection",
       "result": "Reinspection Required ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     },
     {
       "date": "02/05/2013",
       "type": " Initial Annual Inspection",
       "result": "Passed inspection with no violations ",
-      "violations": "",
-      "numViolations": "0"
+      "infractions": "",
+      "numInfractions": "0"
     }
   ],
   "latitude": 40.734855797607,

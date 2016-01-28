@@ -23,7 +23,7 @@
 
     ]
   },
-  "numInspections": "9",
+  "numInspections": "8",
   "pastInspections": [
     {
       "date": "02/25/2015",
@@ -108,38 +108,6 @@
           "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
           "Category ": " Violations requiring correction within two weeks Critical Violations",
           "Code Sub-Section": "4759 d",
-          " Status ": "CORRECTED"
-        }
-      ]
-    },
-    {
-      "date": "01/10/2013",
-      "type": " Initial Annual Inspection",
-      "result": "Reinspection Required ",
-      "numViolations": "4",
-      "violations": [
-        {
-          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4743 e",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection children were observed occupying space not previously approved by the Dept of Buildings FDNY and/or DOHMH",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4757 f",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-          "Category ": " Violations requiring correction within two weeks Critical Violations",
-          "Code Sub-Section": "4759 d",
-          " Status ": "CORRECTED"
-        },
-        {
-          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-          "Category ": " Minor violations General Violations",
-          "Code Sub-Section": "4741 j",
           " Status ": "CORRECTED"
         }
       ]
