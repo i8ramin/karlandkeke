@@ -5,23 +5,7 @@ require 'csv'
 require 'json'
 require 'mechanize'
 
-siteCrawler = Mechanize.new
-
-puts "getting CSV..."
-# csv_url = 'https://data.ny.gov/api/views/cb42-qumz/rows.csv'
-# crawlPage = siteCrawler.get(csv_url)
-# csv_file = crawlPage.body
-csv_file = File.open("nys_childcare.csv", "r") { |file| file.read  }
-puts "--got CSV"
-
-puts "parsing CSV"
-lines = CSV.new(csv_file).readlines
-keys = lines.delete lines.first
-
-daycare_ls = lines.map do |values|
-	Hash[keys.zip(values)]
-end
-puts "--parsed CSV"
+DEMO = true
 
 centerTypes = {
 	'FDC' =>'Family Day Care',
@@ -37,30 +21,99 @@ BOROUGHS = [
 	'Bronx'
 	]
 
+DROPLIST = [
+	'School Age Capacity',
+	'Phone Extension',
+	'City',
+	'Preschool Capacity',
+	'Toddler Capacity',
+	'School District Name',
+	'State',
+	'Facility ID',
+	'Region Code',
+	'Address Omitted',
+	'Phone Number Omitted',
+	'Additional Address',
+	'Floor',
+	'Apartment',
+	'Total Capacity'
+]
+
+siteCrawler = Mechanize.new
+
+# CSV setup
+csv_file = nil
+puts "getting CSV..."
+if DEMO
+	csv_file = File.open("nys_childcare.csv", "r") { |file| file.read  }
+else
+	csv_url = 'https://data.ny.gov/api/views/cb42-qumz/rows.csv'
+	crawlPage = siteCrawler.get(csv_url)
+	csv_file = crawlPage.body
+end
+puts "--got CSV"
+
+
+
+puts "initial csv parse"
+lines = CSV.new(csv_file).readlines
+keys = lines.delete lines.first
+daycare_ls = lines.map do |values|
+	Hash[keys.zip(values)]
+end
+puts "--initial parse complete"
+
+
+
 puts "PARSE PT. 2..."
 
-# daycares.each_with_index do |daycare, i|
 daycares = []
 i = 0
 while i < 20
 	daycare = daycare_ls[i]
+# above for demo'ing purposes, below for real scrape
+# daycare_ls.each_with_index do |daycare, i|
 
 	if BOROUGHS.include? daycare["County"]
 		puts i
 		# puts daycare
+		DROPLIST.each do |drop|
+			daycare.delete(drop)
+		end
+
+		# a bunch of renames / sometimes formatting changes
 		daycare['type'] = centerTypes[daycare.delete('Program Type')]
+		daycare['permitStatus'] = daycare.delete("Facility Status")
+		daycare['permitExpirationDate'] = daycare.delete("License Expiration Date")
 		daycare['borough'] = daycare.delete('County')
 		daycare['zipCode'] = daycare.delete("Zip Code")
 		daycare['address'] = "#{daycare.delete('Street Number')} #{daycare.delete('Street Name')}"
 		daycare['centerName'] = daycare.delete("Facility Name")
 		daycare['permitHolder'] = daycare.delete("Provider Name")
-		
+		daycare['latitude'] = daycare.delete("Latitude").to_i
+		daycare['longitude'] = daycare.delete("Longitude").to_i
+		daycare['phone'] = daycare.delete("Phone Number")
 		ageRange_start = daycare.delete("Capacity Description")
+		
 		if !ageRange_start.nil?
 			daycare['ageRange'] = ageRange_start.split(", ")[1].gsub(/Ages | years/, '').gsub('to','-')
 		end
 
-		siteCrawler.get daycare['Program Profile']
+		# actual scraping
+		site = siteCrawler.get daycare['Program Profile']
+		inspectionHistory = site.search('#compliancehistoryDivImg')[0]
+		inspectionTables = inspectionHistory.search('table')
+		inspectionTop = inspectionTables[0]
+		inspectionBottom = inspectionTables[1]
+
+		latest_insp = {}
+		latest_insp['date'] = inspectionTop.search('td')[0].text.split(': ')[1]
+		latest_insp['result'] = inspectionTop.search('td')[1].text.split('violations:' )[1]
+
+		daycare['latestInspection'] = latest_insp
+
+
+
 		daycares << daycare
 		i += 1
 	end
