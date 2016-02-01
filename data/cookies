@@ -3,7 +3,7 @@ a816-healthpsi.nyc.gov:
   "/ChildCare":
     JSESSIONID: !ruby/object:Mechanize::Cookie
       name: JSESSIONID
-      value: 1BCDE35BE58E69CDF752FA1D43125551
+      value: 31770059F21BB9AE01976F4F36A454AC
       domain: a816-healthpsi.nyc.gov
       for_domain: false
       path: "/ChildCare"
@@ -11,5 +11,5 @@ a816-healthpsi.nyc.gov:
       httponly: false
       expires: 
       max_age: 
-      created_at: 2015-12-26 14:40:53.307477000 -05:00
-      accessed_at: 2015-12-26 14:40:53.316453000 -05:00
+      created_at: 2016-01-11 06:54:05.896069966 +00:00
+      accessed_at: 2016-01-11 06:54:05.907955966 +00:00

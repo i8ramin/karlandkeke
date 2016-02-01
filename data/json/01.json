@@ -13,7 +13,7 @@
   "maximumCapacity": "80",
   "siteType": "Summer Day Camp",
   "certifiedToAdministerMedication": "No",
-  "yearsOperating": "2 or more",
+  "yearsOperating": "3 or more",
   "hasInspections": "true",
   "latestInspection": {
     "date": "Inspection Date 07/17/2013",
@@ -24,7 +24,9 @@
     ]
   },
   "numInspections": "1",
-  "pastInspections": "",
+  "pastInspections": [
+
+  ],
   "latitude": 40.863188165236,
   "longitude": -73.897790621837
 }
