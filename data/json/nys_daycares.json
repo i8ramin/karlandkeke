@@ -3,146 +3,466 @@
     "Facility Opened Date": "10/6/2015",
     "License Issue Date": "10/6/2015",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/741670",
-    "Location": "(40.87296, -73.88547947)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/741670",
+    "Location": "4087296 -7388547947",
     "type": "Group-Family Day Care",
     "permitStatus": "License ",
     "permitExpirationDate": "10/5/2017",
     "borough": "Bronx",
     "zipCode": "10458",
     "address": "235-37 East 202nd street",
-    "centerName": "Guzman, Lorena",
-    "permitHolder": "Lorena A. Guzman",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": null,
+    "centerName": "Guzman Lorena",
+    "permitHolder": "Lorena A Guzman",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "August 26, 2015\r\n            ",
-      "result": "  No\r\n            "
+      "date": "August 26 2015 ",
+      "result": " No "
     }
   },
   {
     "Facility Opened Date": "8/3/2012",
     "License Issue Date": "8/3/2012",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/578722",
-    "Location": "(40.85389, -73.90373)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/578722",
+    "Location": "4085389 -7390373",
     "type": "Family Day Care",
     "permitStatus": "Pending Denial",
     "permitExpirationDate": "8/2/2014",
     "borough": "Bronx",
     "zipCode": "10453",
     "address": "2087 Creston Avenue",
-    "centerName": "Smalls, Islah",
-    "permitHolder": "Islah S. Smalls",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)258-8605",
+    "centerName": "Smalls Islah",
+    "permitHolder": "Islah S Smalls",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347258-8605",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "October 21, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "October 21 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "October 21 2015 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "October 21 2015 ",
+        "Code Sub-Section": "41714f1i",
+        "Violation Summary": "Principles of childhood development include such things as meeting the physical social and developmental needs of children including those with special needs behavior management and discipline promoting play and physical activity individual development variation and learning styles infant and toddler brain development and cross cultural skills and knowledge",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "October 21 2015 ",
+        "Code Sub-Section": "41714f3i",
+        "Violation Summary": "Child day care program development topics include such things as the benefits of continuity of care practices staff supervision and coaching program variety and activity infant toddler pre-school and school age quality programming promoting childrens language development and social and emotional skills and establishing nurturing stimulating environments rest time policies and procedures including meeting the needs of children who do not nap hand washing meeting the program needs of mixed age groups in family day care and group family day care",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "July 7 2015 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "July 7 2015 ",
+        "Code Sub-Section": "41714f1i",
+        "Violation Summary": "Principles of childhood development include such things as meeting the physical social and developmental needs of children including those with special needs behavior management and discipline promoting play and physical activity individual development variation and learning styles infant and toddler brain development and cross cultural skills and knowledge",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "July 7 2015 ",
+        "Code Sub-Section": "41714f3i",
+        "Violation Summary": "Child day care program development topics include such things as the benefits of continuity of care practices staff supervision and coaching program variety and activity infant toddler pre-school and school age quality programming promoting childrens language development and social and emotional skills and establishing nurturing stimulating environments rest time policies and procedures including meeting the needs of children who do not nap hand washing meeting the program needs of mixed age groups in family day care and group family day care",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "March 24 2015 ",
+        "Code Sub-Section": "4174f",
+        "Violation Summary": "Multi-purpose fire extinguishers of a type approved for use in residences must be maintained in good working condition and placed in the kitchen and outside the furnace room A family day care program located in a multiple family dwelling is not required to place or maintain a fire extinguisher outside the furnace room of such dwelling The caregivers must know how to use the fire extinguishers placed in such home Fire extinguishers with gauges must show a full charge Fire extinguishers with seals must have unbroken seals",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "February 24 2015 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "February 24 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "February 24 2015 ",
+        "Code Sub-Section": "41714n",
+        "Violation Summary": "CPR and first aid certificates must be appropriate to the ages of the children in care",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2014 ",
+        "Code Sub-Section": "4172a14",
+        "Violation Summary": "The site to be used for child care must meet the definition and requirements of a personal residence as outlined in Part 413 The Registrant must submit documentation acceptable to the Office to prove that the family day care site is being used as a residence",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2014 ",
+        "Code Sub-Section": "4172d2",
+        "Violation Summary": "Applicants for a registration renewal must submit to the Office certification on forms provided by the Office of the status of the individual applicants child support obligations or payments in accordance with the requirements of Section 3-503 of the General Obligations Law",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2014 ",
+        "Code Sub-Section": "4179a",
+        "Violation Summary": "The family day care registrant must establish and follow a written plan for behavior management that is acceptable to the Office This plan must include how the program will approach challenging behaviors help children solve problems and encourage acceptable behaviors",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2014 ",
+        "Code Sub-Section": "41711c1",
+        "Violation Summary": "The registrant must prepare a health care plan on forms furnished by the Office Such plan must protect and promote the health of children The health care plan must be on site followed by all caregivers and available upon demand by a parent or the Office In those instances in which the program will administer medications the health care plan must also be approved by the programs health care consultant unless the only medications to be administered are those specified in 41711c",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2014 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "September 25 2014 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 14 2014 ",
+        "Code Sub-Section": "4172a14",
+        "Violation Summary": "The site to be used for child care must meet the definition and requirements of a personal residence as outlined in Part 413 The Registrant must submit documentation acceptable to the Office to prove that the family day care site is being used as a residence",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 14 2014 ",
+        "Code Sub-Section": "4172d2",
+        "Violation Summary": "Applicants for a registration renewal must submit to the Office certification on forms provided by the Office of the status of the individual applicants child support obligations or payments in accordance with the requirements of Section 3-503 of the General Obligations Law",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 14 2014 ",
+        "Code Sub-Section": "4179a",
+        "Violation Summary": "The family day care registrant must establish and follow a written plan for behavior management that is acceptable to the Office This plan must include how the program will approach challenging behaviors help children solve problems and encourage acceptable behaviors",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 14 2014 ",
+        "Code Sub-Section": "41711c1",
+        "Violation Summary": "The registrant must prepare a health care plan on forms furnished by the Office Such plan must protect and promote the health of children The health care plan must be on site followed by all caregivers and available upon demand by a parent or the Office In those instances in which the program will administer medications the health care plan must also be approved by the programs health care consultant unless the only medications to be administered are those specified in 41711c",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 14 2014 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "August 14 2014 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 30 2014 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "June 26 2014 ",
+        "Code Sub-Section": "41714n",
+        "Violation Summary": "CPR and first aid certificates must be appropriate to the ages of the children in care",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "5/7/2013",
     "License Issue Date": "5/7/2013",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/643149",
-    "Location": "(40.82963647, -73.90517294)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/643149",
+    "Location": "4082963647 -7390517294",
     "type": "Family Day Care",
     "permitStatus": "Pending Denial",
     "permitExpirationDate": "5/6/2015",
     "borough": "Bronx",
     "zipCode": "10456",
     "address": "1175 Fulton Avenue",
-    "centerName": "Palacios, Ines",
+    "centerName": "Palacios Ines",
     "permitHolder": "Ines Palacios",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)409-2125",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347409-2125",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "June 19, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "June 19 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "4172a5",
+        "Violation Summary": "Applicants for a registration must submit to the Office a completed application including sworn statements by the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home indicating whether to the best of their knowledge they have ever been convicted of a misdemeanor or a felony in New York State or any other jurisdiction and fingerprint images as required pursuant to section 4134 of this Article",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "4172d2",
+        "Violation Summary": "Applicants for a registration renewal must submit to the Office certification on forms provided by the Office of the status of the individual applicants child support obligations or payments in accordance with the requirements of Section 3-503 of the General Obligations Law",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "41713a5",
+        "Violation Summary": "The provider assistants and substitutes must each submit a satisfactory medical statement as required in section 41711b",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "41713b",
+        "Violation Summary": "All caregivers and volunteers are required to comply with the criminal history review provisions of this Part and Part 413 of this Article",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "41715c2",
+        "Violation Summary": "Maintain on file a current and accurate copy of the approved health care plan on forms furnished by the Office as required in section 41711 of this Part",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "May 8 2015 ",
+        "Code Sub-Section": "41715c8",
+        "Violation Summary": "Maintain on file a medical statement regarding the health of all persons residing in the family day care home as required in section 41711 of this Part",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "April 24 2015 ",
+        "Code Sub-Section": "4175r",
+        "Violation Summary": "An operable flashlight or battery powered lantern must be kept in the child care area Such equipment must be properly maintained for use in the event of a power failure",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "April 24 2015 ",
+        "Code Sub-Section": "41711h2",
+        "Violation Summary": "The home must be equipped with a portable first aid kit which is accessible for emergency treatment The first aid kit must be stocked to treat a broad range of injuries and situations and must be restocked as necessary The first aid kit and any other first aid supplies must be kept in a clean covered container or cabinet inaccessible to children",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "April 24 2015 ",
+        "Code Sub-Section": "41711i21",
+        "Violation Summary": "All rooms equipment surfaces supplies and furnishings accessible to children must be cleaned and then sanitized or disinfected using an EPA registered product as needed to protect the health of children and in a manner consistent with the health care plan guidelines issued by the Office",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "April 24 2015 ",
+        "Code Sub-Section": "41711i23",
+        "Violation Summary": "The premises must be kept free of vermin",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "April 24 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "3/8/2011",
     "License Issue Date": "3/8/2013",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/474624",
-    "Location": "(40.86998446, -73.87985758)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/474624",
+    "Location": "4086998446 -7387985758",
     "type": "Family Day Care",
     "permitStatus": "Pending Revocation",
     "permitExpirationDate": "3/7/2017",
     "borough": "Bronx",
     "zipCode": "10467",
     "address": "391 East Mosholu Parkway North",
-    "centerName": "Torres, Betania",
+    "centerName": "Torres Betania",
     "permitHolder": "Betania Torres",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)697-7353",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347697-7353",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "August 20, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "August 20 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "August 20 2015 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "August 20 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "June 9 2015 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "June 9 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "July 22 2014 ",
+        "Code Sub-Section": "41711h1i",
+        "Violation Summary": "Must obtain written consent at the time of admission from the parent which authorizes the provider or other caregivers to obtain emergency health care for the child",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "4/26/2010",
     "License Issue Date": "4/26/2012",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/441376",
-    "Location": "(40.84075899, -73.9251735)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/441376",
+    "Location": "4084075899 -739251735",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "4/25/2016",
     "borough": "Bronx",
     "zipCode": "10452",
-    "address": "1324 Ogden Av.",
-    "centerName": "Beato, Sandra",
-    "permitHolder": "Sandra E. Beato",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(718)992-3372",
+    "address": "1324 Ogden Av",
+    "centerName": "Beato Sandra",
+    "permitHolder": "Sandra E Beato",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "718992-3372",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "August 12, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "August 12 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "November 5 2014 ",
+        "Code Sub-Section": "41711b",
+        "Violation Summary": "Provider Assistant Substitute and Household Member Health Requirements",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "October 3 2014 ",
+        "Code Sub-Section": "41711b",
+        "Violation Summary": "Provider Assistant Substitute and Household Member Health Requirements",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "October 3 2014 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "October 3 2014 ",
+        "Code Sub-Section": "41714f",
+        "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "3/29/2010",
     "License Issue Date": "3/29/2012",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/442356",
-    "Location": "(40.82975367, -73.85619959)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/442356",
+    "Location": "4082975367 -7385619959",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "3/28/2016",
     "borough": "Bronx",
     "zipCode": "10472",
     "address": "2020 HAVILAND AVENUE",
-    "centerName": "Anjuman A. Chowdhury",
-    "permitHolder": "Anjuman A. Chowdhury",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)293-8840",
+    "centerName": "Anjuman A Chowdhury",
+    "permitHolder": "Anjuman A Chowdhury",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347293-8840",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "December 14, 2015\r\n            ",
-      "result": "  No\r\n            "
+      "date": "December 14 2015 ",
+      "result": " No "
     }
   },
   {
     "Facility Opened Date": "1/17/2012",
     "License Issue Date": "1/17/2014",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/547688",
-    "Location": "(40.90420801, -73.85112834)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/547688",
+    "Location": "4090420801 -7385112834",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "1/16/2018",
@@ -151,312 +471,902 @@
     "address": "4716 Richardson Avenue",
     "centerName": "MUNDO DE JUGUETE",
     "permitHolder": "Ana Gonzalez",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)595-2951",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347595-2951",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "August 12, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "August 12 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "March 12 2014 ",
+        "Code Sub-Section": "41711e",
+        "Violation Summary": "Other than children who are enrolled in kindergarten or a higher grade no child may be accepted for care in a family day care home unless the provider has been furnished with a written statement signed by a health care provider verifying that the child is able to participate in child day care appears to be free from contagious or communicable disease and is receiving health care including appropriate health examinations If the statement from the health care provider states that the child has special health care needs necessary provisions for the child must be stipulated and a reasonable health care plan for the child must be developed by the provider the parent and the health care provider This plan must address how the day care provider will obtain or develop any additional competencies needed to carry out the health care plan for the child",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "March 12 2014 ",
+        "Code Sub-Section": "41714b",
+        "Violation Summary": "Each provider and alternate provider must complete a minimum of fifteen 15 hours of training during the first six months of registration Any person who becomes an alternate provider after the initial registration of the home must complete a minimum of fifteen 15 hours of training during the first six months after becoming an alternate provider A total of thirty 30 hours of training in the required topics must be completed every two years",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "March 12 2014 ",
+        "Code Sub-Section": "41715c6",
+        "Violation Summary": "childrens health records must be kept on file and available for inspection including parental consents for emergency medical treatment evidence of health examinations and immunizations any available results of lead screening the name and dosage of any medications used by a child and the frequency of administration of such medications and a record of illnesses injuries and any indicators of child abuse or maltreatment",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "February 25 2014 ",
+        "Code Sub-Section": "41711e",
+        "Violation Summary": "Other than children who are enrolled in kindergarten or a higher grade no child may be accepted for care in a family day care home unless the provider has been furnished with a written statement signed by a health care provider verifying that the child is able to participate in child day care appears to be free from contagious or communicable disease and is receiving health care including appropriate health examinations If the statement from the health care provider states that the child has special health care needs necessary provisions for the child must be stipulated and a reasonable health care plan for the child must be developed by the provider the parent and the health care provider This plan must address how the day care provider will obtain or develop any additional competencies needed to carry out the health care plan for the child",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "February 25 2014 ",
+        "Code Sub-Section": "41714b",
+        "Violation Summary": "Each provider and alternate provider must complete a minimum of fifteen 15 hours of training during the first six months of registration Any person who becomes an alternate provider after the initial registration of the home must complete a minimum of fifteen 15 hours of training during the first six months after becoming an alternate provider A total of thirty 30 hours of training in the required topics must be completed every two years",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "February 25 2014 ",
+        "Code Sub-Section": "41715c6",
+        "Violation Summary": "childrens health records must be kept on file and available for inspection including parental consents for emergency medical treatment evidence of health examinations and immunizations any available results of lead screening the name and dosage of any medications used by a child and the frequency of administration of such medications and a record of illnesses injuries and any indicators of child abuse or maltreatment",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "1/26/2010",
     "License Issue Date": "1/26/2012",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/443460",
-    "Location": "(40.864347, -73.90610914)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/443460",
+    "Location": "40864347 -7390610914",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "1/25/2016",
     "borough": "Bronx",
     "zipCode": "10468",
     "address": "2444 Devoe Terrace",
-    "centerName": "Rosario, Monica",
-    "permitHolder": "Monica A. Rosario",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(718)367-7639",
+    "centerName": "Rosario Monica",
+    "permitHolder": "Monica A Rosario",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "718367-7639",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "November 24, 2015\r\n            ",
-      "result": "  No\r\n            "
+      "date": "November 24 2015 ",
+      "result": " No "
     }
   },
   {
     "Facility Opened Date": "5/10/2010",
     "License Issue Date": "5/10/2012",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/444341",
-    "Location": "(40.85103763, -73.91493948)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/444341",
+    "Location": "4085103763 -7391493948",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "5/9/2016",
     "borough": "Bronx",
     "zipCode": "10453",
     "address": "1925 University Avenue",
-    "centerName": "Morel, Ana",
+    "centerName": "Morel Ana",
     "permitHolder": "Ana Morel",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)280-0655",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347280-0655",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "January 21, 2016\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "January 21 2016 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "February 19 2014 ",
+        "Code Sub-Section": "41715a1",
+        "Violation Summary": "Each family day care home must register with the Office and must operate in compliance with the regulations of the Office and all other applicable laws and regulations No person or entity may operate a family day care home unless registered with the Office",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "12/13/2011",
     "License Issue Date": "12/13/2013",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/545513",
-    "Location": "(40.85967111, -73.86855222)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/545513",
+    "Location": "4085967111 -7386855222",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "12/12/2017",
     "borough": "Bronx",
     "zipCode": "10467",
     "address": "2300 Olinville Avenue",
-    "centerName": "Alexis, Juliet",
-    "permitHolder": "Juliet E. Alexis",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)758-7080",
+    "centerName": "Alexis Juliet",
+    "permitHolder": "Juliet E Alexis",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347758-7080",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "January 14, 2016\r\n            ",
-      "result": "  Yes\r\n            "
-    }
+      "date": "January 14 2016 ",
+      "result": " Yes "
+    },
+    "violations": [
+      {
+        "Date": "January 14 2016 ",
+        "Code Sub-Section": "4134d3",
+        "Violation Summary": "Every licensee and registrant shall obtain fingerprint images for each prospective employee or volunteer of the child day care program and any person age eighteen or over who will be residing on the premises of the group family day care home or family day care home",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "January 14 2016 ",
+        "Code Sub-Section": "4172a5",
+        "Violation Summary": "Applicants for a registration must submit to the Office a completed application including sworn statements by the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home indicating whether to the best of their knowledge they have ever been convicted of a misdemeanor or a felony in New York State or any other jurisdiction and fingerprint images as required pursuant to section 4134 of this Article",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "January 14 2016 ",
+        "Code Sub-Section": "4172a8i",
+        "Violation Summary": "Applicants for a registration must submit to the Office a completed application including the Statewide Central Register Database Check forms necessary to complete required screening by the Statewide Central Register of Child Abuse and Maltreatment to determine if the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home is the subject of an indicated report of child abuse or maltreatment",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "January 14 2016 ",
+        "Code Sub-Section": "41713c",
+        "Violation Summary": "All caregivers and volunteers hired after June 30 2013 must comply with the background check requirements for the register of substantiated category one cases of abuse or neglect maintained by the Justice Center for the Protection of Persons with Special Needs pursuant to Section 495 of the Social Services Law",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "January 14 2016 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "4134d3",
+        "Violation Summary": "Every licensee and registrant shall obtain fingerprint images for each prospective employee or volunteer of the child day care program and any person age eighteen or over who will be residing on the premises of the group family day care home or family day care home",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "4172a5",
+        "Violation Summary": "Applicants for a registration must submit to the Office a completed application including sworn statements by the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home indicating whether to the best of their knowledge they have ever been convicted of a misdemeanor or a felony in New York State or any other jurisdiction and fingerprint images as required pursuant to section 4134 of this Article",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "4172a5",
+        "Violation Summary": "Applicants for a registration must submit to the Office a completed application including sworn statements by the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home indicating whether to the best of their knowledge they have ever been convicted of a misdemeanor or a felony in New York State or any other jurisdiction and fingerprint images as required pursuant to section 4134 of this Article",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "4172a8i",
+        "Violation Summary": "Applicants for a registration must submit to the Office a completed application including the Statewide Central Register Database Check forms necessary to complete required screening by the Statewide Central Register of Child Abuse and Maltreatment to determine if the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home is the subject of an indicated report of child abuse or maltreatment",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "4172a8i",
+        "Violation Summary": "Applicants for a registration must submit to the Office a completed application including the Statewide Central Register Database Check forms necessary to complete required screening by the Statewide Central Register of Child Abuse and Maltreatment to determine if the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home is the subject of an indicated report of child abuse or maltreatment",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41711b1",
+        "Violation Summary": "The provider assistants and substitutes must each submit a medical statement on forms furnished by the Office or an approved equivalent from a health care provider",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41711b6",
+        "Violation Summary": "The initial medical statement for providers assistants and substitutes must include the results of a Mantoux tuberculin test or other federally approved tuberculin test performed within the 12 months preceding the date of the application Thereafter tuberculin tests are only required at the discretion of the employees health care provider or at the start of new employment in a different child care program",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41713a2",
+        "Violation Summary": "The provider assistants and substitutes must each have a minimum of either two 2 years of experience caring for children under six years of age or one 1 year of experience caring for children under six years of age plus six hours of training or education in early childhood development The phrase experience caring for children can mean child-rearing as well as paid and unpaid experience caring for children The term training can mean educational workshops and courses in caring for preschool-age children",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41713c",
+        "Violation Summary": "All caregivers and volunteers hired after June 30 2013 must comply with the background check requirements for the register of substantiated category one cases of abuse or neglect maintained by the Justice Center for the Protection of Persons with Special Needs pursuant to Section 495 of the Social Services Law",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41713c",
+        "Violation Summary": "All caregivers and volunteers hired after June 30 2013 must comply with the background check requirements for the register of substantiated category one cases of abuse or neglect maintained by the Justice Center for the Protection of Persons with Special Needs pursuant to Section 495 of the Social Services Law",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41715c3",
+        "Violation Summary": "Maintain on file the name address gender and date of birth of each child and each childs parents names addresses telephone numbers and places at which parents or other persons responsible for the child can be reached in case of an emergency",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41715c4",
+        "Violation Summary": "Maintain on file the names and addresses of persons authorized to take the children from the family day care home",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41715c5",
+        "Violation Summary": "Maintain on file the daily attendance records that are filled out at the time a child arrives and departs and must include arrival and departure times",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 2 2015 ",
+        "Code Sub-Section": "41715c13",
+        "Violation Summary": "Must have on file a daily schedule documenting the arrival and departure times of each caregiver employees and volunteers",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "10/31/2014",
     "License Issue Date": "10/31/2014",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/709986",
-    "Location": "(40.83602, -73.88967)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/709986",
+    "Location": "4083602 -7388967",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "10/30/2016",
     "borough": "Bronx",
     "zipCode": "10460",
     "address": "907 East 173rd Street",
-    "centerName": "Carvajal, Morelis",
+    "centerName": "Carvajal Morelis",
     "permitHolder": "Morelis Carvajal",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(646)842-1958",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "646842-1958",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "August 13, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "August 13 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "4174b",
+        "Violation Summary": "Evacuation drills",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "4174f",
+        "Violation Summary": "Multi-purpose fire extinguishers of a type approved for use in residences must be maintained in good working condition and placed in the kitchen and outside the furnace room A family day care program located in a multiple family dwelling is not required to place or maintain a fire extinguisher outside the furnace room of such dwelling The caregivers must know how to use the fire extinguishers placed in such home Fire extinguishers with gauges must show a full charge Fire extinguishers with seals must have unbroken seals",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "4174h",
+        "Violation Summary": "Children may be cared for only on such floors as are provided with readily accessible alternate means of egress which are remote from each other",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "4175b3vi",
+        "Violation Summary": "Emergency plan must describe strategy for sheltering in place",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "4175r",
+        "Violation Summary": "An operable flashlight or battery powered lantern must be kept in the child care area Such equipment must be properly maintained for use in the event of a power failure",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "4177l",
+        "Violation Summary": "Other than for school age children sleeping and napping arrangements must be made in writing between the parent and the program Such arrangements shall include the area of the home where the child will nap whether the child will nap on a cot mat bed or a crib and how the napping child will be supervised consistent with the requirements of section 4178 of this Part",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "4179a",
+        "Violation Summary": "The family day care registrant must establish and follow a written plan for behavior management that is acceptable to the Office This plan must include how the program will approach challenging behaviors help children solve problems and encourage acceptable behaviors",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "41711c1",
+        "Violation Summary": "The registrant must prepare a health care plan on forms furnished by the Office Such plan must protect and promote the health of children The health care plan must be on site followed by all caregivers and available upon demand by a parent or the Office In those instances in which the program will administer medications the health care plan must also be approved by the programs health care consultant unless the only medications to be administered are those specified in 41711c",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "41711h2",
+        "Violation Summary": "The home must be equipped with a portable first aid kit which is accessible for emergency treatment The first aid kit must be stocked to treat a broad range of injuries and situations and must be restocked as necessary The first aid kit and any other first aid supplies must be kept in a clean covered container or cabinet inaccessible to children",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 2 2015 ",
+        "Code Sub-Section": "41715c6",
+        "Violation Summary": "Maintain on file childrens health records including parental consents for emergency medical treatment childs medical statement and immunizations any available results of lead screening the name and dosage of any medications used by a child and the frequency of administration of such medications and a record of illnesses injuries occurring while in care and any indicators of child abuse or maltreatment",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "7/30/2010",
     "License Issue Date": "7/30/2012",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/445074",
-    "Location": "(40.82310667, -73.89086333)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/445074",
+    "Location": "4082310667 -7389086333",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "7/29/2016",
     "borough": "Bronx",
     "zipCode": "10459",
     "address": "945 Aldus Street",
-    "centerName": "Rubio, Siria",
+    "centerName": "Rubio Siria",
     "permitHolder": "Siria Rubio",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)323-8795",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347323-8795",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "January 14, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "January 14 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "January 14 2015 ",
+        "Code Sub-Section": "4177l",
+        "Violation Summary": "Other than for school age children sleeping and napping arrangements must be made in writing between the parent and the program Such arrangements shall include the area of the home where the child will nap whether the child will nap on a cot mat bed or a crib and how the napping child will be supervised consistent with the requirements of section 4178 of this Part",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "January 14 2015 ",
+        "Code Sub-Section": "41711b1",
+        "Violation Summary": "The provider assistants and substitutes must each submit a medical statement on forms furnished by the Office or an approved equivalent from a health care provider",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "January 14 2015 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 11 2014 ",
+        "Code Sub-Section": "4177l",
+        "Violation Summary": "Other than for school age children sleeping and napping arrangements must be made in writing between the parent and the program Such arrangements shall include the area of the home where the child will nap whether the child will nap on a cot mat bed or a crib and how the napping child will be supervised consistent with the requirements of section 4178 of this Part",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 11 2014 ",
+        "Code Sub-Section": "41711b1",
+        "Violation Summary": "The provider assistants and substitutes must each submit a medical statement on forms furnished by the Office or an approved equivalent from a health care provider",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 11 2014 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "November 5 2014 ",
+        "Code Sub-Section": "4175a",
+        "Violation Summary": "Suitable precautions must be taken to eliminate all conditions in areas accessible to children which pose a safety or health hazard",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "November 5 2014 ",
+        "Code Sub-Section": "4175d",
+        "Violation Summary": "Radiators and pipes located in rooms occupied by children must be covered to protect the children from injury when the heating system is in use",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "November 5 2014 ",
+        "Code Sub-Section": "4177l",
+        "Violation Summary": "Other than for school age children sleeping and napping arrangements must be made in writing between the parent and the program Such arrangements shall include the area of the home where the child will nap whether the child will nap on a cot mat bed or a crib and how the napping child will be supervised consistent with the requirements of section 4178 of this Part",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "November 5 2014 ",
+        "Code Sub-Section": "41711c1",
+        "Violation Summary": "The registrant must prepare a health care plan on forms furnished by the Office Such plan must protect and promote the health of children The health care plan must be on site followed by all caregivers and available upon demand by a parent or the Office In those instances in which the program will administer medications the health care plan must also be approved by the programs health care consultant unless the only medications to be administered are those specified in 41711c",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "November 5 2014 ",
+        "Code Sub-Section": "41711h1i",
+        "Violation Summary": "Must obtain written consent at the time of admission from the parent which authorizes the provider or other caregivers to obtain emergency health care for the child",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "7/27/2012",
     "License Issue Date": "7/27/2014",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/600382",
-    "Location": "(40.893727, -73.850381)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/600382",
+    "Location": "40893727 -73850381",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "7/26/2018",
     "borough": "Bronx",
     "zipCode": "10466",
     "address": "1755 Bussing ave",
-    "centerName": "Gurmohamed, Bibi",
-    "permitHolder": "Bibi Z. Gurmohamed",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(718)324-3478",
+    "centerName": "Gurmohamed Bibi",
+    "permitHolder": "Bibi Z Gurmohamed",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "718324-3478",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "August 19, 2015\r\n            ",
-      "result": "  No\r\n            "
+      "date": "August 19 2015 ",
+      "result": " No "
     }
   },
   {
     "Facility Opened Date": "5/18/2015",
     "License Issue Date": "5/18/2015",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/710426",
-    "Location": "(40.83729153, -73.88793651)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/710426",
+    "Location": "4083729153 -7388793651",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "5/17/2017",
     "borough": "Bronx",
     "zipCode": "104604965",
     "address": "1753 Boston Road",
-    "centerName": "Bobombila, Marie",
+    "centerName": "Bobombila Marie",
     "permitHolder": "Marie Bobombila",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(917)819-4014",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "917819-4014",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "March 16, 2015\r\n            ",
-      "result": "  No\r\n            "
+      "date": "March 16 2015 ",
+      "result": " No "
     }
   },
   {
     "Facility Opened Date": "7/8/2010",
     "License Issue Date": "7/8/2012",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/445432",
-    "Location": "(40.83457909, -73.86121818)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/445432",
+    "Location": "4083457909 -7386121818",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "7/7/2016",
     "borough": "Bronx",
     "zipCode": "10462",
     "address": "1919 McGraw Avenue",
-    "centerName": "Hossain, Nasima",
+    "centerName": "Hossain Nasima",
     "permitHolder": "Nasima Hossain",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(718)794-7987",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "718794-7987",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "January 22, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "January 22 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "January 22 2015 ",
+        "Code Sub-Section": "41711b1",
+        "Violation Summary": "The provider assistants and substitutes must each submit a medical statement on forms furnished by the Office or an approved equivalent from a health care provider",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "January 22 2015 ",
+        "Code Sub-Section": "41711b6",
+        "Violation Summary": "The initial medical statement for providers assistants and substitutes must include the results of a Mantoux tuberculin test or other federally approved tuberculin test performed within the 12 months preceding the date of the application Thereafter tuberculin tests are only required at the discretion of the employees health care provider or at the start of new employment in a different child care program",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "January 22 2015 ",
+        "Code Sub-Section": "41713a2",
+        "Violation Summary": "The provider assistants and substitutes must each have a minimum of either two 2 years of experience caring for children under six years of age or one 1 year of experience caring for children under six years of age plus six hours of training or education in early childhood development The phrase experience caring for children can mean child-rearing as well as paid and unpaid experience caring for children The term training can mean educational workshops and courses in caring for preschool-age children",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "January 22 2015 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "1/27/2014",
     "License Issue Date": "1/27/2014",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/662087",
-    "Location": "(40.8810013, -73.85992435)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/662087",
+    "Location": "408810013 -7385992435",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "1/26/2016",
     "borough": "Bronx",
     "zipCode": "10467",
     "address": "827A East 217th Street",
-    "centerName": "Green, Sheila",
+    "centerName": "Green Sheila",
     "permitHolder": "Sheila Green",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)965-3567",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347965-3567",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "October 7, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "October 7 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "September 11 2015 ",
+        "Code Sub-Section": "4178a",
+        "Violation Summary": "Children cannot be left without competent supervision at any time Competent supervision includes awareness of and responsibility for the ongoing activity of each child It requires that all children be within a caregivers range of vision except as provided in section 4178b of this Part and that the caregiver be near enough to respond when redirection or intervention strategies are needed Competent supervision must take into account the childs age emotional physical and cognitive development",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 11 2015 ",
+        "Code Sub-Section": "4178f",
+        "Violation Summary": "The assistants must also be caring for children whenever the numbers and ages of children in care dictate that an assistant be present",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 11 2015 ",
+        "Code Sub-Section": "4178j2",
+        "Violation Summary": "When care is provided for children under the age of two years there must be at least one caregiver present for every two children under the age of two years in attendance",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 11 2015 ",
+        "Code Sub-Section": "41715a9",
+        "Violation Summary": "The provisions specified on the registration are binding and the family day care home must operate in compliance with the terms of the registration The number and age range of children specified thereon are the maximum number and age range of children who may be in the care of the family day care home at any one time",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "4175v",
+        "Violation Summary": "Operating carbon monoxide detectors must be used in all family day care homes when required and located in areas of the home in accordance with applicable laws",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "4177l",
+        "Violation Summary": "Other than for school age children sleeping and napping arrangements must be made in writing between the parent and the program Such arrangements shall include the area of the home where the child will nap whether the child will nap on a cot mat bed or a crib and how the napping child will be supervised consistent with the requirements of section 4178 of this Part",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "4178a",
+        "Violation Summary": "Children cannot be left without competent supervision at any time Competent supervision includes awareness of and responsibility for the ongoing activity of each child It requires that all children be within a caregivers range of vision except as provided in section 4178b of this Part and that the caregiver be near enough to respond when redirection or intervention strategies are needed Competent supervision must take into account the childs age emotional physical and cognitive development",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "4178j2",
+        "Violation Summary": "When care is provided for children under the age of two years there must be at least one caregiver present for every two children under the age of two years in attendance",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "41715b12",
+        "Violation Summary": "The family day care home must report to the Office any change affecting or which reasonably might be expected to affect those portions of the building and property in which the program is operating or which are used for the childrens egress in the case of emergency any change in household members and any other change that would place the home out of compliance with applicable regulations",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "41715b20",
+        "Violation Summary": "No person other than a caregiver may have unsupervised contact with a child in care at the program",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "41715c4",
+        "Violation Summary": "Maintain on file the names and addresses of persons authorized to take the children from the family day care home",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "August 12 2015 ",
+        "Code Sub-Section": "41715c6",
+        "Violation Summary": "Maintain on file childrens health records including parental consents for emergency medical treatment childs medical statement and immunizations any available results of lead screening the name and dosage of any medications used by a child and the frequency of administration of such medications and a record of illnesses injuries occurring while in care and any indicators of child abuse or maltreatment",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "12/16/2014",
     "License Issue Date": "12/16/2014",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/710734",
-    "Location": "(40.84275166, -73.86944725)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/710734",
+    "Location": "4084275166 -7386944725",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "12/15/2016",
     "borough": "Bronx",
     "zipCode": "10460",
     "address": "1747 Taylor Avenue",
-    "centerName": "Severino, Maria",
-    "permitHolder": "Maria A. Severino",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": null,
+    "centerName": "Severino Maria",
+    "permitHolder": "Maria A Severino",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "December 5, 2014\r\n            ",
-      "result": "  No\r\n            "
+      "date": "December 5 2014 ",
+      "result": " No "
     }
   },
   {
     "Facility Opened Date": "10/14/2011",
     "License Issue Date": "10/14/2013",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/546793",
-    "Location": "(40.89729988, -73.85300679)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/546793",
+    "Location": "4089729988 -7385300679",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "10/13/2017",
     "borough": "Bronx",
     "zipCode": "10466",
     "address": "4378 Byron Avenue",
-    "centerName": "Benjamin, Ingrid",
-    "permitHolder": "Ingrid B. Benjamin",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(718)866-7482",
+    "centerName": "Benjamin Ingrid",
+    "permitHolder": "Ingrid B Benjamin",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "718866-7482",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "January 21, 2016\r\n            ",
-      "result": "  Yes\r\n            "
-    }
+      "date": "January 21 2016 ",
+      "result": " Yes "
+    },
+    "violations": [
+      {
+        "Date": "January 21 2016 ",
+        "Code Sub-Section": "41711b5",
+        "Violation Summary": "All providers assistants and substitutes and household members must be free from communicable disease unless his/her health care provider has indicated that the presence of the communicable disease does not pose a risk to the health and safety of the children in care",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "January 21 2016 ",
+        "Code Sub-Section": "41715b25",
+        "Violation Summary": "Mid-point requirements for four-year registration holders At the two-year calendar date in a four year licensing cycle a program must be in compliance with the specified mid-point requirements and be able to show proof of compliance to the Office when requested",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "December 8 2015 ",
+        "Code Sub-Section": "41711b5",
+        "Violation Summary": "All providers assistants and substitutes and household members must be free from communicable disease unless his/her health care provider has indicated that the presence of the communicable disease does not pose a risk to the health and safety of the children in care",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "December 8 2015 ",
+        "Code Sub-Section": "41715b25iii",
+        "Violation Summary": "At mid-point must have proof of compliance with the training requirements of section 41714",
+        " Status ": "Not Corrected "
+      },
+      {
+        "Date": "September 25 2015 ",
+        "Code Sub-Section": "41711b6",
+        "Violation Summary": "The initial medical statement for providers assistants and substitutes must include the results of a Mantoux tuberculin test or other federally approved tuberculin test performed within the 12 months preceding the date of the application Thereafter tuberculin tests are only required at the discretion of the employees health care provider or at the start of new employment in a different child care program",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2015 ",
+        "Code Sub-Section": "41713a",
+        "Violation Summary": "The provider assistants and substitutes must each meet the qualifications listed in 41713a",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2015 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2015 ",
+        "Code Sub-Section": "41714m",
+        "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "September 25 2015 ",
+        "Code Sub-Section": "41714n",
+        "Violation Summary": "CPR and first aid certificates must be appropriate to the ages of the children in care",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "10/16/2013",
     "License Issue Date": "10/16/2015",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/662115",
-    "Location": "(40.881349, -73.881466)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/662115",
+    "Location": "40881349 -73881466",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "10/15/2019",
     "borough": "Bronx",
     "zipCode": "10467",
-    "address": "3433 Dekalb Ave.",
-    "centerName": "Diaz, Jeannette",
+    "address": "3433 Dekalb Ave",
+    "centerName": "Diaz Jeannette",
     "permitHolder": "Jeannette Diaz",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)602-8520",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347602-8520",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "June 29, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "June 29 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "June 25 2015 ",
+        "Code Sub-Section": "4174h",
+        "Violation Summary": "Children may be cared for only on such floors as are provided with readily accessible alternate means of egress which are remote from each other",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "February 4 2015 ",
+        "Code Sub-Section": "41713a5",
+        "Violation Summary": "The provider assistants and substitutes must each submit a satisfactory medical statement as required in section 41711b",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "January 13 2015 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "January 13 2015 ",
+        "Code Sub-Section": "41713a5",
+        "Violation Summary": "The provider assistants and substitutes must each submit a satisfactory medical statement as required in section 41711b",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 12 2014 ",
+        "Code Sub-Section": "4174h4",
+        "Violation Summary": "All paths of egress on the interior and exterior of the home including corridors aisles and approaches must be kept free of obstructions impediments and debris at all times",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 12 2014 ",
+        "Code Sub-Section": "4175a",
+        "Violation Summary": "Suitable precautions must be taken to eliminate all conditions in areas accessible to children which pose a safety or health hazard",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 12 2014 ",
+        "Code Sub-Section": "41713a4",
+        "Violation Summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "December 12 2014 ",
+        "Code Sub-Section": "41713a5",
+        "Violation Summary": "The provider assistants and substitutes must each submit a satisfactory medical statement as required in section 41711b",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   },
   {
     "Facility Opened Date": "11/4/2013",
     "License Issue Date": "11/4/2015",
     "Infant Capacity": "0",
-    "Program Profile": "http://it.ocfs.ny.gov/DayCareFacilitySearch/Profile/Index/662117",
-    "Location": "(40.85989357, -73.8996631)",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/662117",
+    "Location": "4085989357 -738996631",
     "type": "Family Day Care",
     "permitStatus": "Registration ",
     "permitExpirationDate": "11/3/2019",
     "borough": "Bronx",
     "zipCode": "10468",
     "address": "2385 Creston Avenue",
-    "centerName": "Ubaldo De Los Santos, Rosa",
-    "permitHolder": "Rosa U. Ubaldo De Los Santos",
-    "latitude": 40,
-    "longitude": -73,
-    "phone": "(347)271-9415",
+    "centerName": "Ubaldo De Los Santos Rosa",
+    "permitHolder": "Rosa U Ubaldo De Los Santos",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347271-9415",
     "ageRange": "6 weeks - 12",
     "latestInspection": {
-      "date": "December 4, 2015\r\n            ",
-      "result": "  No\r\n            "
-    }
+      "date": "December 4 2015 ",
+      "result": " No "
+    },
+    "violations": [
+      {
+        "Date": "July 28 2015 ",
+        "Code Sub-Section": "4175r",
+        "Violation Summary": "An operable flashlight or battery powered lantern must be kept in the child care area Such equipment must be properly maintained for use in the event of a power failure",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": "July 28 2015 ",
+        "Code Sub-Section": "41711h1i",
+        "Violation Summary": "Must obtain written consent at the time of admission from the parent which authorizes the provider or other caregivers to obtain emergency health care for the child",
+        " Status ": "Corrected "
+      },
+      {
+        "Date": " Violations are posted on this web site after the inspection results have been finalized in a report mailed to the provider Violations are listed here as Corrected after the Office has verified corrections with the provider and a letter confirming the corrections has been mailed to the provider ",
+        "Code Sub-Section": "",
+        "Violation Summary": "",
+        " Status ": ""
+      }
+    ]
   }
 ]

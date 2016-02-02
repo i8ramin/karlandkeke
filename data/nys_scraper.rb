@@ -4,6 +4,7 @@
 require 'csv'
 require 'json'
 require 'mechanize'
+require_relative 'cleanup.rb'
 
 DEMO = true
 
@@ -37,6 +38,13 @@ DROPLIST = [
 	'Floor',
 	'Apartment',
 	'Total Capacity'
+]
+
+VIOLATION_HEADERS = [
+	'Date',
+	'Code Sub-Section',
+	'Violation Summary',
+	' Status '
 ]
 
 siteCrawler = Mechanize.new
@@ -109,12 +117,28 @@ while i < 20
 		latest_insp = {}
 		latest_insp['date'] = inspectionTop.search('td')[0].text.split(': ')[1]
 		latest_insp['result'] = inspectionTop.search('td')[1].text.split('violations:' )[1]
-
 		daycare['latestInspection'] = latest_insp
 
+		if inspectionBottom
+			violations_table = inspectionBottom.search('tr')
+			violations_table.delete violations_table.first # headers
+
+			violations = []
+			violations_table.each do |violation_node|
+				violation = {}
+				sections = violation_node.search('td')
+				VIOLATION_HEADERS.each_with_index do |header, header_i|
+					violation[header] = sections[header_i]
+				end
+				violations << violation
+			end
+
+			daycare['violations'] = violations
+		end
 
 
-		daycares << daycare
+
+		daycares << cleanup(daycare)
 		i += 1
 	end
 
