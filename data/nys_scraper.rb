@@ -128,8 +128,11 @@ while i < 20
 				violation = {}
 				sections = violation_node.search('td')
 				VIOLATION_HEADERS.each_with_index do |header, header_i|
-					violation[header] = sections[header_i]
+					violation[header.downcase] = sections[header_i]
 				end
+				date_spl = violation["date"].text.split(" ")
+				date_spl[0] = Date::MONTHNAMES.index(date_spl[0])
+				violation["date"] = date_spl.join "/"
 				violations << violation
 			end
 
