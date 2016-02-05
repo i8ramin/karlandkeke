@@ -16,11 +16,7 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "",
-    "ageRange": "6 weeks - 12",
-    "latestInspection": {
-      "date": "August 26 2015 ",
-      "result": " No "
-    }
+    "ageRange": "6 weeks - 12"
   },
   {
     "Facility Opened Date": "8/3/2012",
@@ -42,27 +38,30 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "October 21 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+        {
+          "date": "10/21/2015",
+          "code sub-section": "41714f",
+          "violation summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+          " status ": "Not Corrected "
+        },
+        {
+          "date": "10/21/2015",
+          "code sub-section": "41714f1i",
+          "violation summary": "Principles of childhood development include such things as meeting the physical social and developmental needs of children including those with special needs behavior management and discipline promoting play and physical activity individual development variation and learning styles infant and toddler brain development and cross cultural skills and knowledge",
+          " status ": "Not Corrected "
+        },
+        {
+          "date": "10/21/2015",
+          "code sub-section": "41714f3i",
+          "violation summary": "Child day care program development topics include such things as the benefits of continuity of care practices staff supervision and coaching program variety and activity infant toddler pre-school and school age quality programming promoting childrens language development and social and emotional skills and establishing nurturing stimulating environments rest time policies and procedures including meeting the needs of children who do not nap hand washing meeting the program needs of mixed age groups in family day care and group family day care",
+          " status ": "Not Corrected "
+        }
+      ],
+      "numInfractions": "3"
     },
     "violations": [
-      {
-        "date": "10/21/2015",
-        "code sub-section": "41714f",
-        "violation summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
-        " status ": "Not Corrected "
-      },
-      {
-        "date": "10/21/2015",
-        "code sub-section": "41714f1i",
-        "violation summary": "Principles of childhood development include such things as meeting the physical social and developmental needs of children including those with special needs behavior management and discipline promoting play and physical activity individual development variation and learning styles infant and toddler brain development and cross cultural skills and knowledge",
-        " status ": "Not Corrected "
-      },
-      {
-        "date": "10/21/2015",
-        "code sub-section": "41714f3i",
-        "violation summary": "Child day care program development topics include such things as the benefits of continuity of care practices staff supervision and coaching program variety and activity infant toddler pre-school and school age quality programming promoting childrens language development and social and emotional skills and establishing nurturing stimulating environments rest time policies and procedures including meeting the needs of children who do not nap hand washing meeting the program needs of mixed age groups in family day care and group family day care",
-        " status ": "Not Corrected "
-      },
       {
         "date": "7/7/2015",
         "code sub-section": "41714f",
@@ -217,7 +216,11 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "June 19 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
     },
     "violations": [
       {
@@ -332,21 +335,24 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "August 20 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+        {
+          "date": "8/20/2015",
+          "code sub-section": "41714f",
+          "violation summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+          " status ": "Not Corrected "
+        },
+        {
+          "date": "8/20/2015",
+          "code sub-section": "41714m",
+          "violation summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+          " status ": "Not Corrected "
+        }
+      ],
+      "numInfractions": "2"
     },
     "violations": [
-      {
-        "date": "8/20/2015",
-        "code sub-section": "41714f",
-        "violation summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
-        " status ": "Not Corrected "
-      },
-      {
-        "date": "8/20/2015",
-        "code sub-section": "41714m",
-        "violation summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
-        " status ": "Not Corrected "
-      },
       {
         "date": "6/9/2015",
         "code sub-section": "41714f",
@@ -393,15 +399,18 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "August 12 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+        {
+          "date": "8/12/2015",
+          "code sub-section": "41714m",
+          "violation summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+          " status ": "Corrected "
+        }
+      ],
+      "numInfractions": "1"
     },
     "violations": [
-      {
-        "date": "8/12/2015",
-        "code sub-section": "41714m",
-        "violation summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
-        " status ": "Corrected "
-      },
       {
         "date": "11/5/2014",
         "code sub-section": "41711b",
@@ -451,11 +460,7 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "347293-8840",
-    "ageRange": "6 weeks - 12",
-    "latestInspection": {
-      "date": "December 14 2015 ",
-      "result": " No "
-    }
+    "ageRange": "6 weeks - 12"
   },
   {
     "Facility Opened Date": "1/17/2012",
@@ -477,7 +482,11 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "August 12 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
     },
     "violations": [
       {
@@ -541,11 +550,7 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "718367-7639",
-    "ageRange": "6 weeks - 12",
-    "latestInspection": {
-      "date": "November 24 2015 ",
-      "result": " No "
-    }
+    "ageRange": "6 weeks - 12"
   },
   {
     "Facility Opened Date": "5/10/2010",
@@ -567,7 +572,11 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "January 21 2016 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
     },
     "violations": [
       {
@@ -604,39 +613,42 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "January 14 2016 ",
-      "result": " Yes "
+      "result": " Yes ",
+      "infractions": [
+        {
+          "date": "1/14/2016",
+          "code sub-section": "4134d3",
+          "violation summary": "Every licensee and registrant shall obtain fingerprint images for each prospective employee or volunteer of the child day care program and any person age eighteen or over who will be residing on the premises of the group family day care home or family day care home",
+          " status ": "Not Corrected "
+        },
+        {
+          "date": "1/14/2016",
+          "code sub-section": "4172a5",
+          "violation summary": "Applicants for a registration must submit to the Office a completed application including sworn statements by the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home indicating whether to the best of their knowledge they have ever been convicted of a misdemeanor or a felony in New York State or any other jurisdiction and fingerprint images as required pursuant to section 4134 of this Article",
+          " status ": "Not Corrected "
+        },
+        {
+          "date": "1/14/2016",
+          "code sub-section": "4172a8i",
+          "violation summary": "Applicants for a registration must submit to the Office a completed application including the Statewide Central Register Database Check forms necessary to complete required screening by the Statewide Central Register of Child Abuse and Maltreatment to determine if the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home is the subject of an indicated report of child abuse or maltreatment",
+          " status ": "Not Corrected "
+        },
+        {
+          "date": "1/14/2016",
+          "code sub-section": "41713c",
+          "violation summary": "All caregivers and volunteers hired after June 30 2013 must comply with the background check requirements for the register of substantiated category one cases of abuse or neglect maintained by the Justice Center for the Protection of Persons with Special Needs pursuant to Section 495 of the Social Services Law",
+          " status ": "Not Corrected "
+        },
+        {
+          "date": "1/14/2016",
+          "code sub-section": "41714m",
+          "violation summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+          " status ": "Not Corrected "
+        }
+      ],
+      "numInfractions": "5"
     },
     "violations": [
-      {
-        "date": "1/14/2016",
-        "code sub-section": "4134d3",
-        "violation summary": "Every licensee and registrant shall obtain fingerprint images for each prospective employee or volunteer of the child day care program and any person age eighteen or over who will be residing on the premises of the group family day care home or family day care home",
-        " status ": "Not Corrected "
-      },
-      {
-        "date": "1/14/2016",
-        "code sub-section": "4172a5",
-        "violation summary": "Applicants for a registration must submit to the Office a completed application including sworn statements by the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home indicating whether to the best of their knowledge they have ever been convicted of a misdemeanor or a felony in New York State or any other jurisdiction and fingerprint images as required pursuant to section 4134 of this Article",
-        " status ": "Not Corrected "
-      },
-      {
-        "date": "1/14/2016",
-        "code sub-section": "4172a8i",
-        "violation summary": "Applicants for a registration must submit to the Office a completed application including the Statewide Central Register Database Check forms necessary to complete required screening by the Statewide Central Register of Child Abuse and Maltreatment to determine if the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home is the subject of an indicated report of child abuse or maltreatment",
-        " status ": "Not Corrected "
-      },
-      {
-        "date": "1/14/2016",
-        "code sub-section": "41713c",
-        "violation summary": "All caregivers and volunteers hired after June 30 2013 must comply with the background check requirements for the register of substantiated category one cases of abuse or neglect maintained by the Justice Center for the Protection of Persons with Special Needs pursuant to Section 495 of the Social Services Law",
-        " status ": "Not Corrected "
-      },
-      {
-        "date": "1/14/2016",
-        "code sub-section": "41714m",
-        "violation summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
-        " status ": "Not Corrected "
-      },
       {
         "date": "12/2/2015",
         "code sub-section": "4134d3",
@@ -761,7 +773,11 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "August 13 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
     },
     "violations": [
       {
@@ -858,27 +874,30 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "January 14 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+        {
+          "date": "1/14/2015",
+          "code sub-section": "4177l",
+          "violation summary": "Other than for school age children sleeping and napping arrangements must be made in writing between the parent and the program Such arrangements shall include the area of the home where the child will nap whether the child will nap on a cot mat bed or a crib and how the napping child will be supervised consistent with the requirements of section 4178 of this Part",
+          " status ": "Corrected "
+        },
+        {
+          "date": "1/14/2015",
+          "code sub-section": "41711b1",
+          "violation summary": "The provider assistants and substitutes must each submit a medical statement on forms furnished by the Office or an approved equivalent from a health care provider",
+          " status ": "Corrected "
+        },
+        {
+          "date": "1/14/2015",
+          "code sub-section": "41713a4",
+          "violation summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+          " status ": "Corrected "
+        }
+      ],
+      "numInfractions": "3"
     },
     "violations": [
-      {
-        "date": "1/14/2015",
-        "code sub-section": "4177l",
-        "violation summary": "Other than for school age children sleeping and napping arrangements must be made in writing between the parent and the program Such arrangements shall include the area of the home where the child will nap whether the child will nap on a cot mat bed or a crib and how the napping child will be supervised consistent with the requirements of section 4178 of this Part",
-        " status ": "Corrected "
-      },
-      {
-        "date": "1/14/2015",
-        "code sub-section": "41711b1",
-        "violation summary": "The provider assistants and substitutes must each submit a medical statement on forms furnished by the Office or an approved equivalent from a health care provider",
-        " status ": "Corrected "
-      },
-      {
-        "date": "1/14/2015",
-        "code sub-section": "41713a4",
-        "violation summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
-        " status ": "Corrected "
-      },
       {
         "date": "12/11/2014",
         "code sub-section": "4177l",
@@ -952,11 +971,7 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "718324-3478",
-    "ageRange": "6 weeks - 12",
-    "latestInspection": {
-      "date": "August 19 2015 ",
-      "result": " No "
-    }
+    "ageRange": "6 weeks - 12"
   },
   {
     "Facility Opened Date": "5/18/2015",
@@ -975,11 +990,7 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "917819-4014",
-    "ageRange": "6 weeks - 12",
-    "latestInspection": {
-      "date": "March 16 2015 ",
-      "result": " No "
-    }
+    "ageRange": "6 weeks - 12"
   },
   {
     "Facility Opened Date": "7/8/2010",
@@ -1001,33 +1012,36 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "January 22 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+        {
+          "date": "1/22/2015",
+          "code sub-section": "41711b1",
+          "violation summary": "The provider assistants and substitutes must each submit a medical statement on forms furnished by the Office or an approved equivalent from a health care provider",
+          " status ": "Corrected "
+        },
+        {
+          "date": "1/22/2015",
+          "code sub-section": "41711b6",
+          "violation summary": "The initial medical statement for providers assistants and substitutes must include the results of a Mantoux tuberculin test or other federally approved tuberculin test performed within the 12 months preceding the date of the application Thereafter tuberculin tests are only required at the discretion of the employees health care provider or at the start of new employment in a different child care program",
+          " status ": "Corrected "
+        },
+        {
+          "date": "1/22/2015",
+          "code sub-section": "41713a2",
+          "violation summary": "The provider assistants and substitutes must each have a minimum of either two 2 years of experience caring for children under six years of age or one 1 year of experience caring for children under six years of age plus six hours of training or education in early childhood development The phrase experience caring for children can mean child-rearing as well as paid and unpaid experience caring for children The term training can mean educational workshops and courses in caring for preschool-age children",
+          " status ": "Corrected "
+        },
+        {
+          "date": "1/22/2015",
+          "code sub-section": "41713a4",
+          "violation summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
+          " status ": "Corrected "
+        }
+      ],
+      "numInfractions": "4"
     },
     "violations": [
-      {
-        "date": "1/22/2015",
-        "code sub-section": "41711b1",
-        "violation summary": "The provider assistants and substitutes must each submit a medical statement on forms furnished by the Office or an approved equivalent from a health care provider",
-        " status ": "Corrected "
-      },
-      {
-        "date": "1/22/2015",
-        "code sub-section": "41711b6",
-        "violation summary": "The initial medical statement for providers assistants and substitutes must include the results of a Mantoux tuberculin test or other federally approved tuberculin test performed within the 12 months preceding the date of the application Thereafter tuberculin tests are only required at the discretion of the employees health care provider or at the start of new employment in a different child care program",
-        " status ": "Corrected "
-      },
-      {
-        "date": "1/22/2015",
-        "code sub-section": "41713a2",
-        "violation summary": "The provider assistants and substitutes must each have a minimum of either two 2 years of experience caring for children under six years of age or one 1 year of experience caring for children under six years of age plus six hours of training or education in early childhood development The phrase experience caring for children can mean child-rearing as well as paid and unpaid experience caring for children The term training can mean educational workshops and courses in caring for preschool-age children",
-        " status ": "Corrected "
-      },
-      {
-        "date": "1/22/2015",
-        "code sub-section": "41713a4",
-        "violation summary": "The provider assistants and substitutes must each provide to the Office the names addresses and daytime telephone numbers of at least three 3 acceptable references other than relatives At least one of the references must be able to attest to the employment history work record and qualifications if the person had ever been employed outside the home At least one of the references must be able to attest to the character habits and personal qualifications to be a family day care provider assistant or substitute",
-        " status ": "Corrected "
-      },
       {
         "date": "/are/posted/on/this/web/site/after/the/inspection/results/have/been/finalized/in/a/report/mailed/to/the/provider/Violations/are/listed/here/as/Corrected/after/the/Office/has/verified/corrections/with/the/provider/and/a/letter/confirming/the/corrections/has/been/mailed/to/the/provider",
         "code sub-section": "",
@@ -1056,7 +1070,11 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "October 7 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
     },
     "violations": [
       {
@@ -1156,11 +1174,7 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "",
-    "ageRange": "6 weeks - 12",
-    "latestInspection": {
-      "date": "December 5 2014 ",
-      "result": " No "
-    }
+    "ageRange": "6 weeks - 12"
   },
   {
     "Facility Opened Date": "10/14/2011",
@@ -1182,21 +1196,24 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "January 21 2016 ",
-      "result": " Yes "
+      "result": " Yes ",
+      "infractions": [
+        {
+          "date": "1/21/2016",
+          "code sub-section": "41711b5",
+          "violation summary": "All providers assistants and substitutes and household members must be free from communicable disease unless his/her health care provider has indicated that the presence of the communicable disease does not pose a risk to the health and safety of the children in care",
+          " status ": "Not Corrected "
+        },
+        {
+          "date": "1/21/2016",
+          "code sub-section": "41715b25",
+          "violation summary": "Mid-point requirements for four-year registration holders At the two-year calendar date in a four year licensing cycle a program must be in compliance with the specified mid-point requirements and be able to show proof of compliance to the Office when requested",
+          " status ": "Not Corrected "
+        }
+      ],
+      "numInfractions": "2"
     },
     "violations": [
-      {
-        "date": "1/21/2016",
-        "code sub-section": "41711b5",
-        "violation summary": "All providers assistants and substitutes and household members must be free from communicable disease unless his/her health care provider has indicated that the presence of the communicable disease does not pose a risk to the health and safety of the children in care",
-        " status ": "Not Corrected "
-      },
-      {
-        "date": "1/21/2016",
-        "code sub-section": "41715b25",
-        "violation summary": "Mid-point requirements for four-year registration holders At the two-year calendar date in a four year licensing cycle a program must be in compliance with the specified mid-point requirements and be able to show proof of compliance to the Office when requested",
-        " status ": "Not Corrected "
-      },
       {
         "date": "12/8/2015",
         "code sub-section": "41711b5",
@@ -1267,7 +1284,11 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "June 29 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
     },
     "violations": [
       {
@@ -1346,7 +1367,11 @@
     "ageRange": "6 weeks - 12",
     "latestInspection": {
       "date": "December 4 2015 ",
-      "result": " No "
+      "result": " No ",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
     },
     "violations": [
       {
