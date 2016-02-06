@@ -139,13 +139,13 @@ while i < 20
 	end
 
 
-	overview = site.search('#programoverviewDivImg')[0]
-	overviewTable = overview.search('table')
-    overviewRows  = overviewTable.search('tr')
-    
-    # puts overviewRows[1].search('td')[0].text.split('Program Type:' )[1].strip
+    # scraping from the details gives the same result as the existing value for "type" in csv
+	# overview = site.search('#programoverviewDivImg')[0]
+	# overviewTable = overview.search('table')
+    # overviewRows  = overviewTable.search('tr')
+	# daycare['siteType'] = overviewRows[1].search('td')[0].text.split('Program Type:' )[1].strip
 
-	daycare['siteType'] = overviewRows[1].search('td')[0].text.split('Program Type:' )[1].strip
+	daycare['siteType'] = daycare['type']
 
 	inspectionHistory = site.search('#compliancehistoryDivImg')[0]
 	inspectionTables = inspectionHistory.search('table')
