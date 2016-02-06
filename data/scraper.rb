@@ -34,9 +34,18 @@ def scraper
 	page = form.submit
 	agent1.cookie_jar.save_as 'data/cookies', :session => true, :format => :yaml
 
-	while offset < offset_limit do
+	while offset < 20 do # offset_limit for PROD
 		puts "Offset: " + offset.to_s
-		page = agent1.post 'https://a816-healthpsi.nyc.gov/ChildCare/SearchAction2.do?pager.offset=' + offset.to_s, form_data
+		
+		page = nil
+		while page.nil? do
+			begin
+				page = agent1.post 'https://a816-healthpsi.nyc.gov/ChildCare/SearchAction2.do?pager.offset=' + offset.to_s, form_data
+			rescue Exception => e
+				puts "error getting page. trying again"
+				puts e.to_s
+			end
+		end
 
 		if offset == 0
 			puts "getting total pagecount"
@@ -47,7 +56,7 @@ def scraper
 		end
 
 		links = page.search('tr.gradeX.odd a')
-		file_i = offset
+		# file_i = offset <-- used for individual output
 		links.each do |link|
 			id = link.to_s()
 			id = id.split('redirectHistory(')[1]
@@ -60,9 +69,28 @@ def scraper
 			idString = 'linkPK=' + id[0][0].to_s
 			# puts idString
 
-			page2 = agent2.post 'https://a816-healthpsi.nyc.gov/ChildCare/WDetail.do', idString ,({'Content-Type' => 'application/x-www-form-urlencoded'})
+			# get daycare profile
+			page2 = nil
+			while page2.nil? do
+				begin
+					page2 = agent2.post 'https://a816-healthpsi.nyc.gov/ChildCare/WDetail.do', idString ,({'Content-Type' => 'application/x-www-form-urlencoded'})
+				rescue Exception => e
+					puts "error getting page2. trying again"
+					puts e.to_s
+				end
+			end
 			daycare = pagescrape(page2)
-			page3 = agent2.get 'https://a816-healthpsi.nyc.gov/ChildCare/html5/mobilemap.jsp?type=streetview'
+			
+			# get daycare GEO
+			page3 = nil
+			while page3.nil? do
+				begin
+					page3 = agent2.get 'https://a816-healthpsi.nyc.gov/ChildCare/html5/mobilemap.jsp?type=streetview'
+				rescue Exception => e
+					puts "error getting page3. trying again"
+					puts e.to_s
+				end
+			end
 			map_page_body = page3.parser.css('body')[0]['onload']
 			map_page_body.to_s.gsub(/'(\-?\d+(\.\d+)?)',\s*'(\-?\d+(\.\d+)?)'/) { |match|
 				ll = match.gsub(/'/, '').split(', ')
@@ -74,10 +102,10 @@ def scraper
 			# File.open("data/json/#{ filename }.json","w") do |f|
 			#   f.write(JSON.pretty_generate(daycare))
 			# end
+			# file_i += 1
 
+			# add daycare to list
 			daycares.push(daycare)
-			file_i += 1
-
 		end
 
 		offset = offset + 10
