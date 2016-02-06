@@ -20,7 +20,9 @@
     }
 
     .form-control {
-      min-width: 300px;
+      @include media-breakpoint-up(sm) {
+        min-width: 300px;
+      }
     }
 
     .kk-search {
@@ -110,8 +112,13 @@
     color: white;
 
     .made-in-ny {
-      display: inline-block;
-      margin: 0 1rem;
+      display: block;
+      margin: 1rem auto;
+
+      @include media-breakpoint-up(sm) {
+        display: inline-block;
+        margin: 0 1rem;
+      }
     }
   }
 }
