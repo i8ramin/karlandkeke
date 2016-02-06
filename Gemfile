@@ -65,6 +65,12 @@ source 'https://rubygems.org' do
   # https://github.com/sferik/rails_admin
   gem 'rails_admin'
 
+  # https://github.com/browserify-rails/browserify-rails
+  gem 'browserify-rails'
+
+  # https://github.com/imgix/imgix-rails
+  gem 'imgix-rails'
+
   group :production, :staging do
     gem 'rails_12factor'
     gem 'rack-timeout'

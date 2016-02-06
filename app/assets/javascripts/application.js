@@ -19,3 +19,13 @@
 //= require leaflet/leaflet-hash
 //= require leaflet/leaflet-locate
 //= require map
+
+var imgix = require('imgix.js');
+
+imgix.onready(function() {
+  imgix.fluid({
+    updateOnResizeDown: true,
+    pixelStep: 5,
+    autoInsertCSSBestPractices: true
+  });
+});
