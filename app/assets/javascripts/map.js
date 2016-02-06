@@ -1,4 +1,5 @@
 var map;
+var map_view = window.location.pathname === '/map';
 
 var setup_map = function(points, show_popup_on_load, interactive) {
   
@@ -12,7 +13,10 @@ var setup_map = function(points, show_popup_on_load, interactive) {
 
   map.on('locationfound', function(e) {
     var nearby = [e.longitude, e.latitude].join(",");
-    window.location.search = "nearby=" + nearby;
+    if (!map_view) {
+      window.location.search = "nearby=" + nearby;
+    }
+    map.setZoom(15);
   });
 
   var markerLayer = L.mapbox.featureLayer().addTo(map);
@@ -120,7 +124,7 @@ var setup_map = function(points, show_popup_on_load, interactive) {
   }
 
   // Map view
-  if (window.location.pathname === '/map') {
+  if (map_view) {
     // Add all-grades as a menu item in the dropdown list
     $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' + 
         '<span>All Grades</span>' + '</a>');

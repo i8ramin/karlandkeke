@@ -113,10 +113,8 @@ class Daycare
         'b'
       when -2..-1
         'c'
-      when -10..-3
-        'd'
-      when -25..-10
-        'e'
+      when -25..-3
+        'f'
     end
   end
 end

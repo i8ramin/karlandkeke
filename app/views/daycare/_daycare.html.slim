@@ -1,7 +1,7 @@
 - details = details || nil
 - location= daycare.location.to_hsh(:lon, :lat)
 - num_violations = 0
-- num_violations = daycare.inspection.infractions.count if daycare.inspection
+- num_violations = daycare.inspections.map(&:number_of_infractions).sum if daycare.inspections.any?
 
 .media.daycare[
   data-lat=location[:lat]
@@ -38,7 +38,7 @@
         .violations
           strong= "#{num_violations} violations"
           ul.violations-list
-            - daycare.inspection.infractions.each do |infraction|
+            - daycare.inspections.map(&:infractions).flatten.each do |infraction|
               li.violation[class="violation-#{infraction.multiplier}"]
                 span.label.label-info=infraction.oneword_category
                 span &nbsp;
@@ -58,11 +58,12 @@
           li.list-group-item
             strong Medical certification
             .desc= "#{daycare.certified_to_administer_medication ? 'Is' : 'Not'} certified to administer medication"
-          li.list-group-item
-            strong Inspections
-            - if daycare.has_inspections
-              ul
-              - @daycare.past_inspections.each do |inspection|
-                li.desc inspection.date | inspection.result
-            - else
-                .desc No Regular Inspections
+          - if daycare.has_inspections
+            li.list-group-item
+              strong Inspections
+              .desc
+                - if daycare.has_inspections
+                  - @daycare.inspections.each do |inspection|
+                      span= "#{inspection.result} (#{inspection.date})"
+                - else
+                    span No Regular Inspections
