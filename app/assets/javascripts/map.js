@@ -68,7 +68,7 @@ var setup_map = function(points, show_popup_on_load, interactive) {
       return true;
     }
 
-    geojson.features.push({
+    var feature_props = {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -78,11 +78,23 @@ var setup_map = function(points, show_popup_on_load, interactive) {
         "title": center_name,
         "url": permalink,
         "description": num_violations,
-        "marker-symbol": props.symbol,
-        "marker-color": props.color,
-        "marker-size": "large",
       }
-    });
+    };
+
+    if(map_view) {
+      feature_props.properties["marker-symbol"]= props.symbol;
+      feature_props.properties["icon"] = {
+        "className": "my-icon my-icon-" + grade, // class name to style
+        "html": "", // add content inside the marker
+        "iconSize": null // size of icon, use null to set the size in CSS
+      }
+      console.log(feature_props.properties.icon.className)
+    }else {
+      feature_props.properties["marker-symbol"]= props.symbol;
+      feature_props.properties["marker-color"] = props.color;
+      feature_props.properties["marker-size"]  = "large";
+    }
+    geojson.features.push(feature_props);
   });
 
   // Add custom popups to each using our custom feature properties
@@ -98,6 +110,10 @@ var setup_map = function(points, show_popup_on_load, interactive) {
                           feature.properties.description +
                         '</div>';
 
+    if (map_view) {
+      marker.setIcon(L.divIcon(feature.properties.icon));  
+    }
+    
     marker.bindPopup(popupContent);
     if (show_popup_on_load) {
       marker.openPopup();
