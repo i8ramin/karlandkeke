@@ -1,6 +1,6 @@
 #home
   .jumbotron.text-sm-center
-    .imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url('map_bg-2.png')}"]
+    .imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('map_bg-2.png'))}"]
     .jumbotron-content
       .container-fluid
         .row
@@ -11,15 +11,6 @@
                 | NYC Daycare Search &amp; Ratings
 
             = render "application/site_search"
-
-            /form.form-inline.kk-search[method="get" action="/daycare"]
-              .form-group.search
-                label.form-control-label.sr-only[for="search"]
-                  | Search by Daycare or Location
-                .input-group
-                  input.form-control[type="search" id="search" name="q" placeholder="Search by Daycare of Zipcode" value=@query]
-                  .input-group-addon
-                    button.btn.fa.fa-search[type="submit"]
 
             small.notice
               | *Letter grades are not yet implemented in the city of New York.
@@ -109,41 +100,41 @@
       .row.team-members
         .col-sm-6.col-md-3
           .team-member
-            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url('team/ramin_bozorgzadeh.jpg')}"]
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('team/ramin_bozorgzadeh.jpg'))}"]
             .member-name Ramin Bozorgzadeh
             .member-company WeWork
         .col-sm-6.col-md-3
           .team-member
-            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url('team/david_cascino.jpg')}"]
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('team/david_cascino.jpg'))}"]
             .member-name David Cascino
             .member-company Thunderclap
         .col-sm-6.col-md-3
           .team-member
-            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url('')}"]
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path(''))}"]
             .member-name Malcolm Jones
             .member-company Behance (Adobe)
         .col-sm-6.col-md-3
           .team-member
-            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url('team/harish_krishna.jpg')}"]
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('team/harish_krishna.jpg'))}"]
             .member-name Harish Krishna
             .member-company WeWork
         .col-sm-6.col-md-3
           .team-member
-            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url('team/tarek_pertew.jpg')}"]
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('team/tarek_pertew.jpg'))}"]
             .member-name Tarek Pertew
             .member-company Uncubed
         .col-sm-6.col-md-3
           .team-member
-            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url('')}"]
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path(''))}"]
             .member-name Alex Silverman
             .member-company
         .col-sm-6.col-md-3
           .team-member
-            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url('')}"]
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path(''))}"]
             .member-name Matthew Star
             .member-company WeWork
 
   .footer
     | Copyright &copy; #{Time.now.year}
-    = ix_image_tag 'made-in-ny-wht.png', { w: 57, class: 'made-in-ny', width: 57}
+    = ix_image_tag asset_path('made-in-ny-wht.png'), { w: 57, class: 'made-in-ny', width: 57}
     span.kk-logo KARL<span>AND</span>KEKE

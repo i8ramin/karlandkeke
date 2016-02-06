@@ -31,7 +31,7 @@ Rails.application.configure do
   config.assets.raise_runtime_errors = true
 
   config.imgix = {
-    source: "http://localhost:1212/assets",
+    source: "http://localhost:1212",
     use_https: false
   }
 
