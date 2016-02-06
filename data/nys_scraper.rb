@@ -168,12 +168,12 @@ while i < 20
 			violation = {}
 			sections = violation_node.search('td')
 			VIOLATION_HEADERS.each_with_index do |header, header_i|
-				violation[header.downcase] = sections[header_i]
+				violation[header] = sections[header_i]
 			end
-			date_spl = violation["date"].text.split(" ")
+			date_spl = violation["Date"].text.split(" ")
 			date_spl[0] = Date::MONTHNAMES.index(date_spl[0])
-			violation["date"] = date_spl.join("/").gsub(",", "")
-			if latest_date == violation["date"]
+			violation["Date"] = date_spl.join("/").gsub(",", "")
+			if latest_date == violation["Date"]
 				latest_inspection['infractions'] << violation
 				latest_inspection['numInfractions'] += 1
 			else
