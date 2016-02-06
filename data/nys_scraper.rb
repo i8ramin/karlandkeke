@@ -34,8 +34,7 @@ DROPLIST = [
 	'Phone Number Omitted',
 	'Additional Address',
 	'Floor',
-	'Apartment',
-	'Total Capacity'
+	'Apartment'
 ]
 
 VIOLATION_HEADERS = [
@@ -66,6 +65,13 @@ daycare_ls = lines.map do |values|
 end
 puts "--initial parse complete"
 
+### helper functions here
+def years_open(open_date)
+    seconds_in_year = 365 * 24 * 60 * 60
+    d  = Date.strptime(open_date, '%m/%d/%Y')
+    return ((Time.now - d.to_time) / seconds_in_year).floor
+end
+### end helper functions
 
 
 puts "PARSE PT. 2..."
@@ -90,7 +96,14 @@ while i < 20
 	# a bunch of renames / sometimes formatting changes
 	daycare['type'] = centerTypes[daycare.delete('Program Type')]
 	daycare['permitStatus'] = daycare.delete("Facility Status")
+	daycare['permitNumber'] = "TODO"
 	daycare['permitExpirationDate'] = daycare.delete("License Expiration Date")
+	daycare['maximumCapacity'] = daycare.delete("Total Capacity")
+	daycare['siteType'] = "TODO"
+	daycare['certifiedToAdministerMedication'] = "TODO"
+    open_date = daycare.delete("Facility Opened Date")
+	daycare['yearsOperating'] = years_open(open_date)
+	daycare['hasInspections'] = "TODO"
 	daycare['borough'] = daycare.delete('County')
 	daycare['zipCode'] = daycare.delete("Zip Code")
 	daycare['address'] = "#{daycare.delete('Street Number')} #{daycare.delete('Street Name')}"
@@ -154,7 +167,8 @@ while i < 20
 		end
 
 		daycare['latestInspection'] = latest_inspection
-		daycare['violations'] = violations
+        # For schema parity, removing this from JSON export
+		# daycare['violations'] = violations
 		all_violations += violations
 	end
 
