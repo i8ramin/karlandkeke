@@ -28,7 +28,6 @@ DROPLIST = [
 	'Toddler Capacity',
 	'School District Name',
 	'State',
-	'Facility ID',
 	'Region Code',
 	'Address Omitted',
 	'Phone Number Omitted',
@@ -71,6 +70,19 @@ def years_open(open_date)
     d  = Date.strptime(open_date, '%m/%d/%Y')
     return ((Time.now - d.to_time) / seconds_in_year).floor
 end
+
+def valid_date?(date_str)
+    valid = false
+    begin
+        Date.strptime(date_str, '%m/%d/%Y')
+        valid = true
+    rescue Exception => e
+        puts e.to_s
+        puts "|" + date_str + "|"
+    end
+    return valid
+end
+
 ### end helper functions
 
 
@@ -96,14 +108,12 @@ while i < 20
 	# a bunch of renames / sometimes formatting changes
 	daycare['type'] = centerTypes[daycare.delete('Program Type')]
 	daycare['permitStatus'] = daycare.delete("Facility Status")
-	daycare['permitNumber'] = "TODO"
+	daycare['permitNumber'] = daycare.delete("Facility ID")
 	daycare['permitExpirationDate'] = daycare.delete("License Expiration Date")
 	daycare['maximumCapacity'] = daycare.delete("Total Capacity")
-	daycare['siteType'] = "TODO"
 	daycare['certifiedToAdministerMedication'] = "TODO"
     open_date = daycare.delete("Facility Opened Date")
 	daycare['yearsOperating'] = years_open(open_date)
-	daycare['hasInspections'] = "TODO"
 	daycare['borough'] = daycare.delete('County')
 	daycare['zipCode'] = daycare.delete("Zip Code")
 	daycare['address'] = "#{daycare.delete('Street Number')} #{daycare.delete('Street Name')}"
@@ -128,6 +138,15 @@ while i < 20
 		end
 	end
 
+
+	overview = site.search('#programoverviewDivImg')[0]
+	overviewTable = overview.search('table')
+    overviewRows  = overviewTable.search('tr')
+    
+    # puts overviewRows[1].search('td')[0].text.split('Program Type:' )[1].strip
+
+	daycare['siteType'] = overviewRows[1].search('td')[0].text.split('Program Type:' )[1].strip
+
 	inspectionHistory = site.search('#compliancehistoryDivImg')[0]
 	inspectionTables = inspectionHistory.search('table')
 	inspectionTop = inspectionTables[0]
@@ -141,6 +160,9 @@ while i < 20
 	latest_date_split = latest_inspection['date'].split(" ")
 	latest_date_split[0] = Date::MONTHNAMES.index(latest_date_split[0])
 	latest_date = latest_date_split.join "/"
+
+    latest_date = latest_date.gsub(",","")
+	daycare['hasInspections'] = valid_date?(latest_date)
 
 
 	# if will be false if table doesn't exist
