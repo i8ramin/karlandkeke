@@ -91,7 +91,7 @@ puts "PARSE PT. 2..."
 daycares = []
 all_violations = []
 i = 0
-while i < 20
+while i < 60
 	daycare = daycare_ls[i]
 # above^ for demo'ing purposes, below*v for full scrape
 # daycare_ls.each_with_index do |daycare, i|
@@ -111,7 +111,7 @@ while i < 20
 	daycare['permitNumber'] = daycare.delete("Facility ID")
 	daycare['permitExpirationDate'] = daycare.delete("License Expiration Date")
 	daycare['maximumCapacity'] = daycare.delete("Total Capacity")
-	daycare['certifiedToAdministerMedication'] = "TODO"
+	daycare['certifiedToAdministerMedication'] = "No"
     open_date = daycare.delete("Facility Opened Date")
 	daycare['yearsOperating'] = years_open(open_date)
 	daycare['borough'] = daycare.delete('County')
@@ -138,7 +138,13 @@ while i < 20
 		end
 	end
 
-	daycare['siteType'] = daycare['type']
+	daycare['siteType'] = daycare.delete('type')
+
+	profileTop = site.search('#programoverviewDivImg')[0].text
+	if profileTop.include? "This facility is approved to administer medications."
+		puts "administers meds"
+		daycare['certifiedToAdministerMedication'] = "Yes"
+	end
 
 	inspectionHistory = site.search('#compliancehistoryDivImg')[0]
 	inspectionTables = inspectionHistory.search('table')
