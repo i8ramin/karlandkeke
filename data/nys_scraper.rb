@@ -138,13 +138,6 @@ while i < 20
 		end
 	end
 
-
-    # scraping from the details gives the same result as the existing value for "type" in csv
-	# overview = site.search('#programoverviewDivImg')[0]
-	# overviewTable = overview.search('table')
-    # overviewRows  = overviewTable.search('tr')
-	# daycare['siteType'] = overviewRows[1].search('td')[0].text.split('Program Type:' )[1].strip
-
 	daycare['siteType'] = daycare['type']
 
 	inspectionHistory = site.search('#compliancehistoryDivImg')[0]
@@ -165,7 +158,7 @@ while i < 20
 	daycare['hasInspections'] = valid_date?(latest_date)
 
 
-	# if will be false if table doesn't exist
+	# if will evaluate false if table doesn't exist
 	if inspectionBottom
 		violations_table = inspectionBottom.search('tr')
 		violations_table.delete violations_table.first # headers
@@ -179,7 +172,7 @@ while i < 20
 			end
 			date_spl = violation["date"].text.split(" ")
 			date_spl[0] = Date::MONTHNAMES.index(date_spl[0])
-			# violation["date"] = date_spl.join "/"
+			violation["date"] = date_spl.join("/").gsub(",", "")
 			if latest_date == violation["date"]
 				latest_inspection['infractions'] << violation
 				latest_inspection['numInfractions'] += 1
