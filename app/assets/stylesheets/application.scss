@@ -13,13 +13,14 @@
  *= require_self
  */
 
+$masthead-height: 71px;
+
 @import "font-awesome";
 @import "bootstrap_and_overrides";
 @import "mapbox/mapbox_v2.2.2";
 @import "leaflet/leaflet-locate";
 
-$masthead-height: 71px;
-$masthead-mobile-height: 179px;
+@import "home";
 
 body {
   // @include media-breakpoint-up(sm) {
@@ -42,16 +43,10 @@ body {
       float: none;
     }
   }
-
-  .form-group {
-    @include media-breakpoint-up(sm) {
-      margin-right: 1rem;
-    }
-  }
 }
 
 #results {
-  padding: 1rem 0;
+  padding: ($masthead-height + 20px) 0 1rem;
 
   .results-more {
     margin: 1rem 0;
@@ -97,14 +92,34 @@ body {
   }
 }
 
-form.form-inline.kk-search .input-group-addon {
-  padding-top: 0;
-  padding-bottom: 0;
-}
+form.form-inline.kk-search {
+  .input-group-addon {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
 
-form.form-inline.kk-search .input-group-addon .btn {
-  padding: 0;
-  background-color: transparent;
+  .input-group-addon .btn {
+    padding: 0;
+    background-color: transparent;
+  }
+
+  .form-group.search {
+    position: relative;
+
+    @include media-breakpoint-up(sm) {
+      margin-right: 15px;
+      padding-right: 20px;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      border-right: 1px solid rgba(255,255,255,.75);
+    }
+  }
 }
 
 .grades-filter {

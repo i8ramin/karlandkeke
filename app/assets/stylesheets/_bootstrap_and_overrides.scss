@@ -78,3 +78,8 @@ $jumbotron-bg: $brand-primary;
 @import "bootstrap/utilities-background";
 @import "bootstrap/utilities-spacing";
 @import "bootstrap/utilities-responsive";
+
+
+.alert-brand {
+  @include alert-variant(lighten($brand-primary, 45%), transparent, $brand-primary);
+}
