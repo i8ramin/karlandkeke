@@ -122,6 +122,10 @@ form.form-inline.kk-search {
         bottom: 0;
         border-right: 1px solid rgba(255,255,255,.75);
       }
+
+      .form-control {
+        min-width: 260px;
+      }
     }
   }
 }
@@ -192,6 +196,7 @@ form.form-inline.kk-search {
 }
 
 .daycare {
+  padding: 1rem;
   border-bottom: 1px solid $gray-lighter;
 
   &.hovering {

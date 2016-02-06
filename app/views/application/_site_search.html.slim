@@ -3,7 +3,7 @@ form.form-inline.kk-search[method="get" action="/daycare"]
     label.form-control-label.sr-only[for="search"]
       | Search by Daycare or Location
     .input-group
-      input.form-control[type="search" id="search" name="q" placeholder="Search by Daycare of Zipcode" value=@query]
+      input.form-control[type="search" id="search" name="q" placeholder="Search by daycare or zipcode" value=@query]
       .input-group-addon
         button.btn.fa.fa-search[type="submit"]
   .form-group
@@ -26,4 +26,4 @@ form.form-inline.kk-search[method="get" action="/daycare"]
         a.dropdown-item[href="/daycare/grade/C?q=#{@query}&nearby=#{@nearby}" data-filter='c']
           span.grade.grade-c C
         a.dropdown-item[href="/daycare/grade/E?q=#{@query}&nearby=#{@nearby}" data-filter='f']
-          span.grade.grade-e F
+          span.grade.grade-f E
