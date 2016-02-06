@@ -179,7 +179,7 @@ while i < 20
 			end
 			date_spl = violation["date"].text.split(" ")
 			date_spl[0] = Date::MONTHNAMES.index(date_spl[0])
-			violation["date"] = date_spl.join "/"
+			# violation["date"] = date_spl.join "/"
 			if latest_date == violation["date"]
 				latest_inspection['infractions'] << violation
 				latest_inspection['numInfractions'] += 1
