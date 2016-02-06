@@ -63,7 +63,7 @@ source 'https://rubygems.org' do
   gem 'mongoid-pagination'
 
   # https://github.com/sferik/rails_admin
-  gem 'rails_admin'
+  # gem 'rails_admin'
 
   # https://github.com/browserify-rails/browserify-rails
   gem 'browserify-rails'
