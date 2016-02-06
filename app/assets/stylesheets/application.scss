@@ -46,7 +46,11 @@ body {
 }
 
 #results {
-  padding: ($masthead-height + 20px) 0 1rem;
+  padding: 1rem 0;
+
+  @include media-breakpoint-up(sm) {
+    padding-top: ($masthead-height + 20px);
+  }
 
   .results-more {
     margin: 1rem 0;
