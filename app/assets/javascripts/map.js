@@ -88,7 +88,6 @@ var setup_map = function(points, show_popup_on_load, interactive) {
         "html": "", // add content inside the marker
         "iconSize": null // size of icon, use null to set the size in CSS
       }
-      console.log(feature_props.properties.icon.className)
     }else {
       feature_props.properties["marker-symbol"]= props.symbol;
       feature_props.properties["marker-color"] = props.color;
