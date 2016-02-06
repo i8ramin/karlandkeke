@@ -1,0 +1,6 @@
+log
+node_modules
+spec
+vender/assets/bower_components
+tmp
+.tmp

@@ -1,0 +1,29 @@
+form.form-inline.kk-search[method="get" action="/daycare"]
+  .form-group.search
+    label.form-control-label.sr-only[for="search"]
+      | Search by Daycare or Location
+    .input-group
+      input.form-control[type="search" id="search" name="q" placeholder="Search by Daycare of Zipcode" value=@query]
+      .input-group-addon
+        button.btn.fa.fa-search[type="submit"]
+  .form-group
+    .grades-filter.dropdown
+      button.btn.btn-secondary.dropdown-toggle[type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"]
+        - if (@grade_filter == 'All Grades')
+          span
+            =@grade_filter
+        - else
+          span.grade[class="grade-#{(@grade_filter || '').downcase}"]
+            =@grade_filter
+      .dropdown-menu
+        - if @grade_filter != 'All Grades'
+          a.dropdown-item[href="/?q=#{@query}&nearby=#{@nearby}" data-filter='all']
+            span All Grades
+        a.dropdown-item[href="/daycare/grade/A?q=#{@query}&nearby=#{@nearby}" data-filter='a']
+          span.grade.grade-a A
+        a.dropdown-item[href="/daycare/grade/B?q=#{@query}&nearby=#{@nearby}" data-filter='b']
+          span.grade.grade-b B
+        a.dropdown-item[href="/daycare/grade/C?q=#{@query}&nearby=#{@nearby}" data-filter='c']
+          span.grade.grade-c C
+        a.dropdown-item[href="/daycare/grade/E?q=#{@query}&nearby=#{@nearby}" data-filter='f']
+          span.grade.grade-e F

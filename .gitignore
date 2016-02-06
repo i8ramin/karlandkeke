@@ -18,3 +18,8 @@
 
 .env
 .byebug_history
+
+/public/assets
+/node_modules
+browserify-cache.json
+npm-debug.log

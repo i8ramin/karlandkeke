@@ -5,6 +5,14 @@ class ApplicationController < ActionController::Base
 
 private
 
+  def set_defaults
+    @query  = params[:q]
+    @nearby = params[:nearby]
+    @page   = params[:page] || 1
+    @grade  = params[:grade]
+    @grade_filter = @grade.present? ? @grade.upcase : 'All Grades'
+  end
+
   def cdn_cache
     disable_session
     expires_in 1.day, public: true

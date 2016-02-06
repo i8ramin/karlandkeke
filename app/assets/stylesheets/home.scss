@@ -1,0 +1,117 @@
+#home {
+  .jumbotron {
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-height: 50vh;
+
+    .jumbotron-content {
+      position: relative;
+      z-index: 2;
+      flex: 1;
+    }
+
+    .kk-logo {
+      font-size: 7vw;
+
+      @include media-breakpoint-up(sm) {
+        font-size: 4vw;
+      }
+    }
+
+    .form-control {
+      min-width: 300px;
+    }
+
+    .kk-search {
+      margin: 40px 0;
+    }
+
+    .notice {
+      color: #eee;
+      line-height: 1.2;
+    }
+
+    .imgix-fluid-bg {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 1;
+      opacity: 0.25;
+    }
+  }
+
+  .page-section {
+    margin-bottom: 3rem;
+  }
+
+  .section-header {
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .big-numbers-section {
+    .big-num-container {
+      padding: 1rem;
+      text-align: center;
+    }
+
+    .big-num {
+      font-size: 60px;
+      font-weight: 700;
+      color: $brand-primary;
+    }
+
+    .big-desc {
+      margin: auto;
+      max-width: 210px;
+      font-weight: 300;
+      // color: $brand-primary;
+    }
+  }
+
+  .mission-section {
+    .mission-content {
+      max-width: 650px;
+      margin: 0 auto;
+      padding: 1rem;
+      border: 2px solid $brand-primary;
+      color: $brand-primary;
+      text-align: center;
+    }
+  }
+
+  .team-members {
+    .team-member {
+      margin: 1rem;
+      text-align: center;
+    }
+
+    .member-photo {
+      margin-bottom: 10px;
+      min-height: 200px;
+      background-color: #ddd;
+    }
+
+    .member-name {
+      font-weight: bold;
+    }
+  }
+
+  .footer {
+    padding: 1rem;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #999;
+    color: white;
+
+    .made-in-ny {
+      display: inline-block;
+      margin: 0 1rem;
+    }
+  }
+}

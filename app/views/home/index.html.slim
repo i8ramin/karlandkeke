@@ -1,0 +1,140 @@
+#home
+  .jumbotron.text-sm-center
+    .imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('map_bg-2.png'))}"]
+    .jumbotron-content
+      .container-fluid
+        .row
+          .col-lg-6.col-lg-offset-3
+            h1.kk-logo
+              | KARL<span>AND</span>KEKE
+              small.text-muted
+                | NYC Daycare Search &amp; Ratings
+
+            = render "application/site_search"
+
+            small.notice
+              | *Letter grades are not yet implemented in the city of New York.
+              |  These <strong>unofficial</strong> letter grades are calcualted
+              |  as an accumulation of violation points based on actual data obtained
+              |  from the NYC and NYS Daycare databases.
+
+  .page-section.big-numbers-section
+    .container
+      .row
+        .col-md-4
+          .big-num-container
+            .big-num 18,102
+            .big-desc
+              | violations between '13 - '15 in NYC
+        .col-md-4
+          .big-num-container
+            .big-num 2,271
+            .big-desc
+              | daycares with violations between '13 - '15
+        .col-md-4
+          .big-num-container
+            .big-num 8
+            .big-desc
+              | average violations per provider
+      .row
+        .col-md-4
+          .big-num-container
+            .big-num 56%
+            .big-desc
+              | of daycares with 100% failing
+              |  grades who denied having violations
+        .col-md-4
+          .big-num-container
+            .big-num 236
+            .big-desc
+              | daycares continue to operate
+              |  despite failed inspections
+              |  year after year
+        .col-md-4
+          .big-num-container
+            .big-num NY
+            .big-desc
+              | least affordable state in
+              |  nation for child care
+
+    br
+    .alert.alert-brand.text-sm-center
+      small Data taken from November 5th, 2015 Indepedent Democratic Conference (IDC) report
+      p
+
+  .page-section.mission-section
+    .container
+      h2.section-header Mission
+
+      .row
+        .col-sm-12
+          .mission-content
+            p To create transparency in the world of daycare.
+            p To encourage daycare facilities to maintain the highest standards possible.
+            p To help parents make well-informed decisions when choosing a daycare facility.
+
+  .page-section.about-section
+    .container
+      h2.section-header About
+      .row
+        .col-sm-12.col-md-8.col-md-offset-2
+          p.text-sm-center
+           | This site was made in memoriam for two lives that were tragically lost at daycare
+           |  facilities in New York City, merely weeks apart from one another.
+
+  .page-section.team-section
+    .container
+      h2.section-header Team
+      .row
+        .col-sm-12.col-md-8.col-md-offset-2
+          p
+            | When Tarek Pertew, father and member of the team, learned about the death of his
+            |  neighbors child (Karl) and his nanny's granddaughter (Keke), he reached out to a
+            |  handful of friends about working on this project. Within minutes, nearly every
+            |  person he reached out to jump right into helping make this project a reality.
+
+          p
+            | The team is a mashup of parents and future parents from the NYC Tech community.
+      br
+
+      .row.team-members
+        .col-sm-6.col-md-3
+          .team-member
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('team/ramin_bozorgzadeh.jpg'))}"]
+            .member-name Ramin Bozorgzadeh
+            .member-company WeWork
+        .col-sm-6.col-md-3
+          .team-member
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('team/david_cascino.jpg'))}"]
+            .member-name David Cascino
+            .member-company Thunderclap
+        .col-sm-6.col-md-3
+          .team-member
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path(''))}"]
+            .member-name Malcolm Jones
+            .member-company Behance (Adobe)
+        .col-sm-6.col-md-3
+          .team-member
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('team/harish_krishna.jpg'))}"]
+            .member-name Harish Krishna
+            .member-company WeWork
+        .col-sm-6.col-md-3
+          .team-member
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path('team/tarek_pertew.jpg'))}"]
+            .member-name Tarek Pertew
+            .member-company Uncubed
+        .col-sm-6.col-md-3
+          .team-member
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path(''))}"]
+            .member-name Alex Silverman
+            .member-company
+        .col-sm-6.col-md-3
+          .team-member
+            .member-photo.imgix-fluid.imgix-fluid-bg[data-src="#{ix_image_url(asset_path(''))}"]
+            .member-name Matthew Star
+            .member-company WeWork
+
+  .footer
+    | Copyright &copy; #{Time.now.year}
+    = ix_image_tag asset_path('made-in-ny-wht.png'), { w: 57, class: 'made-in-ny', width: 57}
+    span.kk-logo KARL<span>AND</span>KEKE

@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/i8ramin/karlandkeke/issues"
   },
-  "homepage": "https://github.com/i8ramin/karlandkeke#readme"
+  "homepage": "https://github.com/i8ramin/karlandkeke#readme",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "dependencies": {
+    "browserify": "~> 10.2.4",
+    "browserify-incremental": "^3.0.1",
+    "imgix.js": "^2.1.0"
+  }
 }
