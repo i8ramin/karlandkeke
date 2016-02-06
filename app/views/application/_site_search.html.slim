@@ -17,7 +17,7 @@ form.form-inline.kk-search[method="get" action="/daycare"]
             =@grade_filter
       .dropdown-menu
         - if @grade_filter != 'All Grades'
-          a.dropdown-item[href="/?q=#{@query}&nearby=#{@nearby}" data-filter='all']
+          a.dropdown-item[href="/daycare/?q=#{@query}&nearby=#{@nearby}" data-filter='all']
             span All Grades
         a.dropdown-item[href="/daycare/grade/A?q=#{@query}&nearby=#{@nearby}" data-filter='a']
           span.grade.grade-a A
