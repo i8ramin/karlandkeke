@@ -28,7 +28,23 @@ class Daycare
   field :grade, type: String
 
   def self.from_json(payload)
-    d = Daycare.new
+    permit_number = payload["permitNumber"]
+    return if permit_number.nil?
+
+    # if Daycare already exists, just update the existing record
+    d = Daycare.where(:permit_number => permit_number).first
+    if d
+        latest_inspection  = d.inspection
+        if latest_inspection
+            infractions = latest_inspection.infractions
+            infractions.destroy_all
+            inspection.destroy
+        end
+        
+    else
+        d = Daycare.new
+    end
+
     d.type = payload["type"]
     d.center_name= payload["centerName"].rstrip
     d.permalink  = d.center_name.downcase.gsub(" ", "-")
