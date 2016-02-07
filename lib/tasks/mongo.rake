@@ -57,27 +57,34 @@ namespace :mongo do
 #===================
   desc "Scrape data and import into Mongo"
   task scrape_import: :environment do
-    daycares = []
+    nyc_daycares = []
     begin
-      daycares = scraper
+      nyc_daycares = scraper
     rescue Exception => e
       puts "scrape failed."
       puts e.to_s
     end
 
-    puts "BEGIN import JSON --> Mongo"
-
-    nyc_venues = JSON.parse(daycares)
-    load_venues(nyc_venues) 
+    puts "Import NYC JSON --> Mongo"
+    
+    puts "--NYC Start"
+    nyc_venues = JSON.parse(nyc_daycares)
+    load_venues(nyc_venues)
+    puts "---NYC End" 
 
     # # pause so we can see the results of city parsing
-    # sleep(3)
+    sleep(3)
+    nys_daycares = '';
+    begin
+      nys_daycares = nys_scraper
+    rescue Exception => e
+      puts "nystate scrape failed"
+    end 
 
-    # state_seed_file = "data/json/nys_daycares.json"
-    # puts "LOADING from file #{state_seed_file}"   
-    # file = File.read(state_seed_file)
-    # state_venues = JSON.parse(file)
-    # load_venues(state_venues) 
+    puts "Import NYS JSON --> Mongo"
+    puts "--NYS Start"
+    state_venues = JSON.parse(nyc_daycares)
+    load_venues(state_venues)
 
     puts "END   import JSON --> Mongo"
   end
