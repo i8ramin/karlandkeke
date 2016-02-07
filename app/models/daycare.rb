@@ -66,14 +66,20 @@ class Daycare
     years_operating   = payload["yearsOperating"] unless payload["yearsOperating"].blank?
     d.years_operating = years_operating
     d.has_inspections = payload["hasInspections"]
-
-    i = Inspection.from_json(payload["latestInspection"])
-    d.inspection = i
     d.grade = d.get_grade
-    i.daycare = d
-    d.save
-    i.save
+
+    if payload["latestInspection"]
+        i = Inspection.from_json(payload["latestInspection"])
+        d.inspection = i
+        i.daycare = d
+        d.save
+        i.save
+    else
+        d.save
+    end
+
     return d
+
   end
 
   def get_grade
