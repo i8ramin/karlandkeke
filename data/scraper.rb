@@ -79,33 +79,42 @@ def scraper
 					puts e.to_s
 				end
 			end
-			daycare = pagescrape(page2)
 			
-			# get daycare GEO
-			page3 = nil
-			while page3.nil? do
-				begin
-					page3 = agent2.get 'https://a816-healthpsi.nyc.gov/ChildCare/html5/mobilemap.jsp?type=streetview'
-				rescue Exception => e
-					puts "error getting page3. trying again"
-					puts e.to_s
-				end
+			daycare_completed = false
+			begin
+				daycare = pagescrape(page2)
+			rescue Exception => e
+				puts "failed pagescrape. skipping daycare"
+				puts e.to_s
 			end
-			map_page_body = page3.parser.css('body')[0]['onload']
-			map_page_body.to_s.gsub(/'(\-?\d+(\.\d+)?)',\s*'(\-?\d+(\.\d+)?)'/) { |match|
-				ll = match.gsub(/'/, '').split(', ')
-				daycare["latitude"], daycare["longitude"] = ll[0].to_f, ll[1].to_f
-				# puts "lat: #{daycare['latitude']} lon: #{daycare['longitude']}"
-			}
 
-			# filename = file_i.to_s.rjust(2, "0")
-			# File.open("data/json/#{ filename }.json","w") do |f|
-			#   f.write(JSON.pretty_generate(daycare))
-			# end
-			# file_i += 1
+			# get daycare GEO
+			if daycare_completed
+				page3 = nil
+				while page3.nil? do
+					begin
+						page3 = agent2.get 'https://a816-healthpsi.nyc.gov/ChildCare/html5/mobilemap.jsp?type=streetview'
+					rescue Exception => e
+						puts "error getting page3. trying again"
+						puts e.to_s
+					end
+				end
+				map_page_body = page3.parser.css('body')[0]['onload']
+				map_page_body.to_s.gsub(/'(\-?\d+(\.\d+)?)',\s*'(\-?\d+(\.\d+)?)'/) { |match|
+					ll = match.gsub(/'/, '').split(', ')
+					daycare["latitude"], daycare["longitude"] = ll[0].to_f, ll[1].to_f
+					# puts "lat: #{daycare['latitude']} lon: #{daycare['longitude']}"
+				}
 
-			# add daycare to list
-			daycares.push(daycare)
+				# filename = file_i.to_s.rjust(2, "0")
+				# File.open("data/json/#{ filename }.json","w") do |f|
+				#   f.write(JSON.pretty_generate(daycare))
+				# end
+				# file_i += 1
+
+				# add daycare to list
+				daycares.push(daycare)
+			end
 		end
 
 		offset = offset + 10
