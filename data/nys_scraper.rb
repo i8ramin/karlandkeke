@@ -90,11 +90,11 @@ puts "PARSE PT. 2..."
 
 daycares = []
 all_violations = []
-i = 0
-while i < 60
-	daycare = daycare_ls[i]
+# i = 0
+# while i < 60
+# 	daycare = daycare_ls[i]
 # above^ for demo'ing purposes, below*v for full scrape
-# daycare_ls.each_with_index do |daycare, i|
+daycare_ls.each_with_index do |daycare, i|
 
 	if i % 100 == 0 
 		puts i
@@ -133,8 +133,11 @@ while i < 60
 	while site.nil? do
 		begin
 			site = siteCrawler.get daycare['Program Profile']
-		rescue
+			puts "SUCESS"
+		rescue Exception => e
 			puts "error getting page. trying again"
+			puts e.to_s
+			puts "index #{i}" 
 		end
 	end
 
@@ -142,7 +145,7 @@ while i < 60
 
 	profileTop = site.search('#programoverviewDivImg')[0].text
 	if profileTop.include? "This facility is approved to administer medications."
-		puts "administers meds"
+		# puts "administers meds"
 		daycare['certifiedToAdministerMedication'] = "Yes"
 	end
 
@@ -183,7 +186,7 @@ while i < 60
 				latest_inspection['infractions'] << violation
 				latest_inspection['numInfractions'] += 1
 			else
-				violations << violation
+				#  violations << violation
 			end
 		end
 
