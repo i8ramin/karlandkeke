@@ -17,10 +17,6 @@ namespace :mongo do
     counter = 0
     fails = []
 
-    # makes sense to clear out the existing data in our case
-    Infraction.destroy_all
-    Inspection.destroy_all
-    Daycare.destroy_all 
     seed_file = "data/json/daycares.json"
     puts "LOADING from file #{seed_file}"   
     file = File.read(seed_file)

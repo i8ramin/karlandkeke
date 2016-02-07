@@ -38,7 +38,7 @@ class Daycare
         if latest_inspection
             infractions = latest_inspection.infractions
             infractions.destroy_all
-            inspection.destroy
+            latest_inspection.destroy
         end
         
     else
