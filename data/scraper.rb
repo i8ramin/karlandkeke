@@ -83,6 +83,7 @@ def scraper
 			daycare_completed = false
 			begin
 				daycare = pagescrape(page2)
+				daycare_completed = true
 			rescue Exception => e
 				puts "failed pagescrape. skipping daycare"
 				puts e.to_s
