@@ -95,110 +95,119 @@ all_violations = []
 # 	daycare = daycare_ls[i]
 # above^ for demo'ing purposes, below*v for full scrape
 daycare_ls.each_with_index do |daycare, i|
+    begin
+        if i % 100 == 0 
+            puts i
+        end
 
-	if i % 100 == 0 
-		puts i
-	end
-	
-	# get rid of some unnecessary fields. Might slow things down a bit
-	DROPLIST.each do |drop|
-		daycare.delete(drop)
-	end
+        # get rid of some unnecessary fields. Might slow things down a bit
+        DROPLIST.each do |drop|
+            daycare.delete(drop)
+        end
 
-	# a bunch of renames / sometimes formatting changes
-	daycare['type'] = centerTypes[daycare.delete('Program Type')]
-	daycare['permitStatus'] = daycare.delete("Facility Status")
-	daycare['permitNumber'] = daycare.delete("Facility ID")
-	daycare['permitExpirationDate'] = daycare.delete("License Expiration Date")
-	daycare['maximumCapacity'] = daycare.delete("Total Capacity")
-	daycare['certifiedToAdministerMedication'] = "No"
-    open_date = daycare.delete("Facility Opened Date")
-	daycare['yearsOperating'] = years_open(open_date)
-	daycare['borough'] = daycare.delete('County')
-	daycare['zipCode'] = daycare.delete("Zip Code")
-	daycare['address'] = "#{daycare.delete('Street Number')} #{daycare.delete('Street Name')}"
-	daycare['centerName'] = daycare.delete("Facility Name")
-	daycare['permitHolder'] = daycare.delete("Provider Name")
-	daycare['latitude'] = daycare.delete("Latitude").to_i
-	daycare['longitude'] = daycare.delete("Longitude").to_i
-	daycare['phone'] = daycare.delete("Phone Number")
-	ageRange_start = daycare.delete("Capacity Description")
-	if !ageRange_start.nil?
-		daycare['ageRange'] = ageRange_start.split(", ")[1].gsub(/Ages | years/, '').gsub('to','-')
-	end
-
-
-	# actual scraping
-	site = nil
-	while site.nil? do
-		begin
-			site = siteCrawler.get daycare['Program Profile']
-			puts "SUCESS"
-		rescue Exception => e
-			puts "error getting page. trying again"
-			puts e.to_s
-			puts "index #{i}" 
-		end
-	end
-
-	daycare['siteType'] = daycare.delete('type')
-
-	profileTop = site.search('#programoverviewDivImg')[0].text
-	if profileTop.include? "This facility is approved to administer medications."
-		# puts "administers meds"
-		daycare['certifiedToAdministerMedication'] = "Yes"
-	end
-
-	inspectionHistory = site.search('#compliancehistoryDivImg')[0]
-	inspectionTables = inspectionHistory.search('table')
-	inspectionTop = inspectionTables[0]
-	inspectionBottom = inspectionTables[1]
-
-	latest_inspection = {}
-	latest_inspection['date'] = inspectionTop.search('td')[0].text.split(': ')[1]
-	latest_inspection['result'] = inspectionTop.search('td')[1].text.split('violations:' )[1]
-	latest_inspection['infractions'] = []
-	latest_inspection['numInfractions'] = 0
-	latest_date_split = latest_inspection['date'].split(" ")
-	latest_date_split[0] = Date::MONTHNAMES.index(latest_date_split[0])
-	latest_date = latest_date_split.join "/"
-
-    latest_date = latest_date.gsub(",","")
-	daycare['hasInspections'] = valid_date?(latest_date)
+        # a bunch of renames / sometimes formatting changes
+        daycare['type'] = centerTypes[daycare.delete('Program Type')]
+        daycare['permitStatus'] = daycare.delete("Facility Status")
+        daycare['permitNumber'] = daycare.delete("Facility ID")
+        daycare['permitExpirationDate'] = daycare.delete("License Expiration Date")
+        daycare['maximumCapacity'] = daycare.delete("Total Capacity")
+        daycare['certifiedToAdministerMedication'] = "No"
+        open_date = daycare.delete("Facility Opened Date")
+        daycare['yearsOperating'] = years_open(open_date)
+        daycare['borough'] = daycare.delete('County')
+        daycare['zipCode'] = daycare.delete("Zip Code")
+        daycare['address'] = "#{daycare.delete('Street Number')} #{daycare.delete('Street Name')}"
+        daycare['centerName'] = daycare.delete("Facility Name")
+        daycare['permitHolder'] = daycare.delete("Provider Name")
+        daycare['latitude'] = daycare.delete("Latitude").to_i
+        daycare['longitude'] = daycare.delete("Longitude").to_i
+        daycare['phone'] = daycare.delete("Phone Number")
+        ageRange_start = daycare.delete("Capacity Description")
+        if !ageRange_start.nil?
+            daycare['ageRange'] = ageRange_start.split(", ")[1].gsub(/Ages | years/, '').gsub('to','-')
+        end
 
 
-	# if will evaluate false if table doesn't exist
-	if inspectionBottom
-		violations_table = inspectionBottom.search('tr')
-		violations_table.delete violations_table.first # headers
+        # actual scraping
+        site = nil
+        while site.nil? do
+            begin
+                site = siteCrawler.get daycare['Program Profile']
+                # puts "SUCESS"
+            rescue Exception => e
+                puts "error getting page. skipping"
+                puts e.to_s
+                puts "index #{i}" 
+                break
+            end
+        end
+        
+        # move on to the next daycare in the list
+        if site.nil? 
+            next
+        end
 
-		violations = []
-		violations_table.each do |violation_node|
-			violation = {}
-			sections = violation_node.search('td')
-			VIOLATION_HEADERS.each_with_index do |header, header_i|
-				violation[header] = sections[header_i]
-			end
-			date_spl = violation["Date"].text.split(" ")
-			date_spl[0] = Date::MONTHNAMES.index(date_spl[0])
-			violation["Date"] = date_spl.join("/").gsub(",", "")
-			if latest_date == violation["Date"]
-				latest_inspection['infractions'] << violation
-				latest_inspection['numInfractions'] += 1
-			else
-				#  violations << violation
-			end
-		end
+        daycare['siteType'] = daycare.delete('type')
 
-		daycare['latestInspection'] = latest_inspection
-        # For schema parity, removing this from JSON export
-		# daycare['violations'] = violations
-		all_violations += violations
-	end
+        profileTop = site.search('#programoverviewDivImg')[0].text
+        if profileTop.include? "This facility is approved to administer medications."
+            # puts "administers meds"
+            daycare['certifiedToAdministerMedication'] = "Yes"
+        end
 
-	daycares << cleanup(daycare)
-	i += 1
+        inspectionHistory = site.search('#compliancehistoryDivImg')[0]
+        inspectionTables = inspectionHistory.search('table')
+        inspectionTop = inspectionTables[0]
+        inspectionBottom = inspectionTables[1]
 
+        latest_inspection = {}
+        latest_inspection['date'] = inspectionTop.search('td')[0].text.split(': ')[1]
+        latest_inspection['result'] = inspectionTop.search('td')[1].text.split('violations:' )[1]
+        latest_inspection['infractions'] = []
+        latest_inspection['numInfractions'] = 0
+        latest_date_split = latest_inspection['date'].split(" ")
+        latest_date_split[0] = Date::MONTHNAMES.index(latest_date_split[0])
+        latest_date = latest_date_split.join "/"
+
+        latest_date = latest_date.gsub(",","")
+        daycare['hasInspections'] = valid_date?(latest_date)
+
+
+        # if will evaluate false if table doesn't exist
+        if inspectionBottom
+            violations_table = inspectionBottom.search('tr')
+            violations_table.delete violations_table.first # headers
+
+            violations = []
+            violations_table.each do |violation_node|
+                violation = {}
+                sections = violation_node.search('td')
+                VIOLATION_HEADERS.each_with_index do |header, header_i|
+                    violation[header] = sections[header_i]
+                end
+                date_spl = violation["Date"].text.split(" ")
+                date_spl[0] = Date::MONTHNAMES.index(date_spl[0])
+                violation["Date"] = date_spl.join("/").gsub(",", "")
+                if latest_date == violation["Date"]
+                    latest_inspection['infractions'] << violation
+                    latest_inspection['numInfractions'] += 1
+                else
+                    #  violations << violation
+                end
+            end
+
+            daycare['latestInspection'] = latest_inspection
+            # For schema parity, removing this from JSON export
+            # daycare['violations'] = violations
+            all_violations += violations
+        end
+
+        daycares << cleanup(daycare)
+        i += 1
+    rescue Exception => e
+        puts e.to_s
+        puts "Failed to load daycare, skipping"
+    end
 end
 
 File.open("json/nys_daycares.json", "w") do |f|
