@@ -34,7 +34,7 @@ def scraper
 	page = form.submit
 	agent1.cookie_jar.save_as 'data/cookies', :session => true, :format => :yaml
 
-	while offset < offset_limit do # offset_limit for PROD
+	while offset < 20 do # offset_limit for PROD
 		puts "Offset: " + offset.to_s
 		
 		page = nil
@@ -122,8 +122,10 @@ def scraper
 
 	end
 
+	pretty_daycares = JSON.pretty_generate(daycares)
+
 	File.open("data/json/daycares.json", "w") do |f|
-		f.write(JSON.pretty_generate(daycares))
+		f.write(pretty_daycares)
 	end
-	return daycares
+	return pretty_daycares
 end
