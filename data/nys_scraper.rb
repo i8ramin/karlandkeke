@@ -6,12 +6,6 @@ require 'json'
 require 'mechanize'
 require_relative 'cleanup.rb'
 
-centerTypes = {
-	'FDC' =>'Family Day Care',
-	'GFDC' => 'Group-Family Day Care',
-	'SACC' => 'School-Age Child Care (After-School)'
-}
-
 BOROUGHS = [
 	'Brookyln',
 	'Queens',
@@ -43,56 +37,62 @@ VIOLATION_HEADERS = [
 	' Status '
 ]
 
-siteCrawler = Mechanize.new
-
-# CSV setup
-csv_file = nil
-puts "getting CSV..."
-csv_file = File.open("./data/nys_childcare.csv", "r") { |file| file.read  }
-# csv_url = 'https://data.ny.gov/api/views/cb42-qumz/rows.csv'
-# crawlPage = siteCrawler.get(csv_url)
-# csv_file = crawlPage.body
-puts "--got CSV"
-
-
-
-puts "initial csv parse"
-lines = CSV.new(csv_file).readlines
-keys = lines.delete lines.first
-daycare_ls = lines.map do |values|
-	Hash[keys.zip(values)]
-end
-puts "--initial parse complete"
-
-### helper functions here
-def years_open(open_date)
-    seconds_in_year = 365 * 24 * 60 * 60
-    d  = Date.strptime(open_date, '%m/%d/%Y')
-    return ((Time.now - d.to_time) / seconds_in_year).floor
-end
-
-def valid_date?(date_str)
-    valid = false
-    begin
-        Date.strptime(date_str, '%m/%d/%Y')
-        valid = true
-    rescue Exception => e
-        puts e.to_s
-        puts "|" + date_str + "|"
-    end
-    return valid
-end
-
-### end helper functions
-
 def nys_scraper
+
+	centerTypes = {
+		'FDC' =>'Family Day Care',
+		'GFDC' => 'Group-Family Day Care',
+		'SACC' => 'School-Age Child Care (After-School)'
+	}
+
+	siteCrawler = Mechanize.new
+
+	# CSV setup
+	csv_file = nil
+	puts "getting CSV..."
+	csv_file = File.open("./data/nys_childcare.csv", "r") { |file| file.read  }
+	# csv_url = 'https://data.ny.gov/api/views/cb42-qumz/rows.csv'
+	# crawlPage = siteCrawler.get(csv_url)
+	# csv_file = crawlPage.body
+	puts "--got CSV"
+
+
+
+	puts "initial csv parse"
+	lines = CSV.new(csv_file).readlines
+	keys = lines.delete lines.first
+	daycare_ls = lines.map do |values|
+		Hash[keys.zip(values)]
+	end
+	puts "--initial parse complete"
+
+	### helper functions here
+	def years_open(open_date)
+	    seconds_in_year = 365 * 24 * 60 * 60
+	    d  = Date.strptime(open_date, '%m/%d/%Y')
+	    return ((Time.now - d.to_time) / seconds_in_year).floor
+	end
+
+	def valid_date?(date_str)
+	    valid = false
+	    begin
+	        Date.strptime(date_str, '%m/%d/%Y')
+	        valid = true
+	    rescue Exception => e
+	        puts e.to_s
+	        puts "|" + date_str + "|"
+	    end
+	    return valid
+	end
+
+	### end helper functions
 
 	puts "PARSE PT. 2..."
 
 	daycares = []
 	all_violations = []
 	i = 0
-	while i < 500
+	while i < 10
 		daycare = daycare_ls[i]
 	# above^ for demo'ing purposes, below*v for full scrape
 	# daycare_ls.each_with_index do |daycare, i|
@@ -214,11 +214,11 @@ def nys_scraper
 
 	pretty_daycares = JSON.pretty_generate(daycares)
 
-	File.open("json/nys_daycares.json", "w") do |f|
+	File.open("./data/json/nys_daycares.json", "w") do |f|
 		f.write(pretty_daycares)
 	end
 
-	File.open("nys_violations.csv", "w") do |f|
+	File.open("./nys_violations.csv", "w") do |f|
 		all_violations.each do  |v|
 			f.write v.values.join(",")+"\n"
 		end
