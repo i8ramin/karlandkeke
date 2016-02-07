@@ -34,7 +34,7 @@ def scraper
 	page = form.submit
 	agent1.cookie_jar.save_as 'data/cookies', :session => true, :format => :yaml
 
-	while offset < 20 do # offset_limit for PROD
+	while offset < offset_limit do # offset_limit for PROD
 		puts "Offset: " + offset.to_s
 		
 		page = nil
