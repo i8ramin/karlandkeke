@@ -48,8 +48,9 @@
                   = infraction.short_description
                 - else
                   = infraction.violation_summary
-          - unless details
-            small=link_to("See all violations", "/daycare/#{daycare.permalink}")
+          - unless details 
+            - if num_violations > inspections.count
+              small=link_to("See all violations", "/daycare/#{daycare.permalink}")
       - if details
         ul.list-group.details
           li.list-group-item
