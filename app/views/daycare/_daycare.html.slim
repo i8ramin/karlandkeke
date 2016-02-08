@@ -36,7 +36,7 @@
 
       - if num_violations > 0
         .violations
-          strong= "#{num_violations} violations"
+          strong= "#{num_violations} #{'violation'.pluralize(num_violations)}"
           ul.violations-list
             - daycare.inspections.map(&:infractions).flatten.each do |infraction|
               li.violation[class="violation-#{infraction.multiplier}"]
