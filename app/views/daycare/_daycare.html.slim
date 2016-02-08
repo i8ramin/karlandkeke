@@ -35,10 +35,12 @@
           span.capacity=" #{daycare.maximum_capacity} Capacity"
 
       - if num_violations > 0
+        - inspections = daycare.inspections.map(&:infractions).flatten
+        - inspections = inspections.take(5) unless details
         .violations
-          strong= "#{num_violations} violations"
+          strong= "#{num_violations} #{'violation'.pluralize(num_violations)}"
           ul.violations-list
-            - daycare.inspections.map(&:infractions).flatten.each do |infraction|
+            - inspections.each do |infraction|
               li.violation[class="violation-#{infraction.multiplier}"]
                 span.label.label-info=infraction.oneword_category
                 span &nbsp;
@@ -46,7 +48,8 @@
                   = infraction.short_description
                 - else
                   = infraction.violation_summary
-
+          - unless details
+            small=link_to("See all violations", "/daycare/#{daycare.permalink}")
       - if details
         ul.list-group.details
           li.list-group-item
@@ -64,6 +67,6 @@
               .desc
                 - if daycare.has_inspections
                   - @daycare.inspections.each do |inspection|
-                      span= "#{inspection.result} (#{inspection.date})"
+                      div= "#{inspection.result} (#{inspection.date.strftime('%x')})"
                 - else
-                    span No Regular Inspections
+                    div No Regular Inspections
