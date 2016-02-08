@@ -1796,15 +1796,9 @@
         }
       ]
     },
-    "numInspections": "2",
+    "numInspections": "1",
     "pastInspections": [
-      {
-        "date": "02/07/2013",
-        "type": " Initial Annual Inspection",
-        "result": "Reinspection Required Violations corrected at time of inspection ",
-        "infractions": "",
-        "numInfractions": "0"
-      }
+
     ],
     "latitude": 40.630642867851,
     "longitude": -74.152376126111
@@ -1840,19 +1834,12 @@
         }
       ]
     },
-    "numInspections": "3",
+    "numInspections": "2",
     "pastInspections": [
       {
         "date": "05/29/2014",
         "type": " Monitoring Inspection Non-Routine",
         "result": "Inspection pending ",
-        "infractions": "",
-        "numInfractions": "0"
-      },
-      {
-        "date": "02/07/2013",
-        "type": " Initial Annual Inspection",
-        "result": "Reinspection Required Violations corrected at time of inspection ",
         "infractions": "",
         "numInfractions": "0"
       }
