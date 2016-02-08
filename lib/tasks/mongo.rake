@@ -1,4 +1,5 @@
 require_relative '../../data/scraper.rb'
+require_relative '../../data/nys_scraper.rb'
 
 def load_venues(venues)
     counter = 0
@@ -7,6 +8,7 @@ def load_venues(venues)
     venues.each do |daycare|
         begin
         d = Daycare.from_json(daycare)
+        puts "DAYCARE PARSED SUCCESSFULLY"
         counter += 1
         rescue Exception => e
             fails << daycare
@@ -37,19 +39,19 @@ namespace :mongo do
     puts "BEGIN import JSON --> Mongo"
 
     nyc_seed_file = "data/json/daycares.json"
-    puts "LOADING from file #{nyc_seed_file}"   
+    puts "LOADING from file #{nyc_seed_file}"
     file = File.read(nyc_seed_file)
     nyc_venues = JSON.parse(file)
-    load_venues(nyc_venues) 
+    load_venues(nyc_venues)
 
     # pause so we can see the results of city parsing
     sleep(3)
 
     state_seed_file = "data/json/nys_daycares.json"
-    puts "LOADING from file #{state_seed_file}"   
+    puts "LOADING from file #{state_seed_file}"
     file = File.read(state_seed_file)
     state_venues = JSON.parse(file)
-    load_venues(state_venues) 
+    load_venues(state_venues)
 
     puts "END   import JSON --> Mongo"
   end
@@ -66,7 +68,7 @@ namespace :mongo do
       puts nys_daycares
     rescue Exception => e
       puts "nystate scrape failed"
-    end 
+    end
 
     puts "Import NYS JSON --> Mongo"
     puts "--NYS Start"
@@ -85,11 +87,11 @@ namespace :mongo do
     end
 
     puts "Import NYC JSON --> Mongo"
-    
+
     puts "--NYC Start"
     nyc_venues = JSON.parse(nyc_daycares)
     load_venues(nyc_venues)
-    puts "---NYC End" 
+    puts "---NYC End"
 
   end
 
