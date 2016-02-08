@@ -2,7 +2,7 @@ var map;
 var map_view = window.location.pathname === '/map';
 
 var setup_map = function(points, show_popup_on_load, interactive) {
-  
+
   // setup map
   L.mapbox.accessToken = 'pk.eyJ1IjoiaGsyMyIsImEiOiJjaWg2dDRmOXAwNmNpdWtrdDRvdW1xdzI2In0.F9uULd8DhCkRGltilPPZbg';
   map = L.mapbox.map('map', 'hk23.oljk2o07')
@@ -45,11 +45,11 @@ var setup_map = function(points, show_popup_on_load, interactive) {
       case 'd':
         marker.color= "#F2711C";
         break;
-      case 'e':
+      case 'f':
         marker.color= "#DB2828";
         break;
       default:
-        marker.color= "#3ca0d3";
+        marker.color= "#999999";
         break;
     }
     return marker
@@ -110,9 +110,9 @@ var setup_map = function(points, show_popup_on_load, interactive) {
                         '</div>';
 
     if (map_view) {
-      marker.setIcon(L.divIcon(feature.properties.icon));  
+      marker.setIcon(L.divIcon(feature.properties.icon));
     }
-    
+
     marker.bindPopup(popupContent);
     if (show_popup_on_load) {
       marker.openPopup();
@@ -122,7 +122,7 @@ var setup_map = function(points, show_popup_on_load, interactive) {
 
   markerLayer.setGeoJSON(geojson);
   if (geojson.features.length > 0) {
-    map.fitBounds(markerLayer.getBounds());  
+    map.fitBounds(markerLayer.getBounds());
   }
 
   if (interactive) {
@@ -141,12 +141,12 @@ var setup_map = function(points, show_popup_on_load, interactive) {
   // Map view
   if (map_view) {
     // Add all-grades as a menu item in the dropdown list
-    $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' + 
+    $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' +
         '<span>All Grades</span>' + '</a>');
-    
+
     $('a.dropdown-item').on('click', function() {
       var filter = $(this).data('filter');
-      
+
       markerLayer.setFilter(function(f) {
         return (filter === 'all') ? true : f.properties["marker-symbol"] === filter;
       });
@@ -165,10 +165,10 @@ $(function(){
     var lat = $(daycare).data('lat');
     var lon = $(daycare).data('lon');
     if (lat && lon) {
-      fly(lat,lon, 10);  
+      fly(lat,lon, 10);
     } else {
       console.log('whoops - no lat/lon available for this daycare!');
     }
-    
+
   });
 });
