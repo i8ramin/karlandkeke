@@ -18,6 +18,17 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "",
+    "latestInspection": {
+      "date": "August 26 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
     "ageRange": "6 weeks - 12",
     "siteType": "Group-Family Day Care",
     "hasInspections": "true"
@@ -41,12 +52,9 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "347258-8605",
-    "ageRange": "6 weeks - 12",
-    "siteType": "Family Day Care",
-    "hasInspections": "true",
     "latestInspection": {
       "date": "October 21 2015 ",
-      "result": " No ",
+      "result": "No Uncorrected Violations",
       "infractions": [
         {
           "Date": "10/21/2015",
@@ -68,7 +76,13 @@
         }
       ],
       "numInfractions": "3"
-    }
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
   },
   {
     "License Issue Date": "5/7/2013",
@@ -89,17 +103,20 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "347409-2125",
-    "ageRange": "6 weeks - 12",
-    "siteType": "Family Day Care",
-    "hasInspections": "true",
     "latestInspection": {
       "date": "June 19 2015 ",
-      "result": " No ",
+      "result": "No Uncorrected Violations",
       "infractions": [
 
       ],
       "numInfractions": "0"
-    }
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
   },
   {
     "License Issue Date": "3/8/2013",
@@ -120,12 +137,9 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "347697-7353",
-    "ageRange": "6 weeks - 12",
-    "siteType": "Family Day Care",
-    "hasInspections": "true",
     "latestInspection": {
       "date": "August 20 2015 ",
-      "result": " No ",
+      "result": "No Uncorrected Violations",
       "infractions": [
         {
           "Date": "8/20/2015",
@@ -141,7 +155,13 @@
         }
       ],
       "numInfractions": "2"
-    }
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
   },
   {
     "License Issue Date": "4/26/2012",
@@ -162,12 +182,9 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "718992-3372",
-    "ageRange": "6 weeks - 12",
-    "siteType": "Family Day Care",
-    "hasInspections": "true",
     "latestInspection": {
       "date": "August 12 2015 ",
-      "result": " No ",
+      "result": "No Uncorrected Violations",
       "infractions": [
         {
           "Date": "8/12/2015",
@@ -177,7 +194,13 @@
         }
       ],
       "numInfractions": "1"
-    }
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
   },
   {
     "License Issue Date": "3/29/2012",
@@ -198,6 +221,17 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "347293-8840",
+    "latestInspection": {
+      "date": "December 14 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
     "ageRange": "6 weeks - 12",
     "siteType": "Family Day Care",
     "hasInspections": "true"
@@ -221,17 +255,20 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "347595-2951",
-    "ageRange": "6 weeks - 12",
-    "siteType": "Family Day Care",
-    "hasInspections": "true",
     "latestInspection": {
       "date": "August 12 2015 ",
-      "result": " No ",
+      "result": "No Uncorrected Violations",
       "infractions": [
 
       ],
       "numInfractions": "0"
-    }
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
   },
   {
     "License Issue Date": "1/26/2012",
@@ -252,6 +289,17 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "718367-7639",
+    "latestInspection": {
+      "date": "November 24 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
     "ageRange": "6 weeks - 12",
     "siteType": "Family Day Care",
     "hasInspections": "true"
@@ -275,17 +323,20 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "347280-0655",
-    "ageRange": "6 weeks - 12",
-    "siteType": "Family Day Care",
-    "hasInspections": "true",
     "latestInspection": {
       "date": "January 21 2016 ",
-      "result": " No ",
+      "result": "No Uncorrected Violations",
       "infractions": [
 
       ],
       "numInfractions": "0"
-    }
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
   },
   {
     "License Issue Date": "12/13/2013",
@@ -306,12 +357,9 @@
     "latitude": "40",
     "longitude": "-73",
     "phone": "347758-7080",
-    "ageRange": "6 weeks - 12",
-    "siteType": "Family Day Care",
-    "hasInspections": "true",
     "latestInspection": {
       "date": "January 14 2016 ",
-      "result": " Yes ",
+      "result": "Has Uncorrected Violations",
       "infractions": [
         {
           "Date": "1/14/2016",
@@ -345,6 +393,12 @@
         }
       ],
       "numInfractions": "5"
-    }
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
   }
 ]

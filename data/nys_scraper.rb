@@ -91,11 +91,11 @@ def nys_scraper
 
 	daycares = []
 	all_violations = []
-	i = 0
-	while i < 10
-		daycare = daycare_ls[i]
+	# i = 0
+	# while i < 10
+	# 	daycare = daycare_ls[i]
 	# above^ for demo'ing purposes, below*v for full scrape
-	# daycare_ls.each_with_index do |daycare, i|
+	daycare_ls.each_with_index do |daycare, i|
 		if i % 100 == 0 
 			puts i
 		end
@@ -145,6 +145,8 @@ def nys_scraper
 			daycare['latitude'] = daycare.delete("Latitude").to_i
 			daycare['longitude'] = daycare.delete("Longitude").to_i
 			daycare['phone'] = daycare.delete("Phone Number")
+			daycare['latestInspection'] = []
+			daycare['pastInspections'] = []
 			ageRange_start = daycare.delete("Capacity Description")
 			if !ageRange_start.nil?
 				daycare['ageRange'] = ageRange_start.split(", ")[1].gsub(/Ages | years/, '').gsub('to','-')
@@ -165,7 +167,8 @@ def nys_scraper
 
 			latest_inspection = {}
 			latest_inspection['date'] = inspectionTop.search('td')[0].text.split(': ')[1]
-			latest_inspection['result'] = inspectionTop.search('td')[1].text.split('violations:' )[1]
+			currently_uncorrected_violations = inspectionTop.search('td')[1].text.split('violations:' )[1]
+			latest_inspection['result'] = (currently_uncorrected_violations.include? "No") ? "No Uncorrected Violations" : "Has Uncorrected Violations"
 			latest_inspection['infractions'] = []
 			latest_inspection['numInfractions'] = 0
 			latest_date_split = latest_inspection['date'].split(" ")
@@ -199,10 +202,13 @@ def nys_scraper
 					end
 				end
 
-				daycare['latestInspection'] = latest_inspection
 		        # For schema parity, removing this from JSON export
 				# daycare['violations'] = violations
 				all_violations += violations
+			end
+
+			if daycare['hasInspections']
+				daycare['latestInspection'] = latest_inspection
 			end
 
 			daycares << cleanup(daycare)

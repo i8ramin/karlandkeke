@@ -95,6 +95,13 @@ namespace :mongo do
 
   end
 
-
+  desc "nys scrape"
+  task nys_scrape: :environment do
+    nyc_daycares = nys_scraper
+    dc_json = JSON.parse(nyc_daycares)
+    dc_json.each do |daycare|
+      d = Daycare.from_json(daycare)
+    end
+  end
 
 end
