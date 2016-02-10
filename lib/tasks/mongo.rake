@@ -56,6 +56,14 @@ namespace :mongo do
     puts "END   import JSON --> Mongo"
   end
 
+  desc "wipe db"
+  task wipe_db: :environment do
+    Infraction.destroy_all   
+    Inspection.destroy_all    
+    Daycare.destroy_all
+  end 
+
+
 #===================
 
   # desc "scrape NYS"
