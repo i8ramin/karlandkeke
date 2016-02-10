@@ -39,16 +39,15 @@ class Daycare
 
   def self.from_json(payload)
     permit_number = payload["permitNumber"]
-    return if permit_number.nil?
+    return nil if permit_number.nil?
 
     # if Daycare already exists, just update the existing record
     d = Daycare.where(:permit_number => permit_number).first
     if d
-        latest_inspection  = d.inspection
-        if latest_inspection
-            infractions = latest_inspection.infractions
+        d.inspections.each do |insp|
+            infractions = insp.infractions
             infractions.destroy_all
-            latest_inspection.destroy
+            insp.destroy
         end        
     else
         d = Daycare.new

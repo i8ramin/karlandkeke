@@ -7,7 +7,7 @@ def load_venues(venues)
 
     venues.each do |daycare|
         begin
-        d = Daycare.from_json(daycare)
+        Daycare.from_json(daycare)
         puts "DAYCARE PARSED SUCCESSFULLY"
         counter += 1
         rescue Exception => e
