@@ -38,7 +38,21 @@ class Daycare
   def name; center_name end
 
   def self.from_json(payload)
-    d = Daycare.new
+    permit_number = payload["permitNumber"]
+    return nil if permit_number.nil?
+
+    # if Daycare already exists, just update the existing record
+    d = Daycare.where(:permit_number => permit_number).first
+    if d
+        d.inspections.each do |insp|
+            infractions = insp.infractions
+            infractions.destroy_all
+            insp.destroy
+        end        
+    else
+        d = Daycare.new
+    end
+    # set attributes of daycare
     d.type = payload["type"]
     d.center_name= payload["centerName"].rstrip
     d.permit_holder = payload["permitHolder"]

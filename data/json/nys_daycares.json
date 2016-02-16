@@ -1,0 +1,404 @@
+[
+  {
+    "License Issue Date": "10/6/2015",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/741670",
+    "Location": "4087296 -7388547947",
+    "permitStatus": "License ",
+    "permitNumber": "741670",
+    "permitExpirationDate": "10/5/2017",
+    "maximumCapacity": "16",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "0",
+    "borough": "Bronx",
+    "zipCode": "10458",
+    "address": "235-37 East 202nd street",
+    "centerName": "Guzman Lorena",
+    "permitHolder": "Lorena A Guzman",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "",
+    "latestInspection": {
+      "date": "August 26 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Group-Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "8/3/2012",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/578722",
+    "Location": "4085389 -7390373",
+    "permitStatus": "Pending Denial",
+    "permitNumber": "578722",
+    "permitExpirationDate": "8/2/2014",
+    "maximumCapacity": "8",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "3",
+    "borough": "Bronx",
+    "zipCode": "10453",
+    "address": "2087 Creston Avenue",
+    "centerName": "Smalls Islah",
+    "permitHolder": "Islah S Smalls",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347258-8605",
+    "latestInspection": {
+      "date": "October 21 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+        {
+          "Date": "10/21/2015",
+          "Code Sub-Section": "41714f",
+          "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+          " Status ": "Not Corrected "
+        },
+        {
+          "Date": "10/21/2015",
+          "Code Sub-Section": "41714f1i",
+          "Violation Summary": "Principles of childhood development include such things as meeting the physical social and developmental needs of children including those with special needs behavior management and discipline promoting play and physical activity individual development variation and learning styles infant and toddler brain development and cross cultural skills and knowledge",
+          " Status ": "Not Corrected "
+        },
+        {
+          "Date": "10/21/2015",
+          "Code Sub-Section": "41714f3i",
+          "Violation Summary": "Child day care program development topics include such things as the benefits of continuity of care practices staff supervision and coaching program variety and activity infant toddler pre-school and school age quality programming promoting childrens language development and social and emotional skills and establishing nurturing stimulating environments rest time policies and procedures including meeting the needs of children who do not nap hand washing meeting the program needs of mixed age groups in family day care and group family day care",
+          " Status ": "Not Corrected "
+        }
+      ],
+      "numInfractions": "3"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "5/7/2013",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/643149",
+    "Location": "4082963647 -7390517294",
+    "permitStatus": "Pending Denial",
+    "permitNumber": "643149",
+    "permitExpirationDate": "5/6/2015",
+    "maximumCapacity": "8",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "2",
+    "borough": "Bronx",
+    "zipCode": "10456",
+    "address": "1175 Fulton Avenue",
+    "centerName": "Palacios Ines",
+    "permitHolder": "Ines Palacios",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347409-2125",
+    "latestInspection": {
+      "date": "June 19 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "3/8/2013",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/474624",
+    "Location": "4086998446 -7387985758",
+    "permitStatus": "Pending Revocation",
+    "permitNumber": "474624",
+    "permitExpirationDate": "3/7/2017",
+    "maximumCapacity": "8",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "4",
+    "borough": "Bronx",
+    "zipCode": "10467",
+    "address": "391 East Mosholu Parkway North",
+    "centerName": "Torres Betania",
+    "permitHolder": "Betania Torres",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347697-7353",
+    "latestInspection": {
+      "date": "August 20 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+        {
+          "Date": "8/20/2015",
+          "Code Sub-Section": "41714f",
+          "Violation Summary": "Each provider and assistant must complete a total of thirty 30 hours of training every two years Such training must address the topics specified in 41714f",
+          " Status ": "Not Corrected "
+        },
+        {
+          "Date": "8/20/2015",
+          "Code Sub-Section": "41714m",
+          "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+          " Status ": "Not Corrected "
+        }
+      ],
+      "numInfractions": "2"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "4/26/2012",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/441376",
+    "Location": "4084075899 -739251735",
+    "permitStatus": "Registration ",
+    "permitNumber": "441376",
+    "permitExpirationDate": "4/25/2016",
+    "maximumCapacity": "7",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "5",
+    "borough": "Bronx",
+    "zipCode": "10452",
+    "address": "1324 Ogden Av",
+    "centerName": "Beato Sandra",
+    "permitHolder": "Sandra E Beato",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "718992-3372",
+    "latestInspection": {
+      "date": "August 12 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+        {
+          "Date": "8/12/2015",
+          "Code Sub-Section": "41714m",
+          "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+          " Status ": "Corrected "
+        }
+      ],
+      "numInfractions": "1"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "3/29/2012",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/442356",
+    "Location": "4082975367 -7385619959",
+    "permitStatus": "Registration ",
+    "permitNumber": "442356",
+    "permitExpirationDate": "3/28/2016",
+    "maximumCapacity": "8",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "5",
+    "borough": "Bronx",
+    "zipCode": "10472",
+    "address": "2020 HAVILAND AVENUE",
+    "centerName": "Anjuman A Chowdhury",
+    "permitHolder": "Anjuman A Chowdhury",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347293-8840",
+    "latestInspection": {
+      "date": "December 14 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "1/17/2014",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/547688",
+    "Location": "4090420801 -7385112834",
+    "permitStatus": "Registration ",
+    "permitNumber": "547688",
+    "permitExpirationDate": "1/16/2018",
+    "maximumCapacity": "8",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "4",
+    "borough": "Bronx",
+    "zipCode": "10470",
+    "address": "4716 Richardson Avenue",
+    "centerName": "MUNDO DE JUGUETE",
+    "permitHolder": "Ana Gonzalez",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347595-2951",
+    "latestInspection": {
+      "date": "August 12 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "1/26/2012",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/443460",
+    "Location": "40864347 -7390610914",
+    "permitStatus": "Registration ",
+    "permitNumber": "443460",
+    "permitExpirationDate": "1/25/2016",
+    "maximumCapacity": "7",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "6",
+    "borough": "Bronx",
+    "zipCode": "10468",
+    "address": "2444 Devoe Terrace",
+    "centerName": "Rosario Monica",
+    "permitHolder": "Monica A Rosario",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "718367-7639",
+    "latestInspection": {
+      "date": "November 24 2015 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "5/10/2012",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/444341",
+    "Location": "4085103763 -7391493948",
+    "permitStatus": "Registration ",
+    "permitNumber": "444341",
+    "permitExpirationDate": "5/9/2016",
+    "maximumCapacity": "8",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "5",
+    "borough": "Bronx",
+    "zipCode": "10453",
+    "address": "1925 University Avenue",
+    "centerName": "Morel Ana",
+    "permitHolder": "Ana Morel",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347280-0655",
+    "latestInspection": {
+      "date": "January 21 2016 ",
+      "result": "No Uncorrected Violations",
+      "infractions": [
+
+      ],
+      "numInfractions": "0"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  },
+  {
+    "License Issue Date": "12/13/2013",
+    "Infant Capacity": "0",
+    "Program Profile": "http//itocfsnygov/DayCareFacilitySearch/Profile/Index/545513",
+    "Location": "4085967111 -7386855222",
+    "permitStatus": "Registration ",
+    "permitNumber": "545513",
+    "permitExpirationDate": "12/12/2017",
+    "maximumCapacity": "8",
+    "certifiedToAdministerMedication": "No",
+    "yearsOperating": "4",
+    "borough": "Bronx",
+    "zipCode": "10467",
+    "address": "2300 Olinville Avenue",
+    "centerName": "Alexis Juliet",
+    "permitHolder": "Juliet E Alexis",
+    "latitude": "40",
+    "longitude": "-73",
+    "phone": "347758-7080",
+    "latestInspection": {
+      "date": "January 14 2016 ",
+      "result": "Has Uncorrected Violations",
+      "infractions": [
+        {
+          "Date": "1/14/2016",
+          "Code Sub-Section": "4134d3",
+          "Violation Summary": "Every licensee and registrant shall obtain fingerprint images for each prospective employee or volunteer of the child day care program and any person age eighteen or over who will be residing on the premises of the group family day care home or family day care home",
+          " Status ": "Not Corrected "
+        },
+        {
+          "Date": "1/14/2016",
+          "Code Sub-Section": "4172a5",
+          "Violation Summary": "Applicants for a registration must submit to the Office a completed application including sworn statements by the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home indicating whether to the best of their knowledge they have ever been convicted of a misdemeanor or a felony in New York State or any other jurisdiction and fingerprint images as required pursuant to section 4134 of this Article",
+          " Status ": "Not Corrected "
+        },
+        {
+          "Date": "1/14/2016",
+          "Code Sub-Section": "4172a8i",
+          "Violation Summary": "Applicants for a registration must submit to the Office a completed application including the Statewide Central Register Database Check forms necessary to complete required screening by the Statewide Central Register of Child Abuse and Maltreatment to determine if the provider assistants substitutes and any person 18 years of age or older who resides in the proposed family day care home is the subject of an indicated report of child abuse or maltreatment",
+          " Status ": "Not Corrected "
+        },
+        {
+          "Date": "1/14/2016",
+          "Code Sub-Section": "41713c",
+          "Violation Summary": "All caregivers and volunteers hired after June 30 2013 must comply with the background check requirements for the register of substantiated category one cases of abuse or neglect maintained by the Justice Center for the Protection of Persons with Special Needs pursuant to Section 495 of the Social Services Law",
+          " Status ": "Not Corrected "
+        },
+        {
+          "Date": "1/14/2016",
+          "Code Sub-Section": "41714m",
+          "Violation Summary": "All child day care programs must have at least one caregiver who holds a valid certificate in cardiopulmonary resuscitation CPR and first aid on the premise of the child care program during the programs operating hours",
+          " Status ": "Not Corrected "
+        }
+      ],
+      "numInfractions": "5"
+    },
+    "pastInspections": [
+
+    ],
+    "ageRange": "6 weeks - 12",
+    "siteType": "Family Day Care",
+    "hasInspections": "true"
+  }
+]
