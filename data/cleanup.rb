@@ -10,7 +10,9 @@ def cleanup(data)
 				cleanup(val)
 			end
 		else
-			data[key] = filter(value)
+			if !["latitude", "longitude", "Program Profile"].include?(key)
+				data[key] = filter(value)
+			end
 		end
 	end
 end

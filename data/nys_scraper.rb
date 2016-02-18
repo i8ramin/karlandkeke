@@ -142,8 +142,8 @@ def nys_scraper
 			daycare['address'] = "#{daycare.delete('Street Number')} #{daycare.delete('Street Name')}"
 			daycare['centerName'] = daycare.delete("Facility Name")
 			daycare['permitHolder'] = daycare.delete("Provider Name")
-			daycare['latitude'] = daycare.delete("Latitude").to_i
-			daycare['longitude'] = daycare.delete("Longitude").to_i
+			daycare['latitude'] = daycare.delete("Latitude").to_f
+			daycare['longitude'] = daycare.delete("Longitude").to_f
 			daycare['phone'] = daycare.delete("Phone Number")
 			daycare['latestInspection'] = []
 			daycare['pastInspections'] = []
