@@ -66,7 +66,7 @@ def pagescrape(page)
 		tableHeaders = infractionTable.search('table tr.odd th')
 		headers = []
 		tableHeaders.each do |header|
-			headers.push(header.text)
+			headers.push(header.text.strip())
 		end
 
 		currentInfractions = infractionTable.search('table tr.even')

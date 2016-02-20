@@ -34,7 +34,7 @@ VIOLATION_HEADERS = [
 	'Date',
 	'Code Sub-Section',
 	'Violation Summary',
-	' Status '
+	'Status'
 ]
 
 def nys_scraper
