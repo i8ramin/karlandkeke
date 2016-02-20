@@ -21,7 +21,7 @@ class Infraction
 
   def self.from_json(payload)
       i = Infraction.new
-      i.violation_summary = payload["Violation Summary "]
+      i.violation_summary = payload["Violation Summary"]
       case payload["Category "]
       when MINOR 
         i.oneword_category = 'minor'
@@ -46,7 +46,7 @@ class Infraction
       end
 
       i.multiplier = 1 if i.multiplier == 0 || i.multiplier.nil?
-      i.status = payload[" Status"]
+      i.status = payload["Status"]
       i.save
       return i
   end
