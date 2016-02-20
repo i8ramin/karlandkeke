@@ -23,10 +23,10 @@
       "numInfractions": "1",
       "infractions": [
         {
-          "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4741 j",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -39,16 +39,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -87,10 +87,10 @@
       "numInfractions": "1",
       "infractions": [
         {
-          "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4745 b",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -103,16 +103,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -174,28 +174,28 @@
       "numInfractions": "4",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4719 i",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737 b1",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "All teachers have not received training in infectious disease control and reporting",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737b2",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service providing care for infant/toddlers and/or night care failed to have staff complete SIDS and Shaken Baby identification and prevention training",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737c ",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -208,16 +208,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service observed at time of inspection to be providing care for infants under 12 months of age in groups mixed with older children",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service observed at time of inspection to be providing care for infants under 12 months of age in groups mixed with older children",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4723 g",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -228,28 +228,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "All teachers have not received training in infectious disease control and reporting",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737b2",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -281,22 +281,22 @@
       "numInfractions": "3",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4719 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4719 i",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4733 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -309,16 +309,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -329,28 +329,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4719 i",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -382,22 +382,22 @@
       "numInfractions": "3",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4719 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4733 b",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737 b1",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -410,16 +410,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -465,40 +465,40 @@
       "numInfractions": "6",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4723 f",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4713 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4733 b",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4733 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737 b1",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "All teachers have not received training in infectious disease control and reporting",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737b2",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -511,40 +511,40 @@
         "numInfractions": "6",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4713 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "All teachers have not received training in infectious disease control and reporting",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737b2",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -562,34 +562,34 @@
         "numInfractions": "5",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4741 h",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4757 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4713 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to take appropriate action to keep facility free of pests or conditions conducive to pests Child care service fails to maintain extermination service log",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to take appropriate action to keep facility free of pests or conditions conducive to pests Child care service fails to maintain extermination service log",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4751 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -607,28 +607,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was observed that child care service failed to provide appropriate guards on designated structures/equipment to protect children from potential injury",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4741 h",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4757 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4713 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -639,40 +639,40 @@
         "numInfractions": "6",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4725 a2",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4713 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4719 i",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -711,16 +711,16 @@
       "numInfractions": "2",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4713 c",
-          " Status": "OPEN "
+          "Status": "OPEN "
         },
         {
-          "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4713 d",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         }
       ]
     },
@@ -733,22 +733,22 @@
         "numInfractions": "3",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4757 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -759,22 +759,22 @@
         "numInfractions": "3",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4757 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -785,22 +785,22 @@
         "numInfractions": "3",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4761 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -811,46 +811,46 @@
         "numInfractions": "7",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4743 e",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4757 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4761 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4745 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -861,40 +861,40 @@
         "numInfractions": "6",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4743 e",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4757 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4761 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4745 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -905,16 +905,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4713 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4713 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -925,16 +925,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service fails to provide and/or maintain child illness/injury record",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service fails to provide and/or maintain child illness/injury record",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4729 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -945,28 +945,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4749 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4745 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -977,34 +977,34 @@
         "numInfractions": "5",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4749 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4761 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4745 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1015,34 +1015,34 @@
         "numInfractions": "5",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4749 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4761 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4745 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1053,40 +1053,40 @@
         "numInfractions": "6",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4749 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4761 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4745 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1097,40 +1097,40 @@
         "numInfractions": "6",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4749 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4761 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection child care service failed to provide sufficient lighting and or failed to maintain adequate foot candles in areas used by children",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4745 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1141,22 +1141,22 @@
         "numInfractions": "3",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4749 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service fails to properly clean and sanitize plate and dishware",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4761 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1167,16 +1167,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4747 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1187,16 +1187,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4747 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1207,16 +1207,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "At time of inspection roof top play area in use not approved for such use Roof top play area not provided with appropriate fencing at time of inspection",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4747 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1227,34 +1227,34 @@
         "numInfractions": "5",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4713 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1265,34 +1265,34 @@
         "numInfractions": "5",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4713 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1303,34 +1303,34 @@
         "numInfractions": "5",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4713 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -1362,28 +1362,28 @@
       "numInfractions": "4",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4719 c",
-          " Status": "OPEN "
+          "Status": "OPEN "
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4733 b",
-          " Status": "OPEN "
+          "Status": "OPEN "
         },
         {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4733 c",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737 b1",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         }
       ]
     },
@@ -1396,28 +1396,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4713 c",
-            " Status ": "OPEN "
+            "Status ": "OPEN "
           },
           {
-            "Violation Summary ": "Education Director or equivalent was not present at the time of inspection to supervise children/staff in an infant/toddler program",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Education Director or equivalent was not present at the time of inspection to supervise children/staff in an infant/toddler program",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4723 c",
-            " Status ": "OPEN "
+            "Status ": "OPEN "
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to conduct and document monthly fire drills",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 d",
-            " Status ": "OPEN "
+            "Status ": "OPEN "
           },
           {
-            "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4713 d",
-            " Status ": "MORE INFO"
+            "Status ": "MORE INFO"
           }
         ]
       },
@@ -1428,34 +1428,34 @@
         "numInfractions": "5",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4723 e",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "All teachers have not received training in infectious disease control and reporting",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "All teachers have not received training in infectious disease control and reporting",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737b2",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -1517,34 +1517,34 @@
       "numInfractions": "5",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4719 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4733 b",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service staff identified/acting as group teachers do not meet the required qualifications of the position",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4713 d",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4719 i",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4733 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -1564,16 +1564,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to provide constant and competent supervision for children within its care",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 ab",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1584,16 +1584,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to provide constant and competent supervision for children within its care",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 ab",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1604,28 +1604,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to provide constant and competent supervision for children within its care",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 ab",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4743 e",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4755 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1636,16 +1636,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to provide constant and competent supervision for children within its care",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 ab",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to maintain required staff to child supervision ratios at time of inspection",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1656,16 +1656,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to provide constant and competent supervision for children within its care",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 ab",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4725 a1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1676,52 +1676,52 @@
         "numInfractions": "8",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4743 e",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection toxic substances observed improperly stored so as to result in the potential for exposure or contamination of facility surfaces",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4749 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Appropriate and clean cots linens and other sleeping arrangements not provided by child care service at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4755 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service fails to conduct and document daily health assessment of incoming children",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service fails to conduct and document daily health assessment of incoming children",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4727 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Restriction on milk service not complied with at time of inspection",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Restriction on milk service not complied with at time of inspection",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4761 b3",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined/observed that food service worker not provided with appropriate food thermometer during food prep",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "8109 i",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service fails to provide adequate ventilation in food prep area Indoor air quality nuisance allowed to exist in food prep area",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service fails to provide adequate ventilation in food prep area Indoor air quality nuisance allowed to exist in food prep area",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "8119 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -1732,16 +1732,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -1771,28 +1771,28 @@
       "numInfractions": "4",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4719 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4725 a2",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4733 b",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4733 c",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -1827,10 +1827,10 @@
       "numInfractions": "1",
       "infractions": [
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737 b1",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -1871,16 +1871,16 @@
       "numInfractions": "2",
       "infractions": [
         {
-          "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4723 e",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection required hand wash signs were not provided",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection required hand wash signs were not provided",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4735 b",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         }
       ]
     },
@@ -1893,28 +1893,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Milk observed stored at a temperature above 41 deg F at time of inspection Milk observed stored in child care service beyond the expiration date",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4761 d",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4757 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection required hand wash signs were not provided",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection required hand wash signs were not provided",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4735 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection floors/walls ceilings were observed not maintained in disrepair or covered in a toxic finish",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4741 j",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -1946,10 +1946,10 @@
       "numInfractions": "1",
       "infractions": [
         {
-          "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "Emergency lighting in halls stairs not provided where required",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4815a16",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -1969,16 +1969,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Fire extinguishers not provided have not been inspected and tagged prior to camp season",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4815a8",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Emergency lighting in halls stairs not provided where required",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Emergency lighting in halls stairs not provided where required",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4815a16",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -2010,10 +2010,10 @@
       "numInfractions": "1",
       "infractions": [
         {
-          "Violation Summary ": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection child care service facility observed not maintained or in disrepair Dry sweeping observed in areas occupied by children",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4749 a",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -2040,22 +2040,22 @@
         "numInfractions": "3",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -2066,22 +2066,22 @@
         "numInfractions": "3",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -2134,16 +2134,16 @@
       "numInfractions": "2",
       "infractions": [
         {
-          "Violation Summary ": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Fire extinguishers observed not to be inspected or maintained at time of inspection",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4759 b",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service failed to take any and all necessary action to eliminate potential hazards",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4757 b",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -2156,22 +2156,22 @@
         "numInfractions": "3",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4725 a1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
@@ -2203,10 +2203,10 @@
       "numInfractions": "1",
       "infractions": [
         {
-          "Violation Summary ": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection hand wash sinks are not supplied with an adequate amount of running water At time of inspection water temperature exceeded 115 deg Fahrenheit",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4743 e",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         }
       ]
     },
@@ -2233,16 +2233,16 @@
         "numInfractions": "2",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -2311,76 +2311,76 @@
       "numInfractions": "12",
       "infractions": [
         {
-          "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4719 c",
-          " Status": "OPEN "
+          "Status": "OPEN "
         },
         {
-          "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Child care service failed to provide constant and competent supervision for children within its care",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4723 ab",
-          " Status": "OPEN "
+          "Status": "OPEN "
         },
         {
-          "Violation Summary ": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
-          "Category ": " Violations requiring immediate correction Public Health Hazards ",
+          "Violation Summary": "Required food protection procedures were not implemented at time of inspection Holder of food protection certificate was not on site during hours of food preparation activity",
+          "Category": " Violations requiring immediate correction Public Health Hazards ",
           "Code Sub-Section": "4761 a",
-          " Status": "CORRECTED"
+          "Status": "CORRECTED"
         },
         {
-          "Violation Summary ": "Child care service failed to notify DOHMH within 24 hours of child abuse allegation/indication or record of criminal activity of individuals associated with child care service serious injury death or loss of a child",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "Child care service failed to notify DOHMH within 24 hours of child abuse allegation/indication or record of criminal activity of individuals associated with child care service serious injury death or loss of a child",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4719 g",
-          " Status": "OPEN "
+          "Status": "OPEN "
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4733 b",
-          " Status": "OPEN "
+          "Status": "OPEN "
         },
         {
-          "Violation Summary ": "At the time child care service was providing care it has been determined that the child care service failed to limit areas used by children to their exclusive use Unauthorized children and/or adults allowed to inhabit child care service facilities during child care hours",
-          "Category ": " Violations requiring correction within two weeks Critical Violations ",
+          "Violation Summary": "At the time child care service was providing care it has been determined that the child care service failed to limit areas used by children to their exclusive use Unauthorized children and/or adults allowed to inhabit child care service facilities during child care hours",
+          "Category": " Violations requiring correction within two weeks Critical Violations ",
           "Code Sub-Section": "4739 a",
-          " Status": "OPEN "
+          "Status": "OPEN "
         },
         {
-          "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4713 f",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         },
         {
-          "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4719 i",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to maintain childrens daily attendance records",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service failed to maintain childrens daily attendance records",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4727 a",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         },
         {
-          "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4733 c",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         },
         {
-          "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4737 b1",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         },
         {
-          "Violation Summary ": "Parents of child care service utilizing video surveillance not notified of such use location of cameras not disclosed video surveillance conduct not acceptable and not pursuant to applicable law used a substitute for supervision is not secure",
-          "Category ": " Minor violations General Violations ",
+          "Violation Summary": "Parents of child care service utilizing video surveillance not notified of such use location of cameras not disclosed video surveillance conduct not acceptable and not pursuant to applicable law used a substitute for supervision is not secure",
+          "Category": " Minor violations General Violations ",
           "Code Sub-Section": "4767d3",
-          " Status": "MORE INFO"
+          "Status": "MORE INFO"
         }
       ]
     },
@@ -2393,46 +2393,46 @@
         "numInfractions": "7",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to arrange/conduct criminal/SCR background clearance checks for required individuals failed to re-clear required individuals with the SCR every two years",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4719 c",
-            " Status ": "OPEN "
+            "Status ": "OPEN "
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service allows staff to perform their duties that are not healthy or are incapable of carrying out their duties Staff medical clearances are not maintained by child care service",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4733 b",
-            " Status ": "OPEN "
+            "Status ": "OPEN "
           },
           {
-            "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4713 f",
-            " Status ": "MORE INFO"
+            "Status ": "MORE INFO"
           },
           {
-            "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4719 i",
-            " Status ": "MORE INFO"
+            "Status ": "MORE INFO"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to maintain childrens daily attendance records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to maintain childrens daily attendance records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4727 a",
-            " Status ": "MORE INFO"
+            "Status ": "MORE INFO"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "MORE INFO"
+            "Status ": "MORE INFO"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "MORE INFO"
+            "Status ": "MORE INFO"
           }
         ]
       },
@@ -2450,28 +2450,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to provide constant and competent supervision for children within its care",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 ab",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4713 c",
-            " Status ": "OPEN "
+            "Status ": "OPEN "
           },
           {
-            "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4723 e",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -2482,28 +2482,28 @@
         "numInfractions": "4",
         "infractions": [
           {
-            "Violation Summary ": "Child care service failed to provide constant and competent supervision for children within its care",
-            "Category ": " Violations requiring immediate correction Public Health Hazards",
+            "Violation Summary": "Child care service failed to provide constant and competent supervision for children within its care",
+            "Category": " Violations requiring immediate correction Public Health Hazards",
             "Code Sub-Section": "4723 ab",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to designate/identify a qualified Education Director",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service failed to designate/identify a qualified Education Director",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4713 c",
-            " Status ": "OPEN "
+            "Status ": "OPEN "
           },
           {
-            "Violation Summary ": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Child care service providing care without a staff member trained in First Aid/CPR on site at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4723 e",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Exits and other egress not provided with required signage at time of inspection",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "Exits and other egress not provided with required signage at time of inspection",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4759 a",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       },
@@ -2514,40 +2514,40 @@
         "numInfractions": "6",
         "infractions": [
           {
-            "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service unable to document that all children enrolled have had an age appropriate medical evaluation",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4725 a1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
-            "Category ": " Violations requiring correction within two weeks Critical Violations",
+            "Violation Summary": "At time of inspection child care service unable to document that all children enrolled have had age appropriate immunizations unless a child is exempt",
+            "Category": " Violations requiring correction within two weeks Critical Violations",
             "Code Sub-Section": "4725 a2",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service teaching staff acting as assistant teachers do not meet age and educational requirements",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4713 f",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to conduct business and employment reference checks of staff/volunteers",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4719 i",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "Child care service failed to provide or maintain record of staff immunizations",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "Child care service failed to provide or maintain record of staff immunizations",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4733 c",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           },
           {
-            "Violation Summary ": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
-            "Category ": " Minor violations General Violations",
+            "Violation Summary": "At time of inspection it was determined that child care service failed to ensure staff received required training within time frames and/or failed to maintain training records",
+            "Category": " Minor violations General Violations",
             "Code Sub-Section": "4737 b1",
-            " Status ": "CORRECTED"
+            "Status ": "CORRECTED"
           }
         ]
       }
