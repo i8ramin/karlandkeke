@@ -1,11 +1,3 @@
-GIT
-  remote: git://github.com/thuylc/mongoid_search.git
-  revision: 5990d234112d74eb9212dd9b008bea8d490e5dd0
-  specs:
-    mongoid_search (0.3.2)
-      fast-stemmer (~> 1.0.0)
-      mongoid (>= 3.0.0)
-
 GEM
   remote: https://rails-assets.org/
   remote: https://rubygems.org/
@@ -130,6 +122,9 @@ GEM
     mongoid-pagination (0.2.0)
       activesupport
       mongoid
+    mongoid_search (0.3.2)
+      fast-stemmer (~> 1.0.0)
+      mongoid (>= 3.0.0)
     net-http-digest_auth (1.4)
     net-http-persistent (2.9.4)
     nokogiri (1.6.7.2)

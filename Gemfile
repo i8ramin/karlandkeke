@@ -14,10 +14,7 @@ source 'https://rubygems.org' do
 
   gem 'mongoid', '~> 5.0.0'
   gem 'mongoid-geospatial'
-
-  # TODO: pointing to the master branch fails deployment,
-  # so loading lates version
-  gem 'mongoid_search', github: 'thuylc/mongoid_search'
+  gem 'mongoid_search'
 
   gem 'therubyracer'
 
