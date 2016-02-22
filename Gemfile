@@ -17,7 +17,7 @@ source 'https://rubygems.org' do
 
   # TODO: pointing to the master branch fails deployment,
   # so loading lates version
-  gem 'mongoid_search', github: 'thuylc/mongoid_search', branch: 'master'
+  gem 'mongoid_search', github: 'thuylc/mongoid_search'
 
   gem 'therubyracer'
 

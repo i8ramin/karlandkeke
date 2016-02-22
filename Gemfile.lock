@@ -1,7 +1,6 @@
 GIT
   remote: git://github.com/thuylc/mongoid_search.git
   revision: 5990d234112d74eb9212dd9b008bea8d490e5dd0
-  branch: master
   specs:
     mongoid_search (0.3.2)
       fast-stemmer (~> 1.0.0)
