@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/mauriciozaffari/mongoid_search.git
-  revision: 3f3a997d53ad91df5b01a07cbb9d59d64d9ae5d3
+  remote: git://github.com/thuylc/mongoid_search.git
+  revision: 5990d234112d74eb9212dd9b008bea8d490e5dd0
   branch: master
   specs:
     mongoid_search (0.3.2)
