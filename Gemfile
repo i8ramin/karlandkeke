@@ -7,7 +7,7 @@ end
 source 'https://rubygems.org' do
   gem 'bundler', '>= 1.8.4'
 
-  # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+  # Bundle edge Rails instead: gem 'rails', '~> 4.2.5.1', github: 'rails/rails'
   gem 'rails', '4.2.5'
 
   gem 'puma'
