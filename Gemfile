@@ -68,6 +68,9 @@ source 'https://rubygems.org' do
   # https://github.com/imgix/imgix-rails
   gem 'imgix-rails'
 
+  # https://github.com/michaeldv/awesome_print
+  gem 'awesome_print'
+
   group :production, :staging do
     gem 'rails_12factor'
     gem 'rack-timeout'
