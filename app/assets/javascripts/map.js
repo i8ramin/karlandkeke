@@ -1,5 +1,6 @@
 var map;
 var map_view = window.location.pathname === '/map';
+var markers  = [];
 
 var setup_map = function(points, show_popup_on_load, interactive) {
 
@@ -19,9 +20,39 @@ var setup_map = function(points, show_popup_on_load, interactive) {
     map.setZoom(15);
   });
 
-  var markerLayer = L.mapbox.featureLayer().addTo(map);
-  var markers = [];
+  addPointsToMap(points, map_view, show_popup_on_load);
 
+  if (interactive) {
+    $(".daycare").on("mouseover", function(e) {
+      $('.daycare').removeClass("hovering");
+      var $daycare  = $(e.currentTarget);
+      var permalink = $daycare.data('permalink');
+      var marker    = markers[permalink];
+      if (marker) {
+        marker.openPopup();
+      }
+      $daycare.addClass("hovering");
+    });
+  }
+
+  // Map view
+  if (map_view) {
+    // Add all-grades as a menu item in the dropdown list
+    $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' +
+        '<span>All Grades</span>' + '</a>');
+
+    $('a.dropdown-item').on('click', function() {
+      var filter = $(this).data('filter');
+
+      markerLayer.setFilter(function(f) {
+        return (filter === 'all') ? true : f.properties["marker-symbol"] === filter;
+      });
+      return false;
+    });
+  }
+};
+
+var addPointsToMap = function(points, map_view, show_popup_on_load) {
   var geojson= {
     "type": "FeatureCollection",
     "features": []
@@ -54,6 +85,8 @@ var setup_map = function(points, show_popup_on_load, interactive) {
     }
     return marker
   };
+
+  var markerLayer = L.mapbox.featureLayer().addTo(map);
 
   $.each(points, function(index, point) {
     var lat = $(point).data('lat') || point.location[1];
@@ -100,7 +133,6 @@ var setup_map = function(points, show_popup_on_load, interactive) {
   markerLayer.on('layeradd', function(e) {
     var marker = e.layer,
         feature = marker.feature;
-
     // Create custom popup content
     var popupContent =  '<a href="' + feature.properties.url + '">' +
                             '<strong>' + feature.properties.title + '</strong>' +
@@ -121,38 +153,9 @@ var setup_map = function(points, show_popup_on_load, interactive) {
   });
 
   markerLayer.setGeoJSON(geojson);
-  if (geojson.features.length > 0) {
-    map.fitBounds(markerLayer.getBounds());
-  }
-
-  if (interactive) {
-    $(".daycare").on("mouseover", function(e) {
-      $('.daycare').removeClass("hovering");
-      var $daycare  = $(e.currentTarget);
-      var permalink = $daycare.data('permalink');
-      var marker    = markers[permalink];
-      if (marker) {
-        marker.openPopup();
-      }
-      $daycare.addClass("hovering");
-    });
-  }
-
-  // Map view
-  if (map_view) {
-    // Add all-grades as a menu item in the dropdown list
-    $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' +
-        '<span>All Grades</span>' + '</a>');
-
-    $('a.dropdown-item').on('click', function() {
-      var filter = $(this).data('filter');
-
-      markerLayer.setFilter(function(f) {
-        return (filter === 'all') ? true : f.properties["marker-symbol"] === filter;
-      });
-      return false;
-    });
-  }
+  // if (geojson.features.length > 0) {
+  //   map.fitBounds(markerLayer.getBounds());
+  // }
 };
 
 var fly = function(lat, lon, speed) {

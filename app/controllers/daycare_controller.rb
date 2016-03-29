@@ -14,10 +14,28 @@ class DaycareController < ApplicationController
         '$minDistance' => min_distance.fdiv(69)
       })
     end
+
+    if @bbox.present?
+      coords = @bbox.split(",")
+      daycares = Daycare.where(:location => {
+        '$geoWithin' => {
+           '$box' => [
+              [Float(coords[1]), Float(coords[0])],
+              [Float(coords[3]), Float(coords[2])]
+            ]
+        }
+     })
+    end
+
     daycares = daycares || Daycare
     daycares = @grade.present? ? daycares.where(grade: @grade.downcase) : daycares
 
-    @daycares = (@query.present? ? daycares.full_text_search(@query, match: :all) : daycares).page(@page)
+    @daycares = (@query.present? ? daycares.full_text_search(@query, match: :all) : daycares).page(@page).per(@per_page)
+
+    respond_to do |format|
+      format.html
+      format.json { render :json => @daycares }
+    end
   end
 
   def show
@@ -25,6 +43,6 @@ class DaycareController < ApplicationController
   end
 
   def map
-    @daycares= Daycare.all
+    # @daycares= Daycare.all
   end
 end

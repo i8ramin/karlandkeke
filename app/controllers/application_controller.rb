@@ -8,7 +8,9 @@ private
   def set_defaults
     @query  = params[:q]
     @nearby = params[:nearby]
+    @bbox   = params[:bbox]
     @page   = params[:page] || 1
+    @per_page = params[:per_page] || 25
     @grade  = params[:grade]
     @grade_filter = @grade.present? ? @grade.upcase : 'All Grades'
   end
