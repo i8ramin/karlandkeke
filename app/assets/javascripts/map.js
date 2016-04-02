@@ -34,21 +34,10 @@ var setup_map = function(points, show_popup_on_load, interactive) {
       $daycare.addClass("hovering");
     });
   }
-
-  // Map view
+  // Add all-grades as a menu item in the dropdown list
   if (map_view) {
-    // Add all-grades as a menu item in the dropdown list
     $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' +
-        '<span>All Grades</span>' + '</a>');
-
-    $('a.dropdown-item').on('click', function() {
-      var filter = $(this).data('filter');
-
-      markerLayer.setFilter(function(f) {
-        return (filter === 'all') ? true : f.properties["marker-symbol"] === filter;
-      });
-      return false;
-    });
+          '<span>All Grades</span>' + '</a>');
   }
 };
 
@@ -126,6 +115,7 @@ var addPointsToMap = function(points, map_view, show_popup_on_load) {
       feature_props.properties["marker-color"] = props.color;
       feature_props.properties["marker-size"]  = "large";
     }
+    feature_props.properties["data_json"] = point;
     geojson.features.push(feature_props);
   });
 
@@ -134,24 +124,66 @@ var addPointsToMap = function(points, map_view, show_popup_on_load) {
     var marker = e.layer,
         feature = marker.feature;
     // Create custom popup content
-    var popupContent =  '<a href="' + feature.properties.url + '">' +
-                            '<strong>' + feature.properties.title + '</strong>' +
-                        '</a>' +
+    var popupContent = '<a href="' + feature.properties.url + '">' +
+                          '<strong>' + feature.properties.title + '</strong>' +
+                       '</a>';
+
+    var popupExtraContent =  '<div class="media-left image">' +
+                          '<div class="grade grade-' + feature.properties.data_json['grade'] + '">' +
+                            feature.properties.data_json['grade'] +
+                          '</div>' +
+                        '</div>' +
+                        '<div class="media-right content">' +
+                          '<div>' +
+                            '<a href="' + feature.properties.url + '">' +
+                                '<strong>' + feature.properties.title + '</strong>' +
+                            '</a>' +
+                          '</div>' +
+                          feature.properties.data_json['address'] + '<br/>' + 
+                          feature.properties.data_json['borough'] + ', NY ' + feature.properties.data_json['zipcode'] +
+                          feature.properties.data_json['phone'] +
+                        '<div>';
+
+    var popupExtraContentPlus =  popupExtraContent + 
                         '<div>' +
-                          feature.properties.description +
+                          'Capacity: ' + feature.properties.data_json['maximum_capacity'] +
                         '</div>';
 
     if (map_view) {
       marker.setIcon(L.divIcon(feature.properties.icon));
     }
+    
+    var popup = map_view ? popupExtraContent : popupContent;
 
-    marker.bindPopup(popupContent);
+    marker.on('mouseover', function (e) {
+      this.bindPopup(popup).openPopup();
+    });
+    marker.on('mouseout', function (e) {
+      this.bindPopup(popup).closePopup();
+    });
+
+    marker.on('click', function (e) {
+      var popup_extra = map_view ? popupExtraContentPlus : popupContent;
+      this.bindPopup(popup_extra).openPopup();
+    });
+
     if (show_popup_on_load) {
       marker.openPopup();
     }
     markers[feature.properties.url] = marker;
   });
 
+  if (map_view) {
+    $('a.dropdown-item').on('click', function() {
+      var filter = $(this).data('filter');
+
+      markerLayer.setFilter(function(f) {
+        return (filter === 'all') ? true : f.properties["marker-symbol"] === filter;
+      });
+      return false;
+    });
+  }
+  
   markerLayer.setGeoJSON(geojson);
   // if (geojson.features.length > 0) {
   //   map.fitBounds(markerLayer.getBounds());
