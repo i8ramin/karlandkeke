@@ -1,5 +1,6 @@
 var map;
 var map_view = window.location.pathname === '/map';
+var markers  = [];
 
 var setup_map = function(points, show_popup_on_load, interactive) {
 
@@ -19,9 +20,28 @@ var setup_map = function(points, show_popup_on_load, interactive) {
     map.setZoom(15);
   });
 
-  var markerLayer = L.mapbox.featureLayer().addTo(map);
-  var markers = [];
+  addPointsToMap(points, map_view, show_popup_on_load);
 
+  if (interactive) {
+    $(".daycare").on("mouseover", function(e) {
+      $('.daycare').removeClass("hovering");
+      var $daycare  = $(e.currentTarget);
+      var permalink = $daycare.data('permalink');
+      var marker    = markers[permalink];
+      if (marker) {
+        marker.openPopup();
+      }
+      $daycare.addClass("hovering");
+    });
+  }
+  // Add all-grades as a menu item in the dropdown list
+  if (map_view) {
+    $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' +
+          '<span>All Grades</span>' + '</a>');
+  }
+};
+
+var addPointsToMap = function(points, map_view, show_popup_on_load) {
   var geojson= {
     "type": "FeatureCollection",
     "features": []
@@ -54,6 +74,8 @@ var setup_map = function(points, show_popup_on_load, interactive) {
     }
     return marker
   };
+
+  var markerLayer = L.mapbox.featureLayer().addTo(map);
 
   $.each(points, function(index, point) {
     var lat = $(point).data('lat') || point.location[1];
@@ -93,6 +115,7 @@ var setup_map = function(points, show_popup_on_load, interactive) {
       feature_props.properties["marker-color"] = props.color;
       feature_props.properties["marker-size"]  = "large";
     }
+    feature_props.properties["data_json"] = point;
     geojson.features.push(feature_props);
   });
 
@@ -100,50 +123,57 @@ var setup_map = function(points, show_popup_on_load, interactive) {
   markerLayer.on('layeradd', function(e) {
     var marker = e.layer,
         feature = marker.feature;
-
     // Create custom popup content
-    var popupContent =  '<a href="' + feature.properties.url + '">' +
-                            '<strong>' + feature.properties.title + '</strong>' +
-                        '</a>' +
+    var popupContent = '<a href="' + feature.properties.url + '">' +
+                          '<strong>' + feature.properties.title + '</strong>' +
+                       '</a>';
+
+    var popupExtraContent =  '<div class="media-left image">' +
+                          '<div class="grade grade-' + feature.properties.data_json['grade'] + '">' +
+                            feature.properties.data_json['grade'] +
+                          '</div>' +
+                        '</div>' +
+                        '<div class="media-right content">' +
+                          '<div>' +
+                            '<a href="' + feature.properties.url + '">' +
+                                '<strong>' + feature.properties.title + '</strong>' +
+                            '</a>' +
+                          '</div>' +
+                          feature.properties.data_json['address'] + '<br/>' + 
+                          feature.properties.data_json['borough'] + ', NY ' + feature.properties.data_json['zipcode'] +
+                          feature.properties.data_json['phone'] +
+                        '<div>';
+
+    var popupExtraContentPlus =  popupExtraContent + 
                         '<div>' +
-                          feature.properties.description +
+                          'Capacity: ' + feature.properties.data_json['maximum_capacity'] +
                         '</div>';
 
     if (map_view) {
       marker.setIcon(L.divIcon(feature.properties.icon));
     }
+    
+    var popup = map_view ? popupExtraContent : popupContent;
 
-    marker.bindPopup(popupContent);
+    marker.on('mouseover', function (e) {
+      this.bindPopup(popup).openPopup();
+    });
+    marker.on('mouseout', function (e) {
+      this.bindPopup(popup).closePopup();
+    });
+
+    marker.on('click', function (e) {
+      var popup_extra = map_view ? popupExtraContentPlus : popupContent;
+      this.bindPopup(popup_extra).openPopup();
+    });
+
     if (show_popup_on_load) {
       marker.openPopup();
     }
     markers[feature.properties.url] = marker;
   });
 
-  markerLayer.setGeoJSON(geojson);
-  if (geojson.features.length > 0) {
-    map.fitBounds(markerLayer.getBounds());
-  }
-
-  if (interactive) {
-    $(".daycare").on("mouseover", function(e) {
-      $('.daycare').removeClass("hovering");
-      var $daycare  = $(e.currentTarget);
-      var permalink = $daycare.data('permalink');
-      var marker    = markers[permalink];
-      if (marker) {
-        marker.openPopup();
-      }
-      $daycare.addClass("hovering");
-    });
-  }
-
-  // Map view
   if (map_view) {
-    // Add all-grades as a menu item in the dropdown list
-    $(".grades-filter .dropdown-menu").prepend('<a class="dropdown-item" data-filter="all" href="/">' +
-        '<span>All Grades</span>' + '</a>');
-
     $('a.dropdown-item').on('click', function() {
       var filter = $(this).data('filter');
 
@@ -153,6 +183,11 @@ var setup_map = function(points, show_popup_on_load, interactive) {
       return false;
     });
   }
+  
+  markerLayer.setGeoJSON(geojson);
+  // if (geojson.features.length > 0) {
+  //   map.fitBounds(markerLayer.getBounds());
+  // }
 };
 
 var fly = function(lat, lon, speed) {
