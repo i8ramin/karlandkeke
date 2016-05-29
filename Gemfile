@@ -22,6 +22,8 @@ source 'https://rubygems.org' do
   gem 'bootstrap', '~> 4.0.0.alpha3'
   # gem 'autoprefixer-rails', '~> 6.2.1'
 
+  gem 'responders', '~> 2.0'
+
   # https://github.com/slim-template/slim-rails
   gem 'slim-rails'
 

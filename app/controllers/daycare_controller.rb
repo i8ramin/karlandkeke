@@ -1,6 +1,7 @@
 class DaycareController < ApplicationController
   before_action :set_defaults
   before_action :cdn_cache
+  respond_to :html, :json
 
   def index
     if @nearby.present?
@@ -18,10 +19,14 @@ class DaycareController < ApplicationController
     daycares = @grade.present? ? daycares.where(grade: @grade.downcase) : daycares
 
     @daycares = (@query.present? ? daycares.full_text_search(@query, match: :all) : daycares).page(@page)
+
+    respond_with(@daycares)
   end
 
   def show
-  	@daycare = Daycare.find_by(permalink: params[:id])
+    @daycare = Daycare.find_by(permalink: params[:id])
+
+    respond_with(@daycare)
   end
 
   def map
