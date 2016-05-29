@@ -15,6 +15,7 @@ class DaycareController < ApplicationController
         '$minDistance' => min_distance.fdiv(69)
       })
     end
+
     daycares = daycares || Daycare
     daycares = @grade.present? ? daycares.where(grade: @grade.downcase) : daycares
 

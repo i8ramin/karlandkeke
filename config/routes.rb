@@ -7,6 +7,7 @@ Rails.application.routes.draw do
   resources :daycare, only: [:show, :grade] do
     collection do
       get "/", to: "daycare#index"
+      get "/q/:q", to: "daycare#index"
       get "grade/:grade", to: "daycare#index"
     end
   end
