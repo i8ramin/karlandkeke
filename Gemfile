@@ -10,6 +10,8 @@ source 'https://rubygems.org' do
   # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
   gem 'rails', '4.2.5'
 
+  gem 'pg'
+  gem 'activerecord-postgis-adapter'
   gem 'puma'
 
   gem 'mongoid', '~> 5.0.0'
