@@ -1,24 +1,19 @@
 class Daycare
-  include Mongoid::Document
-  include Mongoid::Timestamps
-  include Mongoid::Pagination
-  include Mongoid::Search
-  include Mongoid::Geospatial
 
   has_many :inspections
 
+  field :source, type: String
   field :type, type: String
   field :center_name, type: String
   field :permalink, type: String
   field :permit_holder, type: String
-  field :location,  type: Point, spatial: true, delegate: true
+  field :location,  type: st_point, geographic: true
 
   field :address, type: String
   field :borough, type: String
   field :zipcode, type: String
   field :phone, type: String
   field :permit_status, type: String
-  # should permit number be an int, does it matter?
   field :permit_number, type: String
   field :permit_expiration_date, type: String
   field :age_range, type: String

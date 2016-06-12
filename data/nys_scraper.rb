@@ -211,6 +211,7 @@ def nys_scraper
 				daycare['latestInspection'] = latest_inspection
 			end
 
+			daycare['source'] = "NYS"
 			daycares << cleanup(daycare)
 			i += 1
 		else

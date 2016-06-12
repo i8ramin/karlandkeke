@@ -27,7 +27,7 @@ def scraper
 		borough: '',
 		permitNo: '',
 		neighborhood: '',
-		zipCode: ''
+		zipCode: '', 
 	}
 	page = agent1.post 'https://a816-healthpsi.nyc.gov/ChildCare/SearchAction2.do'
 	form = page.forms.first
@@ -114,6 +114,7 @@ def scraper
 				# file_i += 1
 
 				# add daycare to list
+				daycare["source"] = "NYC"
 				daycares.push(daycare)
 			end
 		end
