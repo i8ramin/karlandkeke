@@ -1,10 +1,11 @@
 shared: &shared
-  adapter: postgresql
+  adapter: postgis
   encoding: unicode
 
 development:
   <<: *shared
   url: <%= ENV["DATABASE_URL"] || "postgres:///karlandkeke-development" %>
+  username: "asilverman"
 
 test:
   <<: *shared

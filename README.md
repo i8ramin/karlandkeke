@@ -1,30 +1,17 @@
 # karlandkeke
 
-## Scrape data from a816-healthpsi.nyc.gov
-```
-bundle exec rake mongo:scrape
-```
+## Local setup instructions
 
-This will create add json files for individual daycare centers as well as daycares.json (collection) in data/json folder
-
-## Setup Mongodb, import data
-```
-bundle install
-brew install mongodb
-bundle exec rake mongo:import
-```
-
-## On Heroku
-```
-heroku run rake mongo:import -a karlandkeke
-```
-
-
-This will set up mongodb locally and import the scraped data (This will wipe mongo clean and re-import the entire dataset)
-
-## Check if you've imported data correctly
+1. Clone
+2. ```bundle install```
+3. ```rake db:setup```
+4. ```bundle exec rake data:scrape```
+5. Check that everything ran.
 
 ```
 rails console
 Daycare.count #2300
 ```
+
+6. ```rails -s```
+7. enjoy
