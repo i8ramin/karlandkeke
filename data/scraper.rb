@@ -14,7 +14,7 @@ def scraper
 	# output.print("\n")
 
 	offset = 0
-	offset_limit = 999999999
+	offset_limit = 10 #999999999
 
 	# do initial pageview
 	form_data = {

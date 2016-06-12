@@ -14,9 +14,9 @@ source 'https://rubygems.org' do
   gem 'activerecord-postgis-adapter'
   gem 'puma'
 
-  gem 'mongoid', '~> 5.0.0'
-  gem 'mongoid-geospatial'
-  gem 'mongoid_search'
+  # gem 'mongoid', '~> 5.0.0'
+  # gem 'mongoid-geospatial'
+  # gem 'mongoid_search'
 
   gem 'therubyracer'
 

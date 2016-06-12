@@ -59,3 +59,5 @@ namespace :scraper do
     puts "---NYC End"
 
   end
+
+end
