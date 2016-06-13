@@ -2,11 +2,14 @@
 
 ## Local setup instructions
 
+*make you sure have postgis installed*
+
 1. Clone
 2. ```bundle install```
-3. ```rake db:setup```
-4. ```bundle exec rake data:scrape```
-5. Check that everything ran.
+3. ```rake db:create```
+4. ```rake db:gis:setup```
+5. ```rake data:scrape```
+6. Check that everything ran.
 
 ```
 rails console

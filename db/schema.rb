@@ -11,34 +11,36 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160612220619) do
+ActiveRecord::Schema.define(version: 20160613035826) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+  enable_extension "postgis"
 
   create_table "daycares", force: :cascade do |t|
-    t.string   "source"
-    t.string   "daycare_type"
-    t.string   "center_name"
-    t.string   "permalink"
-    t.decimal  "latitude"
-    t.decimal  "longitude"
-    t.string   "address"
-    t.string   "borough"
-    t.string   "zipcode"
-    t.string   "phone"
-    t.string   "permit_status"
-    t.string   "permit_number"
-    t.string   "permit_expiration_date"
-    t.string   "age_range"
-    t.integer  "maximum_capacity"
-    t.string   "site_type"
-    t.boolean  "certified_to_administer_medication"
-    t.integer  "years_operating"
-    t.boolean  "has_inspections"
-    t.string   "grade"
-    t.datetime "created_at",                         null: false
-    t.datetime "updated_at",                         null: false
+    t.string    "source"
+    t.string    "daycare_type"
+    t.string    "center_name"
+    t.string    "permalink"
+    t.string    "address"
+    t.string    "borough"
+    t.string    "zipcode"
+    t.string    "phone"
+    t.string    "permit_status"
+    t.string    "permit_number"
+    t.string    "permit_expiration_date"
+    t.string    "age_range"
+    t.integer   "maximum_capacity"
+    t.string    "site_type"
+    t.boolean   "certified_to_administer_medication"
+    t.integer   "years_operating"
+    t.boolean   "has_inspections"
+    t.string    "grade"
+    t.datetime  "created_at",                                                                                  null: false
+    t.datetime  "updated_at",                                                                                  null: false
+    t.geography "lonlat",                             limit: {:srid=>4326, :type=>"point", :geographic=>true}
   end
+
+  add_index "daycares", ["lonlat"], name: "index_daycares_on_lonlat", using: :gist
 
 end
