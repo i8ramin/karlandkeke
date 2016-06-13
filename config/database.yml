@@ -5,7 +5,7 @@ shared: &shared
 development:
   <<: *shared
   url: <%= ENV["DATABASE_URL"] || "postgres:///karlandkeke-development" %>
-  username: "asilverman"
+  # username: "asilverman"
 
 test:
   <<: *shared

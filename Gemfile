@@ -61,7 +61,7 @@ source 'https://rubygems.org' do
   # pagination
   # https://github.com/amatsuda/kaminari
   gem 'kaminari'
-  gem 'mongoid-pagination'
+  # gem 'mongoid-pagination'
 
   # https://github.com/sferik/rails_admin
   # gem 'rails_admin'
@@ -90,6 +90,7 @@ source 'https://rubygems.org' do
     gem 'thin'
     gem 'quiet_assets'
     gem 'better_errors'
+    gem 'annotate'
 
     # Access an IRB console on exception pages or by using <%= console %> in views
     gem 'web-console', '~> 2.0'
