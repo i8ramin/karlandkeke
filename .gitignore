@@ -23,3 +23,5 @@
 /node_modules
 browserify-cache.json
 npm-debug.log
+
+data/json/*

@@ -4,7 +4,6 @@ require_relative '../../data/nys_scraper.rb'
 def load_venues(venues)
     counter = 0
     fails = []
-
     venues.each do |daycare|
         begin
         Daycare.from_json(daycare)
@@ -41,7 +40,7 @@ namespace :scraper do
     load_venues(state_venues)
     puts "END   import JSON --> Mongo"
 
-    # # pause so we can see the results of city parsing
+    # pause so we can see the results of city parsing
     sleep(3)
     nyc_daycares = ''
     begin
