@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160703225023) do
+ActiveRecord::Schema.define(version: 20160905193650) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -42,6 +42,22 @@ ActiveRecord::Schema.define(version: 20160703225023) do
   end
 
   add_index "daycares", ["lonlat"], name: "index_daycares_on_lonlat", using: :gist
+
+  create_table "infractions", force: :cascade do |t|
+    t.integer  "inspection_id"
+    t.string   "violation_summary"
+    t.string   "category"
+    t.string   "oneword_category"
+    t.string   "code_subsection"
+    t.string   "status"
+    t.string   "short_description"
+    t.integer  "multiplier"
+    t.string   "extra_notes"
+    t.datetime "created_at",        null: false
+    t.datetime "updated_at",        null: false
+  end
+
+  add_index "infractions", ["inspection_id"], name: "index_infractions_on_inspection_id", using: :btree
 
   create_table "inspections", force: :cascade do |t|
     t.integer "daycare_id"
