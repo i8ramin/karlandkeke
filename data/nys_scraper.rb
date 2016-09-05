@@ -91,14 +91,14 @@ def nys_scraper
 
 	daycares = []
 	all_violations = []
-	# i = 0
-	# while i < 10
-	# 	daycare = daycare_ls[i]
+	i = 0
+	while i < 10
+		daycare = daycare_ls[i]
 	# above^ for demo'ing purposes, below*v for full scrape
-	daycare_ls.each_with_index do |daycare, i|
-		if i % 100 == 0 
-			puts i
-		end
+	# daycare_ls.each_with_index do |daycare, i|
+	# 	if i % 100 == 0 
+	# 		puts i
+	# 	end
 
 		# get the page to scrape. if 500 error, skip it before messing with anything else
 		site = nil
@@ -211,6 +211,7 @@ def nys_scraper
 				daycare['latestInspection'] = latest_inspection
 			end
 
+			daycare['source'] = "NYS"
 			daycares << cleanup(daycare)
 			i += 1
 		else

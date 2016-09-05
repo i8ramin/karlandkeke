@@ -1,14 +1,15 @@
 shared: &shared
-  adapter: postgresql
+  adapter: postgis
   encoding: unicode
+  prepared_statements: false
 
 development:
   <<: *shared
-  url: <%= ENV["DATABASE_URL"] || "postgres:///karlandkeke-development" %>
+  url: <%= ENV["DATABASE_URL"] || "postgis:///karlandkeke-development" %>
 
 test:
   <<: *shared
-  url: <%= ENV["DATABASE_URL"] || "postgres:///karlandkeke-test" %>
+  url: <%= ENV["DATABASE_URL"] || "postgis:///karlandkeke-test" %>
 
 # Set connection pooling params as per: https://devcenter.heroku.com/articles/concurrency-and-database-connections#threaded-servers
 # Also see: https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server#on-worker-boot

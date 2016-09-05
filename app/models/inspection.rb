@@ -1,20 +1,14 @@
-class Inspection
-  include Mongoid::Document
-  include Mongoid::Timestamps
+class Inspection < ActiveRecord::Base
 
-  belongs_to :daycare
+  belongs_to :daycares
   has_many :infractions
-
-  field :date, type: Date
-  field :result, type: String
-  field :number_of_infractions, type: Integer
 
   def self.from_json(payload)
     i = Inspection.new
     i.date = payload["date"]
     i.result= payload["result"]
-    i.number_of_infractions = 0
-    i.number_of_infractions = payload["numInfractions"] unless payload['numInfractions'].empty?
+    # i.number_of_infractions = 0
+    # i.number_of_infractions = payload["numInfractions"] unless payload['numInfractions'].empty?
     i.save
 
     unless payload["infractions"].empty?
@@ -28,5 +22,5 @@ class Inspection
     i.save
     return i
   end
-
+  
 end

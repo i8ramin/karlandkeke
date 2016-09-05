@@ -1,18 +1,7 @@
-class Infraction
+class Infraction < ActiveRecord::Base
   require 'csv'
-  include Mongoid::Document
-  include Mongoid::Timestamps
 
-  belongs_to :inspection
-
-  field :violation_summary, type: String
-  field :category, type: String
-  field :oneword_category, type: String
-  field :code_subsection, type: String
-  field :status, type: String
-  field :short_description, type: String
-  field :multiplier, type: Integer
-  field :extra_notes, type: String
+  belongs_to :inspections
 
   MINOR    = " Minor violations General Violations "
   MAJOR    = " Violations requiring correction within two weeks Critical Violations "
