@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160613035826) do
+ActiveRecord::Schema.define(version: 20160703225023) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -42,5 +42,13 @@ ActiveRecord::Schema.define(version: 20160613035826) do
   end
 
   add_index "daycares", ["lonlat"], name: "index_daycares_on_lonlat", using: :gist
+
+  create_table "inspections", force: :cascade do |t|
+    t.integer "daycare_id"
+    t.string  "result"
+    t.date    "date"
+  end
+
+  add_index "inspections", ["daycare_id"], name: "index_inspections_on_daycare_id", using: :btree
 
 end

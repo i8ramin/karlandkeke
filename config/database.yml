@@ -1,6 +1,7 @@
 shared: &shared
   adapter: postgis
   encoding: unicode
+  prepared_statements: false
 
 development:
   <<: *shared
